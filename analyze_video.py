@@ -108,7 +108,7 @@ DEFAULT_QUESTIONS: List[Question] = [
     Question(
         "Other than the end card, are there any recognizable brands used in "
         "the video?",
-        weight_if_true=5.0,
+        weight_if_true=-15.0,
         weight_if_false=0.0,
     ),
     # --- Last four questions: rated 1-10 instead of true/false ---
