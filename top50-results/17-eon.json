@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "EON - Future Vision XPRIZE",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total length of 2 minutes and 39 seconds (02:39), which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card appears from 02:16 to 02:39. The last 15 seconds (from 02:24 to 02:39) are entirely the end card, which clearly displays 'FUTUREVISION X PRIZE', 'Google', 'Salesforce', and 'Jed McCaleb' among other sponsors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features advanced technologies such as nanobots, interstellar travel, a mysterious alien artifact (the cube), and futuristic cities, all characteristic elements of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video depicts a future where humanity overcomes disease through advanced technology (01:30-01:36), lives in utopian, green cities (01:39-01:47), and explores space (01:54-02:03), presenting a highly optimistic and technology-driven vision.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, from the discovery of the mysterious cube (00:34-00:40) that leads to scientific breakthroughs (01:24-01:36) to the creation of a utopian future enabled by advanced infrastructure and space travel (01:39-02:03).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, offensive language, or sexual content. It focuses on themes of family, scientific discovery, and a positive future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands or product placements are visible within the main content of the video, outside of the end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video tells a compelling story of a father's dedication leading to a scientific breakthrough that saves his son and ultimately humanity, with high-quality visuals and emotional depth.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The narrative envisions a future where humanity has conquered disease, built advanced sustainable societies, and embarked on interstellar exploration, demonstrating a very grand and ambitious vision for humanity.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video perfectly aligns with the XPRIZE mission by showcasing a future where technology solves critical problems and enables a thriving, optimistic human civilization, explicitly mentioning 'FUTUREVISION X PRIZE' at the end.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "Advanced technology, such as the mysterious cube, nanobots, holographic interfaces, and interstellar travel, is not merely background but is integral to the plot and the progression of the story, driving the narrative forward.",
+      "confidence": "high"
+    }
+  ]
+}

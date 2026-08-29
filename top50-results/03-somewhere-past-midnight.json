@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "Somewhere Past Midnight",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total duration of exactly 3 minutes and 15 seconds (03:15).",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's end card, from 03:00 to 03:15, clearly displays the logos and names of Google, XPRIZE, Jed McCaleb, and Salesforce as sponsors and partners.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features a futuristic sleep mask that enables lucid dreaming on command and allows users to enter a shared, fantastical dream world, which is a clear science fiction premise.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The technology allows for exploration of imaginative worlds and connection between people, presenting a future where dreams become a shared, accessible reality for adventure and discovery (01:00-01:10, 02:50-02:55).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "The entire narrative is driven by the 'Oneira sleep mask' (00:13-00:18), which is the advanced technology enabling the lucid dreaming and the characters' journey through the dream world.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, language, or sexual content. While there are moments of peril, such as falling (00:40-00:46) or encountering a monstrous figure (02:36-02:39), they are not graphic.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The brand name 'ONEIRA' is clearly visible on the sleep mask (00:14, 00:23) and is mentioned in the narration (00:14, 01:36) as the company behind the lucid dreaming technology.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video presents a highly imaginative and visually stunning story of exploring a shared dream world, with excellent production quality and seamless transitions between fantastical scenes.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The concept of a technology that allows collective lucid dreaming and the exploration of a shared 'Dream City' (02:00) where all dreams reside is a grand and expansive vision for humanity's future experiences.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story perfectly aligns by showcasing a technology that unlocks new realms of imagination, connection, and adventure, presenting a future where human experience is enriched and expanded through innovation.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The entire plot is centered around the 'Oneira sleep mask' and its ability to enable lucid dreaming, making the advanced technology an indispensable and driving force of the narrative, rather than just a backdrop.",
+      "confidence": "high"
+    }
+  ]
+}

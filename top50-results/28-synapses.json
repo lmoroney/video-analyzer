@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "Synapse",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total length of 2 minutes and 42 seconds, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The end card appears from 02:22 to 02:42, which is 20 seconds, not 15 seconds. However, it does contain the listed sponsors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features advanced technology like a device that transmits neural activity for shared physiological experiences and hints at time travel (01:50-01:54), which are elements of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": false,
+      "rating": null,
+      "explanation": "While the technology aims for positive outcomes like curing diseases and fostering understanding (00:06-00:14, 01:31-01:33), the narrative also depicts fear, conflict, and the technology being stolen or fought over (00:14-00:22, 00:59-01:03, 01:12-01:27), suggesting a more complex and less purely optimistic future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "The entire plot revolves around the 'Synapse' device, its creation, its function of sharing neural activity, and the conflict surrounding its control and use (00:22-00:41, 01:20-01:27).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": true,
+      "rating": null,
+      "explanation": "There is a brief scene of physical violence where a masked intruder attacks the inventor (01:17-01:20). There is no explicit language or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands were observed in the main content of the video. The headbands worn by characters are labeled 'PROTO 2', which appears to be a fictional product name.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "The story is engaging with a clear conflict, a surprising twist (granddaughter from the future at 01:50-01:54), and good pacing. The visuals and acting effectively convey the narrative within the constraints of a short film.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The narrative explores grand themes such as curing diseases, taming natural disasters, expanding humanity into space, and achieving profound mutual understanding through technology (00:06-00:14, 01:31-01:33), which are very ambitious visions for humanity's future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 6,
+      "explanation": "While the story is technology-enabled, its portrayal of the future is not entirely optimistic. It highlights significant challenges, conflicts, and threats associated with the technology (00:14-00:22, 01:20-01:27), which somewhat detracts from a 'genuinely optimistic' vision, even if the underlying goal is positive.",
+      "confidence": "medium"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The Synapse device is the central element of the story, driving the plot, character motivations, and the core conflict. The visual representation of neural activity and shared experiences (00:43-00:57) is also a key part of the tech-forward storytelling.",
+      "confidence": "high"
+    }
+  ]
+}

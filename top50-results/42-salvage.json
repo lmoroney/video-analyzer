@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "SALVAGE - Future Vision XPRIZE Short Film",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's total length is exactly 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card appears from 3:00 to 3:15, displaying 'FUTUREVISION X PRIZE', 'Partners Google RANGE', 'Presenting Sponsor: salesforce', 'Sponsors XSOVA ARK INVEST', and 'Presenting Donor Jed McCaleb'.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features advanced robots, flying cars, hover-scooters, and immersive virtual reality gaming, all characteristic elements of science fiction (e.g., robot serving breakfast at 00:02, flying cars at 00:25, immersive game at 00:05).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": false,
+      "rating": null,
+      "explanation": "While technology is advanced, the future is not entirely optimistic. The story focuses on a 'defective' robot facing decommissioning and a girl struggling against societal norms, indicating underlying issues rather than a purely hopeful vision (e.g., Rust being taken away at 02:09, the boy's comment about Ren being a 'weird daughter' at 02:20).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology, particularly the AI robot Rust, is central to the narrative. Rust's inability to lie drives the main conflict and his relationship with Ren, making technology a key plot element rather than just a backdrop (e.g., Rust's dialogue about not being able to lie at 00:49, the family's decision to junk him at 01:22).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "There is no explicit language or sexual content. A brief moment of non-graphic violence occurs when Rust throws a man (01:46-01:48), but it is not explicit.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The man at the old house is wearing a t-shirt that says 'COFFEE & CHAOS' (01:40), which is a recognizable brand.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "The video presents a compelling story about friendship, individuality, and the definition of humanity through the bond between Ren and Rust. The narrative is engaging, and the production quality, including visuals and character development, is strong for a short film.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "The story explores significant themes about AI sentience, the nature of truth, societal conformity, and what constitutes 'family' in a technologically advanced world. It prompts reflection on the ethical and social implications of creating intelligent machines.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 4,
+      "explanation": "While technology is central, the future depicted is not entirely optimistic. It highlights the challenges and conflicts arising from advanced AI and societal pressures, focusing on a struggle against a system that seeks to control or eliminate 'imperfect' technology. The ending is a call to action ('SALVAGE') rather than a clear vision of an optimistic future.",
+      "confidence": "medium"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The narrative is deeply intertwined with advanced technology. Rust, the AI robot, is the central character, and his unique 'flaw' (inability to lie) drives the plot. Other futuristic elements like flying cars, drones, and immersive gaming are seamlessly integrated into the world, enhancing the storytelling and setting.",
+      "confidence": "high"
+    }
+  ]
+}

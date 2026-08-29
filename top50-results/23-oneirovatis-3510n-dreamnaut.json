@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "ONEIROVATIS 3510 : DREAMNAUT",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's total runtime is 3 minutes and 10 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card, featuring sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce, appears from 02:53 to 03:10, which is within the last 15 seconds of the video.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video depicts futuristic concepts such as dream walking, alternate realities, and advanced technology integrated into human existence (e.g., glowing patterns on faces, futuristic architecture, space travel visuals at 00:20-00:45, 00:49-01:10).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": false,
+      "rating": null,
+      "explanation": "While technologically advanced, the vision is not entirely hopeful. The narration describes \"paradise as a cage with a view\" (00:45) and the protagonist's dreams are depicted as a burden where another self \"takes a little more\" each night (01:35). The overall tone is more mysterious and potentially dystopian.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, enabling concepts like dream walking and the creation of alternate realities, visually represented by glowing patterns on characters' faces (e.g., 00:20, 00:41, 00:49) and the \"House of Dreams\" (01:07).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, strong language, or sexual content. A stylized nude figure appears briefly (01:38) but is not sexualized.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands are visible or mentioned within the main content of the video, outside of the end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "The video presents a compelling and visually rich science fiction narrative about dream walking and alternate realities. The production quality is high, effectively realizing the complex concepts within the short film format.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The story delves into grand themes concerning the nature of reality, consciousness, and the implications of advanced technology on human existence, presenting a future where dreams and waking life intertwine across multiple worlds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 3,
+      "explanation": "The story portrays a technology-enabled future, but it is not genuinely optimistic. The narration describes \"paradise as a cage\" (00:45) and the protagonist's struggle with a dream-self that \"takes a little more\" (01:35), suggesting a more complex and potentially dystopian vision rather than a purely hopeful one.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The storytelling is highly tech-forward, with advanced technology being the core mechanism for the narrative's central conflict and character's abilities, such as dream walking and the visual manifestation of consciousness (e.g., glowing patterns on faces, 00:20, 00:41, 00:49).",
+      "confidence": "high"
+    }
+  ]
+}

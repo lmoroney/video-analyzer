@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "Provenance",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's total runtime is 3 minutes and 9 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The last 16 seconds of the video (02:53-03:09) display an end card featuring sponsors including Google, XPRIZE, Jed McCaleb, and Salesforce.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video clearly depicts science fiction elements such as advanced technology (glowing collars, floating orbs, memory encoding), futuristic architecture, and space habitats (e.g., 00:18, 00:42).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video presents a future where humanity lives in harmony with nature and advanced technology, using ancestral knowledge to \"shepherd humanity forward\" (00:13). The visuals of lush environments, advanced cities, and communal living spaces (e.g., 00:22, 00:44, 02:05) convey an optimistic vision.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology, such as the glowing collars and floating orbs, is central to the narrative, enabling the transfer and calibration of ancestral memory and skills, as seen in the pottery-making scenes (e.g., 00:04, 01:04) and explained in the dialogue (e.g., 00:53-01:06).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, language, or sexual content. Brief historical scenes of conflict (e.g., 02:10, 02:33, 02:35) are depicted without graphic detail.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands are visible or mentioned in the video's content, apart from those listed on the end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video presents a compelling and unique narrative about ancestral memory and skill transfer, supported by high-quality visuals, effective acting, and a well-paced delivery that makes the most of its short runtime.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story thinks very big, exploring humanity's future through the lens of ancestral memory, collective skill transfer, and long-term societal evolution, aiming to \"shepherd humanity forward\" (00:13) across millennia and even into space.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video is fully aligned with the mission, showcasing a genuinely optimistic future where technology enables humanity to connect with its past, master skills, and build advanced, harmonious societies, as evidenced by the futuristic cities, space habitats, and the core narrative of \"Provenance\" (e.g., 00:13, 00:44, 02:05).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The storytelling is highly tech-forward, with advanced technology like glowing collars and floating orbs being central to the narrative's core concepts of ancestral memory transfer and skill calibration (e.g., 00:04, 00:53-01:06), rather than merely serving as background elements.",
+      "confidence": "high"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "Halo: A Future Vision XPRIZE Film",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's total length is exactly 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's end card, from 03:00 to 03:15, prominently displays 'FUTUREVISION X PRIZE' and lists Google, XPRIZE, Jed McCaleb, and Salesforce as partners/sponsors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features advanced technology, such as the 'Halo' device used for neural memory restoration and futuristic brain scanning interfaces (00:12, 00:30, 01:00), which are beyond current scientific capabilities, placing it firmly in the science fiction genre.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "Despite initial struggles and risks, the technology ultimately succeeds in restoring the protagonist's memories, allowing him to connect with his granddaughter (02:54-02:59). The narrative frames this as a step towards 'saving humanity from neural memory decay' (00:36-00:38), presenting a hopeful and technology-forward future where such conditions can be overcome.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "The entire narrative is driven by the 'Halo' technology, which is central to the plot's conflict (memory decay) and resolution (memory restoration). The characters' actions and emotional journey are directly tied to the development and use of this advanced technology (00:12-00:14, 00:23-00:29, 01:00-01:09).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, offensive language, or sexual content. While there are scenes of emotional distress and physical discomfort during the memory restoration process (01:29-01:50), these are not explicit.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands, other than those displayed on the end card, are visible or mentioned within the video's narrative content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video tells a deeply emotional and compelling story about a son's attempt to restore his mother's memories and, by extension, save humanity from memory decay. The narrative is well-paced, the acting is strong, and the visual effects for the futuristic technology are convincing, making it well-realized within its production constraints.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The story explicitly states that the memory restoration procedure on the mother is 'the first step to saving humanity from neural memory decay' (00:36-00:38), demonstrating a very ambitious and large-scale vision for humanity's future where a devastating neurological condition can be cured.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video strongly aligns with the XPRIZE mission by presenting a future where advanced technology (the Halo device) successfully combats a devastating neurological condition (neural memory decay). The emotional resolution, with the protagonist regaining his memories and connecting with his granddaughter (02:54-02:59), conveys a genuinely optimistic vision of a technology-enabled future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The narrative is entirely built around the advanced 'Halo' technology, which is depicted with detailed visual interfaces (00:30, 01:00) and is the central tool for memory restoration. The technology's capabilities, risks, and ultimate success are integral to the plot and character development, showcasing tech-forward storytelling.",
+      "confidence": "high"
+    }
+  ]
+}

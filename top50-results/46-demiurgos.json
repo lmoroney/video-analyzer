@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "DEMIURGOS - Future Vision XPRIZE",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total length of 3 minutes and 15 seconds, which is less than or equal to the specified duration.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card appears from 2:59 to 3:15, covering the last 16 seconds of the video. It prominently displays logos for Google, XPRIZE, Jed McCaleb, and Salesforce, among others.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features futuristic cities (0:15, 0:47), advanced technology like brain-computer interfaces (0:21, 0:31), space travel (1:03, 1:08), and alien landscapes (0:00, 1:15), all indicative of the science fiction genre.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": false,
+      "rating": null,
+      "explanation": "While the initial scenes depict an optimistic, technology-advanced society (0:06-0:58), the narrative quickly shifts to a ruined planet (1:15), destruction (2:15), and conflict, indicating a failed future that needs to be overcome rather than a consistently hopeful vision.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the plot, including devices for collective consciousness (0:31), advanced transportation (0:48), space travel (1:03), and autonomous drones (0:00, 2:15) that drive conflict.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video shows implied violence through destruction and people running in fear (2:15-2:19), and a man screaming in distress (2:54), but there is no explicit gore, offensive language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable commercial brands are visible or mentioned within the main content of the video, outside of the final sponsor card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video presents a compelling narrative arc, moving from an advanced utopian society to its downfall and a quest for understanding and rebuilding. The production quality, visuals, and pacing are excellent for a short film, making the story feel well-realized.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story explores grand themes such as human evolution, collective consciousness, interstellar colonization, and the cyclical nature of creation and destruction, demonstrating a very ambitious vision for humanity's future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 7,
+      "explanation": "While the video is highly technology-enabled and explores significant future concepts, its portrayal of a failed world and subsequent conflict (1:15-2:56) challenges the 'genuinely optimistic' aspect. It focuses more on overcoming adversity to *achieve* an optimistic future, rather than presenting one that is already established.",
+      "confidence": "medium"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "Advanced technology is not merely background but is integral to the narrative, driving character motivations, societal structures (e.g., the collective at 0:31), and the central conflict (e.g., the drones at 2:15), showcasing a strong tech-forward approach to storytelling.",
+      "confidence": "high"
+    }
+  ]
+}

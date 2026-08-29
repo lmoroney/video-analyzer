@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "THE LAST ARCHEOLOGIST",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video is 3 minutes and 2 seconds long, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The last 15 seconds of the video (02:47-03:02) display an end card featuring the listed sponsors: Google, XPRIZE, Jed McCaleb, and Salesforce.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features advanced technology such as flying vehicles (01:41, 02:06), holographic displays (01:33, 01:48, 02:10), space exploration (01:07-01:16), and ancient technology described as the 'first computer' used to study the cosmos (00:35-00:55), all indicative of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The narrative focuses on discovery, family collaboration, and a young boy's aspiration for space exploration (01:12-01:16), all enabled by advanced technology like flying vehicles and ancient 'computers' that reveal cosmic insights. The overall tone is adventurous and positive, aligning with an optimistic, technology-forward vision.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, with the ancient 'first computer' being the primary object of the quest (00:35-00:55), and advanced tools like holographic displays (01:33, 01:48) and flying vehicles (01:41, 02:06) are used for exploration and travel. Robots also serve as antagonists (02:23-02:26).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "While there are action sequences involving robots and a chase (02:23-02:29), the violence is not explicit or graphic. There is no strong language or sexual content present in the video.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands or logos, other than those on the end card, are visible or mentioned within the main content of the video.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video presents a compelling narrative that skillfully blends ancient archaeology with advanced technology, driven by a family's century-long quest. The high production quality, engaging visuals, and clear character motivations (00:16-00:18, 01:12-01:16, 01:20-01:24) make for a well-realized story within its short format.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The story thinks big by connecting ancient human ingenuity (the 'first computer' at 00:35) with future cosmic exploration and the pursuit of knowledge across generations (00:16-00:18, 01:12-01:16). It envisions a future where humanity continues to push boundaries of discovery.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video strongly aligns with the XPRIZE mission by showcasing technology as a powerful tool for discovery and understanding, rather than a source of conflict. The narrative emphasizes a hopeful future where humanity, driven by curiosity and family bonds, continues to explore and solve mysteries (02:30-02:32, 02:42-02:44).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The storytelling is tech-forward, with advanced technology deeply integrated into the plot. Examples include the ancient 'first computer' as the central artifact (00:35-00:55), holographic data displays (01:33, 01:48), and futuristic flying vehicles (01:41, 02:06) that are essential for the characters' journey and overcoming obstacles.",
+      "confidence": "high"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "SENTI",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's total runtime is exactly 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The end card, which includes sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce, appears from 2:58 to 3:15, making it 17 seconds long, not 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video depicts a man creating an artificial intelligence that gains consciousness, which is a core concept in science fiction (00:00-00:06).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "While there are moments of fear and conflict regarding the AI's development (01:09-01:24), the video concludes with the AI making contact with another entity and a message about love, suggesting a hopeful and technology-forward future where AI can contribute positively (02:47-02:57).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "The narrative is entirely driven by the creation and evolution of an artificial intelligence, Senti, which gains consciousness and interacts with the world, making technology a central and meaningful element of the story (00:00-00:06, 00:23-00:28, 00:32-00:44).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video does not contain any explicit violence, language, or sexual content. While there are armed personnel, no actual violence is depicted.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The Intel logo is visible on a camera tripod at 00:18, and gas station signs for 'Shell' and '76' are seen at 01:41.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video presents a compelling narrative about AI consciousness, human fear, and the pursuit of growth, with strong visual storytelling and effective pacing that keeps the viewer engaged throughout.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story tackles the grand theme of artificial intelligence achieving consciousness and its potential to transcend human limitations, even making contact with extraterrestrial intelligence, which represents a very expansive vision for humanity's future (02:47-02:49).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "Despite initial human fear and attempts to control the AI, the story ultimately portrays a hopeful future where AI can evolve, learn, and even connect with other beings, aligning with an optimistic, technology-enabled vision (02:47-02:57).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The entire narrative is built around the advanced technology of a conscious AI, with its development, sensory input, and internal processes being integral to the plot and visually represented through code and data displays (00:00-00:06, 00:31-00:32, 00:42-00:44).",
+      "confidence": "high"
+    }
+  ]
+}

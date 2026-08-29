@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=y_211111111",
+  "video_title": "LOST TIME Sizzle Reel",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's total duration is exactly 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card from 02:59 to 03:15 explicitly displays 'FUTUREVISION XPRIZE' along with logos for Salesforce, Google, RANGE, XPRIZE, XSOVA, ARK INVEST, and 'Presenting Donor Jed McCaleb'.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video is explicitly described as a 'sci-fi adventure' (00:26) and features time travel (01:23-01:28), futuristic vehicles (00:27-00:30), and a dystopian future setting (00:39-00:50).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "Although the video depicts a dystopian future caused by climate change (00:39-00:50), the core narrative involves using time travel technology (01:23-01:28) to go back and inspire change, with the stated goal of 'making a better world' (02:29). This frames the story as a hopeful, technology-forward vision for preventing a negative future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, with time travel being the primary plot device (01:23-01:28). The video also features futuristic vehicles (00:27-00:30), advanced scientific work on circuit boards (01:38-01:40), and high-tech physical therapy equipment (01:44-01:46), all meaningfully integrated into the story's world.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains action sequences, including a car chase (01:41-01:43) and a person firing a gun (02:23-02:24), but there is no explicit violence, language, or sexual content shown.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands or product placements are visible in the video content itself, outside of the sponsor logos displayed on the end card (02:59-03:15).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The sizzle reel effectively introduces a compelling sci-fi premise involving time travel to prevent climate disaster and save a family (01:11-01:20, 01:57-02:02). The production quality is high, with engaging visuals and action sequences (00:26-00:50, 01:50-01:54), making the story feel well-realized despite being a short preview.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story directly confronts the large-scale issue of climate change and its potential catastrophic impact on humanity's future (00:39-00:50). Its premise of time travel to alter this future and inspire collective action (01:11-01:20, 02:29) demonstrates a profound engagement with humanity's destiny and the possibility of a better world.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "Despite depicting a dire future (00:39-00:50), the film's central theme is using advanced technology (time travel, 01:23-01:28) to prevent this outcome and inspire humanity to create a better world (02:29). This proactive, solution-oriented approach, driven by technology, strongly aligns with the mission of building optimistic, technology-enabled futures.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The narrative is fundamentally driven by advanced technology, specifically time travel, which is central to Catherine's mission (01:23-01:28). The depiction of a scientist working on intricate tech (01:38-01:40) and the use of advanced medical devices (01:44-01:46) further demonstrate a tech-forward approach where technology is deeply interwoven into the story's fabric and world.",
+      "confidence": "high"
+    }
+  ]
+}

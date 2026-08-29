@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "Nobody Dies on Mars",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's total length is exactly 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card appears from 03:00 to 03:15 and clearly displays Google, XPRIZE, Jed McCaleb, and Salesforce as sponsors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features space travel to Mars, a human colony on Mars, alien characters, and advanced technology like robot chefs and a taste-sharing device, all indicative of science fiction (e.g., 00:00-00:04, 00:28-00:30, 00:45-00:47).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "Despite initial despair, the story concludes with the chef returning to Mars to help Miso, fostering interspecies connection and purpose through technology, suggesting a hopeful future (e.g., 02:39-02:45, 02:50-02:56).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "The taste-sharing device (00:45-00:53) is central to the chef's ability to connect with and understand Miso, driving the plot. Space travel and the Martian colony are also integral to the setting and conflict.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "There is a brief scene where Miso collapses and bleeds from the mouth (01:42-01:45), indicating suffering, and the chef uses mild language like 'stupid ass' (00:10-00:11) and 'For God's sake' (00:35-00:36), but no explicit violence, strong language, or sexual content is present.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands are visible in the video outside of the end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video tells a compelling story of a chef finding purpose through an unexpected bond with an alien, with high production quality and effective visual storytelling.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The narrative explores humanity's expansion to Mars and interaction with an alien civilization, addressing themes of empathy and shared existence on a grand scale.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The story, despite initial challenges, culminates in a hopeful vision of human-alien collaboration and mutual understanding, enabled by advanced technology, aligning well with an optimistic, technology-enabled future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The central plot device, a taste-sharing technology, is innovative and crucial to the emotional connection between the characters. The Martian colony and advanced transportation also showcase a tech-forward setting that is integral to the story.",
+      "confidence": "high"
+    }
+  ]
+}

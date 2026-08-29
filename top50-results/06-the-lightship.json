@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "The Lightship: Future Vision XPRIZE",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's total duration is exactly 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card appears from 03:00 to 03:15 and clearly lists Google, XPRIZE, Jed McCaleb, and Salesforce among its partners and sponsors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features advanced virtual reality, futuristic environmental solutions (like Terravale and water purification systems), and a narrative set in a technologically advanced future, all hallmarks of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "Despite an initial crisis where children fall into comas due to an online game, the narrative shifts to a hopeful vision where these children use technology to solve global problems like water scarcity and environmental pollution, ultimately creating a better, connected future (01:49, 02:20, 02:58).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, from the ear devices that connect children to the virtual 'game' (00:35, 00:54) to the futuristic environmental solutions (00:00, 01:49) and the 'Lightship' itself (02:58). The plot revolves around how these technologies are used and misused.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, offensive language, or sexual content. There are moments of peril, such as children running from creatures (01:25, 01:31), but these are not graphic.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands are visible or mentioned within the main content of the video, only in the final end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video presents a compelling story of children using a virtual world to address real-world problems, with high production values, impressive visual effects, and emotional depth, making it well-realized within its short runtime.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story tackles grand themes like global environmental crisis, human connection, and the potential of technology to solve humanity's biggest challenges, proposing a future where collective action and innovation lead to a better world (00:00, 01:49, 02:20).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video directly aligns with the XPRIZE mission by showcasing a future where technology (the 'game' and 'Lightship') is leveraged by a new generation to overcome global crises like water scarcity and environmental degradation, leading to a hopeful and connected future, as explicitly stated in the end card (03:00).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The entire narrative is driven by advanced technology, from the immersive VR devices (00:35) that connect children to a shared virtual world, to the futuristic environmental infrastructure (01:49) and the 'Lightship' (02:58) that enables their mission. The technology is integral to both the problem and the solution.",
+      "confidence": "high"
+    }
+  ]
+}

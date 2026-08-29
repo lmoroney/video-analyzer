@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "Beyond: A Short Film",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's total duration is exactly 3 minutes and 15 seconds (03:15).",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The last 15 seconds of the video (03:00-03:15) display an end card featuring sponsors such as Google, XPRIZE, Jed McCaleb, and Salesforce.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video clearly falls into the science fiction genre, showcasing advanced technologies like neural networks (00:10), flying vehicles (01:00), futuristic cityscapes (01:22), and mind-altering capabilities (00:33-00:59).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video portrays a dystopian future where a 'shared harmony' system called Maya (01:25) is built upon involuntary participation and a loss of humanity (00:17, 01:29, 02:54). The antagonist's dialogue about the 'pyramid being a veneer' (01:52) further emphasizes the dark reality beneath the futuristic facade, making it far from an optimistic vision.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is deeply integrated into the narrative, with the 'Maya' neural network being the central plot device. Characters interact directly with this technology, which influences emotions (00:33-00:38), creates shared harmony (01:25), and has a physical manifestation (01:32-01:35, 02:06-02:40).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video does not contain any explicit violence, language, or sexual content. There is a brief physical interaction where one character pushes another (01:50), but it is not graphic.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands are visible or mentioned within the video's narrative content, only on the final end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "The video presents a compelling, albeit dark, narrative about a technologically advanced society and its hidden costs. The production quality is high, with strong visuals, sound design, and acting that effectively convey the emotional depth and conflict within the story.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The story tackles a profound concept of a future where humanity attempts to achieve 'shared harmony' through a vast neural network, exploring the ethical and emotional implications of such a system on a global scale. This demonstrates a significant scope in thinking about humanity's future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 2,
+      "explanation": "The video portrays a future where advanced technology, specifically the 'Maya' neural network, leads to a loss of individual humanity and involuntary inclusion (00:17, 01:29, 02:54). This dystopian vision, with its underlying themes of control and suppression, is not aligned with the 'genuinely optimistic' aspect of the Future Vision XPRIZE mission.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The storytelling is highly tech-forward, with advanced technology like the 'Maya' neural network and its physical manifestations (00:10-00:16, 01:27-01:29, 02:06-02:40) being central to the plot and character interactions. The narrative explores the direct impact and implications of this technology on human experience.",
+      "confidence": "high"
+    }
+  ]
+}
