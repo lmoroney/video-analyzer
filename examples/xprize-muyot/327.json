@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "Future Vision XPRIZE: Max",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total runtime of 2 minutes and 29 seconds, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The last 12 seconds of the video (from 02:17 to 02:29) display an end card featuring the Future Vision XPRIZE, moonshots.com, and logos for Salesforce, Google, RANGE, XPRIZE, XSOVA, ARK INVEST, and Jed McCaleb.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video clearly features science fiction elements, including astronauts in space (00:07), a mysterious ancient system that activates (01:19), a girl wearing an astronaut suit on Earth (01:33), and a large alien spaceship that creates a portal (01:42-01:56).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "Despite initial scenes of disaster and loss (00:50-01:15), the narrative shifts to a hopeful tone with the activation of an ancient system (01:19), the use of advanced technology (01:26, 01:42), and the implied rescue or reunion of Max, suggesting technology is a solution to overcome challenges (02:00-02:08).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, with the plot driven by an \"ancient system\" and \"extraterrestrial technology\" (00:34-00:40) that activates to help the protagonist, Zoey, find her lost brother, Max (01:19-02:08).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video does not contain any explicit violence, strong language, or sexual content. A car crash is implied, but not graphically shown (00:58-00:59).",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable commercial brands are explicitly shown or mentioned within the main content of the video, outside of the end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video presents a compelling and emotionally resonant story of a girl searching for her lost brother amidst a world transformed by extreme weather and advanced technology. The production quality is high, with impressive visuals and a clear narrative arc that effectively builds suspense and hope.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The story tackles significant themes such as climate change, global cooperation, and the integration of advanced, potentially extraterrestrial, technology into society to address major challenges. It envisions a future where humanity adapts and finds new solutions on a grand scale.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video strongly aligns with the Future Vision XPRIZE mission by portraying a future where humanity faces significant challenges (extreme weather, loss) but finds optimistic, technology-enabled solutions, specifically through an \"ancient system\" and \"extraterrestrial technology\" for emergency response and reunion (00:34-00:40, 01:19-02:08).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The storytelling is highly tech-forward, with advanced technology, including an ancient system that activates (01:19) and an alien spaceship (01:42) that creates a portal (01:52), being fundamental to the narrative and the protagonist's journey to find her lost brother.",
+      "confidence": "high"
+    }
+  ]
+}

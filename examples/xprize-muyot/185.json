@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "SYNAPSE",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total duration of 2 minutes and 42 seconds, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card appears from 02:22 to 02:42, which is 20 seconds. It clearly displays Google, XPRIZE, Jed McCaleb, and Salesforce among other sponsors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features advanced technology like a device that transmits neural activity for shared physiological experiences and includes elements of time travel, which are characteristic of science fiction (00:33-00:49, 01:49-01:54).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "While the narrative includes conflict and danger (00:14-00:22, 01:12-01:20), the inventor's stated goal is to 'heal our fractured reality' and create 'a world where we understand each other' (00:25-00:27, 01:31-01:33). The arrival of her granddaughter from the future to 'help' (01:49-01:54) suggests an ongoing effort towards a better, technology-enabled future, despite current challenges.",
+      "confidence": "medium"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "The 'Synapse' device and its ability to transmit neural activity are central to the plot, driving the initial presentation, the conflict, and the intervention from the future (00:33-00:59, 01:49-02:09).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "There is a brief physical struggle between the inventor and an intruder (01:17-01:19), but it is not graphic or explicit. There is no explicit language or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands are visible or mentioned in the video content outside of the final sponsor end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "The video presents a compelling story with a clear premise, rising conflict, and a surprising twist, all executed with good production quality, effective lighting, and sound design for a short film.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The story's core concept of shared consciousness, the inventor's ambition to cure diseases and expand humanity into the stars, and the introduction of time travel to 'help' the present, all demonstrate a grand vision for humanity's future (00:06-00:14, 01:49-01:54).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 7,
+      "explanation": "The story aligns with the mission by presenting a technology-enabled future with an optimistic goal of mutual understanding. However, it also highlights the immediate challenges and dangers of such technology, suggesting a future that is not yet fully optimistic and requires active effort to achieve, as evidenced by the granddaughter's intervention.",
+      "confidence": "medium"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The entire narrative revolves around the 'Synapse' device and its capabilities, from its presentation and demonstration to its role in the conflict and the time-travel reveal, making technology a central and driving force of the story.",
+      "confidence": "high"
+    }
+  ]
+}

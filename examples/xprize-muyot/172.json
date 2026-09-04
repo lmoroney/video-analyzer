@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=YOUR_VIDEO_ID",
+  "video_title": "The World We Chose",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total duration of 3 minutes and 0 seconds, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card appears from 02:44 to 03:00, which is 16 seconds, and clearly displays the logos for Salesforce, Google, RANGE, XPRIZE, XSOVA, ARK INVEST, and Jed McCaleb.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video depicts a future in 2080 with advanced technologies such as robotic bees (00:29), holographic data displays for farming (00:36, 02:11), and futuristic urban environments with autonomous vehicles and drones (02:20-02:26), which are elements of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video explicitly contrasts a dystopian, fear-driven future (01:09-01:21) with an optimistic one where technology is used to enhance life, nature, and human connection (02:01-02:32). The closing text states, 'We simply refused to build a future we were afraid of' and 'THE WORLD WE CHOSE'.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, showcasing robotic bees for pollination (00:29), smart greenhouses with holographic data (00:36, 02:11), and agricultural robots (02:06-02:10) as key components of the chosen optimistic future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video does not contain any explicit violence, language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands are visible in the video content outside of the final end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video effectively tells a compelling story by contrasting two potential futures and highlighting the impact of human choices on technology's role. The narrative is clear and emotionally resonant, especially given its short duration.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story thinks very big, presenting two divergent paths for humanity's future based on how technology is embraced or feared, addressing themes of environmental sustainability, societal well-being, and human connection on a grand scale.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video is perfectly aligned with the XPRIZE mission, explicitly showing a 'world we chose' that is optimistic and technology-enabled, emphasizing that 'The future begins with the questions we choose to ask' (02:43).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "Advanced technology is deeply integrated into the narrative, from robotic bees ensuring pollination (00:29) and smart farming systems (00:36, 02:11) to clean, autonomous urban transport (02:20-02:26), demonstrating how technology can enable a better future.",
+      "confidence": "high"
+    }
+  ]
+}

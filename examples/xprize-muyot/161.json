@@ -1,0 +1,83 @@
+{
+  "video_url": "https://example.com/video_after_eternity",
+  "video_title": "After Eternity | FutureVision X Prize",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's total runtime is 2 minutes and 9 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card, visible from 1:52 to 2:09, clearly displays Google, XPRIZE, Jed McCaleb, and Salesforce as partners, sponsors, or presenting donors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video showcases advanced technologies such as nanobots curing cancer (00:02), artificial food production (00:07), space colonies (00:12), and the elimination of biological aging (00:15), all of which are elements of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video initially presents an optimistic future where technology has solved major human problems like disease, hunger, and aging (00:02-00:18). While the protagonist initially feels a sense of emptiness (00:34-00:37), the narrative shifts to finding meaning through human connection and experiencing life's full spectrum (01:21-01:44), ultimately portraying a hopeful vision of a technology-enabled future where human experience is valued.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is a core element of the narrative, driving the initial creation of a \"perfect world\" free from disease, hunger, and aging (00:02-00:18). The protagonist's existential crisis stems directly from this technologically advanced, yet seemingly meaningless, existence, and an AI companion even offers paid therapy (00:39-00:47).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, strong language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "Aside from the sponsors on the end card, no recognizable real-world brands are featured in the video. The \"Eternis\" brand for androids (00:55) is fictional.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video presents a thought-provoking narrative about the search for meaning in a technologically advanced, immortal society. The visual style, blending painterly aesthetics with realistic animation, is stunning and effectively conveys the emotional journey of the characters, making it a well-realized and compelling short story.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story explores profound questions about humanity's future, including the implications of eliminating disease, hunger, and aging, and the subsequent search for meaning and connection in a world where all basic problems are solved. It delves into the philosophical aspects of an \"after eternity\" existence.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video aligns strongly with the mission by showcasing a future where technology has overcome major challenges like disease and aging. While it initially explores the existential void that can arise from such a \"perfect\" world, it ultimately concludes with a hopeful message about finding meaning through human connection and embracing the full spectrum of life's experiences, even within a technologically advanced society.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The storytelling is inherently tech-forward, with advanced technologies like biological aging elimination, AI companions, and futuristic urban planning being central to the plot and character motivations. The narrative directly explores the societal and personal implications of these technologies, making them integral to the story rather than mere background elements.",
+      "confidence": "high"
+    }
+  ]
+}

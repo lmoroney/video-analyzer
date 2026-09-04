@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=YOUR_VIDEO_ID",
+  "video_title": "Wings of Abundance",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's total runtime is exactly 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "From 02:59 to 03:15, the video displays an end card featuring logos for Google, Range, XPRIZE, Salesforce, XSOLLA, ARK INVEST, and Jed McCaleb.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features advanced technological elements such as glowing butterfly-like drones (01:46), a necklace that activates a hidden panel (01:37), holographic displays (02:20), and drones capable of rapid environmental regeneration (02:46) and memory restoration (02:30), which are characteristic of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video presents a hopeful future where advanced technology, specifically bio-mimetic drones, is used to regenerate deforested land (02:46-02:52) and restore human well-being and memories (02:30-02:45), aligning with an optimistic vision of technology's role in healing the planet and humanity.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, with the butterfly necklace acting as a key (01:07, 01:37), the hidden lab containing advanced bio-mimetic drones (01:46), and these drones being instrumental in both environmental regeneration (02:46) and restoring memories/health (02:30).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video does not contain any explicit violence, strong language, or sexual content. While there's a mention of a 'confrontation' (02:09) and implied corporate opposition, no violent acts are shown.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": true,
+      "rating": null,
+      "explanation": "A recognizable DJI Mavic drone is clearly featured and integrated into the narrative as a tool for the advanced technology (02:35).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The narrative effectively weaves together a traditional creation myth with a modern quest for environmental and personal healing through technology. The production quality is high, with impressive visual effects for the glowing butterflies and regenerating landscapes, making for a very compelling and well-realized short story.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The story tackles significant global challenges such as environmental degradation and the disconnect from nature, proposing a future where technology, guided by ancestral wisdom, can facilitate large-scale ecological restoration and human healing, demonstrating a very ambitious vision for humanity's future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video strongly aligns with the XPRIZE mission by showcasing a future where technology is a powerful tool for positive change, specifically in environmental regeneration and fostering human connection and well-being, all presented with a deeply optimistic and hopeful tone.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The storytelling is highly tech-forward, with the narrative driven by the discovery and activation of advanced bio-mimetic technology (glowing butterflies/drones) that serves as a direct link to ancestral knowledge and enables the restoration of both nature and human connections. The technology is integral to every major plot point.",
+      "confidence": "high"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "Mission Dare: A Future Vision",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's total duration is exactly 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The end card, which includes the listed sponsors, appears from 3:05 to 3:15, making it 10 seconds long. Therefore, the last 15 seconds are not *comprised* solely of the end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video depicts future scenarios involving advanced nanotechnology, multi-planetary civilization, asteroid mining, and atmospheric terraforming (00:15-00:42, 01:11-03:03), which are all elements of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "Despite an initial crisis of water scarcity (00:42-01:10), humanity ultimately solves the problem through a daring technological mission (01:11-03:03), leading to a restored, green Earth (03:03-03:05), which is a hopeful and technology-forward vision.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, from nanotechnology and space exploration (00:15-00:42) to the asteroid mining mission and atmospheric restoration that saves Earth (01:11-03:03).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, language, or sexual content. The destruction of the asteroid is depicted in a scientific context, not as violence.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": true,
+      "rating": null,
+      "explanation": "At 00:07, a Nike swoosh logo is briefly visible on a pink shoe among a crowd of people.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video presents a clear and engaging narrative arc from technological advancement to environmental crisis and eventual salvation through innovation. The visuals are generally high quality and effectively convey the story's progression.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story encompasses humanity becoming a multi-planetary civilization, facing a global catastrophe, and then undertaking an ambitious space mission to an asteroid to bring back hydrogen to restore Earth's water cycle, demonstrating a very 'big' vision for the future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video's narrative, culminating in Earth's restoration through advanced technology after a crisis, perfectly aligns with the Future Vision XPRIZE's mission of 'Building Optimistic Visions of the Future,' as stated on the end card (03:05).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "Advanced technology is the driving force of the narrative, from nanotechnology and space colonization to the critical asteroid mission and subsequent atmospheric changes that bring rain back to Earth, making it central to the plot's resolution.",
+      "confidence": "high"
+    }
+  ]
+}

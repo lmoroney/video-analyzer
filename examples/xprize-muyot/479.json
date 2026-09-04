@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "Patches",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's total runtime is exactly 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "From 2:58 to 3:15, an end card is displayed featuring 'FUTUREVISION XPRIZE', 'Google', 'RANGE', 'XPRIZE', 'Salesforce', 'XSOVA', 'ARK INVEST', and 'Jed McCaleb'.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features alien contact, advanced holographic projection technology, and a disc that acts as a portal or teleporter, all characteristic of science fiction (e.g., 1:28, 2:40-2:57).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video shows a vision of a futuristic, green city (2:05) and the characters explicitly express hope for humanity's future (2:17-2:18) after discovering advanced alien technology.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "The Lidar scanner on a modern phone is crucial for activating the alien disc (1:35-1:42), which then projects a holographic alien and later teleports a character, making technology central to the plot.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, strong language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": true,
+      "rating": null,
+      "explanation": "Bags of Doritos and Pringles chips are visible at 0:01, and Monster Energy drinks are seen at 0:08, 0:25, and 1:48.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "The story is engaging, with a clear narrative arc from mundane jobs to alien discovery and a quest. The acting is solid, and the special effects for the alien and future city are impressive for a short film, making it well-realized.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The story directly addresses humanity's future through the alien's visions of past achievements and a potential advanced future, and the characters' discussion about hope and what humanity can still create (2:14-2:18).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video strongly aligns with the XPRIZE mission by showcasing a technology-enabled future through alien contact and advanced tech, culminating in a hopeful outlook for humanity and the discovery of the alien 'Patches' alive.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The narrative heavily relies on technology, from the Lidar scanner on a smartphone being the key to unlocking the alien disc's secrets (1:35-1:42) to the disc itself acting as a holographic projector and a teleporter, driving the entire plot.",
+      "confidence": "high"
+    }
+  ]
+}

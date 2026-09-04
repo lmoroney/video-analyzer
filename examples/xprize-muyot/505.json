@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "The Ladder",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's total runtime is exactly 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's end card, from 03:00 to 03:15, clearly displays 'FUTUREVISION XPRIZE' along with logos for Google, RANGE, Salesforce, XSOVA, ARK INVEST, and Jed McCaleb.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video depicts advanced technologies such as a space elevator (00:00-00:19, 00:33-00:45), holographic interfaces (01:34-01:39, 02:40-02:44), and sophisticated robotics (02:10-02:29), which are characteristic of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video presents a future where humanity has built a space elevator (00:00), utilizes advanced energy platforms (00:20), and employs sophisticated AI/neural networks to solve complex problems (01:20, 01:34, 02:50). The overall tone is one of technological advancement and a hopeful outlook on humanity's capabilities.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is integral to the narrative, with the space elevator being a primary setting and plot device (00:00-00:19, 00:33-00:45). Characters actively interact with advanced systems like the 'Weaver's Nest' neural lattice (01:20-01:29) and holographic interfaces (01:34-01:39, 02:40-02:44) to solve a critical problem, indicating it's not merely background.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, offensive language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "Apart from the sponsor logos on the end card, no recognizable real-world brands are featured in the video's narrative content. 'Zenith' is shown on a structure (00:23), but it's not presented as a brand.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video presents a compelling, high-stakes narrative centered around a technological crisis with the space elevator, effectively building tension and showcasing a well-realized futuristic world through impressive visuals and character performances (e.g., the urgency in the woman's voice at 01:25 and the focused expressions at 01:30, 02:45).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story unequivocally thinks big, featuring a colossal space elevator connecting Earth to space (00:00-00:19, 00:33-00:45) and a complex neural lattice system ('Weaver's Nest') designed to manage and stabilize such monumental infrastructure, representing a grand vision for humanity's technological and exploratory future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video strongly aligns with the XPRIZE mission by depicting a future where advanced technology, like the space elevator and neural lattice, is leveraged to overcome significant challenges, portraying an optimistic vision of human innovation and problem-solving (01:20-01:29, 02:50-02:59).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The storytelling is highly tech-forward, with the entire plot driven by the functionality and challenges of the space elevator and the 'Weaver's Nest' neural lattice. Characters directly engage with holographic interfaces (01:34-01:39, 02:40-02:44) and complex data visualizations (02:50-02:59) to advance the narrative, making technology an inseparable part of the story.",
+      "confidence": "high"
+    }
+  ]
+}

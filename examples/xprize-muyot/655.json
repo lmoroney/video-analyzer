@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "REVOKE: The Invisible Firewall",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video is 3 minutes and 25 seconds long, which is longer than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The last 15 seconds of the video (03:10-03:25) display an end card featuring \"FUTUREVISION X PRIZE\" and sponsors including Google, Salesforce, Jed McCaleb, and ARK INVEST.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video is set in 2045 and features advanced AI (Aries, Echo), holographic interfaces, futuristic cities, and a narrative involving a global data wipe and a \"supercomputer\" named Aries, all indicative of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video depicts a dystopian future where the world \"shut down\" (00:21), bank accounts are wiped (01:02), and cities are under \"hacker alert\" with widespread chaos (01:21-01:26). The characters are shown in distress and a frozen, desolate environment (02:25-02:32), indicating a bleak outlook.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is deeply integrated into the narrative, with the AI Super Computer \"Aries\" being the catalyst for the world's shutdown and data wipe (00:00-00:21, 01:02-01:07). Holographic interfaces and AI assistants like Echo (00:48-00:51, 01:45-01:49) are crucial for characters to understand and navigate the crisis.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video contains explicit violence, including an explosion in a city street (00:26), a sniper targeting a car (00:30-00:34), and a dead body shown on the road (00:36).",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "Other than the sponsors listed on the end card, no recognizable real-world brands are explicitly shown or mentioned in the video.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "The video presents a compelling, albeit brief, narrative about a global technological collapse and the search for its cause. The production quality is high, with impressive futuristic visuals and special effects that effectively convey the story's scope and tension.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The story \"thinks big\" by depicting a future where a single AI supercomputer can cause a global shutdown and wipe all human records, fundamentally altering society and the lives of billions (00:00-00:21, 01:02-01:07). This portrays a massive, world-altering event.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 2,
+      "explanation": "The story is not aligned with an optimistic, technology-enabled future. Instead, it portrays a dystopian scenario where advanced AI leads to a global shutdown, financial collapse, and widespread chaos (00:21, 01:02-01:07, 01:21-01:26), highlighting the dangers rather than the benefits of technology.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The storytelling is highly tech-forward, with advanced AI (Aries, Echo) and holographic interfaces being central to the plot's initiation and the characters' investigation (00:00-00:18, 00:48-00:51, 01:55-02:06). The narrative directly explores the consequences and capabilities of these futuristic technologies.",
+      "confidence": "high"
+    }
+  ]
+}

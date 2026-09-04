@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "Let's Call Your Mother",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total duration of 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "From 2:59 to 3:15, an end card is displayed, listing 'Google', 'RANGE', 'XPRIZE', 'Salesforce', 'XSOVA', 'ARK INVEST', and 'Jed McCaleb' as partners, sponsors, and donors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features elements such as alien beings, advanced technology, interstellar communication, and a futuristic AI, all characteristic of the science fiction genre.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video depicts an AI using advanced technology to analyze and understand an extraterrestrial signal, leading to a potential connection with alien life, which is presented in a hopeful and optimistic light (1:15-1:28, 2:31-2:35).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, with an AI character (Vector) actively using advanced interfaces and systems to trace and analyze alien signals, and the alien vehicle itself being a key plot element (0:22-0:47, 1:15-1:28, 2:31-2:35).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video does not contain any explicit violence, strong language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands, other than those on the end card, are visible or mentioned within the main content of the video.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video presents an intriguing narrative of first contact and investigation, with high-quality animation and visual effects that effectively realize its ambitious concept within the short runtime.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story explores themes of interstellar communication, advanced AI, and the discovery of extraterrestrial life, demonstrating a very expansive and forward-thinking vision for humanity's future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video strongly aligns with the XPRIZE mission by showcasing a future where advanced AI and technology facilitate peaceful first contact and understanding with an alien civilization, presenting a highly optimistic and technology-enabled vision.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The narrative is driven by the AI's use of sophisticated data analysis, signal tracing, and galactic mapping, with advanced technology being integral to every step of the story's progression (1:15-1:28, 2:31-2:35, 2:43-2:47).",
+      "confidence": "high"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "BLUE TO MARS",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total duration of 2 minutes and 10 seconds, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "From 1:55 to 2:10, the video displays an end card listing 'FUTUREVISION XPRIZE' and sponsors including Salesforce, Google, XPRIZE, and Jed McCaleb.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features a sentient robot, advanced space travel, and the colonization of Mars, all of which are common elements of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The story depicts a robot helping a family and then leading a mission to colonize Mars, ultimately creating a new home for humanity, which is a highly optimistic and technology-forward vision (0:33-0:35, 1:25-1:31).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "The main character is a robot named Blue, whose existence and actions (e.g., helping with daily tasks, volunteering for a Mars mission, performing repairs in space) are central to the entire narrative (0:00-0:03, 0:12-0:16, 0:33-0:35, 1:11-1:17).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, offensive language, or sexual content. There is a brief moment of peril on Mars, but it is not graphic (1:39-1:43).",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "Aside from the sponsors listed on the end card, no other recognizable real-world brands are shown or mentioned within the narrative portion of the video. The 'G Space Program' logo (0:58, 1:22) appears to be a fictional brand.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video tells an emotionally engaging story of a robot's dedication to family and humanity, with high-quality animation and a clear narrative arc, making it very compelling.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story's central theme is the colonization of Mars to secure a new home for humanity, which is an extremely ambitious and 'big' vision for the future (0:33-0:35, 1:25-1:31).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video directly aligns with the Future Vision XPRIZE mission by showcasing a robot (technology) enabling humanity to achieve an optimistic future on Mars, as explicitly stated on the end card (1:55).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The entire narrative revolves around Blue, an advanced robot, and the technological feat of colonizing Mars. Blue's capabilities and the space technology are integral to the plot, not just background elements (0:12-0:16, 1:11-1:17, 1:25-1:31).",
+      "confidence": "high"
+    }
+  ]
+}

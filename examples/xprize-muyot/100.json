@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "The Calling: A Future Vision XPRIZE Film",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total duration of 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The last 15 seconds of the video (3:00-3:15) feature an end card displaying sponsors such as Google, XPRIZE, Jed McCaleb, and Salesforce, along with others.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video clearly portrays a science fiction setting with futuristic cities (00:00-00:02), advanced AI that has eliminated jobs and money (00:05-00:13), personal robots (00:21-00:24), and holographic interfaces for daily tasks and career guidance (00:40-00:45).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video presents an optimistic future where AI has brought abundance, eliminated jobs and money (00:05-00:13), and offers people the freedom to pursue their passions through \"The Calling\" (00:42). The protagonist's journey, though initially challenging, leads to finding purpose in a technology-enabled world.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is a core element of the narrative, not just background. AI has fundamentally reshaped society by eliminating work and money (00:05-00:13), and the protagonist's quest to find his \"calling\" is entirely mediated by advanced holographic systems (00:40-00:43). His eventual purpose is found in repairing an old robot (01:40-01:50).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video does not contain any explicit violence, language, or sexual content. It appears to be suitable for a general audience.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "Aside from the sponsors displayed on the end card (3:00-3:15), no other recognizable brands are used or shown within the video's narrative content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video presents a compelling narrative about finding purpose in a utopian future where AI has solved most human problems. The protagonist's struggle and eventual discovery of his \"calling\" through repairing an old robot (01:40-01:50) is well-realized with high-quality animation and clear emotional beats, making it engaging despite its short length.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The story thinks big by exploring profound questions about human purpose and fulfillment in a future where artificial intelligence has eliminated the need for work and money (00:05-00:13). It delves into the psychological and societal implications of a post-scarcity world, prompting reflection on what truly motivates humanity.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story is fully aligned with the Future Vision XPRIZE mission. It depicts a genuinely optimistic, technology-enabled future where AI has created abundance and eliminated societal burdens (00:05-00:13). The narrative focuses on the human quest for purpose within this advanced world, ultimately finding meaning through interaction with and repair of technology (01:40-01:50), showcasing a positive and proactive engagement with the future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The storytelling is highly tech-forward, with advanced technology meaningfully integrated throughout the narrative. Daily life is enhanced by personal robots (00:17-00:24) and instant food creation (00:29-00:31). The central conflict and resolution revolve around the \"Calling\" system (00:42) and the protagonist's journey to repair an old robot (01:40-01:50), demonstrating technology's pervasive and pivotal role in the story.",
+      "confidence": "high"
+    }
+  ]
+}

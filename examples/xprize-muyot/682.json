@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=y_2_2_2_2_2",
+  "video_title": "The Last Memory Weaver",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video is 1 minute and 20 seconds long, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card from 01:13 to 01:20 clearly displays sponsors including Google, XPRIZE, Jed McCaleb, and Salesforce.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video depicts advanced technologies such as AI doctors (00:13), memory manipulation via glowing red threads (00:00-00:07, 00:31-00:33), and futuristic cityscapes (00:17-00:20), clearly placing it in the science fiction genre.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video portrays a highly optimistic future where advanced technology, specifically memory restoration, can cure Alzheimer's and bring back cherished memories, as seen with the girl's recovered happiness (00:57-01:00).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, with the \"Redthread\" system being the core mechanism for diagnosing and treating memory loss (00:04-00:07, 00:27-00:33), directly impacting the protagonist's journey.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "Other than the sponsors on the end card, no recognizable real-world brands are used in the video. The \"REDTHREAD\" organization is fictional (00:21).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video tells a compelling and emotionally resonant story about memory loss and its restoration, effectively conveying the impact on individuals and families. The production quality is high, with impressive visual effects and clear narrative progression.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The story thinks big by tackling a significant human challenge like Alzheimer's and proposing a future where memory can be preserved and restored, even framing \"memory became a human right\" (00:22), which is a profound societal concept.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story is perfectly aligned with the Future Vision XPRIZE mission, presenting a genuinely optimistic and technology-enabled future where a devastating disease like Alzheimer's can be overcome through advanced memory technology, leading to restored happiness and connection.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The storytelling is highly tech-forward, with advanced memory technology (red threads, brain scans, AI doctors) not just as background but as the central element driving the plot, character's condition, and ultimate resolution (00:00-00:07, 00:13-00:16, 00:27-00:33, 00:45-00:49).",
+      "confidence": "high"
+    }
+  ]
+}

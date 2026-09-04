@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "The Banting's Disease",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total duration of 2 minutes and 54 seconds, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card, visible from 02:37 to 02:54, clearly displays 'FUTUREVISION X PRIZE', 'Partners Google RANGE', 'Presenting Sponsor: salesforce', 'Sponsors XSOVA ARK INVEST', and 'Presenting Donor Jed McCaleb'.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features advanced technological concepts such as personalized algorithms to cure diseases (00:07), gravitational cryptography, agentic spectroscopy (01:09-01:11), and a 'bulletproof spray' (01:18-01:21), which are characteristic of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": false,
+      "rating": null,
+      "explanation": "While technology is advanced, the narrative is driven by conflict, surveillance (tracking chip at 01:40), and potential violence (guns pointed at 01:59). The overall tone is more suspenseful and ambiguous than genuinely optimistic about humanity's future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the plot, with characters discussing personalized algorithms for health (00:07), using a 3D printer (00:52), a 'bulletproof spray' (01:18), and a tracking chip (01:40) to advance their goals and the story.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "There is a scene where two characters point guns at each other (01:59-02:04) and a kiss (01:55-01:58), but no explicit violence, gore, strong language, or sexual content is shown.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": true,
+      "rating": null,
+      "explanation": "A character is seen wearing a 'Hard Rock Cafe' sweatshirt at 00:59 and again at 02:23.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 7,
+      "explanation": "The video presents an intriguing, albeit fragmented, story with a clear sense of conflict and advanced technological elements. The production quality is solid for a short film, effectively conveying the narrative despite its brevity.",
+      "confidence": "medium"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "The story explores significant future concepts such as personalized medicine via algorithms, advanced cryptography, and the societal implications of powerful, potentially dual-use technology, indicating a 'big thinking' approach to humanity's future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 4,
+      "explanation": "While technology is central, the story's focus on conflict, surveillance, and the potential for misuse (e.g., tracking chips, gun confrontation) prevents it from being a genuinely optimistic portrayal of a technology-enabled future, which is a core tenet of the XPRIZE mission.",
+      "confidence": "medium"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The narrative is deeply intertwined with advanced technologies like personalized algorithms for curing disease, gravitational cryptography, and tracking devices, which are integral to the characters' motivations and the plot's progression, demonstrating strong tech-forward storytelling.",
+      "confidence": "high"
+    }
+  ]
+}

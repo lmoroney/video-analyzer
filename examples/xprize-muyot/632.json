@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "The Visitor - Future Vision XPRIZE",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's total duration is exactly 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card, which displays sponsors including Google, XPRIZE, Jed McCaleb, and Salesforce, is present from 02:51 to 03:15. The last 15 seconds of the video (03:00-03:15) are part of this end card and show these sponsors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features advanced technologies such as cryopods (00:39), memory rebuilding systems (00:33-00:34), futuristic cities with advanced infrastructure (00:04-00:06, 01:10-01:20), and a robot assisting with a neural \"expander\" (02:15-02:20), all indicative of a science fiction genre.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video initially portrays a hopeful and technology-forward future with lush, sustainable cities (01:10-01:20) and advanced medical recovery systems (00:24-00:34). While Christian grapples with personal choices and the implications of this future, the underlying vision of a world where technology serves life (01:10-01:13) is presented optimistically.",
+      "confidence": "medium"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, from Christian being found in a cryopod (00:39) and undergoing memory recovery with holographic displays (00:33-00:34), to the advanced, sustainable city being a core setting (01:10-01:20) and the \"expander\" device being a key plot point (02:15-02:20).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands, other than those on the end card, are visible or mentioned in the video.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "The video presents a compelling narrative about a man recovering his memory in a technologically advanced future, grappling with his past and present identity. The production quality is high, with impressive visuals of the futuristic city (e.g., 01:10-01:20) and strong emotional performances, making the story well-realized despite its short format.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The story thinks big by presenting a fully developed, technologically advanced future society that has seemingly solved many societal problems, focusing on how technology serves life (01:10-01:13). It delves into profound questions about memory, identity, and the human experience within this utopian-like setting, offering a grand vision of humanity's potential.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 7,
+      "explanation": "The video strongly aligns with the mission by showcasing a highly advanced, sustainable, and technology-enabled future city (01:10-01:20) where basic needs are met (\"no bill,\" 01:28-01:31). While the protagonist's personal journey introduces a nuanced perspective on individual fulfillment within this future, the overall vision is one of progress and the potential for technology to serve life, offering a genuinely optimistic outlook on humanity's capabilities.",
+      "confidence": "medium"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The storytelling is highly tech-forward, with advanced technology deeply woven into the narrative. Key plot points involve Christian's recovery from a cryopod (00:39), his memory rebuilding process using advanced diagnostics (00:33-00:34), the pervasive futuristic city infrastructure (01:10-01:20), and the introduction of a neural \"expander\" device (02:15-02:20) that directly impacts his perception and choices.",
+      "confidence": "high"
+    }
+  ]
+}

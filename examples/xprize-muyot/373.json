@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "Future Vision XPRIZE Filmmaking Competition",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total duration of 39 seconds, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The end card, which appears from 00:31 to 00:39, is only 8 seconds long and explicitly mentions \"FUTUREVISION XPRIZE\" but does not list Google, Jed McCaleb, or Salesforce as sponsors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features numerous science fiction elements, including clips from classic sci-fi films like \"A Trip to the Moon\" (00:00-00:02) and \"2001: A Space Odyssey\" (00:04-00:05), as well as depictions of advanced space travel (00:02-00:03, 00:24-00:25), robotic farming (00:25-00:26), and futuristic cities (00:28-00:29).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video explicitly promotes a \"hopeful tomorrow\" (00:21-00:22) and an \"optimistic future\" (00:27-00:28), showcasing advanced technologies like space travel, robotic farming, and futuristic cities, all contributing to a positive vision.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the video's narrative, which highlights how imagination leads to technological breakthroughs, from early flight (00:06-00:09) and space travel (00:00-00:05) to modern innovations like advanced vehicles (00:13-00:15) and robotics (00:15-00:16, 00:25-00:26).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, offensive language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": true,
+      "rating": null,
+      "explanation": "Recognizable brands such as XPRIZE (00:12, 00:15), Kongsberg (00:12), Edison2 (00:14), Progressive (00:14), and Cisco (00:14) are visible on vehicles and equipment throughout the video, prior to the final end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video effectively uses a fast-paced montage of historical and futuristic imagery, combined with a clear voiceover, to convey a compelling message about the power of imagination and innovation, all within its short runtime.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video explicitly showcases grand visions for humanity's future, including space exploration and colonization (00:00-00:05, 00:24-00:25), advanced robotics and sustainable agriculture (00:25-00:26), and highly developed futuristic cities (00:28-00:29).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video is an explicit call to action for the Future Vision XPRIZE competition, directly asking filmmakers to share their \"vision of an optimistic future\" (00:27-00:28) and showcasing numerous examples of technology-enabled progress and hopeful scenarios.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The entire narrative revolves around the progression and impact of technology, from historical inventions like the airplane (00:07-00:09) to futuristic concepts such as advanced spacecraft (00:02-00:05, 00:24-00:25), robotic prosthetics (00:15-00:16), and automated farming (00:25-00:26), demonstrating its meaningful integration.",
+      "confidence": "high"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=YOUR_VIDEO_ID",
+  "video_title": "Future Vision XPRIZE: The Builders are Coming",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total duration of exactly 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card appears from 03:00 to 03:15 and clearly displays the logos and names of Google, XPRIZE, Jed McCaleb, and Salesforce as partners and sponsors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features advanced technology such as weather-controlling drones, humanoid robots, futuristic vehicles, holographic maps, and smart homes, all set in a future dealing with planetary-scale climate events, which are hallmarks of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "Despite the initial threat of a 'planetary storm' (00:16), the video shows humanity actively using advanced technology and collective governance to mitigate the crisis and build a sustainable, thriving future, as depicted in the final cityscapes (02:56).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, with advanced drones and AI (Squirt, Eva, Constellation Confederation) being the primary means to combat the planetary storm (00:57, 01:23, 02:35). Futuristic infrastructure and smart home systems are also integral to the portrayed society (01:45, 01:59).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, offensive language, or sexual content. The destruction shown is a result of the natural disaster, not human conflict.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The Bose logo is visible on the headphones worn by the older man in the aircraft cockpit at 00:49.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "The video presents a clear and engaging conflict (a planetary storm) and a technological solution, with high-quality visuals and special effects that effectively realize its futuristic setting. While the narrative jumps between scenes, the core story is compelling.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story tackles a global, existential threat—Earth's first planetary storm—and proposes a large-scale, coordinated technological and governance solution, demonstrating a very ambitious vision for humanity's future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video directly aligns with the mission by showcasing humanity successfully overcoming a catastrophic environmental challenge through advanced technology and collaborative governance, leading to a stable and prosperous future, as explicitly stated by the robot and the final text 'The Builders are coming'.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "Technology is deeply interwoven into every aspect of the narrative, from the weather-controlling drones and AI companions (Squirt) to humanoid robots (Eva) managing civic systems and personal well-being, making it a prime example of tech-forward storytelling.",
+      "confidence": "high"
+    }
+  ]
+}

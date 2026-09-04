@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "History Emergent - Future Vision XPRIZE Trailer",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total duration of exactly 3 minutes and 15 seconds (03:15).",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "From 03:00 to 03:15, the video displays an end card with the 'FUTUREVISION XPRIZE' logo and lists 'Google', 'RANGE', 'XPRIZE', 'Jed McCaleb', and 'Salesforce' as sponsors/donors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features advanced technology such as brain-computer interfaces (00:14, 00:29, 01:20, 02:38), futuristic cities (01:15, 01:24, 02:41), drones (00:41, 00:53, 02:25), and concepts like rewriting history (02:01), all indicative of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "While the video shows conflict and surveillance (00:04-00:13, 00:53-01:01), it also presents a vision of using technology to 'end war' (01:55) and a 'bright future' (01:13), culminating in a futuristic city and a character flying towards it (02:57-02:59), suggesting an optimistic, technology-forward future despite challenges.",
+      "confidence": "medium"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, with characters using brain-interface devices to connect and potentially alter history (00:14-00:20, 01:57-02:02), drones for surveillance and combat (00:41-01:01), and futuristic transport and city infrastructure (01:15-01:17, 02:41-02:43).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video depicts implied violence such as a burning lab (00:04-00:06), drones being shot down (00:42-00:43), and a man being injured (01:05), but there is no explicit gore, strong language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The brand 'ATLAS' is visible on a character's shirt (00:39, 00:49) and a sign in the lab (00:05), but this appears to be a fictional brand within the video's universe, not a real-world recognizable brand.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The trailer effectively uses fast-paced editing, intriguing visuals, and a dramatic score to hint at a complex and compelling story involving memory, history, and the future. The production quality appears high, with detailed futuristic settings and special effects.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The narrative explores grand themes such as the nature of history, the potential to end war, the impact of advanced AI and brain interfaces on society, and the struggle for individual choice versus collective control, demonstrating a very ambitious vision for humanity's future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "The video, despite showing initial conflict and dystopian elements, ultimately conveys a message of hope and the potential for technology to create a better future, as evidenced by statements about ending war (01:55) and the visual of a gleaming futuristic city (01:15, 02:57-02:59). The inclusion of 'Future of Life Institute' and 'Austin Film Festival' as finalists/semifinalists also suggests alignment with optimistic future narratives.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The technology is not merely decorative but drives the plot and character actions, from brain-linking devices that access and potentially manipulate memories/history (00:14-00:20, 01:57-02:02) to advanced drones and futuristic infrastructure that shape the world and its conflicts (00:41-01:01, 02:41-02:43).",
+      "confidence": "high"
+    }
+  ]
+}

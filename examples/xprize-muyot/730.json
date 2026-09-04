@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "TRIBUTE - Future Vision XPRIZE",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total duration of 2 minutes and 49 seconds, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card appears from 02:35 to 02:49, displaying logos for Salesforce, Google, Range, XPRIZE, XSOVA, ARK INVEST, and Jed McCaleb.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features futuristic cities (00:07), space travel (00:10, 00:38), advanced robots (00:12, 01:39), and alien landscapes (01:33), all indicative of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": false,
+      "rating": null,
+      "explanation": "While technology is forward, the vision is not purely optimistic. The narrative includes themes of environmental decay (00:03, 01:19), a 'Kessler' event causing satellite destruction (00:38-00:41), and protests with signs like 'HUMANS FIRST' and 'STAY IN YOUR BODY' (02:05-02:08), suggesting significant societal and existential challenges.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, from the advanced cities and space structures (00:07-00:11) to the robots (00:12) and the 'Kessler' syndrome impacting space (00:38-00:41). The plot revolves around data upgrades and biological samples (00:44-00:50), and the ability to 'build' a person (01:58).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "There are scenes of fighting (01:46-01:50, 02:09-02:15) but they are not explicit or graphic. There is no explicit language or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands are visible or mentioned in the video content itself, only on the end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "The video presents a visually stunning and intriguing story with high production quality. The fragmented narrative hints at a deeper conflict and emotional stakes, making it compelling despite its short length.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The story explores grand themes such as humanity's interaction with advanced AI, space colonization, environmental impact, and the nature of consciousness and memory, demonstrating a big-picture vision of the future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 5,
+      "explanation": "While technology is clearly enabled and advanced, the future depicted is not genuinely optimistic. It shows significant challenges, conflict, and a sense of loss, with voiceovers questioning humanity's purpose (00:15) and protests against technological integration (02:05-02:08).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "Advanced technology is integral to every aspect of the narrative, from the setting of futuristic cities and space stations (00:07-00:11) to the characters (robots, enhanced humans) and the central conflict involving data and biological samples (00:44-00:50).",
+      "confidence": "high"
+    }
+  ]
+}

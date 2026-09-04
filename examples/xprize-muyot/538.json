@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "Nano Squad: The Cure Learns",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total duration of exactly 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card, which includes Google, XPRIZE, Jed McCaleb, and Salesforce, appears from 02:58 to 03:15, meaning the last 15 seconds (03:00-03:15) are entirely comprised of this end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features advanced AI robots, nanotechnology in the form of a medical capsule and micro-healers, and futuristic medical facilities, all of which are elements of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video begins by stating humanity declared war on disease, leading to empty hospital rooms (00:19-00:26), and ends with a child sleeping peacefully after receiving the advanced treatment (02:56-02:58), portraying an optimistic future enabled by technology.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "The entire narrative revolves around a futuristic medical capsule (00:00-00:04) containing AI-driven micro-healers (00:31-00:34) deployed by a team of AI robots to combat disease within the human body (01:09-01:23), making technology central to the plot.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, language, or sexual content. The action is cartoonish and suitable for a general audience.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands are shown or mentioned within the narrative portion of the video, only on the end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video delivers a compelling story with clear character roles, a significant conflict, and a heroic sacrifice, all within a short runtime and with high-quality animation and voice acting.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story envisions a grand future where humanity has successfully waged 'war on disease' (00:19-00:20) through highly advanced, intelligent medical technology, leading to empty hospitals and a healthier population.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video strongly aligns with the mission by showcasing a future where advanced technology (AI, nanotechnology) is instrumental in overcoming disease, ultimately leading to a hopeful and optimistic outcome for humanity, despite the immediate dangers faced by the characters.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The narrative is entirely built around the concept of a 'new generation of medicine' (00:29-00:30) involving intelligent micro-healers and AI medical cores (00:31-00:34), with the robot characters themselves being advanced AI, making technology central to every aspect of the story.",
+      "confidence": "high"
+    }
+  ]
+}

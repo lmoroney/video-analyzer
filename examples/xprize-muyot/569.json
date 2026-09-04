@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "Through My Eyes - Future Vision XPRIZE Film",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video is exactly 3 minutes and 0 seconds long.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The last 19 seconds (from 2:41 to 3:00) feature an end card with the Future Vision XPRIZE logo, mission statement, and listed sponsors including Google, XPRIZE, Jed McCaleb, and Salesforce.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video introduces a fictional technology called \"Mirror\" that allows users to experience another person's life and memories, which is a concept beyond current scientific capabilities (0:25-0:29, 0:40-0:46).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": false,
+      "rating": null,
+      "explanation": "While the technology itself aims to foster understanding, the video portrays significant negative consequences and societal unrest due to its implementation, including forced empathy and protests (2:17-2:28), making the overall vision more cautionary than purely optimistic.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "The \"Mirror\" technology is the central plot device, driving the entire narrative by allowing characters to experience others' lives and subsequently causing societal and ethical conflicts (0:25-0:29, 0:40-0:46, 2:17-2:28).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains scenes of a police stop (1:15-1:22) and protests (2:22-2:24), which imply conflict, but there is no explicit or graphic violence, language, or sexual content shown.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": true,
+      "rating": null,
+      "explanation": "At 1:09, the text \"AirPods Max\" is visible on a shelf label in an electronics store, indicating a recognizable brand.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video presents a thought-provoking concept of experiencing others' memories, effectively showcasing both its potential and its ethical dilemmas within a concise narrative and high production value.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story explores a transformative technology that could fundamentally change human empathy and understanding, addressing profound societal issues and envisioning a future where personal experiences are shared, which is a very ambitious concept.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 3,
+      "explanation": "While the technology is forward-thinking, the narrative focuses heavily on the negative societal impacts and ethical conflicts arising from its use, leading to widespread protests and distress (2:17-2:28), which does not align with a genuinely optimistic vision.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The entire narrative revolves around the advanced \"Mirror\" technology, which is visually and conceptually integrated into every key plot point, from its introduction to its societal impact (0:25-0:29, 0:40-0:46, 2:01-2:07).",
+      "confidence": "high"
+    }
+  ]
+}

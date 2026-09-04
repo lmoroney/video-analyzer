@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "Future Frame Sci-Fi",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total length of 3 minutes and 10 seconds (03:10), which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card appears from 02:53 to 03:10, which is 17 seconds. It clearly displays 'FUTUREVISION X PRIZE', 'Google', 'Salesforce', and 'Jed McCaleb' among other sponsors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features futuristic cities, advanced robotics, alien-like structures, and terraforming, all characteristic elements of science fiction. The on-screen text also explicitly states 'Future Frame Sci-Fi' throughout the video.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "While initial scenes show decay and 'power failure' (00:11-01:10), the video transitions to a lush, green, technologically advanced city (02:07-02:17) and a vibrant, interconnected Earth (02:17-02:47), suggesting a positive, technology-enabled future after a period of transformation.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, with spider-like robots causing and then seemingly resolving a 'power failure' (00:11-01:10), a liquid forming a complex structure (00:23-00:33), and beetle-like robots terraforming a barren landscape into a thriving ecosystem (02:02-02:07).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, strong language, or sexual content. There is an explosion at 01:05, but it is not graphic.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "At 01:00, neon signs display 'KAIRO-DYNE' and 'VOID-NET', which are fictional brands within the video's sci-fi setting, not real-world recognizable brands.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "The video presents a clear, albeit abstract, narrative arc of decline, transformation, and renewal. The visuals are consistently high quality, and the voiceover effectively guides the viewer through the story's progression, making it compelling.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The narrative depicts a grand-scale transformation of Earth, from a decaying state to a fully revitalized, technologically advanced, and interconnected planet (02:17-02:47), demonstrating a very ambitious vision for the future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "Despite initial dystopian elements, the video culminates in a vision of a thriving, green, and technologically integrated world (02:07-02:47), with the final 'COLONIZE' message (02:47) implying a successful, albeit potentially transformative, path to a better future enabled by advanced technology.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "Advanced technology, such as self-replicating robots, terraforming agents, futuristic infrastructure, and global networks, is not merely background but is the driving force behind the world's transformation and the core of the narrative.",
+      "confidence": "high"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "A Wish for Water",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's total runtime is 2 minutes and 48 seconds (02:48), which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The last 15 seconds of the video (from 02:33 to 02:48) feature an end card displaying logos for Salesforce, Google, RANGE, XPRIZE, XSOVA, ARK INVEST, and Jed McCaleb.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video depicts a future vision of solving water scarcity through advanced technology, but it is presented as a plausible, technology-enabled future based on current scientific efforts, rather than traditional science fiction. The end credits state, \"Our characters are fictitious, but they are inspired by the many scientists who are working to solve water.\"",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video clearly portrays a hopeful and optimistic future where advanced technology, specifically water purification, solves global water crises, leading to clean water and thriving life (01:18-01:28, 01:45-01:59). The closing message \"Where water flows, life follows\" and the \"Future Vision XPRIZE\" branding (02:31) reinforce this.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, as the protagonist becomes a scientist working on innovative water purification technologies (01:18-01:28) to address the global water crisis, directly impacting the story's resolution.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video does not contain any explicit violence, language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The \"Global Water Technologies\" logo is visible throughout the video (e.g., 00:05, 00:55, 01:18), but it appears to be a fictional brand created for the narrative, not a recognizable real-world brand. The XPRIZE logo is also present (01:10) but is explicitly part of the competition context and also on the end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video presents a compelling narrative arc, from a personal connection to water in childhood to addressing a global crisis through scientific innovation. The production quality is high, effectively conveying the emotional journey and the impact of the problem and solution (00:21-00:29, 00:47-01:09, 01:18-01:28).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story tackles the monumental global water crisis, showing its widespread impact and then presenting a vision where advanced technology provides clean water for all, demonstrating a very ambitious and large-scale vision for humanity's future (00:50-00:54, 01:26-01:28, 01:55-01:59).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video directly aligns with the Future Vision XPRIZE mission by portraying a genuinely optimistic future where technology effectively solves the global water crisis, as explicitly stated in the end credits (02:01-02:04, 02:31).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The story effectively integrates advanced water purification technology into the narrative, showcasing its development in a lab with detailed visuals of molecular processes (01:18-01:25) and demonstrating its direct impact on solving the global water crisis.",
+      "confidence": "high"
+    }
+  ]
+}

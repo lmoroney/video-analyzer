@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "NUMINA: A Future Vision XPRIZE Film",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's total duration is 3 minutes and 15 seconds (03:15).",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The last 15 seconds of the video (02:59-03:15) display an end card featuring sponsors such as Google, XPRIZE, Jed McCaleb, and Salesforce.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video clearly depicts science fiction elements, including advanced space travel (00:00-00:07, 00:39-00:41), alien species and planets (00:30-00:33, 00:48-00:53, 01:08-01:15, 01:56-02:15), and time manipulation technology (01:24-01:30, 01:49-01:55).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video begins with a voiceover describing a future where hunger and death are ended (00:02-00:05), and concludes with the establishment of a \"Time Guardian Galactic Council\" (02:44-02:52) to protect timelines, suggesting a proactive and hopeful approach to future challenges.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is not merely background; it is a core element of the narrative. The plot revolves around time manipulation (01:24-01:30, 01:49-01:55), advanced space travel (00:34-00:41), and futuristic data management systems (01:31-01:35), all of which drive the story's conflict and resolution.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, strong language, or sexual content. A brief scene shows individuals being apprehended by guards (01:31-01:35), but it is not graphic.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "Aside from the sponsors listed on the end card (02:59-03:15), no other recognizable brands are featured within the video's narrative content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video presents a compelling narrative about time manipulation and the fight to preserve history, with high-quality visuals and consistent world-building throughout (e.g., futuristic cities 00:00-00:07, alien landscapes 00:48-00:53, advanced technology 01:49-01:55). The characters and conflict are introduced effectively within the short runtime.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story explores grand themes such as humanity's mastery over fundamental challenges like hunger and death (00:02-00:05), the intricate nature of spacetime, and the responsibility of safeguarding multiple realities (01:24-01:30, 01:49-01:55). The concept of a \"Time Guardian Galactic Council\" (02:44-02:52) demonstrates a vast, ambitious vision for the future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video directly aligns with the Future Vision XPRIZE mission by portraying a future where humanity has overcome significant challenges and actively works to protect its existence through advanced technology and a dedicated \"Time Guardian Galactic Council\" (02:44-02:52). The initial voiceover about ending hunger and death (00:02-00:05) sets an optimistic tone, despite the conflict presented.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The storytelling is inherently tech-forward, with advanced technology being the central driver of the plot, from time-altering devices (01:16-01:23, 01:24-01:30) and futuristic data interfaces (01:31-01:35, 01:49-01:55) to interstellar travel and advanced societal structures (00:00-00:07, 02:44-02:52). Technology is deeply integrated into every aspect of the world and the characters' actions.",
+      "confidence": "high"
+    }
+  ]
+}

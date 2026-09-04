@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=Y_9_g-2_210",
+  "video_title": "The Invisibles: Future Vision XPRIZE Film",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's total duration is exactly 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card, visible from 03:00 to 03:15, clearly displays Google, XPRIZE, Jed McCaleb, and Salesforce among its partners and sponsors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features elements such as advanced AI systems that measure and predict human potential (01:31-01:43), robotic companions (01:08), and a future where AI can control human destiny (02:31), all of which are characteristic of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video presents a dichotomy between AI that controls human potential and AI that sets it free (02:31-02:37). The concluding message, \"AI is a reflection of us. It's up to us to be better teachers\" (02:52), suggests a hopeful and technology-forward vision where humanity can guide AI towards an optimistic future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology, particularly artificial intelligence and robotics, is central to the narrative, driving the conflict between control and freedom (01:31-01:43, 02:29-02:37). The story revolves around how AI impacts human potential and choices.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video does not contain any explicit violence, language, or sexual content. While there are scenes implying death (a covered body at 00:38 and a coffin at 00:42), these are not explicit.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": true,
+      "rating": null,
+      "explanation": "A \"RAM\" logo is visible on the front of a pickup truck at 01:56.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "The video presents a compelling narrative about the dual potential of AI, effectively contrasting control with freedom. The production quality is high, with cinematic visuals and a clear, thought-provoking message, especially given the short format.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The story tackles profound questions about the future of humanity in relation to artificial intelligence, exploring themes of control, freedom, and the definition of human potential, demonstrating a very broad and ambitious scope.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 7,
+      "explanation": "While the video presents a technology-enabled future, it highlights both the dystopian potential of AI to control human lives (01:31-01:43, 02:31) and the hopeful vision of AI setting human potential free (02:35). The ultimate message (02:52) is a call to action for humanity to guide AI towards an optimistic future, rather than solely portraying an already optimistic one.",
+      "confidence": "medium"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The narrative is deeply intertwined with advanced technology, specifically AI and robotics. The AI's ability to measure, predict, and potentially control human lives is the central conflict, making the technology a fundamental driver of the story rather than a mere backdrop (e.g., 01:31-01:43, 02:31-02:37).",
+      "confidence": "high"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "The Last Promise - Future Vision XPRIZE",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total duration of 3 minutes and 15 seconds (03:15).",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card appears from 02:58 to 03:15, which is 17 seconds. The last 15 seconds (03:00-03:15) are part of this end card and clearly display Google, XPRIZE, Jed McCaleb, and Salesforce as sponsors/partners/donors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video depicts a futuristic city, advanced human-like robots, flying vehicles, spaceships, and an alien threat, all characteristic elements of science fiction (00:00-00:08, 00:46-00:56, 01:12-01:19).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "Despite a period of conflict and destruction, the video concludes with humanity and robots rebuilding and coexisting peacefully in a technologically advanced and green city, emphasizing kindness and unity (02:23-02:41, 02:50-02:56).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology, particularly advanced robots, is central to the narrative. Robots are shown as integral members of society, assisting in rescues (00:08-00:15, 01:39-01:41), comforting children (01:07-01:11, 01:20-01:27), and even influencing an alien entity through 'love' (02:07-02:22).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video shows scenes of destruction and conflict (01:12-01:20, 01:36-01:38), but no explicit violence, language, or sexual content is depicted.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable commercial brands are visible within the video content itself, outside of the final sponsor end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "The video presents a clear and emotionally resonant story arc: a utopian future, an alien threat, a period of destruction, and eventual rebuilding through unity and kindness. The visuals are consistently high quality, effectively conveying the narrative despite the short runtime.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The story explores grand themes such as human-AI coexistence, overcoming existential threats, and rebuilding society based on core values like kindness and love, envisioning a future where these principles lead to a thriving, unified world (02:28-02:31, 02:50-02:56).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video strongly aligns with the XPRIZE mission by showcasing a future where advanced technology (AI/robots) is not only integrated but also instrumental in fostering kindness, resilience, and a hopeful, rebuilt society after facing significant challenges. The narrative emphasizes positive human-AI collaboration and shared values.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The storytelling is tech-forward, with robots being central characters who display emotions, participate in daily life, and play crucial roles in crisis response and even in resolving conflict with an alien entity through empathy and 'love' (00:08-00:15, 00:26-00:35, 02:07-02:22).",
+      "confidence": "high"
+    }
+  ]
+}

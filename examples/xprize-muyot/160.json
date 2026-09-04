@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=PROTAEVUM_trailer",
+  "video_title": "PROTAEVUM",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total duration of 1 minute and 46 seconds, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's end card, from 1:28 to 1:46, features the Futurevision XPRIZE logo and lists Google, XPRIZE, Jed McCaleb, and Salesforce among its partners and sponsors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video depicts a futuristic setting with advanced technology, space travel, and exploration of distant planets, clearly placing it within the science fiction genre (e.g., 0:24-0:35, 0:39-0:45, 1:18-1:23).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video portrays a future where humanity explores space, driven by a child's dream, and lives in advanced, clean cities (e.g., 0:09-0:17, 0:24-0:35, 1:02-1:10), suggesting an optimistic and technology-forward vision.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is integral to the narrative, enabling space travel (0:24-0:38), futuristic living environments (0:39-0:45, 1:12-1:17), and the exploration of unknown celestial bodies (1:18-1:23).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, offensive language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands or product placements are visible within the video's narrative content, only in the final sponsor card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "The video tells a compelling story of a boy's lifelong dream of space exploration coming true, with high-quality visuals and a clear narrative arc from childhood wonder to adult achievement (0:03-0:23, 0:24-0:35, 1:18-1:23).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The story envisions a future where humanity has advanced significantly, enabling interstellar travel and the discovery of entirely new worlds, demonstrating a grand vision for humanity's future (0:14-0:17, 1:18-1:23).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video perfectly aligns with the XPRIZE mission by showcasing a highly optimistic, technology-enabled future where humanity successfully ventures beyond Earth to explore new frontiers, driven by curiosity and ambition (0:09-0:17, 0:24-0:35, 1:18-1:23).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "Advanced technology is central to the narrative, from the futuristic urban environments and holographic displays (0:54-1:01) to the sophisticated spacecraft and space suits (0:24-0:35, 1:18-1:23) that enable the characters' journey of exploration.",
+      "confidence": "high"
+    }
+  ]
+}

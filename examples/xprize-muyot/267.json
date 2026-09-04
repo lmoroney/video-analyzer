@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "Atlas: A Future Vision XPRIZE Film",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video is exactly 3 minutes and 15 seconds long.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The end card containing the listed sponsors appears from 02:59 to 03:15, which is 16 seconds, not 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features advanced technologies such as holographic communication (00:00), futuristic cityscapes (00:38), advanced robotics and drones in warfare (00:07), and human genetic reconstruction and memory synchronization (00:41-00:56, 02:02-02:20), all indicative of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "Despite scenes of war and a severe accident, the video emphasizes humanity's ability to rebuild cities (00:38-00:40) and bodies (00:41-00:56, 02:02-02:20) through advanced technology, culminating in the full recovery of the protagonist, Atlas (02:49-02:58). The end card explicitly states the mission of \"Building Optimistic Visions of the Future.\"",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, from holographic communication (00:00-00:06) and advanced military equipment (00:07-00:11) to the core plot device of 'Regen' technology for genetic reconstruction and memory synchronization (01:46-02:20) that saves Atlas's life.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "While there are scenes of war and a character is shown severely injured (01:42), the portrayal is not overly graphic or gory. There is no explicit language or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video displays fictional brands like 'XPRESSIFY' (00:35-00:37) and 'REGEN' (00:47, 00:52) within its narrative, but no real-world recognizable brands are used outside of the end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video presents a clear and emotionally engaging story of a boy's accident and miraculous recovery through advanced technology. The visual effects are high quality, effectively depicting futuristic settings and complex biological processes within the short runtime, making the narrative compelling.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story explores ambitious concepts such as rebuilding entire cities after devastation and the complete genetic and memory reconstruction of a human body, demonstrating a grand vision for humanity's future capabilities through technology.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video strongly aligns with the Future Vision XPRIZE mission by showcasing a future where advanced 'Regen' technology allows humanity to overcome catastrophic trauma and rebuild, presenting a genuinely optimistic and technology-enabled vision. The end card explicitly reinforces this alignment.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "Advanced technology is fundamental to the plot, from holographic communication and futuristic warfare to the central 'Regen' medical technology that enables Atlas's survival and complete recovery, making it an indispensable element of the storytelling.",
+      "confidence": "high"
+    }
+  ]
+}

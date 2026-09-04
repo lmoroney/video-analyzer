@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "Future Vision XPRIZE - Nothing to Steal",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total duration of 2 minutes and 40 seconds, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card appears from 02:23 to 02:40, lasting 17 seconds, and clearly displays logos for Google, XPRIZE, Jed McCaleb, and Salesforce among others.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video depicts futuristic cities (00:03), advanced agricultural domes (00:08), a global satellite network (00:10), medical nanobots (00:14), and a human settlement on what appears to be Mars (02:14), all indicative of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": false,
+      "rating": null,
+      "explanation": "While initially showing a technologically advanced world where 'They fixed everything' (00:04), the narrative quickly introduces a 'flaw' (01:09) and ends with the phrase 'Nothing to Steal' (02:21), suggesting a loss of something fundamental, making the overall vision more cautionary than purely optimistic.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, from the advanced infrastructure and medical solutions to the ubiquitous tablets that symbolize a system requiring trust (00:34, 00:41, 00:45, 00:50, 02:02, 02:08, 02:10), driving the core themes of the story.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, offensive language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands are visible in the video content itself, only on the final end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "The video effectively uses high-quality visuals and a concise narrative to present an intriguing concept about a technologically advanced future with a hidden cost, making it compelling and well-realized.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The story explores large-scale concepts such as global technological solutions, societal control, the nature of trust, and humanity's expansion into space (02:14), demonstrating a big-picture vision.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 4,
+      "explanation": "While technology-enabled, the story's underlying message about a 'flaw' (01:09) and 'Nothing to Steal' (02:21) suggests a trade-off or loss, making it less of a genuinely optimistic vision and more of a thought-provoking, nuanced one.",
+      "confidence": "medium"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "Advanced technology is integral to the narrative, from the futuristic settings and tools to the central role of the tablets in the societal structure, demonstrating tech-forward storytelling.",
+      "confidence": "high"
+    }
+  ]
+}

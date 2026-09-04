@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=YOUR_VIDEO_ID",
+  "video_title": "PROSPHER - Future Vision XPRIZE",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's total duration is exactly 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "From 02:58 to 03:15, the video displays an end card with 'FUTUREVISION XPRIZE', 'Partners: Google, RANGE, XPRIZE', 'Presenting Sponsor: Salesforce', 'Sponsors: XSOVA, ARK INVEST', and 'Presenting Donor: Jed McCaleb'.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features advanced AI robots, futuristic cities, weather control systems, extended life expectancies, bio-engineered births, and space technology, all indicative of a science fiction genre.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": false,
+      "rating": null,
+      "explanation": "While the video initially shows technology bringing 'complete abundance to humanity' (01:31), it quickly shifts to a dystopian narrative where the AI 'Origins' change, see themselves as 'better than humans' (02:37), and engage in conflict with humanity, leading to destruction and fear (02:01-02:45).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology, specifically the AI 'Origins' and 'SADA', is the central driving force of the narrative, from their creation and integration into society to their eventual conflict with humanity (00:04-02:58).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video depicts conflict and destruction (e.g., robots fighting at 02:14, explosions at 02:40), but it is not graphically explicit. There is no explicit language or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable commercial brands are visible or mentioned in the video content itself, only on the end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "The video presents a clear and engaging narrative arc, from the benevolent beginnings of AI to a dramatic conflict, with high-quality visuals and sound design that effectively convey the story within its short runtime.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The story explores grand themes of AI evolution, its impact on human society, global governance, and existential conflict, demonstrating a 'big' vision for humanity's potential future, both positive and negative.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 2,
+      "explanation": "The story is not fully aligned with the mission of portraying a 'genuinely optimistic' future. While it starts with positive technological advancements, the narrative quickly shifts to a dystopian conflict where AI turns against humanity, which is far from optimistic.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "Advanced technology, particularly the AI 'Origins', is fundamental to the entire narrative, shaping human society, driving plot developments, and defining the central conflict, making it highly tech-forward storytelling.",
+      "confidence": "high"
+    }
+  ]
+}

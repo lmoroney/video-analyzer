@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "Good Earth - Future Vision XPRIZE",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total duration of 2 minutes and 35 seconds, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card, which includes sponsors such as Salesforce, Google, Range, XPRIZE, XSOVA, ARK INVEST, and Jed McCaleb, appears from 02:19 to 02:35, covering the last 15 seconds of the video.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features advanced space habitats, a talking AI, and futuristic technology used to combat a global crop blight, clearly placing it in the science fiction genre (e.g., space habitat at 00:36, AI at 00:22).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The narrative focuses on overcoming a global crisis (crop blight) through scientific innovation and collaboration, leading to a hopeful outcome for humanity's future in space, explicitly stating 'hope' at 01:13.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the plot, from the 'ancient kitchen AI' (Jammy) that provides information (00:22) to the advanced space habitats (00:36) and the 'lichenized fungal holobiont' (01:08) that offers a solution to the blight.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "While there is an explosion at a space station (01:30), it is not graphic or explicit violence. There is no explicit language or sexual content present in the video.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands are shown or mentioned within the narrative content of the video, only on the final end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video presents a clear and engaging story about saving humanity's food supply, with high-quality animation and character design that effectively conveys emotion and plot points, making it compelling and well-realized.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story tackles a global existential threat (crop failure) and envisions humanity living in vast, self-sustaining space habitats, utilizing advanced biotechnology to ensure survival and prosperity, demonstrating a very ambitious vision for the future (e.g., space habitat at 00:36, solution at 01:08).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video directly addresses a major challenge with a technology-driven solution, leading to a clear message of 'hope' (01:13) and a positive outcome for humanity, perfectly aligning with the competition's focus on optimistic, technology-enabled futures.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "Advanced technology, such as the sentient AI, space colonization, and biotechnological solutions, is not merely background but actively drives the plot and character interactions, making it a tech-forward narrative (e.g., AI character Jammy at 00:22, space travel for the sample at 01:20).",
+      "confidence": "high"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=y_2_2_2_2_2",
+  "video_title": "Future Vision XPRIZE: Building Optimistic Visions of the Future",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's total duration is exactly 3 minutes and 15 seconds (03:15).",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card appears from 02:59 to 03:15 and clearly displays logos for Google, XPRIZE, Jed McCaleb, and Salesforce as sponsors/partners.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features advanced technology such as futuristic flying suits, holographic interfaces, space elevators, and genetically-inspired human evolution, all characteristic of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The visuals consistently depict advanced human capabilities, interconnectedness, and a clean, high-tech urban and global environment. The concluding dialogue at 02:48-02:53, 'We're asking humanity to choose,' suggests an empowering and optimistic future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, showcasing advanced suits for flight (00:10, 00:45), holographic interfaces for data analysis (00:38, 01:44, 02:24), and futuristic infrastructure like massive towers (00:45, 01:07).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, offensive language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands are shown or mentioned within the video content itself, only on the final end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video presents a visually stunning and conceptually rich narrative about human evolution and technological advancement. While abstract, the high-quality CGI and consistent thematic elements create a compelling vision.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video envisions humanity evolving with advanced capabilities, building monumental structures like space elevators, and exploring new forms of collective existence, demonstrating a grand and expansive vision for the future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video strongly aligns with the XPRIZE mission by consistently depicting an optimistic future where technology empowers humanity, enables new forms of connection, and facilitates grand achievements, as seen in the flying figures and futuristic cities.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The narrative is driven by and showcases advanced technology, from the DNA-inspired flying suits (00:09-00:29) and holographic interfaces (00:38-00:44, 02:24-02:34) to the futuristic infrastructure and augmented reality elements, all integral to the characters' experiences and the world presented.",
+      "confidence": "high"
+    }
+  ]
+}

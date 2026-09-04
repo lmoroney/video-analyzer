@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "The Messengers - Future Vision XPRIZE",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's total runtime is exactly 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The end card appears from 2:51 to 3:15, which is 24 seconds, not 15 seconds. It does contain the mentioned sponsors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features elements like unexplained disappearances and reappearances (00:15-00:36, 00:48-00:57, 00:58-01:08), a mysterious symbol (02:00), a global map tracking individuals (02:03, 02:19), and an alien-like being (02:41), all indicative of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video's tone is suspenseful and mysterious, with characters being hunted and a sense of urgency and danger (e.g., 02:27-02:33). The narrative suggests a hidden truth and a need to \"stop them\" (02:06, 02:24), which does not align with a hopeful or optimistic vision.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, with a scientist discovering a mysterious symbol (02:00) and a global tracking system being used to monitor individuals (02:03, 02:19). The plot revolves around uncovering a hidden truth, likely enabled or revealed by advanced understanding.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": true,
+      "rating": null,
+      "explanation": "Recognizable brands like Toyota (00:17, 00:28, 00:30, 00:35) and Chevrolet (02:28) are visible in the video.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "The video presents a compelling mystery with high production value, effectively building suspense through its narrative structure and visual storytelling.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The narrative explores grand themes of hidden truths, global phenomena, and potential extraterrestrial contact, suggesting a significant, transformative future for humanity.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 2,
+      "explanation": "While technology is present, the story's tone is one of mystery and impending danger, with characters being hunted and a hidden truth being uncovered, which does not align with a genuinely optimistic vision of the future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "The narrative heavily relies on concepts of advanced scientific discovery, global tracking, and interconnected individuals, demonstrating a strong integration of technology into the core plot.",
+      "confidence": "high"
+    }
+  ]
+}

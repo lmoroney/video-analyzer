@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=y_2_2_2_2_2",
+  "video_title": "Shadow of History - Future Vision XPRIZE Trailer",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total duration of 2 minutes and 14 seconds, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card appears from 01:57 to 02:14, which is 17 seconds, and clearly displays the logos and names of Google, XPRIZE, Jed McCaleb, and Salesforce as partners and sponsors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video begins in historical Japan but quickly transitions to a futuristic world with advanced technology, robots, flying vehicles, and a 'Global History Archive,' indicating a science fiction genre (00:31-00:45).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The futuristic world is depicted as clean, green, and peaceful, with technology used for healing, environmental restoration, and global unity. The narration explicitly states, 'Humanity chose technology to heal, not to divide' (00:56) and 'This world was built by hope' (01:17).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the plot, from the protagonist waking up in a futuristic hospital with medical robots (00:31-00:36) to the use of smart mirrors (00:39), environmental drones (01:01-01:02), automated vertical farms (01:03-01:04), and a 'Global History Archive' that reveals a crucial plot point (01:23-01:27).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "While there are battle scenes and a burning village (00:11-00:15, 00:24-00:30), the violence is stylized and not explicit or graphic. There is no strong language or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The protagonist is seen wearing a t-shirt with an Adidas logo at multiple points in the futuristic setting (e.g., 00:48, 00:51).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video presents a highly engaging premise of a samurai awakening in a utopian future to uncover a hidden truth about his past. The visuals are consistently high-quality, and the narrative, though brief, is clear and emotionally resonant, making it very compelling.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story envisions a future where humanity has achieved global unity, healed the planet, and leveraged technology to overcome major challenges like environmental degradation and hunger, demonstrating a very ambitious and expansive vision for humanity's future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video explicitly highlights technology's role in healing, uniting humanity, and restoring the planet, aligning perfectly with the competition's mission of building optimistic, technology-enabled visions of the future. The narration reinforces this by stating, 'Humanity chose technology to heal, not to divide' (00:56).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "Advanced technology is not merely background but a driving force in the narrative. The protagonist's journey begins with his awakening in a tech-filled hospital, his exploration of a technologically advanced city, and his discovery of historical truths through a digital archive, all of which are integral to the plot.",
+      "confidence": "high"
+    }
+  ]
+}

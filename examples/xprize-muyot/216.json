@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "The True Layer",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's total duration is exactly 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's end card, from 02:50 to 03:15, clearly displays 'FUTUREVISION X PRIZE', 'Partners Google RANGE', 'Presenting Sponsor: salesforce', 'Sponsors XSOVA ARK INVEST', and 'Presenting Donor Jed McCaleb'.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features advanced augmented reality glasses, futuristic cityscapes, and the ability to digitally manipulate perceived reality, which are all hallmarks of science fiction (e.g., 00:03-00:10, 00:26-00:29).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "While there's a moment of system collapse and despair (01:49-02:02), the video concludes with the protagonist and another person appreciating a real plant, suggesting that technology can ultimately be used to enhance and connect with the natural world, leading to a hopeful future (02:27-02:49).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "The augmented reality glasses are central to the entire narrative, driving the plot as the protagonist uses them to perceive and interact with the environment, leading to both digital manipulation and a realization of real-world value (e.g., 00:26-00:49, 01:49-02:02).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, offensive language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands are visible or mentioned within the main content of the video, only on the end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "The video tells a compelling story about the balance between digital and real worlds, with high-quality visual effects and a clear narrative arc, effectively realized within its short runtime.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The story explores profound themes about human perception, the role of technology in shaping our reality, and the importance of genuine connection to nature and each other in a highly advanced society, demonstrating a big-picture vision.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video aligns well with the XPRIZE mission by showcasing a future where technology, despite initial pitfalls, ultimately enables a deeper appreciation for the natural world and human connection, leading to a genuinely optimistic outcome (02:27-02:49).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The entire narrative is driven by the protagonist's interaction with advanced AR glasses, with visual effects seamlessly integrating holographic interfaces and environmental transformations directly into his field of vision, making technology an intrinsic part of the storytelling (e.g., 00:26-00:49, 01:11-01:19).",
+      "confidence": "high"
+    }
+  ]
+}

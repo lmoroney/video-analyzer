@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "Before the Darkness - Epic Time Travel Adventure",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's total runtime is 2 minutes and 26 seconds, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The last 15 seconds of the video (from 02:11 to 02:26) display an underwater scene followed by the text \"BEFORE THE DARKNESS\" and then \"STUDIO FAUNA\" reflected in a deer's eye. There are no sponsors like Google, XPRIZE, Jed McCaleb, or Salesforce shown.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video clearly depicts science fiction elements such as time travel (00:29-00:32, 00:48-00:49), advanced steampunk technology (00:10-00:19, 00:20-00:24, 00:32-00:33, 00:45-00:48), alien creatures (00:33-00:34, 00:54-00:55), and alternate timelines/worlds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video's title \"BEFORE THE DARKNESS\" and the voiceover mentioning \"annihilation\" (00:08), \"devastating paradox\" (00:50), and the question \"Will that final light save our timeline or become the very doom that sinks this empire forever?\" (01:56-02:04) suggest a narrative of impending doom and struggle, not a hopeful or optimistic vision of humanity's future. The final scene of Atlantis being submerged (02:04-02:10) reinforces this.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, with the time machine (00:29-00:32, 00:48-00:49, 01:30-01:33) enabling the time travelers' journey. Characters use advanced gadgets like an energy vial (00:20-00:24), a mechanical bee-drone for injections (00:58-01:00), and energy-based weapons/defenses (01:19-01:23) to overcome obstacles and adversaries.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains action and combat scenes, such as dinosaurs fighting (00:51-00:52) and characters engaging in battles (01:13-01:23), but there is no explicit gore, strong language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "Aside from the \"STUDIO FAUNA\" production credit at the end (02:23-02:26), no other recognizable brands or product placements are used in the video.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "As a trailer, the video effectively sets up a compelling premise involving time travel, ancient civilizations, and a looming threat to the timeline (00:05-00:09, 01:56-02:04). The visuals are consistently high quality and imaginative, showcasing diverse and detailed environments and characters (e.g., steampunk city 00:14-00:19, alien jungle 00:35-00:38, Atlantis 01:43-01:45), indicating a well-realized concept within its production.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The narrative explicitly deals with \"a story of existence and annihilation\" (00:08) and the characters' mission to prevent a \"devastating paradox\" (00:50) that could doom an entire empire and timeline (01:56-02:04). This scope, spanning different eras and civilizations, demonstrates a very big-picture approach to humanity's future and its potential threats.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 3,
+      "explanation": "The video's central theme revolves around preventing \"the darkness\" and a \"devastating paradox\" that threatens to \"sink this empire forever\" (01:56-02:04). While technology is used to combat these threats, the overall tone is one of struggle and impending doom, rather than a genuinely optimistic or thriving technology-enabled future as envisioned by the XPRIZE competition.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The entire visual and narrative framework is built around advanced technology, from the intricate steampunk city (00:14-00:19) and time machine (00:29-00:32) to the specialized gadgets used by the protagonists (00:20-00:24, 00:58-01:00, 01:19-01:23). Technology is not merely background but an active and essential component of the characters' abilities, challenges, and the overall plot, demonstrating strong tech-forward storytelling.",
+      "confidence": "high"
+    }
+  ]
+}

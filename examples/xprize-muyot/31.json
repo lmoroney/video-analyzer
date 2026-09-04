@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "OBZAV: Building Optimistic Visions of the Future",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's total duration is 3 minutes and 5 seconds (03:05), which is less than or equal to 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The last 15 seconds of the video (from 02:50 to 03:05) display an end card featuring sponsors including Salesforce, Google, XPRIZE, and Jed McCaleb.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video depicts a futuristic setting with advanced technology such as holographic displays, flying vehicles, neural education programs (00:03-00:08), quantum communication experiments (00:09-00:14, 01:40-01:43), and the concept of connecting with higher conscious entities, all characteristic of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "While initially exploring a potential downside of instant gratification through technology (00:27), the video ultimately portrays a hopeful future where advanced technology, specifically the \"OBZAV\" device, enables a deeper connection with nature and higher consciousness, leading to a sense of peace and wonder (01:31-01:39, 01:55-02:09, 02:23-02:27).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, driving the plot through concepts like the \"Neural Education Program\" (00:03-00:08), quantum correlation analysis (00:09-00:14), and the \"OBZAV\" device (00:51-01:00) which facilitates the boy's ability to become \"receptive\" and connect with nature and potentially higher consciousness (01:31-01:39, 01:55-01:58).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, language, or sexual content. The only minor destructive act is a cup shattering (00:31-00:33), which is not explicit violence.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": true,
+      "rating": null,
+      "explanation": "An Apple logo is visible on a building in the background at 01:50, in addition to the brands shown on the end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video presents a compelling narrative about finding deeper meaning beyond technological saturation, with high-quality visuals and a clear emotional arc for the main character. The production values are excellent, effectively realizing the futuristic and natural settings.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story thinks very big, exploring profound themes such as the evolution of human consciousness, quantum communication with higher entities, and humanity's place in a technologically advanced yet spiritually connected future (00:33-00:45, 01:31-01:39, 01:55-02:03).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The story strongly aligns with the mission by portraying a future where technology, specifically the \"OBZAV\" device and quantum communication, enables a genuinely optimistic outcome: a deeper connection between humanity, nature, and higher consciousness, leading to a more receptive and harmonious existence (01:31-01:39, 01:55-02:03, 02:36-02:41).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The storytelling is highly tech-forward, with advanced technologies like neural education programs (00:03-00:08), quantum correlation analysis (00:09-00:14), and the \"OBZAV\" device (00:51-01:00) being central to the narrative and the characters' experiences, driving the plot and enabling their transformation.",
+      "confidence": "high"
+    }
+  ]
+}

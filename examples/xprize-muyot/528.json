@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "The Shepherd Species",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total duration of 3 minutes and 11 seconds, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card, from 02:50 to 03:11, clearly displays the logos for Google, XPRIZE, Jed McCaleb, and Salesforce as partners and sponsors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features advanced technology, space travel, extraterrestrial life, and futuristic societies (00:40, 01:16, 01:54, 02:21), which are all hallmarks of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video depicts humanity using technology to heal Earth, live in harmony with nature, and engage in peaceful first contact with an alien species, culminating in the message 'The future is not something we inherit. It is something we choose.' (02:47).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, enabling environmental monitoring (00:12), off-world resource extraction (00:40), space travel (01:07), and communication with alien life (01:32).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands are visible within the narrative content of the video, only on the final end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video tells a concise yet impactful story of humanity's evolution towards stewardship, with strong visuals and a clear narrative arc, effectively realized within its short runtime.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story envisions humanity achieving interstellar travel, colonizing space to preserve Earth, and making peaceful first contact with alien life, demonstrating a grand vision for the future (00:40, 01:07, 01:54).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video perfectly aligns with the XPRIZE mission by showcasing a future where technology enables environmental healing, sustainable living, and peaceful interspecies relations, driven by conscious choices (02:47).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "Advanced technology is integral to the plot, from Earth's ecological monitoring systems (00:12) and space-based resource management (00:40) to the spaceship's capabilities for interstellar travel and alien interaction (01:16, 01:32), driving the core themes of the story.",
+      "confidence": "high"
+    }
+  ]
+}

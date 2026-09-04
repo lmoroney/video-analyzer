@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=24242424242",
+  "video_title": "The Future We Dream Of",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total duration of 3 minutes and 12 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card appears from 02:55 to 03:12, which is 17 seconds, and clearly displays the logos for Google, XPRIZE, Jed McCaleb, and Salesforce as partners and sponsors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video depicts highly advanced futuristic cities, flying vehicles, and holographic interfaces (e.g., 00:00-00:11, 01:54-02:10), which are elements of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video consistently presents a positive vision of a future where humanity is connected, collaborative, and uses technology for good, emphasizing themes of love, kindness, and shared purpose (e.g., 00:00-00:11, 01:16-01:24, 01:54-02:10).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is shown as a key enabler for global connection and shared resources (01:00-01:08, 02:02-02:10), and the voiceover explicitly states, 'Technology becomes our servant, not our master' (01:55).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, language, or sexual content. It focuses on positive human interactions and futuristic visions.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands are visible within the main content of the video, only on the end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video effectively tells a story of humanity's journey from disconnection to a harmonious, technologically advanced future, with consistent and high-quality visuals that support the narrative.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The narrative envisions a global transformation towards unity, collaboration, and a sustainable, compassionate society, with concepts like 'The Mothership' and 'Global Light Grid' (02:23-02:55) demonstrating a grand vision.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video's core message of an optimistic, technology-enabled future, where humanity thrives through connection and shared purpose, perfectly aligns with the stated mission of the Future Vision XPRIZE, as explicitly mentioned on the end card (02:55).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "Advanced technologies like futuristic cities, flying vehicles, holographic interfaces for health and knowledge, and a global interconnected 'light grid' are central to the narrative, demonstrating how technology facilitates connection, shared resources, and individual well-being (e.g., 01:00-01:08, 02:02-02:10).",
+      "confidence": "high"
+    }
+  ]
+}

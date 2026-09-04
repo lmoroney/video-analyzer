@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "MARÅNA WORLD ON FIRE - Future Vision XPRIZE",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's total duration is 2 minutes and 19 seconds, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The last 19 seconds of the video (from 02:00 to 02:19) display an end card featuring the logos of Google, XPRIZE, and Salesforce, and lists Jed McCaleb as a presenting donor.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video clearly depicts advanced futuristic technology, including high-speed trains (00:20), flying vehicles (00:29), underwater submersibles (01:10), holographic interfaces (01:00), and futuristic cities (01:16), all of which are characteristic of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": false,
+      "rating": null,
+      "explanation": "While the video showcases advanced technology and beautiful societies (e.g., 00:20, 01:16), it also contains strong themes of conflict, surveillance (01:00), and a sense of impending doom, culminating in the title \"MARÅNA WORLD ON FIRE\" (01:57), which contradicts a purely optimistic vision.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is integral to the narrative, showcased through advanced transportation (00:20, 00:29, 01:10), communication and surveillance tools (01:00, 01:04), and sustainable farming with holographic data (01:22), all of which drive the story's setting and potential conflicts.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video does not contain any explicit violence, offensive language, or sexual content. While there are scenes implying conflict or danger (e.g., tactical gear at 01:00), no direct violence is depicted.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable commercial brands or logos are visible within the video content itself, apart from the sponsors listed on the end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "The video presents a visually stunning and intriguing world with high production quality. The fragmented narrative, supported by evocative voiceovers and music, hints at a deep story of an advanced oceanic civilization facing external threats, making it quite compelling despite its short length.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The story envisions a future where humanity has developed an advanced, sustainable oceanic civilization, complete with unique architecture, transportation, and cultural practices, demonstrating a grand and expansive vision for humanity's future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 6,
+      "explanation": "While the video showcases a technology-enabled future with impressive advancements (00:20, 01:16), the underlying narrative includes themes of conflict, external threats (00:40, 01:34), and the concluding title \"WORLD ON FIRE\" (01:57), which detracts from a genuinely optimistic portrayal of humanity's future.",
+      "confidence": "medium"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video excels in tech-forward storytelling, integrating advanced technology seamlessly into the daily lives and critical functions of the society, from holographic farming data (01:22) and navigation (01:27) to futuristic transportation (00:20, 00:29) and defense systems (01:04), making it central to the narrative.",
+      "confidence": "high"
+    }
+  ]
+}

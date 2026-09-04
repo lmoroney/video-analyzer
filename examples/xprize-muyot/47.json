@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "The Autobiography of Astra Girl V",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video is exactly 3 minutes and 0 seconds long, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The last 15 seconds of the video (02:45-03:00) feature an end card displaying sponsors such as Google, XPRIZE, Jed McCaleb, and Salesforce.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video portrays a futuristic society with advanced technology, such as holographic interfaces, automated delivery drones, and sophisticated brain-scanning equipment (00:00-01:00, 01:30-01:55), which are hallmarks of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video depicts a future where humanity has optimized society for safety, health, and predictability (00:16-00:18), with lush, green cities and advanced technology improving life. The discovery of \"soul\" is presented as a positive breakthrough, not a negative one.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is integral to the narrative, driving the plot through concepts like \"optimization\" of human biology and mind (00:23-00:26), personalized protocols (00:31-00:36), and advanced brain-scanning experiments (00:48-00:55, 01:30-01:55) to understand human emotions.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, offensive language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands are shown or mentioned within the narrative of the video, only in the end card credits.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video presents a compelling narrative about a technologically advanced society grappling with human anxiety, leading to a profound discovery of \"soul.\" The story is well-paced and visually stunning, effectively conveying its message within the short runtime.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story envisions a future where humanity has achieved a highly optimized and sustainable society, and is now exploring the fundamental nature of human consciousness and emotion (\"soul\") through advanced scientific inquiry, representing a very ambitious vision for humanity's future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video strongly aligns with the XPRIZE mission by showcasing a future where technology has enabled a safer, healthier, and more predictable world (00:16-00:18), and where scientific inquiry, even into complex human emotions, leads to positive breakthroughs and deeper understanding.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The storytelling is highly tech-forward, with advanced technology not merely as background but as a central driver of the plot, from optimizing human bodies and minds (00:23-00:26) to diagnosing and understanding emotions through complex brain mapping and data analysis (00:48-00:55, 01:30-01:55).",
+      "confidence": "high"
+    }
+  ]
+}

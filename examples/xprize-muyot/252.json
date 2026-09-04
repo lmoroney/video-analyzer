@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "The Girl Made Of Almost",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total length of 3 minutes and 6 seconds, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card appears from 02:49 to 03:06, which is the last 17 seconds of the video, and it clearly displays Google, XPRIZE, Jed McCaleb, and Salesforce as sponsors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features advanced technology, spaceships, futuristic cities, and intergalactic travel, all characteristic elements of science fiction (e.g., 00:02-00:06, 00:51-00:53, 01:28-01:32).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The narrative centers on a doctor using advanced technology to save a dying girl, with a voiceover emphasizing carrying 'light between the worlds' (00:18). The ending shows the girl revived and glowing with cosmic energy (02:42-02:48), suggesting a hopeful outcome enabled by technology.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the plot, from the doctor's healing tools (00:14, 00:41) and the 'reliquary of souls' (00:47) used to save the girl, to the spaceships and futuristic environments that facilitate the quest.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "While there are action sequences and combat (e.g., 01:29-01:32, 02:11-02:13), they are stylized and do not contain explicit violence, language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands are visible within the main content of the video, only on the end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "The video presents a clear and emotionally resonant story of a quest to save a life, with impressive visuals and special effects that effectively convey the narrative within the trailer format.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The story involves intergalactic travel, advanced medical technology, and a grand mission to 'bind what man has broken' and 'carry light between the worlds' (00:15-00:18), demonstrating a very expansive vision of humanity's future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video's core theme of using advanced technology for healing and hope, culminating in the successful revival of the girl, perfectly aligns with the optimistic, technology-enabled future promoted by the Future Vision XPRIZE competition, as stated on the end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "Technology is not merely a backdrop but a crucial driver of the plot. The doctor's tools, the 'reliquary of souls,' and the various futuristic devices and environments are all integral to the quest and the resolution of the story.",
+      "confidence": "high"
+    }
+  ]
+}

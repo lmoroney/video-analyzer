@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "HUMAINITY | Future Vision X Prize",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's total runtime is exactly 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "From 3:00 to 3:15, the video displays an end card featuring the Future Vision XPRIZE logo and sponsors including Google, XPRIZE, Jed McCaleb, and Salesforce.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features advanced technologies such as self-driving vehicles (0:45), AI interfaces (0:20, 0:50), and a 'Directed Organic Restoration' protocol at the 'Helix Center' (1:45) that aims to restore life, suggesting a futuristic, science fiction setting.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video presents a hopeful vision where advanced technology, specifically the D.O.R. protocol and GAIA, offers a 'second chance at life' (0:00) and the restoration of loved ones, culminating in the image of a baby and the title 'HUMAINITY' (2:52-2:55), despite some societal concerns (2:26).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, with the plot driven by the 'Helix Center's' D.O.R. protocol and GAIA (1:40-2:00), which are explicitly discussed as means of restoring life. Characters also interact with AI (0:50) and debate the ethical implications of these advancements (0:20, 1:12, 2:26).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video does not contain any explicit violence, language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "Aside from the brands displayed on the end card (3:00-3:15), no other recognizable brands are visible or mentioned within the video content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video presents a compelling and emotionally resonant story about a second chance at life and the concept of 'longing' (1:03), with high production values, strong acting, and effective pacing that builds intrigue and emotional depth.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The story tackles profound questions about life, death, and humanity's future by introducing advanced AI and a 'Directed Organic Restoration' protocol (1:45) that offers a 'second chance at life' (0:00), pushing the boundaries of what it means to be human and to overcome loss.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video strongly aligns with the mission by portraying a future where technology, specifically the D.O.R. protocol and GAIA, offers a genuinely optimistic path to overcoming loss and providing a 'second chance at life' (0:00), ultimately leading to 'HUMAINITY' (2:55). Although protests are shown (2:26), the central narrative emphasizes the positive potential.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The storytelling is tech-forward as advanced technologies like the AI assistant (0:50), the D.O.R. protocol, and GAIA (1:45-1:59) are not merely background elements but are deeply integrated into the narrative, driving the plot, character interactions, and the central themes of the story.",
+      "confidence": "high"
+    }
+  ]
+}

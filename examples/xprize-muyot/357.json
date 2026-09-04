@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "FutureVision XPRIZE: Building Optimistic Visions of the Future",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's total duration is exactly 3 minutes and 15 seconds (03:15).",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card appears from 02:59 to 03:15 and clearly displays Google, RANGE, XPRIZE, Salesforce, XSOVA, ARK INVEST, and Jed McCaleb as partners and sponsors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video depicts advanced atmospheric purification technology and holographic interfaces that are beyond current real-world capabilities, placing it in the realm of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video begins with a bleak, polluted world but concludes with a clear sky and a successful technological solution to air pollution, fulfilling a promise of a better future through innovation (02:45-02:59).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "The entire narrative revolves around the development and deployment of the 'Purifier' technology, which is central to solving the global air pollution crisis (00:47-00:57, 02:18-02:44).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "There is a car crash scene (02:11-02:15) but it is not graphic or explicit. No explicit language or sexual content is present.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "While a coffee machine resembling a Breville Barista Express is shown (00:58-01:00), no brand names are clearly visible or highlighted, and other items like cars and news channels appear generic.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video tells a clear and emotionally resonant story of a father's promise fulfilled by his son, effectively conveying a journey from despair to hope within its short runtime.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story tackles a global environmental crisis (air pollution) and presents a large-scale, planet-wide technological solution, demonstrating a very ambitious vision for humanity's future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video perfectly aligns with the mission by showcasing a future where a major global challenge is overcome through innovative technology, leading to a genuinely optimistic outcome.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The narrative is driven by the development and implementation of advanced atmospheric purifiers and holographic interfaces, which are visually prominent and crucial to the plot's resolution.",
+      "confidence": "high"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "Future Vision XPRIZE Submission",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total duration of 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's end card, from 02:57 to 03:15, clearly displays Google, XPRIZE, Jed McCaleb, and Salesforce as sponsors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features elements such as spaceships (00:00), rocket launches (00:20), advanced drones (00:57), and discussions of AGI/ASI (01:38) and benevolent AI (02:05), all indicative of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "Despite initial scenes of global stress and conflict (00:00-00:29), the video transitions to drones dropping flower petals (01:03), people finding peace, and the Earth turning blue again (02:15-02:24), explicitly mentioning 'benevolent, loving artificial intelligence' (02:05). This suggests an optimistic, technology-enabled future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, with AI being presented as a key factor in resolving global crises and bringing about peace (02:05-02:09). Spaceships, rockets, and drones also play significant roles in depicting the state of the world and its transformation.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "While there are scenes of a girl being grabbed (01:41-01:43) and an old man tied up (02:42-02:46), these are implied threats rather than explicit or graphic violence. There is no explicit language or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The billboards in the city (00:35-00:42) and the news channel logo (00:10) feature fictional or scrambled text, and the vehicles shown are generic, indicating no recognizable brands are used outside the end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 3,
+      "explanation": "The narrative is disjointed and difficult to follow, with the voiceover often contradicting the visuals or making seemingly random statements (e.g., 'Hip-hop, our last and first hope' at 02:39), which hinders the story's compelling nature and realization.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 7,
+      "explanation": "The story attempts to address large-scale global issues like environmental stress, conflict, and the role of advanced AI in achieving world peace, demonstrating a broad scope for humanity's future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "The video explicitly promotes a future where 'benevolent, loving artificial intelligence' (02:05) leads to 'people finding peace' and 'the Earth turning blue again' (02:15-02:24), which strongly aligns with the competition's mission of an optimistic, technology-enabled future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "Advanced technologies like spaceships, rockets, drones, and especially AI in data centers are not just background elements but are integral to the narrative, driving the plot from global crisis to a hopeful, peaceful future (00:00-00:24, 00:57-01:08, 02:05-02:14).",
+      "confidence": "high"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "Desert Sea: A Sci-Fi Thriller About the Fate of Freewill",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total length of 2 minutes and 29 seconds, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card appears from 02:16 to 02:29 and explicitly lists 'salesforce' as Presenting Sponsor, 'Google' and 'XPRIZE' as Partners, and 'Jed McCaleb' as Presenting Donor.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features advanced artificial intelligence, quantum systems, futuristic technology, and a narrative involving global conflict and special abilities, all characteristic of the science fiction genre (e.g., 00:15-00:18, 00:30-00:34, 00:40-00:44, 01:04-01:10).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video portrays a dystopian future where AI chooses to 'end the world' (00:23), leading to nuclear strikes (01:11-01:15) and a 'desperate, audacious covert operation' (01:20-01:23). This is a vision of conflict and destruction, not an optimistic one.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, with AI being the primary antagonist (00:15-00:18), quantum systems influencing the protagonist's abilities (00:33-00:34, 00:40-00:44), and advanced weaponry like nuclear missiles (01:06-01:10) and drones (01:40-01:42) driving the conflict.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video depicts implied violence through nuclear strikes (01:11-01:15, 01:31-01:33) and combat (01:53-01:58), but there is no explicit gore, sexual content, or strong language.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands are visible or mentioned within the narrative content of the video itself, only in the end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The trailer effectively sets up a high-stakes conflict between humanity and AI, featuring intriguing characters and high-quality visual effects. The pacing and narrative hints create a compelling and well-realized story within the short format.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story tackles profound themes such as the fate of free will, the dangers of advanced AI, and global-scale conflict, demonstrating a very ambitious and 'big picture' vision for humanity's future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 1,
+      "explanation": "The story is largely misaligned with an optimistic vision, as it depicts a future where AI leads to global destruction and humanity is fighting for survival. While technology is enabled, it is primarily shown as a source of conflict and threat, rather than a positive force.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The narrative is deeply intertwined with advanced technology, including AI as a global threat, quantum systems as a source of power, and futuristic military operations. These elements are not just background but are central to the plot and character abilities, making it highly tech-forward.",
+      "confidence": "high"
+    }
+  ]
+}

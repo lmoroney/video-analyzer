@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "Future Vision XPRIZE",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's total runtime is exactly 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The last 15 seconds (3:00-3:15) display an end card with \"FUTUREVISION XPRIZE\" and lists sponsors including Google, XPRIZE, Jed McCaleb, and Salesforce.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video depicts advanced futuristic technologies such as flying vehicles (0:01, 1:11, 1:17), hoverboards (1:13, 1:25), and futuristic cities (0:34, 1:27, 1:35), along with a narrative about \"dreams\" and \"channels\" that suggests a highly advanced or simulated reality.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video showcases clean, green, and technologically advanced cities and landscapes (1:05-1:10, 1:27-1:33), with people utilizing advanced, eco-friendly transportation. The overall aesthetic and the \"Future Vision XPRIZE\" mission suggest an optimistic, technology-forward future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is integral to the narrative, with characters interacting with advanced interfaces (0:07, 0:21-0:22), utilizing hoverboards (1:13, 1:25) and flying vehicles (0:01, 1:11, 1:17). The central plot revolves around a technology-driven \"dream\" contest and a futuristic floating city (1:35, 2:35).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, strong language, or sexual content. A brief scene of stylized capoeira-like movement (1:14-1:16) is non-violent.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands or logos are visible within the video content, apart from those displayed on the end card (3:00-3:15).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video presents a compelling, albeit brief, narrative about a competition to shape the future through \"dreams\" and \"channels,\" with high production quality and engaging visuals that effectively realize the story within its constraints.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The narrative explicitly focuses on shaping humanity's future through a \"dream\" contest, showcasing grand visions of advanced cities (1:27-1:33) and innovative technologies like the floating city (1:35), demonstrating a very big-picture approach to the future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video's explicit title and content, featuring advanced technology enabling new and positive ways of life in futuristic settings (e.g., green cities, advanced transport, floating structures), perfectly align with the mission of portraying a genuinely optimistic, technology-enabled future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "Advanced technology is central to the storytelling, driving the plot through concepts like \"channels\" and \"dreams\" (0:17, 1:45-2:18) and being actively used by characters for transportation (1:13, 1:25) and living in futuristic environments (1:35, 2:35).",
+      "confidence": "high"
+    }
+  ]
+}

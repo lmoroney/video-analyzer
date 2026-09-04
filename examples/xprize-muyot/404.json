@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "The Smoking Mirror",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's total runtime is exactly 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The last 15 seconds (3:00-3:15) display an end card with 'FUTUREVISION XPRIZE', 'Salesforce', 'Google', 'RANGE', 'XPRIZE', 'XSOVA', 'ARK INVEST', and 'Jed McCaleb'.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features advanced AI (Providence, 1:27), a robot playing soccer (2:23-2:26), and drones in farming (2:34), all of which are speculative technological elements.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video transitions from a dystopian portrayal of screen addiction and information overload (0:00-0:05, 0:15-0:23) to an optimistic future where people are more present, connected, and enjoy life with technology integrated positively (2:07-2:10, 2:23-2:26, 2:33-2:36, 2:47-2:51).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, from the initial 'prison' of information overload (0:00-0:05) and the AI 'Providence' (1:27-1:51) to the positive integration of robots and drones in daily life (2:23-2:26, 2:33-2:36) that leads to a more connected future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, strong language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands are visible in the video content itself, outside of the end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "The video presents a compelling, metaphorical story about humanity's relationship with technology, transitioning from a state of digital 'imprisonment' to a more connected and free future. The production quality is high, with strong visuals and a clear narrative arc (0:00-1:17, 2:03-2:51).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The story tackles profound themes about human freedom, the nature of progress, and the societal impact of technology, envisioning a future where humanity transcends digital distraction for deeper connection and purpose (0:14-0:23, 1:03-1:17, 2:03-2:51).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video directly aligns with the mission by portraying a clear transition from a technology-induced 'prison' to a genuinely optimistic future where technology (like robots and drones) is harmoniously integrated to enhance human connection and well-being (2:03-2:51). The end card explicitly states 'Building Optimistic Visions of the Future'.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The storytelling is tech-forward, with advanced AI ('Providence' at 1:27) and the concept of an 'invisible prison' of information (0:14-0:23) being central. The narrative's resolution involves a conscious choice about technology, leading to a future where advanced tools like drones and robots are seamlessly and positively integrated into daily life (2:23-2:26, 2:33-2:36).",
+      "confidence": "high"
+    }
+  ]
+}

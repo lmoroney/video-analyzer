@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "Universal Partners - Neurobios Studios Vision",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's total runtime is 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card, featuring 'FUTUREVISION X PRIZE', Google, Salesforce, and Jed McCaleb, is displayed from 02:50 to 03:15, which includes the last 15 seconds of the video.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video depicts a futuristic world with advanced technology, humanoid robots, space colonization (Mars), and highly developed cities, which are characteristic elements of science fiction (e.g., 00:00-00:10, 00:20-00:35, 01:30-01:35).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video consistently presents a hopeful and optimistic vision, showing humans and AI collaborating to build advanced cities, explore space, and improve quality of life (e.g., 00:13-00:18, 00:47-00:53, 01:05-01:09, 02:07-02:11).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology, especially AI and robotics, is a core part of the narrative, with robots actively participating in scientific research (00:47), environmental care (01:05), and creative work (02:36), demonstrating meaningful integration beyond mere background.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, offensive language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands are visible within the video content itself, only on the end card (02:50-03:15).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video effectively tells a compelling story of human-AI partnership in a futuristic setting, with high-quality visuals and a clear narrative arc, demonstrating strong realization within its production.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story thinks very big, envisioning humanity's future across Earth and space, tackling global challenges, and evolving through partnership with advanced AI, as shown by scenes of futuristic cities, space exploration, and collaborative problem-solving (e.g., 00:07-00:11, 00:20-00:35, 01:30-01:35).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video is fully aligned with the Future Vision XPRIZE mission, portraying a genuinely optimistic and technology-enabled future where AI is a trusted partner, enhancing human capabilities and addressing global challenges, as explicitly stated in the narration and depicted throughout the visuals (e.g., 00:54-01:00, 01:09-01:15, 02:16-02:29).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The storytelling is highly tech-forward, with advanced technology, particularly AI and robotics, being central to every aspect of the narrative, from daily life and work to space exploration and creative endeavors, demonstrating its meaningful and integrated role (e.g., 00:27-00:35, 00:47-00:53, 01:05-01:09, 02:36-02:39).",
+      "confidence": "high"
+    }
+  ]
+}

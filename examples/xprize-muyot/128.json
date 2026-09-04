@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "The Architect",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's total length is exactly 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "From 03:00 to 03:15, the video displays an end card with 'FUTUREVISION X PRIZE' and lists Google, Salesforce, Jed McCaleb, XSOWA, ARK INVEST, and RANGE as partners/sponsors/donors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features futuristic cities (00:00), advanced AI (00:07), space travel (00:48), black holes (01:04), and time dilation (02:16), all characteristic elements of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video depicts humanity overcoming its fear of nuclear weapons, using advanced technology to stabilize a black hole, and creating a lush, sustainable, and peaceful future (02:46-02:59).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, with an AI guiding humanity (00:12), a 'void bomb' creating a singularity (01:00), and a 'singularity ring' stabilizing it (02:31) to enable humanity's survival and expansion.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable commercial brands are visible or mentioned in the video outside of the end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video presents a clear and engaging narrative arc, from humanity's past fears to a technologically advanced, hopeful future, with high-quality visuals and a strong emotional core.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story envisions humanity transcending its destructive past, harnessing cosmic phenomena like black holes, and achieving interstellar capabilities, representing a grand vision for the future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video perfectly aligns with the mission by showing humanity using advanced technology (AI, singularity stabilization) to overcome a major threat (nuclear weapons) and build a peaceful, thriving, and expansive future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "Advanced technology, including AI, space engineering, and the manipulation of a black hole, is not merely background but is the driving force behind every major plot development and humanity's ultimate survival and prosperity.",
+      "confidence": "high"
+    }
+  ]
+}

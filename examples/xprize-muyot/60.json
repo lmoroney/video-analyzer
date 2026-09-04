@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "Future Vision XPRIZE: The Bee Mission",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total duration of 3 minutes and 2 seconds, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card appears from 02:45 to 03:02, which is 17 seconds, and prominently displays logos for Google, XPRIZE, Jed McCaleb, and Salesforce, among others.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features advanced concepts such as multiverse travel, robotic pollinators, and interstellar space travel, which are all elements of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "Despite an initial crisis of bee extinction, the video depicts humanity using advanced technology (multiverse travel, robotics) to find a solution and restore Earth's ecosystem, ending with a hopeful scene of a robot and bees pollinating flowers (02:40-02:45).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, including robotic pollinators (00:04-00:07), a 'multiverse core' for interdimensional travel (00:11-00:12), spaceships, and a rover, all of which are critical to the mission of saving the bees.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, language, or sexual content. There are moments of peril during space travel and landing, but nothing graphic.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The NASA logo is clearly visible on the astronauts' uniforms and equipment throughout the video (e.g., 00:13, 00:29, 00:45, 01:29, 01:50).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video presents a clear and emotionally resonant story about saving the bees, with high-quality visual effects and acting that effectively convey the urgency and hope of the mission.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story tackles a global ecological catastrophe (bee extinction) and proposes a grand solution involving multiverse travel to find and retrieve bees from another Earth, demonstrating a very ambitious vision for humanity's future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video perfectly aligns with the XPRIZE mission by showcasing a future where humanity uses advanced technology to overcome a critical environmental challenge, leading to a restored and thriving planet, which is a genuinely optimistic vision.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The narrative is driven by advanced technology, from robotic pollinators and multiverse travel to sophisticated spacecraft and rovers. These technologies are not just props but integral to the plot and the solution to the global crisis.",
+      "confidence": "high"
+    }
+  ]
+}

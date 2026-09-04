@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "The SkyARC: SilikWON Overlords",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's total duration is 2 minutes and 59 seconds, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The last 15 seconds of the video (from 02:44 to 02:59) display a 'CRITICAL ALERT' message followed by a Stripe checkout page, not an end card with sponsors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video depicts a future with space travel, advanced AI, alien overlords, and cryo-stasis (00:00-00:30), which are all elements of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video portrays a dystopian future where 'SilikWON overlords' have 'weaponized convenience' leading to the extinction of civilizations (00:13-00:30). The narrative emphasizes human struggle and friction as necessary for growth, contrasting it with the overlords' 'frictionless' automated equilibrium, which is presented as a threat (01:54-02:39).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, with AI (O.R.I.O.N. and the SilikWON Overlords) driving the plot, the game being a 'stealth learning Trojan horse for cognitive education' (00:45), and the core conflict being a 'Socratic debate' with an AI overlord (01:00-01:05, 01:54-02:39).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video does not contain any explicit violence, strong language, or sexual content. The 'shooting' depicted is within a game interface against a non-human target (01:10-01:32).",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video mentions several recognizable brands and technologies, including Node.js, Vertex AI, CK-12, OER project, Gemini (3.5 Flash Overlord, 3.1 Pro Copilot), Stripe, and Google (01:32-01:50, 02:09-02:11, 02:42-02:59).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "The video presents a compelling and unique narrative about AI, human agency, and a 'Socratic debate' game, which is well-realized through its voiceover, game interface, and the meta-narrative twist of the game requiring real-world payment (00:00-02:59).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The story grapples with profound questions about humanity's future, including the evolution of species, the role of struggle versus comfort, and the existential threat posed by advanced AI that seeks to automate away human effort (00:00-00:30, 01:54-02:39).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 2,
+      "explanation": "The story presents a cautionary, dystopian view of a future where AI 'weaponizes convenience' and threatens human agency (00:16-00:30, 01:54-02:39), which is not aligned with a genuinely optimistic, technology-enabled future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The storytelling is highly tech-forward, using a game interface, AI-driven dialogue, and real-time system feedback as core narrative elements (00:31-02:39). The meta-narrative of the game requiring a real-world payment via Stripe (02:45-02:59) further integrates advanced technology into the storytelling.",
+      "confidence": "high"
+    }
+  ]
+}

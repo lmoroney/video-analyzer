@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "Tokuo: A Different OS",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total duration of exactly 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's end card, from 02:59 to 03:15, clearly displays 'FUTUREVISION XPRIZE' and lists Salesforce as a Presenting Sponsor, Google and XPRIZE as Partners, and Jed McCaleb as a Presenting Donor.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video depicts futuristic cities, flying vehicles, advanced robotics, augmented reality interfaces, and other speculative technologies, clearly placing it in the science fiction genre (e.g., 00:10, 00:15, 01:13).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video consistently shows technology enhancing daily life, health, and well-being in clean, aesthetically pleasing, and harmonious environments, conveying a positive and optimistic outlook on the future (e.g., 00:10-00:12, 00:15-00:17, 01:25-01:27).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, with examples like AR displays providing personal data (00:10, 00:21), robots assisting with daily tasks (00:15), and futuristic medical devices (00:23). The on-screen text 'Technology mastered the visible' (00:14) and 'Tokuo opens the invisible' (00:27) further emphasize its deep integration.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video maintains a family-friendly and positive tone throughout, with no explicit violence, language, or sexual content observed.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable commercial brands are used in the main content of the video, only fictional ones like 'AETHER', 'LUMINA', 'PASTEL BITES', 'ZEN FITNESS', 'ZEN MART', and 'OTA-LUXE'.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 7,
+      "explanation": "While the video presents a clear and high-quality vision of a futuristic world through various vignettes, it lacks a traditional linear story with a plot or character development. It is compelling as a visual concept but less so as a narrative story.",
+      "confidence": "medium"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video presents a broad and ambitious vision of humanity's future, showcasing significant advancements in daily life, health, urban development, and personal well-being, indicating a large-scale transformation of society.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video perfectly aligns with the XPRIZE mission by consistently depicting a genuinely optimistic and technology-enabled future where innovation leads to improved quality of life and harmonious living.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The storytelling is inherently tech-forward, with advanced technology being an active and integral part of the narrative, rather than just a background element. Examples include AR displays for health data (00:21, 01:29) and robotic assistants (00:15).",
+      "confidence": "high"
+    }
+  ]
+}

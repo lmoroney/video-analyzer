@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "Singularity: A Future Vision",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video is exactly 3 minutes and 15 seconds long (03:15).",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card appears from 3:00 to 3:15 and clearly displays Google, XPRIZE, Jed McCaleb, and Salesforce as partners/sponsors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video depicts a futuristic society with advanced AI, holographic interfaces, and a transformed human experience, which are characteristic elements of science fiction (e.g., 0:10, 1:22, 2:31).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The narrative explicitly shifts from a past of suffering to a future of wisdom and harmony, enabled by AI, with visuals of lush, advanced cities and happy families (e.g., 1:22-2:29).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "AI is the central catalyst for the entire narrative, described as helping humanity understand its unconscious patterns and redesigning technology to focus on human well-being (e.g., 1:09-1:13, 2:07-2:13).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": true,
+      "rating": null,
+      "explanation": "There is a brief scene depicting a soldier with a bloody face, seemingly injured in battle, at 0:56-0:58, which constitutes explicit violence.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands are visible or mentioned in the video content outside of the end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video presents a compelling 'before and after' narrative, effectively contrasting a past of suffering with a future of enlightenment, supported by high-quality visuals and clear storytelling.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story addresses fundamental questions about human consciousness, suffering, and the potential for a complete societal transformation through technology, envisioning a profound shift in human existence (e.g., 0:20-0:22, 2:48-2:54).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video's core message of AI leading humanity to overcome suffering and achieve a harmonious, awakened future perfectly aligns with the optimistic, technology-enabled vision promoted by the Future Vision XPRIZE (e.g., 1:22-2:29, 2:55-3:15).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "Advanced technology, particularly AI and holographic interfaces, is integral to the narrative, driving the plot and visually representing abstract concepts like 'patterns' and 'conditioning' (e.g., 1:24-1:35, 2:31-2:40).",
+      "confidence": "high"
+    }
+  ]
+}

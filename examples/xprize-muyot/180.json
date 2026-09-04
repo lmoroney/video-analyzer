@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=2y2y-Jg1110",
+  "video_title": "The Glass Age",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total duration of 3 minutes and 0 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card appears from 2:44 to 3:00, displaying 'FUTUREVISION X PRIZE', 'Partners Google RANGE', 'Presenting Sponsor: salesforce', 'Sponsors XSOVA ARK INVEST', and 'Presenting Donor Jed McCaleb'.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features futuristic cities (0:09, 0:21, 0:32), advanced space structures (0:29, 0:43), alien beings (1:15, 2:10), and a narrative spanning billions of years and multiple civilizations, all indicative of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "While initially presenting a cautionary tale of civilizations optimizing themselves out of existence (1:09-1:39), the protagonist's determination to 'give them something else' (2:08) and the subsequent montage of vibrant, imaginative, and diverse futuristic scenes (2:26-2:40) convey a hopeful and optimistic vision of a future where technology is balanced with spirit and imagination.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, as the 'Glass Age' refers to civilizations that optimized themselves out of existence through excessive logic and technological advancement (1:09-1:39). The protagonist's mission is to reintroduce elements that technology had optimized away, making technology a core driver of the plot and conflict.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands are visible in the main content of the video, only in the end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video presents a compelling and thought-provoking story about the balance between logic and spirit, with high-quality visuals and effective voiceover narration that clearly conveys the narrative within its short runtime.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The narrative explores the fate of 'millions of civilizations' across 'billions of years' (0:47), depicting vast cosmic structures (0:29, 0:43, 2:32, 2:36) and addressing profound philosophical questions about the nature of knowledge and existence on a universal scale.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "The story aligns with the mission by presenting a future where a technological pitfall (over-optimization) is recognized and a path towards a more balanced, imaginative, and vibrant future is pursued (2:05-2:40), ultimately portraying an optimistic, technology-enabled future through a re-evaluation of values.",
+      "confidence": "medium"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "Advanced technology is integral to the narrative, from the futuristic settings and space structures to the glowing facial markings (0:37, 0:46) and holographic interfaces (0:39). The core conflict and resolution are directly tied to the impact and potential of advanced technology.",
+      "confidence": "high"
+    }
+  ]
+}

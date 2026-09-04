@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "The Becoming",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's total duration is 3 minutes and 14 seconds, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card from 02:59 to 03:14 clearly displays the mentioned sponsors: Salesforce, Google, XPRIZE, and Jed McCaleb, along with others.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features advanced technology, futuristic societies, and non-human characters, clearly placing it within the science fiction genre. Examples include the glowing body enhancements (00:01-00:07, 00:33-00:44) and the concept of 'memory trees' (02:20).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": false,
+      "rating": null,
+      "explanation": "While visually stunning and technologically advanced, the narrative raises critical questions about freedom, choice, and the nature of humanity in this future. Phrases like 'Adulthood is not given' (00:30), 'The world isn't perfect' (01:32), and the burning 'memory trees' (02:18-02:23) suggest a complex, rather than purely optimistic, vision.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, driving character motivations (e.g., the desire to become an engineer to design a tree storage for the dead at 00:21) and defining societal structures (e.g., the 'becoming' process at 00:33-00:44).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, offensive language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "Apart from the sponsors listed on the end card (02:59-03:14), no other recognizable brands are featured in the video.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video presents a thought-provoking narrative about identity, societal expectations, and the definition of humanity in a technologically advanced world. The visuals are stunning, and the storytelling is effective despite the short format.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story delves into profound philosophical questions about what it means to be human, the nature of adulthood, and the role of technology in shaping identity and society, demonstrating a very ambitious vision for humanity's future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 5,
+      "explanation": "The video presents a technologically advanced future but critically examines its implications, highlighting themes of lost autonomy and imperfect choices (e.g., 'They kept me safe. But they chose for me.' at 01:29-01:31). This makes it less aligned with a 'genuinely optimistic' vision, leaning more towards a complex or even cautionary one.",
+      "confidence": "medium"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "Advanced technology is deeply woven into the fabric of the story, from the personal body enhancements (00:33-00:44) and sentient companions (00:14, 01:12) to the societal infrastructure and the concept of 'memory trees' (02:20), making it a core driver of the narrative.",
+      "confidence": "high"
+    }
+  ]
+}

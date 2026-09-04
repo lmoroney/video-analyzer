@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "Signature",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total duration of 2 minutes and 50 seconds, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "From 2:35 to 2:50, the video displays an end card with 'FUTUREVISION X PRIZE', 'Partners Google RANGE', 'Presenting Sponsor: salesforce', 'Sponsors XSOVA ARK INVEST', and 'Presenting Donor Jed McCaleb'.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features advanced technology, space exploration, black holes, and a mysterious signal, all characteristic elements of science fiction (e.g., 0:12, 0:34, 1:37, 2:06).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video concludes with the on-screen text 'YOU MAKE IT THROUGH' (2:04) and 'The universe is not a grave. It's a cradle.' (2:29), suggesting a hopeful and optimistic future enabled by technology.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "The narrative is driven by technological advancements, such as building the 'quietest place' to detect a signal (0:16-0:26), using a 'telescope' made of unconventional parts (0:47-0:53), and interacting with a black hole via advanced systems (1:25-1:36).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video does not contain any explicit violence, language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands are visible within the main content of the video, only on the end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video presents a compelling and mysterious narrative about detecting a signal from a black hole, with high-quality visuals and a strong sense of purpose, effectively realized within its short runtime.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story explores grand themes of cosmic phenomena, interstellar communication, and humanity's ability to overcome immense challenges, culminating in the idea that 'The universe is not a grave. It's a cradle.' (2:29).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video strongly aligns with the XPRIZE mission by showcasing humanity's ingenuity and perseverance through advanced technology to achieve a hopeful and expansive future, as evidenced by the concluding messages and the overall narrative arc.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "Technology is not merely a backdrop but an active participant in the narrative, from the creation of the 'quietest place' (0:16) and the 'telescope' (0:49) to the complex control room and the visualization of the black hole and wormhole travel (0:34, 1:25, 1:37).",
+      "confidence": "high"
+    }
+  ]
+}

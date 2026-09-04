@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "Everything That Lives",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total duration of 2 minutes and 56 seconds, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "From 02:41 to 02:56, the video displays an end card with the title 'FUTUREVISION XPRIZE' and lists Salesforce, Google, RANGE, XPRIZE, XSOVA, ARK INVEST, and Jed McCaleb as sponsors and partners.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video depicts advanced genetic engineering allowing for human limb regeneration (0:36-0:43, 2:32-2:40) and the use of robotic organisms for extreme environments (1:45-1:50), which are currently beyond present-day scientific capabilities.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video begins with scenes of environmental destruction and personal loss (0:00-0:10) but transitions to a future where advanced genetic technology and understanding of ecosystems lead to solutions, culminating in the protagonist's regenerated leg (2:32-2:40), symbolizing a hopeful and technology-enabled future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology, particularly genetic sequencing and engineering, is central to the narrative, showing its evolution from the Human Genome Project (0:49-1:07) to its application in understanding and adapting life (1:08-1:15) and ultimately enabling human regeneration (2:32-2:40).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "While the video contains intense scenes of forest fires (e.g., 0:01, 2:15) and shows a character with an amputated leg (0:03), there is no explicit violence against humans, strong language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": true,
+      "rating": null,
+      "explanation": "At 1:01, an old Apple computer/printer is clearly visible with the Apple logo on its side.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video presents a compelling narrative arc, moving from despair to hope through scientific discovery and technological advancement. The visuals are high-quality, and the storytelling is effective in conveying its message within the short runtime.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story tackles grand themes of environmental crisis, biodiversity loss, and human adaptation, proposing a future where humanity leverages advanced genetic understanding to not only survive but thrive and regenerate, demonstrating a very ambitious vision.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video is explicitly aligned with the Future Vision XPRIZE mission, as stated on its end card. It portrays a highly optimistic future where technology, specifically genetic engineering, provides solutions to major global challenges and enables profound human and environmental adaptation.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The storytelling is deeply integrated with advanced technology. Concepts like genetic sequencing, axolotl regeneration, robotic exploration of extreme environments, and complex data visualization are not just shown but are central to the plot's progression and the optimistic resolution.",
+      "confidence": "high"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=y_2_2_2_2_2",
+  "video_title": "Echo of the Relic",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's total duration is exactly 3 minutes and 15 seconds (03:15).",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card appears from 02:55 to 03:15, which includes the last 15 seconds of the video. It clearly displays Google, XPRIZE, Jed McCaleb, and Salesforce as sponsors/donors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features advanced technology, futuristic cities (00:16-00:27), interdimensional travel (00:00-00:04, 01:28-01:31), alien races (00:05), and a powerful ancient relic (00:45-00:47), all characteristic of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video initially showcases a highly advanced, eco-friendly, and peaceful future (00:16-00:27) where humanity has 'chosen to be better.' Although the narrative involves conflict and destruction, the overarching message at the end (02:32-02:41) emphasizes building a future through connection rather than fear, presenting an optimistic goal enabled by technology.",
+      "confidence": "medium"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "The 'relic' is central to the plot, granting the protagonist powers, enabling interdimensional travel, and serving as the catalyst for both the past utopian vision and the current conflict (00:45-00:50, 01:22-01:25, 01:32-01:38). The advanced cities and medical technology also establish the initial setting.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains action and fighting sequences (e.g., 02:01-02:04) and scenes of destruction (e.g., 00:53-00:58), but there is no explicit gore, strong language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable commercial brands or logos are visible within the main content of the video, outside of the final sponsor end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video presents a clear and engaging narrative arc of loss, discovery, and a fight for a better future. The visual effects and character designs are high quality, effectively conveying the story's themes and settings within the short runtime.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story explores grand themes such as humanity's potential for healing and advanced civilization, interdimensional connections, ancient architects, and the choice between unity and destruction across multiple realities (01:40-01:45, 02:16-02:17, 02:34-02:41).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "The video begins with a strong optimistic vision of a technology-enabled future (00:16-00:27) and concludes with a powerful message about choosing a better future over fear (02:32-02:41). However, a significant portion of the narrative involves destruction, loss, and conflict (00:53-01:02, 01:51-01:52), which, while leading to an optimistic resolution, means the portrayal isn't *consistently* optimistic throughout.",
+      "confidence": "medium"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "Advanced technology, particularly the 'relic' and its associated powers, is not merely background but is fundamental to the protagonist's journey, her transformation, and the central conflict of the story (00:45-00:50, 01:22-01:25, 01:32-01:38, 02:10-02:11). The futuristic cities also set the stage for humanity's potential.",
+      "confidence": "high"
+    }
+  ]
+}

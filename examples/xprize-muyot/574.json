@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "Nonna Albina",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's total runtime is 3 minutes and 9 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card appears from 2:53 to 3:09, which is the last 16 seconds of the video, and clearly displays the mentioned sponsors and partners.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features advanced robotics, including humanoid fighting robots (00:17-00:25) and small, bee-like monitoring robots (02:44-02:47), which are elements of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video transitions from a scene of destructive robot fighting to a narrative where technology, specifically bee-like robots, is used to monitor and protect natural ecosystems, such as tracking a hornet in a beehive (01:10-01:22) and deploying sensors during a forest fire (02:36-02:47), portraying a hopeful future where technology aids environmental preservation.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, from the boy's initial interaction with advanced robots (00:12-00:18) to his use of a smartphone to identify a hornet (00:59-01:03) and the deployment of bee-like robots to monitor a beehive (01:10-01:22) and later to combat forest fires (02:36-02:47).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains a brief scene of robots fighting (00:19-00:25) where one robot is defeated, but there is no explicit human violence, strong language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": true,
+      "rating": null,
+      "explanation": "A Lenovo ThinkPad laptop is visible at 00:13, and the boy wears Adidas sneakers at 00:44.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "The video tells a compelling story of a boy who uses his technological skills, inspired by his grandmother's wisdom, to address environmental challenges, transitioning from robot fighting to protecting nature. The production quality is high, effectively conveying the narrative.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The story presents a grand vision of humanity's future by showcasing how advanced technology, specifically AI and robotics, can be leveraged to understand and protect nature, addressing critical environmental issues like bee colony health and forest fires.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video strongly aligns with the Future Vision XPRIZE mission by depicting a future where technology is a force for good, enabling humanity to better understand and protect the natural world, as seen with the bee-like robots monitoring beehives and assisting in fire prevention.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The storytelling is tech-forward, with advanced robotics and AI being integral to the plot, from the initial robot combat to the development and deployment of sophisticated bee-like robots for environmental monitoring and protection.",
+      "confidence": "high"
+    }
+  ]
+}

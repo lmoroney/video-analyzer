@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "Beneath the Orb",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total duration of exactly 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "From 3:00 to 3:15, an end card is displayed with the 'FUTUREVISION XPRIZE' logo and lists Salesforce as the 'Presenting Sponsor', and Google, RANGE, XPRIZE as 'Partners', and Jed McCaleb as 'Presenting Donor'.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features advanced futuristic technology such as a global 'Orb' climate control system (0:37), AI-driven healthcare (1:39), and futuristic vehicles (0:00, 2:48), clearly placing it in the science fiction genre.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": false,
+      "rating": null,
+      "explanation": "While the video initially shows technology solving problems and creating green cities (0:37-1:15), it quickly shifts to a dystopian reality where technology creates inequality and conflict, with protests against data centers (2:30) and widespread suffering (2:51). The overall tone is more cautionary than purely optimistic.",
+      "confidence": "medium"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, with the 'Orb' controlling the climate and providing energy (0:37-1:09), and AI being responsible for the protagonist's survival and modern medicine (1:10-1:42). The conflict revolves around the unequal distribution and impact of this technology.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video contains scenes of violence, including explosions (0:02, 2:24, 2:37), a gun pointed at a person's head (2:21), and a character being forcibly taken (2:16). There is no explicit language or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The brands 'NOVORA Health AI' (1:39) and 'ORBE SECURITY' (0:02, 2:48) are fictional brands created for the video's narrative. No real-world brands are visible outside of the end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video effectively establishes a complex world and a clear conflict within its short runtime. The visuals are high quality, and the narrative arc, though brief, is engaging and well-executed, making it a compelling story.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story tackles grand themes such as global climate engineering, advanced AI in healthcare, space infrastructure, and the societal impact of technological inequality on a global scale, demonstrating a very ambitious vision of humanity's future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 6,
+      "explanation": "While technology is central and initially presented as beneficial, the story quickly shifts to highlight the negative consequences of technological disparity and exploitation, leading to a dystopian conflict. The ending suggests a fight for change, but the overall portrayal is not a 'genuinely optimistic' vision, but rather a call to action within a troubled future.",
+      "confidence": "medium"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The entire premise and conflict of the story are built around advanced technology, from the 'Orb' controlling the planet's climate to AI-driven medical interventions and futuristic infrastructure. Technology is not merely a backdrop but an active force shaping the characters' lives and the world's fate.",
+      "confidence": "high"
+    }
+  ]
+}

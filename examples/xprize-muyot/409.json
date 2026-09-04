@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "Project Mars: Design the First City",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's total duration is exactly 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "From 03:00 to 03:15, the video displays an end card with the 'PROJECT MARS' title followed by logos for Google, XPRIZE, Jed McCaleb, and Salesforce.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video depicts advanced technology, space colonization, artificial intelligence, and futuristic cities, which are all elements of science fiction (e.g., the Ark spaceship at 00:36, the Mars city at 01:50).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video presents a future where humanity successfully colonizes Mars and builds a thriving city, emphasizing collaboration and technological advancement, despite a brief antagonistic challenge (e.g., 'Make friends with the future' at 02:45).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, from the AI 'Orion' guiding the Mars colonization (00:29, 00:48) to remote-controlled terraforming machines (00:55-01:00) and advanced construction methods (01:40-01:45).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, offensive language, or sexual content. The conflict involves a satellite being destroyed, but no harm to characters is shown (02:27).",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands or product placements are visible within the narrative portion of the video, only in the final end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video tells a compelling story of a competition, a grand vision for Mars, and a challenge from an antagonist, all within a short animated format with high production quality (e.g., the transformation of Mars from 01:00 to 01:50).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story envisions a future where humanity colonizes and terraforms Mars, creating a new, vibrant civilization, which is a very ambitious and 'big' idea for humanity's future (e.g., the fully developed city on Mars at 01:50).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video strongly aligns with the mission by showcasing an optimistic future of Mars colonization driven by advanced technology and human ingenuity, despite a brief setback from an antagonist (e.g., the 'Make friends with the future' message at 02:45).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The narrative is entirely built around advanced technology, including AI, remote-controlled construction, terraforming processes, fusion power, and vertical farming, all of which are integral to the plot and world-building (e.g., the boy activating the solar array at 01:05, the ice melting and water systems at 01:30).",
+      "confidence": "high"
+    }
+  ]
+}

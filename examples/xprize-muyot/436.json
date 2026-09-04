@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "SYNTHOCENE: Building Optimistic Visions of the Future",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's total duration is exactly 3 minutes and 15 seconds (03:15).",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The last 15 seconds of the video (03:00-03:15) display an end card featuring the Future Vision XPRIZE logo and lists Salesforce, Google, RANGE, XPRIZE, XSOVA, ARK INVEST, and Jed McCaleb as sponsors/partners/donors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features advanced technologies like self-driving cars (00:35), advanced medical diagnostics (00:20), quantum computing concepts (01:01), large-scale environmental restoration (01:06), robotic manufacturing (02:10), and a futuristic city integrated with nature (02:39), all indicative of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video depicts a journey from a challenging present (neural lesions, environmental imbalance) to a future where advanced technology (\"Anchor,\" \"Defiant\") is used to solve these problems, culminating in a lush, green, technologically integrated city and a sense of accomplishment (02:39-02:59), portraying a hopeful and optimistic vision.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, from the \"neural lesions\" diagnosis (00:20) and the \"quantum someone\" (01:01) to the deployment of \"edge modules\" (01:17), the creation of \"Anchor\" infrastructure (01:36), and the \"Defiant\" project (01:51) that ultimately leads to a transformed world.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "While there are brief scenes of a woman in military gear in a chaotic environment with distant fires (00:14-00:19), there is no explicit violence, strong language, or sexual content shown in the video.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands or logos, other than those on the end card, are visible or mentioned within the main content of the video.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "The video presents a compelling, albeit condensed, narrative of overcoming challenges through technological innovation. The production quality is high, with strong visuals, acting, and a clear progression of events that effectively conveys the story's core message within its short runtime.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The story thinks big by addressing global challenges such as environmental restoration (01:06-01:13) and potentially human neurological issues (00:20), culminating in a vision of a harmonized, technologically advanced, and sustainable future for humanity (02:39-02:48).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video is fully aligned with the mission, explicitly stating \"Building Optimistic Visions of the Future\" on its end card (03:00). It consistently portrays a future where advanced technology is successfully leveraged to solve complex problems, leading to a positive and harmonious outcome for humanity and the environment (02:39-02:59).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The storytelling is highly tech-forward, with advanced technologies like neural implants (implied by \"neural lesions\" and \"quantum someone\" at 00:20, 01:01), self-driving vehicles (00:35), environmental remediation systems (01:06-01:13), and advanced manufacturing (02:10-02:28) being integral to the plot and the characters' actions, rather than mere background elements.",
+      "confidence": "high"
+    }
+  ]
+}

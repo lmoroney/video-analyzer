@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "2060 The Last Leaf",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total length of 2 minutes and 54 seconds, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The last 15 seconds (from 02:39 to 02:54) show credits for image, video, and audio generation, and the film director, but do not list Google, XPRIZE, Jed McCaleb, or Salesforce as sponsors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features advanced virtual reality technology, time travel/teleportation, and futuristic environmental restoration methods, all characteristic of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video begins with a dystopian view of Earth but concludes with a vision of a revitalized planet, achieved through advanced technology and human intervention, portraying a hopeful future (02:15-02:33, 02:46-02:54).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "The VR headset (Nexa Vision) is central to the plot, enabling the protagonist to experience a future wasteland and then return to implement a technological solution for environmental restoration (00:15-00:29, 01:39-01:45, 01:47-01:54). The environmental cleanup itself is driven by advanced machinery and bio-engineering (02:10-02:33).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video does not contain any explicit violence, language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The brand 'Panasonic' is visible on the television screen at the beginning of the video (00:00).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video presents a clear and engaging narrative arc, from a dystopian present to a hopeful future, with impressive visual effects and a strong message, especially considering its short duration.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The story tackles a global environmental crisis and envisions a large-scale, planet-wide solution involving advanced technology and a complete transformation of the Earth's landscape, demonstrating big-picture thinking.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video strongly aligns with the mission by showcasing a future where humanity uses advanced technology to overcome environmental devastation and create a thriving, green world, presenting a genuinely optimistic outlook.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "Technology, including the VR headset, time travel/teleportation, and sophisticated environmental remediation systems, is not merely background but is integral to the plot and the solution presented, driving the narrative forward.",
+      "confidence": "high"
+    }
+  ]
+}

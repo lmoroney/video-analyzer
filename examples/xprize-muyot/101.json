@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "The Museum of Impossible Things",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's total duration is exactly 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card appears from 03:00 to 03:15 and explicitly lists Salesforce as a Presenting Sponsor, and Google, XPRIZE, and Jed McCaleb as Partners/Presenting Donor.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features futuristic architecture (00:00), advanced AI robots (00:27), holographic displays (00:38, 01:12, 01:59), and portals to different time periods or realities (00:46), all indicative of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The narrative explicitly states that humanity's greatest crises are a 'distant memory' (00:04) and shows technology transforming a barren desert into a lush, thriving community (01:08-01:31), presenting a very optimistic future enabled by technology.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, with a friendly AI robot as a companion (00:27), holographic displays for education and construction (00:38, 01:12), and a water purification system (SkySource) being the solution to a past crisis (01:08-01:23). The 'portal' is also a key narrative device (00:46).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video is family-friendly and does not contain any explicit violence, language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The brand 'SKYSOURCE' is clearly visible on the water purification unit at 01:18.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video tells a clear and emotionally resonant story of overcoming past challenges through innovation, with high production values, engaging visuals, and effective pacing for a short film.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story tackles grand themes like solving global water scarcity, environmental restoration, and space exploration, all framed within a museum dedicated to 'impossible things' that became possible, demonstrating a very ambitious vision for humanity.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video perfectly aligns with the mission by showcasing a future where technology has solved major crises, leading to a hopeful and prosperous society. The narrative emphasizes that 'the impossible is only the beginning' (00:55), directly reflecting an optimistic, technology-enabled future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "Advanced technology is not merely background but an active participant and driver of the narrative, from the AI companion robot to the holographic educational tools, the water purification system, and the time-traveling/portal mechanism, all of which are integral to the plot and message.",
+      "confidence": "high"
+    }
+  ]
+}

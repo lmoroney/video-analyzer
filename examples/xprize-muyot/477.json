@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "WHO IS HB2? Future Vision XPRIZE Concept Trailer",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's total duration is exactly 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The last 15 seconds of the video (02:59-03:15) feature an end card displaying 'FUTUREVISION XPRIZE' and lists Google, XPRIZE, Jed McCaleb, and Salesforce as partners, sponsors, or donors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video showcases numerous science fiction elements, including holographic interfaces (00:00, 00:08, 00:16), humanoid robots (00:01, 01:17), flying vehicles (00:49, 00:52), and highly advanced smart cities (00:26, 00:52).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video consistently portrays an optimistic future where technology enables community growth, clean energy (00:57-01:01), and human well-being, as highlighted by the voiceover \"I'm trying to make sure it still feels human\" (02:28) and the collaborative building scenes (00:34, 01:04).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, with characters actively interacting with holographic city models (00:28, 00:36), medical data displays (01:28), and smart home interfaces (01:45). The plot revolves around building a technology-enabled future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, language, or sexual content. It maintains a positive and family-friendly tone throughout.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The main character is seen wearing a New York Yankees baseball cap at multiple points in the video (e.g., 00:13, 01:15, 02:08), which is a recognizable brand.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video presents a compelling narrative about building a human-centric future, with a clear protagonist and antagonist. The visual storytelling is strong, depicting a consistent and detailed futuristic world, especially for a concept trailer (e.g., the evolving cityscapes from 00:49-00:56 and the community building scenes from 00:36-00:42).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story thinks very big, envisioning a complete transformation of society, including sustainable cities (00:52-00:56), community-driven development (00:36-00:42), advanced healthcare (01:24-01:33), and integrated AI in daily life, all aimed at creating a better, more human future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video is perfectly aligned with the Future Vision XPRIZE mission, explicitly stating it's a \"Concept Trailer Submitted for Future Vision XPRIZE\" (02:54). It consistently portrays a genuinely optimistic, technology-enabled future focused on community, sustainability, and human connection, as seen in the transformed Harlem (00:52-00:56) and the emphasis on technology helping people rise (01:21).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The storytelling is highly tech-forward, with advanced technology not merely as a backdrop but as a central element driving the narrative. Examples include holographic city planning (00:28), AI-powered education (01:39), smart energy grids (00:36), and personalized health monitoring (01:28), all meaningfully integrated into the characters' lives and the plot's progression.",
+      "confidence": "high"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "Finding Home",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's total duration is exactly 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "From 03:00 to 03:15, the video displays an end card with the 'FUTUREVISION XPRIZE' logo and lists Google, XPRIZE, Jed McCaleb, and Salesforce among its partners and sponsors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features a colony ship traveling to and landing on an alien planet, encountering alien life forms, and utilizing advanced technology, all characteristic elements of science fiction (00:00-00:12, 00:47-00:54, 01:25-01:29).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The narrative shows humanity successfully colonizing a new planet, using technology to understand and adapt to its challenges (00:27-00:32, 01:53-02:10), and ultimately finding a 'paradise' (02:47-02:51) through cooperation and innovation.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the plot, including the colony ship 'Aurora 17' (00:04-00:12), robotic construction (00:27-00:32), the 'Biometric Link 01' device used for detecting life forms and receiving warnings (00:47-00:54, 02:21-02:25), and flares for defense (01:03-01:10).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, strong language, or sexual content. The flares are used to deter, not harm, the alien creatures (01:08-01:10).",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable commercial brands are displayed or mentioned within the video content itself, outside of the final sponsor end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video presents a clear and engaging narrative arc, from initial colonization and conflict to interspecies communication and a hopeful resolution. The visual effects and storytelling are well-executed for a short film format.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story encompasses interstellar travel, colonization of an alien planet, encountering and communicating with indigenous alien life, and adapting to a planetary-scale environmental crisis, demonstrating a grand vision for humanity's future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video's narrative of overcoming challenges on a new planet through technological innovation and interspecies understanding, leading to a 'paradise,' perfectly aligns with the stated mission of 'Building Optimistic Visions of the Future' as seen in the end card (03:00).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "Advanced technologies like the colony ship, robotic construction, the biometric communication device, and automated defense systems are not merely background elements but are integral to the plot, driving the narrative and enabling the characters to face and overcome challenges.",
+      "confidence": "high"
+    }
+  ]
+}

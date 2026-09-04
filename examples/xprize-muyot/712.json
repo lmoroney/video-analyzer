@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "LEOM Official Trailer",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video is 2 minutes and 42 seconds long, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The last 17 seconds of the video (from 2:25 to 2:42) display an end card featuring sponsors such as Google, XPRIZE, Jed McCaleb, and Salesforce.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features numerous science fiction elements, including advanced starships, jetpacks, futuristic cities, robots, and holographic displays (e.g., 0:00, 0:02, 0:27, 0:43, 1:00, 1:06, 1:11).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video depicts a future with advanced technology integrated into daily life, showing lush, green cities, community gatherings, and people thriving, suggesting a hopeful and optimistic outlook (e.g., 0:08, 0:50, 1:58, 2:08).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is a core element of the narrative, with characters using jetpacks for travel and sport, maintaining starships, and interacting with advanced robots and holographic interfaces, all of which drive the story forward (e.g., 0:02, 0:27, 0:31, 1:06).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, strong language, or sexual content. Action sequences are depicted without graphic detail.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "Apart from the sponsors listed on the end card, no other recognizable real-world brands are featured in the video.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "As a trailer, it effectively introduces a compelling science fiction world with intriguing characters and hints at a narrative involving family, ambition, and space exploration, all realized with high production quality (e.g., 0:15-0:20, 0:38-0:46, 1:14-1:28).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video presents a grand vision of humanity's future, showcasing multi-planetary expansion, advanced space travel, and sustainable, technologically integrated societies on Earth, indicating a big-picture perspective (e.g., 0:00, 0:27, 0:43, 0:50, 1:00).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video is explicitly presented as a \"FUTUREVISION XPRIZE\" trailer and perfectly aligns with its mission by portraying a genuinely optimistic, technology-enabled future with thriving communities, advanced space exploration, and sustainable living (e.g., 0:00-0:09, 0:50-1:03, 1:58-2:12, 2:25-2:42).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The narrative is deeply intertwined with advanced technology, such as personal jetpacks for movement and sport, starship construction and maintenance, and intelligent robots assisting in daily life, demonstrating a tech-forward approach to storytelling (e.g., 0:02, 0:13, 0:27, 1:06, 1:12, 1:53).",
+      "confidence": "high"
+    }
+  ]
+}

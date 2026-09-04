@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=y_221111111",
+  "video_title": "The Last Days (Nook and Cranny) - Future Vision XPRIZE",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total duration of 3 minutes and 14 seconds, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card appears from 02:59 to 03:14, which is exactly 15 seconds. It clearly displays 'FUTUREVISION X PRIZE', 'Partners Google RANGE', 'Presenting Sponsor: salesforce', and 'Presenting Donor Jed McCaleb'.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features advanced technology such as holographic displays (00:00, 00:07), brain implants (00:24, 01:10), AI/robots (00:17, 01:42), and flying vehicles (00:00, 00:36), all set in a futuristic, dystopian world, which are hallmarks of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video depicts a dystopian future where humanity is controlled by 'The Oracle' through implants (00:24, 00:39, 00:57). The narrative focuses on a 'Remnant' group fighting against this oppressive technological control, indicating a struggle rather than an optimistic vision.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the plot, with 'The Oracle' system, brain implants, and advanced surveillance being the primary tools for control and the main drivers of the conflict (00:15-00:30, 00:39, 00:47-00:59). The protagonists also use technology to resist (01:15-01:18, 01:55-01:57).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "While there are scenes of explosions and implied combat (e.g., 00:31, 01:05-01:09, 01:47-01:52), no explicit gore, graphic violence, strong language, or sexual content is shown.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The brands displayed within the video's narrative, such as 'NOVA LIVE', 'ORACLE', and 'Augmenta Implant Clinic', appear to be fictional and are not recognizable real-world brands outside of the end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "The video effectively establishes a clear conflict between an oppressive technological regime and a resistance group. The high-quality visuals and consistent aesthetic contribute to a well-realized narrative, making the brief story compelling despite its constraints.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The story explores profound themes of technological control, free will, and societal manipulation on a global scale, demonstrating a large-scale vision of humanity's potential future challenges and conflicts.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 1,
+      "explanation": "The story is not aligned with an optimistic, technology-enabled future. It presents a dystopian world where technology is used for control and oppression, with the 'Remnant' fighting against it. The end poster explicitly states 'A FALSE GOD RULES THE WORLD. A REMNANT REMEMBERS THE TRUTH,' which is antithetical to an optimistic vision.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "Advanced technologies like brain implants, holographic interfaces, AI control, and robotics are not merely background elements but are fundamental to the plot, character motivations, and the central conflict, showcasing a strong tech-forward approach to storytelling.",
+      "confidence": "high"
+    }
+  ]
+}

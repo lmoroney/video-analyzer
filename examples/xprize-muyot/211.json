@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "Project Mars: Dibbs",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video is 0:38 in length, which is significantly less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The end card (0:33-0:38) mentions \"#FUTUREVISIONXPRIZE\" but does not explicitly list Google, Jed McCaleb, or Salesforce as sponsors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features a futuristic setting with a character in a space suit and an advanced robot, clearly indicating a science fiction genre (0:00-0:33).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video shows a heartwarming interaction between a girl and a robot, where she saves it from recycling and gives it a new purpose and name (0:05-0:32). The end card explicitly states \"FOR AN OPTIMISTIC FUTURE\" (0:33).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "The robot, initially a \"sorting unit\" on a conveyor belt, is a central character that the girl interacts with and saves, demonstrating technology's meaningful integration into the narrative (0:00-0:32).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, language, or sexual content. It depicts a child interacting with a robot in a positive manner.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "Aside from the text on the end card, there are no recognizable commercial brands visible in the video. The girl's suit has generic space agency-like patches (0:03).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "Despite its short length, the video effectively conveys a compelling and emotional story of a girl saving a robot from being recycled and forming a bond with it (0:00-0:32). The animation quality is also very good.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 6,
+      "explanation": "The story presents an optimistic future with advanced technology and space exploration, but its narrative focus is on a small, personal interaction between a girl and a robot, rather than grand societal or technological advancements (0:00-0:32).",
+      "confidence": "medium"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video clearly portrays a genuinely optimistic future where technology, in the form of a sentient robot, is integrated into daily life and can be given new purpose. The end card directly references \"FOR AN OPTIMISTIC FUTURE\" and \"#FUTUREVISIONXPRIZE\" (0:33-0:38).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The narrative revolves around an advanced sorting robot that becomes a companion, demonstrating a future where technology is not just present but deeply intertwined with human interaction and emotional connection (0:00-0:32).",
+      "confidence": "high"
+    }
+  ]
+}

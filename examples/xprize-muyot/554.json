@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "Varta: A Future Vision XPRIZE Film",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total duration of 3 minutes and 11 seconds, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card appears from 02:55 to 03:11, which includes the last 15 seconds of the video. It clearly lists Salesforce as a 'Presenting Sponsor', and Google, XPRIZE, and Jed McCaleb as 'Partners' and 'Presenting Donor' respectively.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features advanced AI-powered robotic animals (ALPHA X1) capable of communicating with wildlife and pets (Varta), as well as futuristic holographic interfaces for data analysis and control, which are elements of science fiction (00:03-00:04, 00:12-00:18, 00:46-00:58).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "Despite an initial setback where the technology fails (01:47-01:54), the narrative concludes with the protagonists successfully using technology to prevent a train-elephant collision (02:43-02:54), demonstrating a positive and technology-enabled future for human-animal coexistence.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "The entire narrative revolves around the 'Varta' and 'ALPHA X1' animal communication technology, from its initial concept and application with pets (00:05-00:18) to its deployment in wildlife conservation, its failure, and ultimate success in preventing a disaster (02:43-02:54).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video does not contain any explicit violence, strong language, or sexual content. While there is a scene of elephants running through a village (01:44-01:46) implying chaos, no direct harm or explicit violence is shown.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": true,
+      "rating": null,
+      "explanation": "Yes, the vehicle used by the protagonists in the latter part of the video (02:47) appears to be a Jeep Gladiator, a recognizable automotive brand.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video presents a compelling story with a clear arc of innovation, failure, reflection, and redemption. The production quality is high, with effective visuals, acting, and special effects that bring the futuristic concepts to life within the short film format.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The story envisions a future where humanity can achieve true interspecies communication and understanding, addressing significant challenges in wildlife conservation and human-animal conflict, which is a very ambitious and 'big' idea for the future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video's core message, despite a temporary setback, is one of hope and progress through technology, ultimately showing a positive outcome where advanced tools enable better coexistence between humans and animals, aligning well with the competition's mission of optimistic, technology-enabled futures.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The narrative is entirely driven by the development and application of advanced communication technology, from the 'Varta' collar for pets to the 'ALPHA X1' robot for wildlife. The story explores the capabilities, challenges, and ethical implications of this technology, making it central to every plot point and character decision.",
+      "confidence": "high"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "Beneath - Future Vision XPRIZE Short Film",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total duration of 3 minutes and 2 seconds, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card appears from 02:46 to 03:02, lasting 16 seconds, and clearly displays Google, XPRIZE, Jed McCaleb, and Salesforce as partners/sponsors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features an ancient, advanced civilization beneath Antarctic ice (00:00-00:28), a protagonist who is an observer from this civilization (01:06-01:12, 01:45-01:49), and futuristic technology, all indicative of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The initial voiceover describes a pure world without conflict, and the ending suggests a potential for connection between two civilizations through individual choice and emotion, implying a hopeful, technology-enabled future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the plot, from the satellite detection of the anomaly (00:38) to the protagonist's nature as an advanced observer (01:06-01:12) and the advanced civilization he belongs to (01:13-01:29).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, offensive language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands are visible in the video content itself, only on the end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "The video presents an intriguing premise of first contact and personal connection, with high-quality visuals and a clear narrative arc, making it compelling despite its short length.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The story explores the profound implications of discovering an ancient, advanced civilization and the potential for inter-species connection, which is a very 'big' idea for humanity's future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The film's message of choosing connection and understanding over a predetermined mission, facilitated by advanced technology and the discovery of a 'pure' civilization, aligns strongly with an optimistic, technology-enabled future vision.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The narrative is built around the existence of an advanced, hidden civilization and the protagonist's technologically advanced nature, which allows him to observe and potentially bridge the gap between worlds, making technology integral to the storytelling.",
+      "confidence": "high"
+    }
+  ]
+}

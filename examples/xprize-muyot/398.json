@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "Humanity's Choice: Dystopia vs. Utopia",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's total runtime is exactly 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "From 3:00 to 3:15, the video displays an end card listing 'Salesforce' as presenting sponsor, 'Google', 'RANGE', and 'XPRIZE' as partners, and 'Jed McCaleb' as presenting donor.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features futuristic settings, advanced technology, virtual reality, and a narrative exploring humanity's future, all characteristic of science fiction (0:08-0:12, 0:29-0:40, 1:27-1:30, 2:17-2:20).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "While initially showing a dystopian future (0:08-0:28), the video transitions to a hopeful, nature-integrated utopia (2:16-2:34) where humanity is 'free to choose' and technology is seamlessly integrated, not dominating.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is a core element of the narrative, from the dream-like virtual reality (0:08-0:12) and the struggle against machine control (0:30-1:25) to the eventual integration of technology with nature in the utopian future (2:16-2:34).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains stylized action sequences (1:00-1:25) and some characters in revealing clothing (0:00-0:07, 0:24), but there is no explicit violence, strong language, or overt sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands are visible or mentioned within the narrative content of the video, only on the end card (3:00-3:15).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video presents a clear and engaging narrative about humanity's choice between two futures, with impressive visual effects and production quality that effectively convey the story's themes within its short runtime.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The narrative tackles profound themes about humanity's destiny, the role of technology, and the definition of freedom, presenting a grand vision of a chosen future that integrates nature and subtle technology.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video culminates in a genuinely optimistic vision of a future where humanity has chosen harmony with nature and technology is seamlessly integrated and unnoticed, directly aligning with the competition's mission (2:16-2:26).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The narrative is driven by advanced technological concepts, from the virtual 'Wonderworld' (0:08-0:12) and the complex systems of control (0:30-0:45) to the quantum virus used for liberation (1:49-1:55) and the subtly integrated technology of the final utopian setting (2:16-2:34).",
+      "confidence": "high"
+    }
+  ]
+}

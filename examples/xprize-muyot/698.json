@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=q_011_011_011",
+  "video_title": "ThreadRouter: AI Model Routing Protocol",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video is 3 minutes and 42 seconds long, which is longer than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The last 15 seconds of the video (from 03:27 to 03:42) do not contain an end card with sponsors. The video ends with a black screen after the 'Early Evidence' slide.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video presents a technical explanation of 'ThreadRouter,' an AI model routing protocol, discussing its features, problems it solves, and how it operates with various AI models (00:00-03:37). This is a presentation of a current technological solution, not science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video presents a technical solution for AI model routing, focusing on practical aspects like privacy, cost, latency, and quality (00:00-03:37). While it is technology-forward, it does not portray a broad, hopeful, or optimistic vision of humanity's future, but rather a specific technical problem and its solution.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "The entire video is a detailed explanation of 'ThreadRouter,' an AI model routing protocol, demonstrating how technology is the central subject and is meaningfully integrated into the narrative (00:00-03:37).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video is a professional technical presentation and contains no explicit violence, language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video mentions and displays several recognizable brands and AI models, including IBM Granite (00:00), Qwen 14B (00:00), Ollama (01:13), Open Router (01:14), MiniMax 3 (01:23), GLM 5.2 (03:00), DeepSeekPro4 (03:00), Grok (02:45), Gemini (02:46), and Wireshark (01:49).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 4,
+      "explanation": "The video is a technical presentation explaining an AI routing protocol rather than a narrative story. While the information is clear and the slides are well-designed, it lacks a compelling story arc or emotional engagement (00:00-03:37).",
+      "confidence": "medium"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 5,
+      "explanation": "The video primarily focuses on a technical solution for AI model routing, optimizing for privacy, cost, and quality (00:00-03:37). While it addresses important aspects of AI governance and efficiency, it doesn't present a grand, expansive vision for humanity's future, though some underlying principles (like human oversight in AI) are mentioned briefly (01:50-01:56).",
+      "confidence": "medium"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 4,
+      "explanation": "The video is technology-enabled, focusing on an AI routing protocol for efficiency and compliance (00:00-03:37). However, it is a technical product presentation rather than a broad, genuinely optimistic vision of humanity's future, which is a key aspect of the XPRIZE competition's mission.",
+      "confidence": "medium"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 6,
+      "explanation": "The video's content is entirely focused on advanced technology (AI routing protocol) and explains its integration and function in detail (00:00-03:37). However, the 'storytelling' itself is a technical presentation, not a narrative that uses advanced technology as a plot device or central element of a fictional story.",
+      "confidence": "medium"
+    }
+  ]
+}

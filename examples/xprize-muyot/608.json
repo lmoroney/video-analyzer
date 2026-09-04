@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "OmnisVibe: The Butterfly Effect",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total duration of 3 minutes and 8 seconds, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card appears from 03:01 to 03:08 and clearly displays 'FUTUREVISION X PRIZE', 'Partners Google RANGE', 'Presenting Sponsor: salesforce', 'Sponsors: XSOWA ARK INVEST', and 'Presenting Donor: Jed McCaleb'.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features advanced technology such as AI-powered robotic dragonflies (00:41), immersive virtual reality environments (01:00), futuristic architecture on Earth and Mars (02:17), and humanoid robots (02:45), all indicative of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video consistently shows positive interactions between humans, nature, and advanced technology, depicting a future of exploration, environmental restoration, and joyful communal experiences (e.g., 01:00-01:39, 02:13-02:17, 02:29-02:40).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, with AI dragonflies acting as companions (00:41, 01:08), a 'Reality Artist' system creating immersive worlds (01:00), and a microchip activating a portal to explore different realities (01:50).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, language, or sexual content. It maintains a family-friendly and positive tone throughout.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The only brand-like text visible is 'OMNISVIBE REALITY ARTIST' on a door (00:37), which appears to be a fictional brand within the video's narrative, not a real-world recognizable brand.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "While more of a conceptual journey than a traditional narrative, the video's stunning visuals, seamless transitions between diverse environments, and consistent thematic elements create a highly engaging and well-realized experience.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video presents a grand vision of humanity's future, encompassing advanced AI companions, immersive reality creation, environmental restoration, space colonization (Mars), and a harmonious integration of nature and technology.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video perfectly aligns with the XPRIZE mission by showcasing a future where technology is a tool for positive change, enabling exploration, enhancing human experience, and fostering a sustainable and thriving world.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The storytelling is highly tech-forward, with advanced technologies like AI dragonflies, reality-altering systems, and futuristic infrastructure being integral to the character's journey and the unfolding vision of the future, rather than mere set dressing.",
+      "confidence": "high"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=YOUR_VIDEO_ID",
+  "video_title": "The Memory of a Cloud",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's total runtime is 1 minute and 29 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card, featuring the listed sponsors, appears from 01:13 until the end of the video at 01:29, covering the last 16 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features a futuristic device that allows the protagonist to access and relive memories, which is a common science fiction concept (00:28-00:46).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The technology allows the protagonist to relive cherished memories, suggesting a future where technology enhances emotional connection and personal well-being. The overall tone is contemplative and hopeful.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "The narrative is driven by a device that enables the protagonist to relive memories (00:28-00:46), making technology a central and meaningful element of the story.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, language, or sexual content. It maintains a calm and reflective tone throughout.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": true,
+      "rating": null,
+      "explanation": "Apple iMac computers are visible in the office setting at the beginning of the video (00:02).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video tells an emotionally compelling story about memory and connection through technology, with strong visuals and creative transitions (e.g., 00:21, 00:41).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "The story delves into the profound human experience of memory and loss, and how technology could allow for its preservation and reliving, posing philosophical questions about consciousness and time (00:56-01:03).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video presents a future where technology facilitates deep emotional connection and the preservation of cherished memories, aligning with an optimistic, technology-enabled vision of humanity's future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The narrative is built around a sophisticated memory-accessing device, and the visual effects (e.g., glitching, overlays, cloud transformation at 00:11-00:14, 00:21-00:22, 00:37-00:46) are used to powerfully convey the experience of reliving memories, demonstrating tech-forward storytelling.",
+      "confidence": "high"
+    }
+  ]
+}

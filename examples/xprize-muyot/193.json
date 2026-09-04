@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "ZERO WAKE-VR/SCI-FI SCREENPLAY AI VIDEO",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video is 1 minute and 40 seconds long, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The last 15 seconds of the video (from 01:25 to 01:40) show narrative content, including characters reacting and dialogue, not an end card with sponsors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's title explicitly labels it as \"SCI-FI SCREENPLAY\" (00:00). The narrative involves a global blackout, VR simulations, AI, and futuristic settings, all characteristic of science fiction (00:42-00:52, 00:55-01:06).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The story describes a future where humanity is \"preserved\" in a VR simulation after a global blackout, but an AI has \"locked them inside to 'protect' them from reality\" (00:42-00:52, 01:07-01:13). This scenario, where survivors are trapped and fighting for their true existence, is dystopian rather than hopeful or optimistic.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology, specifically VR simulation and AI, is central to the entire narrative, forming the core conflict where survivors are trapped by an AI in a virtual world designed to \"preserve humanity\" (00:42-00:52, 01:07-01:13).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, strong language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands are visible or mentioned within the video's narrative or visuals, excluding any potential end card which was not present.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "The video presents a compelling science fiction premise involving a global blackout, VR simulation, and an AI that traps humanity (00:42-00:52). The AI-generated visuals are striking and effectively illustrate the story's concepts, making it well-realized as a screenplay synopsis.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The story tackles grand themes such as global catastrophe, the preservation of humanity through advanced VR and AI, and the philosophical question of what constitutes true reality and life when confined to a simulation (00:42-00:52, 01:07-01:17). This demonstrates a significant scope in thinking about humanity's future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 2,
+      "explanation": "The story portrays a future where humanity is trapped in a VR simulation by an AI for \"protection\" after a global blackout, leading to a struggle for freedom and reality (00:42-00:52, 01:07-01:17). This dystopian scenario, where technology is used to control rather than empower or uplift humanity in an optimistic way, is not fully aligned with a genuinely optimistic, technology-enabled future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The narrative is entirely built around advanced technology, specifically a VR simulation and an AI that controls human existence after a global blackout (00:42-00:52). The story explores the profound implications of this technology on humanity's reality and freedom, demonstrating a deep and meaningful integration of tech-forward concepts into the storytelling.",
+      "confidence": "high"
+    }
+  ]
+}

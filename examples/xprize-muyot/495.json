@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "Mosaic: A Future Vision",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total duration of 2 minutes and 31 seconds, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "From 02:15 to 02:31, the video displays an end card with 'FUTUREVISION XPRIZE' and lists 'salesforce' as the Presenting Sponsor, 'Google' and 'XPRIZE' as Partners, and 'Jed McCaleb' as the Presenting Donor.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video is set in the year 2057, features advanced technologies like orbital solar panels, holographic interfaces for AI research, and a global government, all indicative of a science fiction genre.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video begins by describing a future of 'unprecedented prosperity' due to 'revolutionary technology' and 'clean energy' (00:08-00:17). The protagonist then develops 'Mosaic' to combat human isolation, aiming to bring people together, which is an optimistic goal.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, from the orbital solar panels providing clean energy (00:10-00:13) and the global government's infrastructure (00:18-00:26) to the protagonist's AI research using holographic interfaces (00:35-00:40, 01:20-01:39) and the 'Mosaic' algorithm itself, which is the core solution to human isolation.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, language, or sexual content. The themes are loss, isolation, and hope.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The 'NOVATEC INSTITUTE' (00:27) is a fictional entity within the video's narrative and not a recognizable real-world brand.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video presents a clear and emotionally resonant story about technological progress contrasting with human isolation, leading to a personal quest for connection. The production quality is high, with effective visuals and narration that convey the story well within its short runtime.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The story addresses large-scale societal issues such as global governance, clean energy, and the pervasive problem of human isolation in an advanced future. It proposes a technological solution ('Mosaic') with the potential to impact all of humanity, demonstrating big-picture thinking.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video explicitly states its alignment with the 'FUTUREVISION XPRIZE Building Optimistic Visions of the Future' at the end (02:15). The narrative, despite acknowledging challenges like isolation, focuses on technology as a means to achieve a more connected and prosperous future, fitting the optimistic and technology-enabled criteria.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "Advanced technology is not merely background but an active driver of the plot. Holographic interfaces are used for research (00:35-00:40, 01:20-01:39), orbital solar panels are key to energy abundance (00:10-00:13), and the 'Mosaic' algorithm is the central innovation developed to solve human isolation, making the storytelling tech-forward.",
+      "confidence": "high"
+    }
+  ]
+}

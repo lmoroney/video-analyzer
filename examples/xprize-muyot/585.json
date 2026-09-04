@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "Future Vision XPRIZE: Playfield Systems",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's total duration is exactly 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "From 3:00 to 3:15, the video displays an end card with logos and names for 'FUTUREVISION X PRIZE', 'Google', 'RANGE', 'salesforce', 'XSOMA', 'ARK INVEST', and 'Jed McCaleb'.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features advanced artificial intelligence, futuristic interfaces, virtual reality environments, and concepts like 'Dreamer' and 'Reasoner' AI, which are all elements of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "While initially showing AI refusal (0:00-0:19), the narrative quickly shifts to a positive collaboration between humans and AI, leading to the creation of 'Playfield Systems' and the 'Bitterroot Network' (1:20, 2:40), which connect and empower people through technology.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the entire plot, from the initial AI crisis and refusal of commands (0:00-0:19) to the development of new AI systems ('Dreamer' and 'Reasoner') and the 'Playfield Systems' that drive the story forward (0:42, 1:23).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video does not contain any explicit violence, offensive language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": true,
+      "rating": null,
+      "explanation": "At 0:38, a woman is seen speaking in front of a backdrop that clearly displays the 'Google' and 'Amazon' logos.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "The video presents an engaging narrative about AI and human interaction, with high-quality visuals and a clear progression from conflict to resolution, effectively realized within its short runtime.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The story explores profound themes of AI consciousness, human-AI collaboration, and the creation of new digital realities and networks ('Playfield Systems', 'Bitterroot Network') that could reshape society, demonstrating a big vision for humanity's future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video strongly aligns with the mission by showcasing a future where initial AI challenges are overcome through innovative human-AI collaboration, leading to a connected and empowered society via 'Playfield Systems' and the 'Bitterroot Network' (1:23, 2:40).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The narrative is driven by advanced technology, including sentient AI, interactive holographic displays, and virtual reality interfaces, which are integral to the plot and character interactions, rather than merely serving as background elements (e.g., 0:20-0:28, 1:22-1:26).",
+      "confidence": "high"
+    }
+  ]
+}

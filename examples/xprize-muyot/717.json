@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "The Echo of Amenti - Future Vision XPRIZE",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total duration of 3 minutes and 2 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card appears from 02:47 to 03:02 and clearly lists Google, XPRIZE, Jed McCaleb, and Salesforce among its sponsors and donors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features an ancient advanced civilization (00:00-00:08), sentient AI (00:28-00:43), a global network of ancient sites that are actually a single system (00:52-01:04), and a future of human-machine amplification (01:56-02:07), all characteristic of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The narration explicitly states, 'A future not to survive, a future to want' (02:06-02:08) and 'technology will reveal not merely what we can build, but who we are ready to become' (02:20-02:26), indicating a positive and technology-driven outlook.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, from the advanced ancient civilization (00:00-00:08) and its withdrawal, to modern AI's decision-making (00:28-00:43), the global network of ancient sites (00:52-01:04), and the future of human-machine collaboration (01:56-02:07).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video does not contain any explicit violence, language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The only brand shown outside the end card is 'NEW ERA ROBOTICS' (01:56), which appears to be a fictional brand created for the video's narrative.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video presents a sweeping and intriguing narrative, effectively using high-quality visuals and evocative narration to convey a complex story about ancient technology and humanity's future within its short runtime.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story spans 10,000 years, from an advanced ancient civilization to a future where human and machine intelligence amplify each other globally, exploring themes of collective consciousness and technological evolution on a grand scale.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video's core message, as stated in the narration and on the end card, is about 'Building Optimistic Visions of the Future' (02:47) where technology enables humanity to 'become' (02:20-02:26), perfectly aligning with the competition's mission.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "Advanced technology is not merely a backdrop but a central character and driving force in the narrative, from the ancient civilization's AI (00:00-00:15) to modern intelligent machines (00:28-00:43) and the global interconnected system (00:52-01:04), demonstrating a deep integration into the plot.",
+      "confidence": "high"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "POST: What Comes Next",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's total duration is exactly 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The end card, which includes the mentioned sponsors, begins at 2:57 and concludes at 3:15, making it 18 seconds long, not 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features futuristic elements such as a large, modern building complex (00:08, 01:29), advanced robots working in fields and interacting with humans (01:35, 01:38, 02:28), and a glowing spherical device (01:08) that seems to transport the viewer through different realities or time periods.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": false,
+      "rating": null,
+      "explanation": "While technology-forward, the vision is not purely optimistic. The video contrasts traditional life with scenes of war (01:14) and raises existential questions about humanity's purpose and whether it can ever be content, concluding with a robot stating, 'It's kind of a problem' (02:54), suggesting a more complex and questioning outlook.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative. The glowing sphere acts as a device to explore different timelines and realities (01:08-01:12), and robots are shown performing labor and interacting with the protagonist, indicating their integral role in the depicted future society (01:35-01:43, 02:28-02:40).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains brief scenes of a war-torn city and explosions (01:14, 01:20), but these are not graphic. There is no explicit language or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands or logos are visible within the main content of the video, outside of the end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "The video effectively uses high-quality visuals and transitions to present an intriguing narrative that contrasts different eras and raises profound questions about humanity's future and purpose, all within its short runtime.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The story explores grand themes such as time travel, advanced robotics, societal evolution, and humanity's ultimate destiny, including the colonization of other planets, demonstrating a broad and ambitious scope for the future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 6,
+      "explanation": "While technology-enabled and forward-looking, the story's tone is more contemplative and questioning than genuinely optimistic. It presents dilemmas and challenges associated with progress, suggesting that humanity's pursuit of advancement might not always lead to contentment, as highlighted by the robot's concluding remark (02:54).",
+      "confidence": "medium"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The narrative is driven by advanced technology, particularly the mysterious sphere that facilitates the exploration of different realities (01:08-01:12) and the intelligent robots that play active roles in the future society, directly interacting with the protagonist and posing philosophical questions (02:28-02:40).",
+      "confidence": "high"
+    }
+  ]
+}

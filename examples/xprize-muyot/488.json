@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "Dear Future Human: Our Choices. Their Tomorrow.",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's total duration is exactly 3 minutes and 15 seconds (03:15).",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "From 03:00 to 03:15, the video displays an end card with the 'FUTUREVISION XPRIZE' logo and lists Salesforce, Google, RANGE, XPRIZE, XSOMA, ARK INVEST, and Jed McCaleb as sponsors/partners/donors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features advanced humanoid robots, holographic communication from the future (00:14), futuristic cityscapes (00:22, 02:38), and AI learning, all indicative of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "Despite initial conflict and fear (01:24-02:05), the video concludes with a vision of humans and robots coexisting peacefully in a thriving, green, technologically advanced city (02:38-02:56), guided by human values.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "The entire narrative revolves around the creation and development of an AI robot (Mira) and its role in humanity's future, with advanced technology like holographic communication and autonomous drones being central to the plot (e.g., 00:14, 01:24, 02:14).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains scenes of peril and implied danger (e.g., drones attacking at 01:39, flooded city at 01:50), but no explicit violence, offensive language, or sexual content is shown.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable commercial brands are visible or mentioned within the narrative portion of the video.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video presents a concise yet emotionally resonant story about humanity's choices in guiding AI, with strong visuals and a clear narrative arc from conflict to hopeful resolution. The production quality is high for a short film.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story tackles fundamental questions about the nature of humanity, the role of AI, and the potential for a symbiotic future, envisioning a world transformed by conscious choices and advanced technology (02:06, 02:38).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video directly aligns with the XPRIZE mission by showcasing a future where technology, specifically AI, is guided by human values like 'care,' 'dignity,' and 'abundance' (02:06), leading to a positive and collaborative future for humanity.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "Advanced technology, particularly the sentient AI robot Mira and holographic communication, is not merely background but is integral to the plot, character interactions, and the central theme of shaping the future (e.g., 00:14, 00:31, 02:14).",
+      "confidence": "high"
+    }
+  ]
+}

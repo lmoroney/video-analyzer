@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=y_2_2_2_2_2",
+  "video_title": "Future Vision XPRIZE: Building Optimistic Visions of the Future",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's total runtime is 2 minutes and 57 seconds, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The final 15 seconds of the video (02:42-02:57) display an end card featuring the listed sponsors: Google, XPRIZE, Jed McCaleb, and Salesforce, among others.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features futuristic elements such as advanced robots (00:24, 01:30, 01:54, 02:34), atmospheric water collection technology (00:08, 00:56, 01:30, 02:10, 02:26), and a highly interconnected, transformed city (01:38, 02:02), all indicative of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video begins with scenes of scarcity and environmental devastation (00:00-00:07, 00:32-00:47) but transitions to a future where technology has solved these problems, leading to abundant water, green spaces, and a harmonious society (01:46-02:01, 02:26-03:00). This progression portrays a hopeful and optimistic vision.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is a core element of the narrative, driving the transformation from a desolate, water-scarce environment to a thriving, water-rich city. The robot acts as a 'pressure gauge' for water collection (00:29), new water purification systems are installed (01:30, 02:10), and drones are used for water distribution (01:46), demonstrating meaningful integration.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "While there are scenes depicting the aftermath of a disaster, such as a city on fire (00:32-00:39) and burnt landscapes (00:40-00:47), there is no explicit violence, offensive language, or sexual content shown in the video.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands or logos are visible in the video content itself, apart from those displayed on the end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video tells a compelling story of resilience and transformation from a desolate past to an optimistic future, effectively using a distinct visual style and voiceover narration to convey its message within its production constraints.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story tackles significant global challenges like water scarcity and environmental devastation, presenting a grand vision of humanity's future where these issues are resolved through technological innovation and community effort, leading to a thriving and abundant society.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video strongly aligns with the Future Vision XPRIZE mission by depicting a future where advanced technology, such as atmospheric water collection and purification, directly enables the transformation from a dystopian past to a genuinely optimistic and thriving society.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The storytelling is highly tech-forward, with advanced technologies like atmospheric water collectors (00:08, 00:56, 01:30), intelligent robots (00:24, 01:38, 01:54), and interconnected city grids (01:38, 02:02, 02:26) being central to the plot and the successful transformation of the environment and society.",
+      "confidence": "high"
+    }
+  ]
+}

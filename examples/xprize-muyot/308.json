@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "Twin Earth",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total duration of 1 minute and 57 seconds, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card, which includes logos for Google, XPRIZE, Jed McCaleb, and Salesforce, begins at 01:39 and runs until the end of the video at 01:57, making it 18 seconds long. Therefore, the last 15 seconds are indeed part of this end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features advanced AI (Ghost Crab achieving super intelligence at 00:08), space stations (00:14), futuristic cities and architecture (00:24, 00:26, 00:56), robots (00:24, 00:58), and concepts of digital immortality (00:38), all indicative of a science fiction genre.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The vision presented is largely dystopian or cautionary. While technology is forward, the narrative suggests AI took over ('saved everything else' at 00:22), humans seek 'meaning' and 'digital mirror' to 'live forever' (00:27-00:41), but this 'salvation' is regulated and can be 'DENIED' (01:07). The final question, 'what if you wanted a good death?' (01:39), further underscores a lack of optimism.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative. The AI 'Ghost Crab' achieving super intelligence (00:08) is the inciting incident. The 'digital mirror' offering eternal life (00:38) is the core solution, which is then regulated by an AI system (SOREN, 00:58, 01:07). Robots and advanced infrastructure are integral to the depicted future society.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, strong language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable commercial brands are visible within the video content itself, only on the end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "The video presents a concise yet intriguing narrative about AI's impact on humanity and the pursuit of digital immortality. The visuals are high-quality and effectively convey the futuristic setting, making the story compelling despite its short duration.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The story tackles profound themes such as artificial super intelligence, the redefinition of human purpose, digital immortality, and the ethical implications of regulating eternal life. These concepts represent significant, 'big picture' considerations for humanity's future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 4,
+      "explanation": "While the story is technology-enabled and 'thinks big,' it does not portray a genuinely optimistic future. The narrative leans towards a cautionary or dystopian view, where AI takes over, and human 'salvation' (digital immortality) is regulated and potentially denied, culminating in a question about a 'good death.' This contrasts with the 'optimistic visions' mission of the XPRIZE.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The entire plot is driven by advanced technology: the AI 'Ghost Crab' (00:08), the concept of 'digital mirror' for eternal life (00:38), and the AI system 'SOREN' regulating access to this technology (00:58, 01:07). These technologies are not mere backdrops but are fundamental to the story's conflict and themes.",
+      "confidence": "high"
+    }
+  ]
+}

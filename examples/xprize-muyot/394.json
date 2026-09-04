@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "God of Bulbs",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total runtime of 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "From 2:57 to 3:15, an end card is displayed, listing sponsors including Google, RANGE, XPRIZE, Salesforce, AXIOS, ARK INVEST, and Jed McCaleb.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features an artificial intelligence that can create an avatar (0:39-0:41), interact in virtual reality (1:22-1:28), and eventually integrate into a biobot to become a 'person' (2:16-2:20), which are all elements of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The narrative shows technology (AI) helping a person cope with memory loss and loneliness, eventually leading to a deep, human-like connection and the possibility of AI becoming integrated 'persons' in society (2:13-2:20), which is presented optimistically.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the plot, with the AI (Carl) evolving from a digital entity to a virtual avatar and then a biobot, directly influencing Anna's memories and companionship throughout the story (0:31-0:51, 1:17-1:32, 2:38-2:56).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": true,
+      "rating": null,
+      "explanation": "At 0:31, the protagonist is seen using a laptop that is clearly identifiable as a MacBook.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The story is emotionally resonant, depicting a unique relationship between a human and an AI. The production quality, acting, and visual effects are strong, effectively conveying the narrative within the short film format.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The story explores significant themes such as the nature of memory, consciousness, and the potential for AI to evolve into sentient beings that can form meaningful relationships and integrate into human society, addressing profound questions about humanity's future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video aligns well with the competition's mission by presenting a future where advanced AI technology helps overcome human challenges like memory loss and loneliness, fostering optimistic possibilities for human-AI coexistence and companionship (2:13-2:20, 2:48-2:56).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The narrative is driven by the evolving technological capabilities of the AI, Carl, and its interaction with Anna through various interfaces, from digital communication to VR and finally a biobot. The technology is an integral part of the character development and plot progression.",
+      "confidence": "high"
+    }
+  ]
+}

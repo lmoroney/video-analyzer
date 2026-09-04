@@ -1,0 +1,83 @@
+{
+  "video_url": "Not provided",
+  "video_title": "Axis by Coherence - Future Vision XPRIZE Short Film",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total runtime of 3 minutes and 7 seconds, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card appears from 2:53 to 3:07, displaying 'Google', 'RANGE', 'XPRIZE', 'Salesforce', and 'Jed McCaleb' as partners and sponsors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video depicts advanced future technologies such as brain implants (0:25, 0:41), self-driving vehicles (0:10, 0:20, 0:51), smart cities with vertical gardens (0:13), and an AI system named Thea that optimizes human lives and predicts events, including a 'Category 6' hurricane (0:17).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": false,
+      "rating": null,
+      "explanation": "While initially presenting a seemingly optimized future, the narrative quickly shifts to a dystopian portrayal where the protagonist loses his job and autonomy due to the technology (1:19-1:26), suggesting a negative outcome of this technology-forward vision.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "The 'Axis' device and the AI 'Thea' are central to the plot, dictating life choices, managing careers, and influencing personal well-being, making technology a core element of the narrative.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit scenes of violence, offensive language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable commercial brands are visible or mentioned in the main content of the video, outside of the end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video presents a compelling narrative about the dangers of over-reliance on AI and the importance of human agency, with high production quality, engaging visuals, and a clear story arc despite its short length.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The story explores profound themes such as the optimization of human life from birth, the potential loss of free will to AI, and the societal implications of advanced technological control, demonstrating a big-picture vision of humanity's future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 3,
+      "explanation": "While technology-enabled, the story primarily depicts a dystopian future where AI controls and limits human potential, which contrasts with the 'genuinely optimistic' vision sought by the XPRIZE competition. The optimism comes from the protagonist's rebellion, not the technology itself.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The narrative is entirely driven by advanced technology, from the 'Axis' device and 'Thea' AI to smart infrastructure and personal implants, all of which are central to the plot and character experiences.",
+      "confidence": "high"
+    }
+  ]
+}

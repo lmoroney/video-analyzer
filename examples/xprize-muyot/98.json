@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=y_2_2_2_2_2",
+  "video_title": "The Last Generation to Die - Feature Film Pitch",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's total duration is exactly 3 minutes and 15 seconds (03:15).",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card appears from 03:00 to 03:15 and clearly lists Google, XPRIZE, Jed McCaleb, and Salesforce among its partners and sponsors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The director explicitly states his film is set in a future where humans discover how to stop aging through genetics (00:51-00:53), and the video showcases concepts like anti-aging therapy and futuristic technology (01:28-01:46).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video begins with a voiceover about having 'more time' for life's joys (00:04-00:22) and concludes with the protagonist fighting for universal access to anti-aging therapy, leading to a future where a gravestone has no end date (02:10-02:16). The director also expresses a personal desire to 'pull that future closer' (02:55-02:59).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "The entire narrative revolves around 'Firstlight,' a genetic therapy to reverse human aging (01:31-01:34), which is the central plot device driving character motivations and conflicts, such as the father's treatment and the mother's exclusion from the trial (01:41-02:05).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video does not contain any explicit violence, strong language, or sexual content. There is a brief scene of a couple in bed (00:21-00:22) but it is not explicit.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video features 'APEIRON LIFE™' (00:26-00:29) as a fictional company within the film's premise, but no other recognizable real-world brands are shown outside of the end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "The video effectively uses a combination of live-action footage, behind-the-scenes glimpses, and animated storyboards to convey a clear and emotionally resonant narrative about life, loss, and the pursuit of immortality. The director's personal connection adds significant depth.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The story tackles the monumental concept of overcoming aging through genetic therapy, exploring its profound societal, ethical, and personal implications, including issues of access and the redefinition of life and death.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "While the story delves into the challenges and inequalities that could arise from anti-aging technology, its ultimate resolution, where the therapy becomes public and offers a future without a 'died' date (02:10-02:16), aligns with an optimistic, technology-enabled vision. The director's personal motivation to 'pull that future closer' reinforces this alignment.",
+      "confidence": "medium"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The advanced genetic therapy is the core of the narrative, driving the plot, character conflicts, and the overarching themes of life extension and societal change. The technology is not just a backdrop but an active force shaping the future depicted.",
+      "confidence": "high"
+    }
+  ]
+}

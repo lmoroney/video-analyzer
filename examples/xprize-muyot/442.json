@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "Goomy: Go with me.",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's total duration is exactly 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "From 3:00 to 3:15, the video displays an end card listing \"FUTUREVISION XPRIZE\" and sponsors including Google, XPRIZE, Jed McCaleb, and Salesforce.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features an advanced robotic walker named \"Goomy\" with AI capabilities, which is a futuristic technology, making the content science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video portrays an optimistic future where technology, specifically the robotic walker \"Goomy,\" helps an elderly woman regain independence, overcome loneliness, and find joy, culminating in a scene of many seniors actively participating in life with similar devices (2:45-2:55).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "The robotic walker \"Goomy\" is a central character, actively encouraging and assisting the elderly woman throughout her journey, from helping her walk to inspiring her to play the saxophone again (0:39-0:42, 1:24-1:26, 2:03-2:05).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": true,
+      "rating": null,
+      "explanation": "At 1:00, the woman and Goomy are seen using a laptop with \"Google Maps\" clearly visible on the screen.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video tells a compelling and emotionally resonant story of an elderly woman finding renewed purpose and joy with the help of her robotic companion, all realized with high-quality animation and expressive character design.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The story envisions a future where advanced robotic companions enable the elderly to overcome physical limitations and loneliness, promoting active and fulfilling lives for seniors on a societal scale (2:45-2:55).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video perfectly aligns with the Future Vision XPRIZE mission by showcasing a genuinely optimistic future where technology, embodied by the \"Goomy\" walker, empowers the elderly to live vibrant, connected lives, directly addressing the themes of longevity and quality of life.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The robotic walker \"Goomy\" is a central and active character, demonstrating advanced AI and mobility features that are crucial to the narrative, enabling the protagonist's emotional and physical transformation.",
+      "confidence": "high"
+    }
+  ]
+}

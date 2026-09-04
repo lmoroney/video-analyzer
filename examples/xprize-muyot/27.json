@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=2_2L-J02120",
+  "video_title": "Mosaic: A Future Vision XPRIZE Film",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video is exactly 3 minutes and 15 seconds long.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's end card, from 3:00 to 3:15, clearly displays Google, XPRIZE, Jed McCaleb, and Salesforce as partners, sponsors, or donors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features futuristic technology like age reversal (00:00-00:03, 01:45-01:50), space travel, and a large space station (00:50-00:54), clearly placing it in the science fiction genre.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": false,
+      "rating": null,
+      "explanation": "While some initial scenes show advanced technology and space colonization (00:04-00:12), the narrative quickly turns dystopian, highlighting resource scarcity and a forced choice that leads to conflict and destruction (01:00-01:06, 01:13-01:15, 02:46-02:51). The ending is somber, not hopeful.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "The 'Mosaic' technology, which enables age reversal (00:00-00:03, 01:45-01:50) and dictates resource allocation ('Mosaic gave everyone enough. Enough to live. You kept the future.' at 01:00-01:06), is the core driver of the narrative and conflict.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains scenes of conflict and destruction (e.g., a woman injured at 01:29, explosions at 02:46), but there is no explicit violence, strong language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "Apart from the sponsors listed on the end card (3:00-3:15), no other recognizable commercial brands are visible or mentioned in the video. The technology is branded 'Mosaic'.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video presents a compelling, high-stakes narrative about humanity's future and difficult choices, with strong visual effects (e.g., space station at 00:50, destruction at 02:46) and emotional performances (e.g., the woman's tears at 01:30, 02:53).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The narrative explores grand themes such as age reversal, space colonization, and the survival of humanity on a cosmic scale, demonstrating a very ambitious vision for the future (00:04-00:12, 00:50-00:54, 01:45-01:50).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 3,
+      "explanation": "While technology is central, the story's tone is largely dystopian and somber, focusing on difficult choices, resource scarcity, and conflict (01:00-01:06, 01:13-01:15, 02:46-02:51), which does not align with a 'genuinely optimistic' vision.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The entire plot revolves around the advanced 'Mosaic' technology, which enables age reversal and dictates the future of humanity, making it an integral part of the storytelling (00:00-00:03, 01:00-01:06, 01:45-01:50).",
+      "confidence": "high"
+    }
+  ]
+}

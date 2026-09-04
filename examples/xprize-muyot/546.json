@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "Love After Easy",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total length of 2 minutes and 49 seconds, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The end card, which includes the listed sponsors, appears from 02:36 to 02:49, making it 13 seconds long, not 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features advanced technology such as a 'Ring Protocol' for human trials (00:19), emotional analysis displays (00:32-00:36), a holographic baby being 'printed' (01:04-01:05), and an android character 'made just for you' (01:34-01:35), all indicative of a science fiction genre.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video presents technology as a means to achieve deep connection and family, even for an android, culminating in a successful 'first human trial' of love and commitment (02:16-02:17), suggesting an optimistic future where technology enhances human experience.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, with the 'Ring Protocol' being a core plot device (00:19), 'SYNC' levels indicating a shared experience during a challenge (00:51-01:03), and Theo's identity as an AI/android with emotional bandwidth metrics (01:26-01:29) driving the story's themes of love and commitment.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, language, or sexual content. It focuses on themes of love, commitment, and family.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands are visible or mentioned within the video content itself, outside of the final end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video tells a unique and emotionally resonant story about love and commitment in a technologically advanced world. The production quality is high, with striking visuals and effective storytelling that makes the futuristic concepts feel grounded and compelling.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The story explores profound questions about the nature of love, commitment, and what it means to be human in an era of advanced AI and bio-engineering, suggesting a future where these concepts are redefined and expanded.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video strongly aligns with the XPRIZE mission by showcasing a future where technology facilitates deeper connections and new forms of family, ultimately presenting an optimistic view of how humanity can thrive with advanced innovation.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The narrative is driven by advanced technology, from the 'Ring Protocol' and 'SYNC' levels that define the couple's bond to Theo's identity as an AI/android. These technological elements are not mere props but are integral to the plot, character development, and thematic exploration of love and commitment.",
+      "confidence": "high"
+    }
+  ]
+}

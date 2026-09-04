@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "Magical Adventures and Transformations",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's total duration is exactly 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The last 16 seconds of the video (from 02:59 to 03:15) display an end card featuring sponsors including Google, XPRIZE, Jed McCaleb, and Salesforce.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video's content is primarily fantasy, featuring magical creatures, transformations, and powers (e.g., dragons, unicorns, flying people, magical rain, sand manipulation) in fantastical settings, rather than science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": false,
+      "rating": null,
+      "explanation": "While the video portrays a hopeful and optimistic future with magical elements and fantastical creatures, it does not present a technology-forward vision of humanity's future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": false,
+      "rating": null,
+      "explanation": "The narrative relies on magic and fantastical abilities (e.g., shape-shifting, elemental control, magical rain, flying creatures) rather than advanced technology.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video does not contain explicit violence, language, or sexual content. There is a brief depiction of a character coughing blood (02:47) and an antagonist being restrained, but it is not graphic.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "Apart from the sponsors displayed on the end card (02:59-03:15), no other recognizable brands are used in the video.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 6,
+      "explanation": "The video features high-quality animation and visuals, indicating good production value. However, the narrative is fragmented, presenting several distinct magical scenarios (e.g., a boy becoming a dragon, a water treasure hunt, a magical wedding, a desert ship, a battle with elemental powers) without a clear overarching plot or character development, making it less compelling as a cohesive story.",
+      "confidence": "medium"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 5,
+      "explanation": "The story explores grand fantastical themes and magical abilities, but it doesn't explicitly \"think big\" about humanity's future in terms of societal evolution, global challenges, or technological advancement. Its scope is more focused on individual magical journeys and relationships within a fantasy world.",
+      "confidence": "medium"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 2,
+      "explanation": "While the video is optimistic, it is not aligned with the \"technology-enabled future\" aspect of the Future Vision XPRIZE competition. The narrative is driven by magic and fantasy, with no discernible advanced technology integrated into its vision of the future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 1,
+      "explanation": "The storytelling is entirely focused on magical abilities, mythical creatures, and fantastical events (e.g., shape-shifting, elemental powers, magical rain, flying ships powered by eagles), with no advanced technology meaningfully integrated into the narrative.",
+      "confidence": "high"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=y_123456789",
+  "video_title": "Space Adventure: Escape from Reptilian Aliens",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video has a total duration of 4 minutes and 54 seconds, which is longer than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The segment from 04:39 to 04:54 displays an end card with 'FUTUREVISION X PRIZE', 'Google', 'RANGE', 'Salesforce', 'XSOVA', 'ARK INVEST', and 'Jed McCaleb' listed as partners, sponsors, and donors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features spaceships, space travel through portals, alien species (a tiger-like companion and reptilian antagonists), and advanced technology, all characteristic of the science fiction genre (e.g., 00:07-00:12, 00:38-00:51, 01:01-01:05).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": false,
+      "rating": null,
+      "explanation": "While technology is used for survival, the overall vision is not optimistic. The protagonists face a hostile alien encounter, lose their main ship, and the male human character is left stranded on a desert planet questioning his destiny (04:01-04:09).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the plot, including the spaceship for interstellar travel, the communication system with the alien, the strategic use of the ship as a weapon, and the escape pods for survival (00:07-00:12, 00:52-00:57, 02:06-02:16, 02:47-02:54).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains animated action and explosions during a space battle (02:55-03:10), but it is not graphic or explicit. There is no explicit language or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands are visible or mentioned in the video outside of the end card credits.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 7,
+      "explanation": "The story is compelling with a clear conflict and a dramatic escape. The animation style is consistent, and the narrative flows well, building tension and excitement within the animated format.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 6,
+      "explanation": "The story involves grand concepts like interstellar travel and encounters with alien civilizations. However, its primary focus is on the immediate survival of a small group rather than exploring a broader, transformative vision for humanity's future.",
+      "confidence": "medium"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 3,
+      "explanation": "While technology is central to the plot, the story's ending, with the protagonist stranded and uncertain of his fate after a destructive conflict, does not convey a genuinely optimistic vision of the future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "Advanced technology is deeply integrated into the narrative, serving as key plot devices. The spaceship, portal, communication systems, and escape pods are all crucial to the characters' actions and the story's progression (e.g., 02:06-02:16, 02:47-02:54).",
+      "confidence": "high"
+    }
+  ]
+}

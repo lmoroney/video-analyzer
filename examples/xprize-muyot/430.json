@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "A Better Question",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total duration of 2 minutes and 39 seconds, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "From 02:22 to 02:39, the video displays an end card with logos and names including 'FUTUREVISION X PRIZE', 'Google', 'salesforce', and 'Jed McCaleb'.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features futuristic cityscapes with advanced architecture and transportation (00:13-00:26), as well as scenes of interstellar travel (02:01-02:02, 02:12-02:13), clearly placing it within the science fiction genre.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video contrasts a bleak present/past with a vibrant, green, technologically advanced future where 'everything is possible' (00:14) and technology serves life, emphasizing a positive outlook on humanity's potential.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, with a glowing book acting as a portal to different futures (00:10-00:11, 00:27) and advanced headphones (01:52-01:55) used to experience these visions, directly driving the story's exploration of possibilities.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "While there are brief scenes depicting conflict and destruction (01:03-01:06) and a crying child (01:07-01:08), there is no explicit violence, offensive language, or sexual content shown.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands or product placements are visible within the main content of the video, only on the final end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video presents a clear and emotionally resonant narrative about choice and the future, with high-quality visuals and effective storytelling that makes it compelling despite its short length.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The narrative explores grand concepts like interstellar travel, advanced sustainable cities, and plant-based medicine (00:17-00:25), directly addressing humanity's potential to shape its destiny on a large scale.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video explicitly champions the idea of choosing a future where technology serves life and fosters a closer relationship with nature (01:16-01:20), perfectly aligning with the optimistic, technology-enabled future vision promoted by XPRIZE.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The glowing book and advanced headphones are key narrative devices that allow characters to experience and reflect on different technologically advanced futures, making technology integral to the plot's progression and themes.",
+      "confidence": "high"
+    }
+  ]
+}

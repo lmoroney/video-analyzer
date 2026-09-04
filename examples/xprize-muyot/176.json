@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "The Weave",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total duration of 3 minutes and 8 seconds, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "From 02:53 to 03:08, the video displays an end card with the 'FUTUREVISION XPRIZE' logo and lists Google, XPRIZE, Jed McCaleb, and Salesforce as partners/sponsors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video presents a futuristic concept of 'the weave,' a global network of glowing threads that can provide resources and help, which is a clear science fiction element (00:00-00:07, 00:18-00:23).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video begins by stating, 'A hundred years ago, we ended scarcity' (00:01) and concludes with the message, 'A future woven to lift everyone. None left behind' (02:44-02:45), clearly depicting an optimistic and technology-driven future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "The 'weave' technology is central to the entire narrative, serving as the source of both the initial societal advancement (ending scarcity) and the conflict (the valley's refusal of help), and ultimately the resolution (00:18-00:23, 00:48-00:57, 02:01-02:10).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video does not contain any explicit violence, language, or sexual content. There is a scene of a wall breaking and people running in fear (01:37-01:38), but it is not graphic.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands are visible or mentioned within the video content itself, only on the final end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video tells a compelling story of overcoming distrust and accepting help through the 'weave,' with strong emotional beats and high-quality visuals, effectively realized within its short runtime.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The narrative's premise of ending scarcity globally and connecting all people through a vast technological network ('the weave') represents a very ambitious and expansive vision for humanity's future (00:01, 00:18-00:23, 02:27-02:37).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video's explicit message, 'A future woven to lift everyone. None left behind' (02:44-02:45), perfectly aligns with the Future Vision XPRIZE's mission of building optimistic, technology-enabled futures.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The 'weave' is an advanced technology that is not merely background but an active, almost character-like element driving the plot, enabling solutions, and symbolizing connection throughout the narrative (e.g., glowing threads, weaving machine, global network at 00:04-00:07, 00:48-00:57, 02:01-02:10).",
+      "confidence": "high"
+    }
+  ]
+}

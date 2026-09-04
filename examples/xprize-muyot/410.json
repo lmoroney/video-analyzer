@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "The Restorers",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total duration of 3 minutes and 0 seconds, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's end card, from 2:46 to 3:00, clearly displays logos for Google, XPRIZE, Jed McCaleb (as Presenting Donor), and Salesforce (as Presenting Sponsor), along with other partners and sponsors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video is set in the year 2526, features 'artificial minds' restoring the planet, and a 'Restorer' who can enter dreams and cross time/dimensions, all indicative of a science fiction genre.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The narrative describes a post-apocalyptic world (climate collapsed, wars turned nuclear) being restored by 'artificial minds' and 'Restorers' who seek 'wholeness' (0:25-0:36), presenting an optimistic vision of healing and reconnection enabled by advanced understanding and technology.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Yes, 'artificial minds' are explicitly mentioned as learning to make the world whole again (0:25-0:28). The Restorer's abilities, including entering dreams and crossing time/dimensions, are central to the plot and are presented as a form of advanced, perhaps mystical, technology or evolved human capability, with glowing patterns on their body (0:46-0:47, 1:13-1:16) suggesting technological integration.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, offensive language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands are displayed or mentioned within the video content itself, outside of the final end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video presents a compelling narrative of restoration and a quest, with stunning visuals and good pacing. The concept of 'Restorers' and the dream journey is intriguing and well-executed.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story addresses global collapse and presents a future where humanity, aided by 'artificial minds' and special individuals, works to restore the world and reconnect with a 'divine realm' or deeper understanding, which is a very ambitious and expansive vision.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video's narrative of overcoming past destruction and achieving wholeness through a blend of human effort and advanced 'artificial minds' and unique abilities, leading to a restored and harmonious future, perfectly aligns with the stated mission of the Future Vision XPRIZE competition.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The concept of 'artificial minds' restoring the planet (0:25-0:28) and the Restorer's glowing, network-like patterns on their body (0:46-0:47, 1:13-1:16) are clear examples of advanced technology. The ability to enter dreams and cross time/dimensions, while having mystical elements, is presented as a highly advanced capability integral to the narrative.",
+      "confidence": "high"
+    }
+  ]
+}

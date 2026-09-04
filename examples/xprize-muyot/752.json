@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=2_2-212-212",
+  "video_title": "Many Lives: Future Vision XPRIZE",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's total duration is exactly 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The last 15 seconds of the video (3:00-3:15) display an end card featuring the Future Vision XPRIZE and its sponsors, including Google, XPRIZE, Jed McCaleb, and Salesforce.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video depicts advanced technologies such as memory transfer capsules that impart collective human experience (0:24-0:49), futuristic cityscapes (0:09-0:12), and advanced research facilities (0:17-0:23), all characteristic elements of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The narrative centers on a technology (\"the seed\") that imparts collective human wisdom, leading to improved traits like humility and long-term judgment (1:38-1:46). The protagonist's efforts to make this technology accessible to all, despite government opposition (2:10-2:26), portray an optimistic vision of a technology-enabled future where humanity can learn and grow.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "The \"seed\" technology is the core of the narrative, driving the protagonist's motivations, the central conflict with the government over its public release (1:54-2:26), and the potential for humanity's collective growth and improved judgment (1:47-1:53).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, language, or sexual content. A brief montage includes abstract depictions of conflict (1:09-1:11), but these are not explicit.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The DARPA logo is clearly visible on a building at the 0:20-0:23 mark, which is a recognizable government research agency.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video presents a compelling narrative about a father's quest to connect with his son through a transformative technology, leading to a broader conflict over its societal impact. The animation is well-executed, and the story effectively conveys complex themes within its short runtime.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story envisions a future where humanity can transcend individual limitations by accessing the collective wisdom of all past generations, leading to profound improvements in judgment and societal well-being (0:43-0:49, 1:38-1:46). This concept fundamentally redefines human potential and societal evolution on a grand scale.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video strongly aligns with the Future Vision XPRIZE mission by showcasing a technology that enables humanity to collectively learn from past experiences, fostering humility, perspective, and long-term judgment (1:38-1:46). The narrative's optimistic resolution, where this transformative technology is made globally accessible (2:18-2:26), perfectly embodies a technology-enabled, hopeful future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The \"seed\" technology is central to every aspect of the narrative, from the protagonist's personal journey of self-improvement (0:55-1:30) to the global conflict over its public release (1:54-2:26). It is the catalyst for character development and societal transformation, demonstrating deeply integrated tech-forward storytelling.",
+      "confidence": "high"
+    }
+  ]
+}

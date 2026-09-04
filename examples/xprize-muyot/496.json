@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "Future Vision XPRIZE - A World Figured Out",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total duration of 2 minutes and 17 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The last 17 seconds of the video (from 02:00 to 02:17) display an end card featuring the Future Vision XPRIZE logo and sponsors including Google, Salesforce, and Jed McCaleb.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video depicts advanced technologies such as a futuristic flying vehicle (00:09), a domestic robot (00:47), and genetic manipulation (00:01, 01:13-01:19) that suggest a speculative, technology-driven future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The narrative explicitly counters a negative future (\"Everyone was so sure the future was going to be terrible. But it wasn't.\" at 00:05-00:14) and showcases a life free from daily stresses like work and injury, enabled by advanced technology (00:29-01:05).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the depicted future, enabling a life without injury (00:54-01:05), providing leisure activities like flying (00:09, 00:36) and advanced domestic assistance (00:47), and suggesting genetic or biological advancements (00:01, 01:13-01:19).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, language, or sexual content. The brief scene of a snowboarder falling (00:54) is immediately followed by a statement about the inability to get hurt, reinforcing a safe environment.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands, logos, or product placements are visible within the main content of the video, outside of the end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "The video effectively conveys a compelling vision of a utopian future through well-produced visuals and a clear, optimistic voiceover. While not a complex narrative, the vignettes are well-realized and visually engaging, making the overall message impactful.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video presents a grand vision of humanity's future, where fundamental societal problems like work, financial stress, and even physical harm are overcome, allowing individuals to live an \"ideal Saturday, every day\" (00:29-01:05).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video is perfectly aligned with the mission, explicitly stating that the future \"wasn't terrible\" (00:05-00:14) and demonstrating a highly optimistic, technology-enabled world where daily struggles are eliminated and personal fulfillment is paramount.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The storytelling is tech-forward, with advanced technologies like genetic manipulation (00:01, 01:13-01:19), personal flying vehicles (00:09, 00:36), and automated assistance (00:47) being central to the narrative's depiction of a liberated and safe future.",
+      "confidence": "high"
+    }
+  ]
+}

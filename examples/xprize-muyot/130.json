@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "Aurora Cosmos Starport",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's total duration is 03:14, which is less than or equal to 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The last 15 seconds of the video (02:59-03:14) display an end card featuring sponsors including Google, XPRIZE, Jed McCaleb, and Salesforce.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features futuristic concepts such as a vast rotating space habitat (00:04, 00:33), advanced spacecraft for asteroid mining (01:00, 01:25), and humanoid robots (01:11) designed to build and maintain this new world, clearly placing it in the science fiction genre.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video portrays a hopeful future where humanity collaborates to build a new home in space, Aurora Cosmos, using advanced technology to overcome challenges and create a thriving environment for people (02:50-02:58).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, with the Aurora Cosmos starport (00:33), Talon spacecraft for asteroid mining (01:00), Lumera induction forge (01:17), and Oriens humanoid robots (01:11, 02:16) being the primary drivers of the story's plot and the creation of the new world.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": true,
+      "rating": null,
+      "explanation": "Recognizable brands like \"SPACEX\" and \"FALCON 9\" are visible on a rocket at 00:59, \"ISRO\" and \"LVM3 INDIA\" on another at 01:05, and \"ARIANE V\" and \"esa\" on a third at 01:25.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video presents a compelling narrative of humanity uniting to build a new future in space, with high-quality visuals and a clear progression from problem to solution, making it well-realized within its production constraints.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story envisions humanity building a massive orbital habitat in the asteroid belt, creating artificial gravity, and establishing a starport to connect worlds, which is an extremely ambitious and expansive vision for the future (00:33, 02:08).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video is fully aligned with the Future Vision XPRIZE mission, portraying a genuinely optimistic and technology-enabled future where humanity collaborates to build a new, sustainable home in space, addressing societal challenges through innovation (00:14, 02:50).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The storytelling is highly tech-forward, with advanced technologies like asteroid-capturing spacecraft (01:25), nuclear-powered induction forges for in-space manufacturing (01:17), and humanoid robots for construction and maintenance (01:11, 02:16) being central to the narrative and the realization of the Aurora Cosmos project.",
+      "confidence": "high"
+    }
+  ]
+}

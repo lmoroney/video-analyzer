@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "Shadow Ban - Future Vision XPRIZE",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total duration of 3 minutes and 15 seconds, which is less than or equal to the specified length.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card, visible from 02:55 to 03:15, clearly displays the logos and names of Google, XPRIZE, Jed McCaleb, and Salesforce as sponsors and partners.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features advanced technologies like nanomesh for healing (01:09-01:11), AI named Logos (01:27-01:30), grown computers from coal (01:33-01:42), and a post-flood America with 'Appalachian Islands' (00:00-00:05), all indicative of a science fiction genre.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": false,
+      "rating": null,
+      "explanation": "While technology is forward, the vision is not entirely optimistic. It depicts a dystopian future with corporate control (Gov-Corp, 00:10-00:12), destroyed cities (00:45-00:46, 00:51-00:52), and a protagonist forced into a mission against 'Appalachian separatists' (00:24-00:26), suggesting conflict and struggle rather than a purely hopeful future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, including nanomesh for healing the protagonist's leg (01:09-01:11), the AI 'Logos' as a core system for data and guidance (01:27-02:01), and 'grown' computers (01:33-01:42) that are fundamental to the separatists' operations.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video shows explosions (02:16, 02:21) and people running from danger, implying conflict, but there is no explicit or graphic violence, strong language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable commercial brands are shown or mentioned in the video, apart from those listed on the end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video effectively sets up a compelling dystopian narrative with a clear conflict between a powerful corporation and a resistance group. The visuals are high-quality, and the pacing is engaging, introducing key characters and plot points efficiently within its short runtime.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The story explores significant themes such as post-climate disaster societies ('Post-Flood America', 00:00-00:05), corporate control, advanced AI, bio-engineered technology, and the nature of trust and community in a divided world, presenting a future vastly different from the present.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 6,
+      "explanation": "While the story is technology-enabled and showcases innovative tech, its overall tone is more dystopian and focused on conflict and resistance against an oppressive corporation. The 'separatists' offer a glimpse of a more community-driven, trust-based future (02:32-02:39), but the overarching narrative is not 'genuinely optimistic' due to the pervasive themes of control and impending invasion.",
+      "confidence": "medium"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The storytelling is highly tech-forward, with advanced technologies like nanomesh healing (01:09-01:11), AI (Logos) as a central intelligence (01:27-01:30), and 'grown' computers (01:33-01:42) being integral to the plot, character development, and the world's functioning, rather than just being background elements.",
+      "confidence": "high"
+    }
+  ]
+}

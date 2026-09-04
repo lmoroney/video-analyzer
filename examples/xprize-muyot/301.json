@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "Dead Frequency: Some Signals Were Never Meant to Die",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total duration of 3 minutes and 14 seconds, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card appears from 02:57 to 03:14, which covers the last 15 seconds of the video and explicitly lists 'FUTUREVISION X PRIZE', 'Google', 'salesforce', and 'Jed McCaleb' among others.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features futuristic elements such as surveillance drones (00:02, 00:43), holographic projections on buildings (00:07), and an advanced AI named 'Relay' that can track and analyze transmissions (01:04, 01:45), all set in a dystopian future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "While starting with a dystopian view of media control and societal collapse (00:03-00:12, 00:43-00:50), the narrative shifts to a hopeful message of truth spreading through independent radio broadcasts, enabled by technology and an AI's change of heart (02:16-02:44). The final scenes show a connected world and a sunrise (02:37-02:51), indicating an optimistic future where truth prevails.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, from the pervasive surveillance drones and controlled media broadcasts to the protagonist's underground radio station and the pivotal role of the AI 'Relay' in spreading unauthorized transmissions (01:04-01:18, 01:36-01:40, 02:09-02:15).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video depicts a dystopian world with scenes of burning landscapes and destroyed cars (00:43), but it does not contain any explicit violence, strong language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands are visible within the main content of the video, only on the end card (02:57-03:14).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video presents a highly compelling story with a clear narrative arc, strong voice acting, and effective visual storytelling. The production quality is impressive for a short film, creating a believable and engaging dystopian world that transitions to a hopeful future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The story tackles significant themes like media manipulation, the search for truth, and the power of individual voices in a technologically advanced society. It envisions a future where people can overcome systemic control through grassroots efforts and technology, offering a grand vision for societal change.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "While the initial setting is bleak, the story ultimately delivers a genuinely optimistic message about technology's potential to empower individuals and spread truth, even against powerful forces. The AI 'Relay' evolving to support the protagonist's mission is a key element of this technology-enabled optimism.",
+      "confidence": "medium"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The narrative is deeply intertwined with technology. From the omnipresent drones and controlled news feeds to the protagonist's sophisticated underground radio station and the sentient AI 'Relay', technology is not just a backdrop but an active participant and driver of the plot, showcasing its transformative power.",
+      "confidence": "high"
+    }
+  ]
+}

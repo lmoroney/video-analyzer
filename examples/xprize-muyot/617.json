@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=YOUR_VIDEO_ID",
+  "video_title": "Earth Speaks: A Future Vision XPRIZE Film",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's total duration is exactly 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card appears from 03:00 to 03:15 and clearly displays logos for Google, XPRIZE, Salesforce, and lists Jed McCaleb as a presenting donor.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video depicts advanced AI that can solve complex global problems, enable interspecies communication, and translate the 'mind' of the Earth, which are all elements of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video shows AI solving major human problems like disease and energy (00:02-00:11) and then becoming a translator for Earth's intelligence, leading to a deeper connection with nature, which is a highly optimistic and technology-forward vision.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "AI is central to the narrative, shown cracking equations, designing medicines, enabling communication with animals via a smart suitcase (00:31-00:38), and translating the 'mind' of the island and Earth itself (01:31-01:34, 02:47-02:59).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, offensive language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands are shown or mentioned in the video outside of the end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video presents a compelling narrative about AI evolving from a problem-solver to a translator for Earth's intelligence, culminating in a profound message about interconnectedness. The production quality is high, with beautiful visuals and clear storytelling, making it well-realized.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story envisions a future where AI not only solves humanity's grand challenges like disease and energy but also acts as a bridge to understanding the Earth's own intelligence, fundamentally shifting humanity's relationship with the planet.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video directly aligns with the XPRIZE mission by portraying a future where AI is a benevolent translator, enabling humanity to understand and connect with the Earth's intelligence, leading to a genuinely optimistic and technology-enabled future (02:47-02:59).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "Advanced AI is central to the narrative, shown cracking equations, designing medicines, enabling communication with animals via a smart suitcase (00:31-00:38), and translating the 'mind' of the island and Earth itself (01:31-01:34, 02:47-02:59).",
+      "confidence": "high"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "Future Vision XPRIZE: Building Optimistic Visions of the Future",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video's total length is 3 minutes and 17 seconds, which is longer than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card, featuring sponsors like Salesforce, Google, RANGE, XPRIZE, XSOVA, ARK INVEST, and Jed McCaleb, appears from 3:00 to 3:17, covering the last 15 seconds of the video.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video depicts a future where 'robust rejuvenation' makes aging optional, a concept currently beyond scientific reality, placing it firmly in the realm of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video explicitly states 'Building Optimistic Visions of the Future' (3:00) and shows people enjoying extended, healthy lives thanks to technological breakthroughs, conveying a hopeful and optimistic outlook.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "The entire narrative revolves around the development and impact of anti-aging technology, from lab research (00:10, 00:16) to its societal adoption (00:46-00:55) and the ethical considerations (01:54-02:11).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands are visible or mentioned in the video outside of the end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video tells a compelling story of Dr. Maxima Vita's lifelong dedication to reversing aging, overcoming personal and scientific challenges, and ultimately achieving a breakthrough that transforms humanity. The narrative is well-paced and emotionally resonant.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The central theme of making aging optional and giving 'more people, more life' (02:55) is a monumental concept that fundamentally redefines the human condition and future possibilities, demonstrating very big thinking.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video is an explicit promotion for the Future Vision XPRIZE, directly aligning with its mission by showcasing a future where advanced technology leads to a profoundly optimistic outcome for humanity, making aging optional.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The narrative is entirely driven by the development and societal impact of 'robust rejuvenation' technology, showing its scientific challenges (01:19-01:45), ethical debates (01:54-02:11), and transformative effects on individuals and society.",
+      "confidence": "high"
+    }
+  ]
+}

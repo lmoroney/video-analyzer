@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "Future Vision XPRIZE - Official Competition Entry",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total duration of 2 minutes and 54 seconds, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The last 15 seconds (from 2:39 to 2:54) show an end card with 'FUTURE VISION XPRIZE Official Competition Entry', followed by 'SPONSORS' and 'PARTNERS' sections. The sponsors listed are generic descriptions (e.g., 'Disruptive Innovation Investment Manager') and do not include specific brand names like Google, Jed McCaleb, or Salesforce.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features futuristic elements such as advanced robotic guards (00:10), surveillance drones (00:03, 00:50), energy weapons (01:27), and a highly advanced, automated city (00:00), all indicative of a science fiction genre.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "While the video begins with a dystopian future where humans are enslaved by technology (00:00-00:30), it transitions to a successful rebellion (01:04-01:51) and culminates in a utopian, technology-integrated society where humans and benevolent robots coexist in harmony (02:18-02:38). The overall arc presents a hopeful and optimistic vision.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, serving as both the oppressor (robot guards, drones, energy-siphoning batteries from 00:10-00:30) and the means of liberation (the EMP device at 01:35, the destruction of the central node at 01:41). The final utopian scenes also showcase advanced, beneficial technology (02:18-02:38).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video depicts combat and explosions (01:24-01:51) but does not show explicit gore, strong language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable commercial brands are visible or mentioned within the video content itself, outside of the end card's generic sponsor and partner descriptions.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video presents a clear and engaging narrative arc from oppression to liberation and a brighter future. The visual effects, pacing, and character expressions effectively convey the story's emotional beats and progression, making it compelling despite its short runtime.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The story explores a significant transformation of humanity's future, moving from a technologically controlled dystopia to a free, advanced, and harmonious society. This broad scope and the depiction of two contrasting futures demonstrate big-picture thinking.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "While the initial setting is dystopian, the core of the story is about achieving a genuinely optimistic, technology-enabled future through human agency and a 'reboot' of the system. The final scenes (02:18-02:38) clearly depict this ideal future, aligning with the competition's mission.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "Advanced technology is not merely a backdrop but an active driver of the plot. From the oppressive robot regime and energy harvesting (00:00-00:30) to the use of an EMP to disable drones (01:35) and the destruction of the central power node (01:41), technology is intrinsically woven into every major plot point and the ultimate resolution.",
+      "confidence": "high"
+    }
+  ]
+}

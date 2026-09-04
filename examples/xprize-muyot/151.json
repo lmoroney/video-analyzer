@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "Table for Twelve Billion",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total duration of 3 minutes and 11 seconds, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's end card, from 02:55 to 03:11, clearly displays 'FUTUREVISION XPRIZE', 'Presenting Sponsor: salesforce', 'Partners: Google, RANGE, XPRIZE', and 'Presenting Donor: Jed McCaleb'.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video depicts a future society where food is rationed and replaced by synthetic pills ('FullCell'), and a new technology for molecular food printing is developed to replicate 'real food' for a global population of twelve billion, which are all elements of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "While starting with a dystopian view of food scarcity and malnutrition (00:00-00:18, 01:56-02:05), the video transitions to an optimistic vision where new molecular printing technology provides 'real food' for 'twelve billion people' (02:40-02:54), solving global hunger and allowing farmland to return to nature (02:28-02:33).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, from the 'FullCell' pills causing malnutrition (00:00-00:03, 00:48-00:56, 01:56-02:05) to the development of molecular food printing (01:06-01:38, 02:40-02:54) as the solution to humanity's food crisis.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video does not contain any explicit violence, strong language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video features fictional brands like 'FullCell' and 'Kelvane' for the synthetic food products, but no other recognizable real-world brands are shown outside of the end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video presents a clear and compelling narrative arc, moving from a dystopian present of food scarcity and synthetic nutrition to a hopeful future enabled by innovative food printing technology. The production quality is high, and the story is effectively conveyed within its short runtime.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story addresses a monumental global challenge: feeding 'twelve billion people' (02:32, 02:50-02:54) with real, nutritious food, and envisions a future where this is achieved through technological innovation, allowing for environmental restoration (02:30-02:31). This is a very ambitious and large-scale vision.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video strongly aligns with the XPRIZE mission by showcasing a future where a critical global problem (food security and malnutrition) is solved through advanced technology, leading to a positive and optimistic outcome for humanity.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The narrative is driven by the evolution of food technology, from the problematic 'FullCell' pills to the innovative molecular food printer. The process of developing and testing this new technology is shown (01:12-01:38, 02:38-02:49), demonstrating its meaningful integration into the plot and the characters' goals.",
+      "confidence": "high"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "LEELOO - Future Vision XPRIZE",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total length of 2 minutes and 25 seconds, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card appears from 02:09 to 02:25, which is 16 seconds. This segment is an end card and prominently features the listed sponsors: Salesforce, Google, XPRIZE, and Jed McCaleb.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features advanced technology such as spaceships (01:09), futuristic cities (01:15), and characters with energy-based powers (00:00, 00:29, 01:49), clearly placing it within the science fiction genre.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "While there are conflicts and challenges, the narrative focuses on protagonists using technology and collaboration to overcome isolation and resource issues, aiming to 'fix' a 'sick' world (01:48-01:50), which suggests an optimistic outlook on humanity's ability to adapt and progress.",
+      "confidence": "medium"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology, specifically the 'Luminae' mineral, is central to the plot, powering an entire civilization (01:22) and being the source of both the main character's powers and the conflict over its depletion (01:31-01:35). Spaceships and futuristic infrastructure are also integral to the story's progression.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains scenes of environmental destruction (00:41-00:45) and a brief physical altercation (00:49-00:50), but no explicit violence, strong language, or sexual content is present.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable commercial brands or logos are visible within the narrative portion of the video, only fictional elements related to the story's world.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "The video effectively introduces a clear conflict between isolation and exploration, features engaging characters, and showcases high-quality animation and world-building, making for a compelling and well-realized short narrative.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The narrative explores grand themes such as inter-planetary relations, resource sustainability, cultural identity, and the potential for both conflict and collaboration across different civilizations, demonstrating a 'big picture' vision for the future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "Despite presenting significant challenges, the story's core message revolves around using advanced technology (Luminae, space travel) and collaboration to overcome adversity and connect disparate worlds, aligning with an optimistic, solution-oriented vision of a technology-enabled future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The entire plot is driven by the advanced mineral 'Luminae' and its impact on civilizations, the characters' abilities are tied to this energy, and space travel is a crucial element, demonstrating deep integration of technology into the narrative and world-building.",
+      "confidence": "high"
+    }
+  ]
+}

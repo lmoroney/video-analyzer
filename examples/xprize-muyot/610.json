@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "Exogalactic",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total length of 2 minutes and 36 seconds, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card appears from 02:12 to 02:36, which is more than 15 seconds. It clearly displays Google, XPRIZE, Jed McCaleb, and Salesforce as partners and sponsors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features spaceships, planet seeding technology (00:22-00:27), holographic interfaces (00:28-00:30), and the exploration of exogalactic structures, all indicative of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video shows humanity actively seeding planets and exploring the cosmos with advanced technology. The final scene with the woman and boy in a lush landscape, and her hopeful statement, suggests an optimistic outlook on discovery and humanity's place in the universe.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, driving the plot through the planet seeding vessel (00:22-00:27), the holographic interface for signal detection and analysis (00:28-01:08), and the DNA tracing that reveals the human origin of the exogalactic structure.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "There is no explicit violence, offensive language, or sexual content present in the video.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands are displayed within the main content of the video, only on the end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video presents a compelling mystery about humanity's origin and the vastness of space, with high-quality visuals and a surprising twist. The narrative is engaging despite its short length.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story explores grand themes such as interstellar travel, terraforming, the search for extraterrestrial life, and the fundamental question of humanity's origins, demonstrating a very big vision for the future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video strongly aligns with the mission by depicting humanity's advanced technological capabilities for space exploration and planet seeding, coupled with a hopeful tone about discovery and connection in the cosmos.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The narrative is entirely driven by advanced technology, from the planet seeding vessel (00:22-00:27) to the sophisticated holographic interfaces used for signal detection, planetary surface analysis, and DNA tracing (00:28-01:08). Technology is not just a backdrop but an active participant in the plot.",
+      "confidence": "high"
+    }
+  ]
+}

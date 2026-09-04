@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "The Etenome: Dawn of Infinite Energy",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's total runtime is exactly 3 minutes and 15 seconds (03:15).",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card, which features sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce, begins at 02:54 and continues until the end of the video at 03:15. Therefore, the last 15 seconds of the video (from 03:00 to 03:15) are indeed comprised of this end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video clearly depicts advanced futuristic technology such as AI drones (00:08, 00:23), autonomous robots (00:14), quantum supercomputers, a massive energy-generating dome (00:04), and spaceships (02:01). It also shows space exploration to Europa (02:43) and encounters with alien life forms (02:40), all hallmarks of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video presents a highly optimistic vision of humanity's future, emphasizing technological advancement and exploration. The voiceover highlights humanity's achievements in conquering oceans and skies and dreaming beyond limits (00:08-00:26). The 'Eternal Energy Dome' (00:31) and the mission to 'decide the future of humankind' (01:50) suggest a positive trajectory. The end card explicitly states 'Building Optimistic Visions of the Future'.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, not merely background. The plot revolves around the 'Etenome' dome, which uses advanced AI drones and quantum supercomputers to capture lightning for infinite energy (00:14, 00:20, 00:39). The discovery of an energy anomaly (01:17) and the subsequent mission using advanced spacecraft (02:06) are direct consequences of this technology, driving the story forward.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, offensive language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "Apart from the sponsors listed on the end card (02:54-03:15), no other recognizable brands are visible or mentioned within the video's narrative content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "The video presents a compelling, albeit brief, narrative arc: humanity's grand achievement in energy generation, the emergence of a mysterious anomaly, and a heroic mission to understand it. The production quality is high, with impressive CGI and visual effects that effectively realize the futuristic setting and events, making it well-realized within its short runtime.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story explicitly 'thinks big' about humanity's future, focusing on achieving infinite energy, conquering new frontiers in oceans and skies, and exploring beyond known limits (00:08-00:26). The mission to Europa (02:43) and the encounter with alien life (02:40) further underscore a grand, expansive vision for humanity's role in the cosmos.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video is fully aligned with the Future Vision XPRIZE mission. It portrays a genuinely optimistic future where humanity harnesses advanced technology for infinite energy (00:00-00:04, 00:31), conquers new frontiers (00:44-00:48), and embarks on ambitious exploratory missions (01:50-01:56, 02:06). The explicit mention of 'Building Optimistic Visions of the Future' on the end card (02:54) confirms this alignment.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The storytelling is highly tech-forward, with advanced technology deeply embedded in the narrative. The 'Etenome' dome and its lightning-capturing drones are the central innovation (00:20-00:44), leading to the discovery of a reality-shattering energy anomaly (01:17). The subsequent mission relies entirely on advanced spacecraft and equipment (02:06-02:13) to explore this phenomenon, demonstrating technology as a core driver of the plot.",
+      "confidence": "high"
+    }
+  ]
+}

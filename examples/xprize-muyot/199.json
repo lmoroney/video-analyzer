@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "HOLD - Future Vision XPRIZE",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's total duration is exactly 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "From 3:00 to 3:15, the video displays an end card featuring the Future Vision XPRIZE and lists sponsors including Google, XPRIZE, Jed McCaleb, and Salesforce.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features futuristic settings, advanced technology, space travel, and a narrative centered on humanity's survival on another planet and a return to Earth, all characteristic of the science fiction genre (0:05-0:10, 0:47-0:50).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": false,
+      "rating": null,
+      "explanation": "While the video initially shows a technologically advanced society, it quickly shifts to a narrative of crisis and survival, with characters stating 'everybody is dying' (1:35) and needing to 'stop the decay' (2:21) on Earth. This portrays a desperate struggle rather than a purely optimistic future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the plot, from the advanced colony and cryo-chambers (0:09, 0:48) to the 'baseline frequency' collapse (1:03) and the use of a 'heavy hauler' spaceship (1:30) for a critical mission.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains scenes of peril and destruction, such as a ship crashing (1:45) and people collapsing (1:34-1:35), but there is no explicit violence, strong language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands are displayed within the narrative content of the video, only on the end card (3:00-3:15).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video presents a clear and engaging sci-fi narrative about humanity's struggle for survival, with strong visuals, compelling character motivations, and a sense of urgency, all well-executed for a short film format.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story tackles monumental themes such as humanity's exodus from Earth, the establishment of a new civilization, and a desperate mission to prevent total collapse, demonstrating a very ambitious scope for humanity's future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 6,
+      "explanation": "While the story is technology-enabled and focuses on humanity's survival, its tone is largely one of crisis and a desperate fight against decay, rather than a genuinely optimistic vision of a thriving future, which somewhat deviates from the 'Building Optimistic Visions' mission.",
+      "confidence": "medium"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "Advanced technology is deeply woven into the narrative, serving as both the setting for humanity's future and the core elements driving the plot, such as the collapsing 'baseline frequency' and the tools used to attempt to save the planet (0:09, 0:15-0:17, 1:03, 1:30).",
+      "confidence": "high"
+    }
+  ]
+}

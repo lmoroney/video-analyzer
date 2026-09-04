@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "Hala Hala: First Light Trailer",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total length of 2 minutes and 38 seconds, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card appears from 2:19 to 2:38 and explicitly lists Salesforce as the 'Presenting Sponsor', Google and XPRIZE as 'Partners', and Jed McCaleb as 'Presenting Donor'.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video depicts a futuristic city (0:18, 0:25), advanced energy rationing systems (0:21), a 'Dyson Swarm' project to harness solar energy (0:40-0:44, 0:51-0:58), and a mysterious cosmic anomaly (1:07, 1:25-1:35), all characteristic elements of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "While the video presents an initial energy crisis and a dangerous cosmic anomaly, the overall tone, especially the concluding text 'EVERY CIVILIZATION REMEMBERED THE DARKNESS. NONE REMEMBERED THE LIGHT THAT FOLLOWED.' (2:13-2:16), suggests that humanity overcomes these challenges, leading to a positive, technology-enabled future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, from the energy rationing system (0:21) and the 'Project Surya' Dyson Swarm (0:40-0:44) designed to solve the energy crisis, to the advanced data analysis (1:07-1:13) and containment chamber (1:41-2:12) used to understand and manage the 'Hala Hala' anomaly.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, strong language, or sexual content. The 'Hala Hala' anomaly is a cosmic phenomenon, not an act of violence.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands are displayed or mentioned within the video content itself, only on the end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video effectively introduces a grand challenge (energy crisis), a bold solution (Dyson Swarm), and a mysterious, ancient threat ('Hala Hala'), blending futuristic visuals with mythological elements. The pacing and visual effects are strong, creating a compelling and intriguing narrative within the trailer format.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story tackles a global energy crisis, proposes a monumental solution like a Dyson Swarm around the sun, and connects it to ancient prophecies and a cosmic anomaly, demonstrating a very large-scale vision for humanity's future and its challenges.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "Despite presenting significant challenges, the narrative's resolution, indicated by the text 'NONE REMEMBERED THE LIGHT THAT FOLLOWED' (2:16), strongly suggests an optimistic outcome where humanity overcomes adversity through technological advancement and perhaps a deeper understanding of cosmic phenomena, aligning well with the XPRIZE mission.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The narrative is driven by advanced technology, from the energy rationing and monitoring systems (0:19-0:24) to the ambitious Dyson Swarm project (0:40-0:44, 0:51-0:58) and the sophisticated analysis and containment of the 'Hala Hala' anomaly (1:07-1:13, 1:41-2:12). Technology is not just background but an active participant in the plot and character motivations.",
+      "confidence": "high"
+    }
+  ]
+}

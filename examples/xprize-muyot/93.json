@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "deluge protocol",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total runtime of 2 minutes and 29 seconds, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card appears from 2:14 to 2:29 and explicitly lists Google, XPRIZE, Jed McCaleb, and Salesforce as partners, sponsors, or donors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features advanced satellites, spaceships, holographic interfaces, and a narrative involving ancient prophecies and future technology, which are all elements of science fiction. A character even explicitly states, 'Absolute science fiction' at 0:32.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video portrays a bleak future with environmental collapse (0:03), natural disasters (0:39, 1:08), war (0:59, 1:32), and a repeating cycle of destruction. Characters express despair and a sense of impending extinction (1:22, 2:04), indicating a lack of optimism.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, from the 'Black Knight Satellite' monitoring Earth's critical environmental status (0:03, 0:47) to the use of ancient glowing crystals (0:57, 1:00) and advanced data analysis (1:13) to understand a repeating historical pattern.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "While there are scenes of war and destruction (0:59, 1:32, 1:38), they do not contain explicit gore, strong language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable commercial brands are shown or mentioned within the narrative content of the video, only the production studio 'studio.backbencher' at the beginning (0:01) and the title 'deluge protocol' at the end (2:08).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video presents a highly compelling and mysterious narrative about a repeating cycle of destruction across 12,000 years. The production quality is excellent, with impressive visuals, seamless transitions between different eras, and strong emotional performances, making it very well-realized.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The story tackles grand themes of humanity's potential extinction, ancient civilizations, and a cyclical pattern of global catastrophe spanning millennia, involving both advanced technology and historical events. This demonstrates a very 'big' scope for humanity's future, albeit a dark one.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 3,
+      "explanation": "While the story is technology-enabled and thinks big, it fundamentally portrays a dystopian and despairing future, with characters facing extinction and a repeating cycle of destruction. This directly contradicts the 'optimistic' aspect of the Future Vision XPRIZE mission.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The narrative heavily relies on advanced technology, such as orbital satellites for environmental monitoring (0:03), holographic data analysis (1:13), and space travel (1:26, 1:31), which are all integral to understanding and potentially addressing the global crisis. Ancient, glowing crystals also appear to be a form of advanced technology (0:57, 1:00).",
+      "confidence": "high"
+    }
+  ]
+}

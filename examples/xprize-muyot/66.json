@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "The Future We Build",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total duration of 2 minutes and 51 seconds, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The end card appears from 02:43 to 02:51, which is 8 seconds, not 15 seconds. It does feature Google, XPRIZE, Jed McCaleb, and Salesforce.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video showcases advanced technologies such as holographic displays for cellular analysis (00:45-00:59, 02:09-02:16) and personalized medical patches (02:16-02:22) that are currently beyond present-day capabilities, placing it within the realm of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video begins with a somber depiction of loss (00:04-00:39) but quickly shifts to a hopeful narrative of scientific advancement and global collaboration leading to a future where cancer is preventable and curable (00:40-02:43), portraying an optimistic, technology-forward vision.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, with scientists using advanced holographic displays to analyze biological data (00:45-00:59, 02:09-02:16) and a personalized medical patch shown for disease prevention (02:16-02:22), directly driving the story of overcoming illness.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands are visible in the video content itself, only on the end card (02:43-02:51).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video presents a compelling narrative, starting with a personal tragedy (00:04-00:39) and evolving into a global scientific endeavor to prevent and cure diseases like cancer (00:40-02:43), with high-quality visuals and a strong emotional arc.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story envisions a future where cancer is detected before symptoms appear, prevention is personalized and universally accessible, and global collaboration leads to a world where human lives are no longer defined by disease (01:35-02:43), demonstrating a grand vision for humanity's future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video perfectly aligns with the Future Vision XPRIZE mission by portraying a genuinely optimistic, technology-enabled future where global collaboration and scientific breakthroughs lead to the eradication of diseases like cancer, ensuring more lives are lived fully (00:40-02:43).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The storytelling is tech-forward, showcasing advanced technologies like holographic displays for cellular analysis (00:45-00:59, 02:09-02:16) and personalized health patches (02:16-02:22) as crucial elements in the journey towards a future free from the limitations of disease.",
+      "confidence": "high"
+    }
+  ]
+}

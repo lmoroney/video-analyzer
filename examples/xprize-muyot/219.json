@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "Beyond The Ledger - A Kenny Carpenter trailer short",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's total duration is exactly 3 minutes and 15 seconds (03:15).",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "From 03:00 to 03:15, an end card is displayed, listing 'FUTUREVISION X PRIZE', 'Partners Google RANGE', 'Presenting Sponsor: salesforce', 'Sponsors XSOVA ARK INVEST', and 'Presenting Donor Jed McCaleb'.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video depicts a futuristic society with advanced AI, robots, flying vehicles, vertical farms, and space stations, clearly placing it in the science fiction genre (e.g., 00:01-00:04, 00:07-00:15, 02:41-02:45).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video explicitly states that AI saved humanity from itself, leading to a future without poverty, where wars are bloodless 'war games', and people are free to pursue science, medicine, and innovation (e.g., 01:42-01:46, 01:46-01:52, 02:00-02:04, 02:38-02:41).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology, specifically AI and automation, is the central driver of the narrative, leading to a new economic system (stablecoins) and a utopian society (e.g., 00:41-01:06, 01:27-01:36, 02:13-02:21).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, language, or sexual content. Even the depiction of 'wars' shows robots fighting in a video game-like manner, described as 'bloodless' (01:46-01:52).",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The production credits at 02:58-03:00 explicitly state the video was made 'with help of Gemini, Flow, Suno, & Eleven Labs', which are all recognizable brands, and these are not part of the final end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "For a short trailer, the video effectively conveys a complex narrative of economic transformation and societal evolution through clear visuals and narration. The story is compelling and well-paced, despite its brevity.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story envisions a future where national debt is wiped out, poverty is eliminated, wars are replaced by games, and humanity is freed from the need to survive, allowing for a focus on science, medicine, and innovation, and even seeding other worlds (e.g., 01:20-01:25, 01:42-01:46, 02:38-02:41, 02:54-02:57). This is a very ambitious and expansive vision.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video directly aligns with the XPRIZE mission by presenting a future where technology (AI, stablecoins) solves humanity's fundamental problems, leading to abundance, peace, and a focus on human potential, explicitly stating 'AI saved us from ourselves' (02:00-02:04).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The entire narrative is built around advanced technology, from AI-driven automation replacing human labor to the creation of AI-backed stablecoins that fund universal basic income and services. Technology is not just a backdrop but the core mechanism for societal change (e.g., 00:41-01:06, 01:27-01:36, 02:13-02:21).",
+      "confidence": "high"
+    }
+  ]
+}

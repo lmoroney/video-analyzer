@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "The Human Kind",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total duration of 2 minutes and 58 seconds, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card appears from 02:44 to 02:58, displaying all the mentioned sponsors: Google, XPRIZE, Jed McCaleb, and Salesforce.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features advanced AI (Milo), space travel, futuristic technology, and a narrative involving biological transformation of humanity, all characteristic of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": false,
+      "rating": null,
+      "explanation": "While technology-forward, the vision is not purely optimistic. It depicts humanity facing forced biological transformation due to 'biological instructions' sent to Earth (01:46), leading to a dilemma where returning to Earth would 'change them' (02:13-02:17). The ending suggests a new path but not a clearly hopeful one for humanity as it was.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology, particularly the Milo AI and personal diagnostic devices, is central to the plot. Milo provides critical information about the biological changes on Earth (01:57) and is involved in the evacuation planning (00:54).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, strong language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The brands shown, such as 'MILO Health' and 'MILO AI Dividend Fund,' are fictional elements within the video's narrative and not recognizable real-world brands.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video presents a highly compelling and thought-provoking story about human evolution and adaptation, with strong visuals and a clear narrative arc that effectively builds suspense and emotional depth.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story tackles profound questions about humanity's future, including biological transformation, the role of AI in guiding human destiny, and the very definition of what it means to be human in a changed world, demonstrating a grand scale of thought.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 4,
+      "explanation": "While technology-enabled, the future presented is more complex and cautionary than genuinely optimistic. Humanity faces an existential crisis of biological alteration, and the choice is between being 'changed' or finding a new way, which is not a straightforward optimistic outcome for the existing human race.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "Advanced technology, particularly the Milo AI and personal devices, is not merely background but an active participant and driver of the narrative, providing crucial information, guiding decisions, and even being the subject of the central conflict (biological instructions as 'data').",
+      "confidence": "high"
+    }
+  ]
+}

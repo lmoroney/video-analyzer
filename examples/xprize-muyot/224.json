@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "Zeolite - Future Vision XPRIZE Trailer",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total duration of 2 minutes and 56 seconds, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card appears from 02:41 to 02:56, which is exactly 15 seconds, and clearly displays the logos and names of Google, XPRIZE, Jed McCaleb, and Salesforce.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features futuristic cities (00:07), alien species (00:04, 00:09), advanced robotics (00:00, 01:01, 01:30), hoverbikes (01:18), and holographic technology (00:23, 01:16, 01:48), all indicative of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": false,
+      "rating": null,
+      "explanation": "While technology is forward-looking and used to address a crisis, the overall tone of the trailer is one of urgency and struggle. The planet faces a 'new challenge' (00:11), the ground is 'dead' (00:35), and the characters are 'searching for water' (00:33), indicating a dire situation rather than an already optimistic future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, with the protagonist's robotic leg being a key element (00:00, 01:01, 01:48), holographic communication and data analysis driving the quest (00:23, 00:34, 01:16), and futuristic vehicles used for critical action sequences (01:18, 02:06).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "There is a brief, non-graphic scene of a man punching a robot (01:46-01:47), but no explicit violence, language, or sexual content is present in the video.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands are visible within the narrative content of the video, only on the end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "The trailer effectively establishes a compelling sci-fi premise with high-quality visuals and a clear objective (finding Zeolite to solve a water crisis). The character development, particularly the protagonist's journey and her connection to the robotic leg, is well-hinted at, and the action sequences are engaging.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The narrative tackles a grand challenge of planetary survival due to water scarcity, impacting a diverse, multi-species society. The quest for 'Zeolite' and the protagonist's role in potentially 'changing the world' (01:08) demonstrate a large-scale vision for humanity's future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 6,
+      "explanation": "The story is technology-enabled and focuses on solving a critical planetary crisis (water scarcity), which aligns with the problem-solving aspect of an optimistic future. However, the trailer itself emphasizes the dire situation and the urgent quest, rather than showcasing an already established, genuinely optimistic future. The optimism is more in the *potential* for a solution.",
+      "confidence": "medium"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "Advanced technology is deeply woven into every aspect of the narrative. The protagonist's robotic leg is central to her character and abilities (00:00, 01:01, 01:48), holographic interfaces are used for critical information (00:34, 01:16), and futuristic transportation and infrastructure are commonplace (00:07, 01:18). The entire plot revolves around using technology to find a solution to a global crisis.",
+      "confidence": "high"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "Future Vision XPRIZE: Building Optimistic Visions of the Future",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video is 3 minutes and 8 seconds long, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card appears from 02:52 to 03:08, which is 16 seconds, and clearly displays logos for Salesforce, Google, Range, XPRIZE, Xsolla, ARK Invest, and Jed McCaleb.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video portrays a highly advanced, futuristic society called 'Eden World' with technologies like AI-managed food networks, sustainable energy, and automated transportation, which is characteristic of science fiction (01:35-02:40).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The 'Eden World' segment depicts a future where basic needs like food, shelter, and healthcare are freely available, people are happy, and technology is used to create a sustainable and equitable society (01:35-02:40).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "AI is a central character, conversing with the girl and explaining the future world. Advanced AI systems are shown managing food production, resources, and community well-being, directly impacting the daily lives of the inhabitants (01:58, 02:03, 02:15-02:20).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, language, or sexual content. It focuses on a child's questions and a utopian vision.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable commercial brands are visible or mentioned in the main content of the video, only the fictional 'EDEN AI' and 'EDEN FOOD NETWORK' are shown.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The narrative effectively uses a child's innocent yet profound questions to transition from a bleak present to a hopeful future, creating a compelling contrast. The visual realization of 'Eden World' is detailed and engaging, making the story feel well-developed despite its short length.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story addresses fundamental human challenges like inequality, hunger, and fear, proposing a radical societal shift where basic needs are met for all, and technology enables a thriving, communal existence. This is a very ambitious and 'big' vision for humanity's future (02:08-02:15, 02:28-02:35).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video directly aligns with the mission by presenting a future where technology (AI, sustainable energy, advanced agriculture) is leveraged to eliminate scarcity, fear, and inequality, leading to a genuinely optimistic and thriving human society (01:35-02:40).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The AI acts as a narrative guide and a central element of the future world, explaining how technology facilitates a better life. Visuals show smart homes, AI-managed food systems, and sustainable infrastructure, all integral to the story's optimistic vision (01:35, 01:58, 02:15-02:20).",
+      "confidence": "high"
+    }
+  ]
+}

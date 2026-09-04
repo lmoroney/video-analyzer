@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=y_2111_2111",
+  "video_title": "Aperture Between Galaxies",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video is exactly 3 minutes and 15 seconds long.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "From 3:00 to 3:15, the video displays an end card listing 'FUTUREVISION XPRIZE' and sponsors including Google, Salesforce, and Jed McCaleb.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video depicts space travel, intergalactic crossings, advanced technology, and futuristic societies with evolved human-like beings, clearly placing it within the science fiction genre (0:00-2:50).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's narration and visuals consistently portray a positive future, emphasizing harmony, growth, and advanced technology enabling intergalactic connection and a thriving society (0:37-2:45).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is integral to the plot, enabling intergalactic travel, the evolution of 'Face-born' beings, the construction of cities through resonance, and travel by coherence, demonstrating its deep integration into the narrative (0:03, 0:12, 1:14, 1:22, 1:25).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands are displayed within the main content of the video, only on the end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video presents a sweeping narrative of intergalactic connection and evolution, supported by consistently stunning and imaginative visuals that effectively realize its ambitious scope within the apparent production constraints (0:00-2:50).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The narrative spans 50 centuries, depicting humanity's evolution into 'Face-born' beings, intergalactic travel, and the creation of advanced, harmonious societies, demonstrating an extremely ambitious vision for the future (0:03, 0:43, 1:04).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video strongly aligns with the XPRIZE mission by showcasing a profoundly optimistic future where advanced technology facilitates intergalactic connection, societal harmony, and the evolution of humanity, leading to 'shared wonder' and 'harmony' (0:49, 1:11).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The storytelling is highly tech-forward, with concepts like 'resonance,' 'coherence,' and integrated 'artificial intelligence' being central to the characters' existence, their societal development, and their ability to traverse galaxies, making technology an intrinsic part of the narrative (1:14-1:23).",
+      "confidence": "high"
+    }
+  ]
+}

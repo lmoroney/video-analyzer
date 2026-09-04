@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "Fefu - Future Vision X Prize Short Film",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's total runtime is 2 minutes and 13 seconds, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The last 15 seconds of the video (from 01:58 to 02:13) display an end card with 'FUTUREVISION X PRIZE' and lists Salesforce as a presenting sponsor, and Google, RANGE, XPRIZE, XSOVA, ARK INVEST, and Jed McCaleb as partners/sponsors/donors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video depicts futuristic elements such as glowing biological-looking technology for communication with nature (00:37, 01:01), flying leaf-shaped boards (00:50, 01:17), and advanced tree-dwelling architecture (00:52-00:54), which are characteristic of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video portrays a future where humanity lives in harmony with nature, using technology to understand and communicate with it, as evidenced by the glowing devices and tree-dwelling communities (00:37-00:43, 00:52-00:54). The dialogue emphasizes a shift from 'artificial' to 'extended' (00:32-00:35), suggesting an optimistic integration of technology.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, depicted as a means to communicate with and understand nature (00:37-00:43). Examples include glowing devices on people's shoulders and hands, which seem to facilitate this connection, and advanced structures integrated into trees (00:52-00:54).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, offensive language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "Aside from the brands displayed on the end card (01:58-02:13), no other recognizable brands are visible or mentioned in the video's content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video presents a compelling and visually stunning narrative about humanity's evolving relationship with nature and technology. The abstract storytelling, combined with high-quality cinematography and a thoughtful voiceover, effectively conveys its message within the short runtime.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story envisions a profound transformation in humanity's relationship with technology and the natural world, suggesting a future where technology acts as a bridge to deeper understanding and harmony with nature, rather than a separate or destructive force. This is a very ambitious and 'big' idea.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video directly aligns with the Future Vision XPRIZE mission by showcasing a genuinely optimistic future where technology (referred to as 'extended') enables humanity to communicate with and understand nature, fostering a harmonious coexistence (00:32-00:43). The overall tone and message are highly positive and forward-looking, as also stated on the end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The storytelling is highly tech-forward, with advanced technology seamlessly integrated into the characters' lives and their environment. Examples include the bioluminescent-like patterns on clothing and skin that facilitate communication with nature (00:37, 01:01, 01:35), the use of floating leaf-like boards for travel (00:50, 01:17), and organic, tree-integrated dwellings (00:52-00:54, 01:29-01:30).",
+      "confidence": "high"
+    }
+  ]
+}

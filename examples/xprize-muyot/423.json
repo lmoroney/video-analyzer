@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "Probability",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total runtime of 3 minutes and 3 seconds, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card appears from 02:47 to 03:03, which covers the last 15 seconds of the video. It explicitly lists Google, XPRIZE, Jed McCaleb, and Salesforce as sponsors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features advanced predictive AI technology that calculates an individual's mortality rate to determine job eligibility, a concept that falls within the realm of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video portrays a dystopian future where technology (predictive AI) is used to deny individuals job opportunities based on a 'mortality rate,' leading to a sense of fatalism and injustice, which is not optimistic.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "The predictive AI is central to the narrative, directly impacting the protagonist's ability to secure a job and driving the main conflict of the story (00:58-01:15, 01:27-01:43).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": true,
+      "rating": null,
+      "explanation": "At 00:10, one character uses explicit language, saying, \"You'll never figure your shit out!\"",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No other recognizable brands were observed in the video apart from those listed on the end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 7,
+      "explanation": "The story is compelling, depicting a man's struggle against an unfair system that judges him based on a predicted mortality rate. The narrative is clear and the production quality is solid for a short film.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "The story explores a significant societal shift where AI-driven predictions profoundly impact individual lives and public safety, demonstrating a big-picture consideration of technology's future role in society.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 1,
+      "explanation": "The story is not aligned with an optimistic vision. It presents a dystopian scenario where technology is used to discriminate and limit human potential based on a 'mortality rate,' which is the opposite of a genuinely optimistic future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The narrative is driven by the advanced predictive AI, which is shown through the AI voice, on-screen text (00:54), and the protagonist's interaction with a laptop and a small device (00:48, 00:54, 02:19), making technology a central and integral part of the storytelling.",
+      "confidence": "high"
+    }
+  ]
+}

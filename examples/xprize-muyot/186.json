@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "Wounded Wonders",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total duration of 1 minute and 43 seconds, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "From 01:28 to 01:43, an end card is displayed featuring 'FUTUREVISION XPRIZE', 'Google', 'RANGE', 'salesforce', 'XSOVA', 'ARK INVEST', and 'Jed McCaleb'.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features advanced AI, holographic interfaces, a global seismic crisis, and a human evolving with extraordinary abilities, all characteristic elements of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "Despite initial scenes of global destruction, the narrative shifts to the protagonist gaining new abilities through technology and working to 'heal' the Earth, culminating in a hopeful vision of humanity's evolution and future (01:26-01:39).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology, specifically an AI, is central to the plot, causing the global crisis and enabling the protagonist's new abilities, which are visually represented through holographic equations and glowing effects (00:24-00:26, 00:36-00:37, 01:00-01:05).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "While there is a tense scene where a woman holds a knife and struggles with the man (00:45-00:48, 00:52-00:53), it does not depict explicit violence, nor is there any explicit language or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands or logos are visible within the main narrative of the video, only on the end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "The video presents a clear and engaging narrative arc, from global catastrophe to personal transformation and a mission to save the world, with impressive visual effects and pacing for a short film.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The story explicitly addresses humanity's evolution and the potential to overcome global crises through advanced understanding and abilities, culminating in a cosmic vision of the future (00:33-00:34, 01:36-01:39).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video strongly aligns with the XPRIZE mission by showcasing a future where advanced AI and human evolution, enabled by technology, are used to solve a catastrophic global problem and lead to a positive, transformative outcome.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The technology is not merely a backdrop; it is the catalyst for the crisis (AI-Delta-5), the source of the protagonist's enhanced perception and abilities (00:24-00:26, 00:36-00:37), and the means by which the Earth is 'healed' (01:00-01:05, 01:26-01:28), making it central to the plot.",
+      "confidence": "high"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=21X5l_g121Q",
+  "video_title": "Árvore Raiz - Future Vision XPRIZE",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's total duration is exactly 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The last 15 seconds of the video (3:00-3:15) display an end card featuring 'FUTUREVISION X PRIZE' and logos for Google, Salesforce, Jed McCaleb, and other sponsors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features fantastical elements like glowing energy, sentient plant growth, and mystical symbols interacting with human hands, suggesting a blend of nature and advanced, almost magical, technology, which aligns with science fiction themes (e.g., 0:00-2:59).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video portrays a serene and collaborative future where humans interact harmoniously with glowing, interconnected plant life and a vast network of light, suggesting a hopeful and optimistic vision (e.g., 1:10-2:59). The narrative emphasizes unity and a non-controlling role for technology.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "The glowing, interconnected elements, described as 'the machine' (0:29) and 'technology' (1:24), are central to the visual and thematic narrative, showing a deep integration with nature and human interaction, rather than just being background.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, offensive language, or sexual content; its tone is peaceful and contemplative throughout.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "Apart from the sponsors listed on the end card (3:00-3:15), no other recognizable brands are present in the video's main content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "The video tells a compelling, albeit abstract, story of connection and growth through beautiful visuals and poetic narration. The production quality is high, effectively realizing its artistic vision within its constraints (e.g., 0:00-2:59).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The story thinks big by exploring profound themes of collective consciousness, humanity's interconnectedness with nature and technology, and a future beyond individual competition, emphasizing a vast 'US' (2:37).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video strongly aligns with the XPRIZE mission by presenting a genuinely optimistic future where technology is integrated harmoniously with nature and humanity, fostering connection and collective growth (e.g., 'technology is not in control' at 1:24, 'vastness of \"US\"' at 2:37).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "The storytelling is tech-forward in its abstract depiction of advanced, organically integrated technology (glowing roots, threads of light, energy pulses) that is central to the narrative's themes of connection and growth (e.g., 0:18-0:22, 1:30-1:40).",
+      "confidence": "high"
+    }
+  ]
+}

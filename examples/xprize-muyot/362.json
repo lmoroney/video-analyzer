@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "The Goose",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video is 50 seconds long, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The end card, which features sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce, appears only in the last 5 seconds of the video (0:45-0:50), not the last 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features elements like a man in a cryo-chamber (0:29) and a control room with advanced monitoring equipment (0:38-0:39), which are indicative of a science fiction genre.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": false,
+      "rating": null,
+      "explanation": "While technology is present, the video's tone is primarily comedic and chaotic, focusing on a man's personal troubles and a chase involving a goose. There is no clear portrayal of a hopeful or optimistic vision for humanity's future; the 'successful experiment' (0:39) is too vague to convey optimism.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology, such as the device on the man's head (0:00), the cryo-chamber (0:29), and the control room monitoring (0:38-0:39), appears to be central to the protagonist's situation and the unfolding 'experiment,' suggesting meaningful integration into the narrative.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, sexual content, or strong language. The word 'idiot' is used in subtitles (0:44), but it is not considered explicit language. A shotgun is shown being cocked (0:23) but not fired.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": true,
+      "rating": null,
+      "explanation": "A Vespa scooter is clearly visible and used by the characters in several scenes (e.g., 0:15, 0:32), which is a recognizable brand.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "The trailer presents an unusual and intriguing premise involving a man, a mime, and a goose in a chase, interspersed with sci-fi elements like a cryo-chamber. The production quality appears high, and the editing effectively builds curiosity, making it a compelling and well-realized story within the trailer format.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 3,
+      "explanation": "The narrative primarily focuses on a personal, comedic chase rather than exploring broad themes or grand visions for humanity's future. The sci-fi elements are present but are used to drive a specific, quirky plot rather than to 'think big' about the future of humankind.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 2,
+      "explanation": "Despite being presented by 'FUTUREVISION XPRIZE,' the video's content does not portray a genuinely optimistic future. The protagonist faces personal struggles, and the overall tone is more comedic and chaotic than hopeful or technology-enabled in an optimistic way.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 7,
+      "explanation": "The story integrates advanced technology, such as the brain-monitoring device (0:00), the cryo-chamber (0:29), and the control room operations (0:38-0:39), directly into the narrative. These elements appear to be central to the protagonist's situation and the 'successful experiment' (0:39), indicating tech-forward storytelling.",
+      "confidence": "high"
+    }
+  ]
+}

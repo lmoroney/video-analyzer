@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=YOUR_VIDEO_ID",
+  "video_title": "OTIUM: The End of Necessity",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's total duration is 3 minutes and 6 seconds (03:06), which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The last 15 seconds of the video (from 02:51 to 03:06) display an end card that explicitly lists Google, XPRIZE, Jed McCaleb, and Salesforce as partners, sponsors, or presenting donors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video clearly presents a science fiction narrative, set in the year 2042, featuring advanced robotics, autonomous systems, futuristic cityscapes, and a societal transformation due to \"universal provision\" (00:21, 00:27, 01:24).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "While the video initially explores anxieties about a future where labor is no longer required for survival (00:44-01:22), it ultimately portrays a hopeful vision where technology enables universal provision and allows humanity to choose purpose and contribute voluntarily, as shown by the widespread volunteer response during a winter storm (01:26-02:17) and the concluding message (02:26-02:43).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is the core driver of the narrative, with autonomous systems providing universal provisions and enabling a new societal structure (00:27). It is actively shown solving real-world problems like managing a severe winter storm (01:29-01:49) and facilitating global volunteer efforts (02:06-02:17), demonstrating its meaningful integration beyond mere background.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, language, or sexual content. While there are scenes of protest and debate, they do not escalate to explicit violence.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The only brand prominently featured in the video, other than on the end card, is \"OTIUM,\" which appears to be a fictional brand central to the video's narrative about universal provision (e.g., 00:23, 01:27, 02:20). No other recognizable real-world brands are used.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video presents a compelling narrative about humanity's transition to a post-labor society, effectively exploring both the anxieties and opportunities of such a future. The story is well-realized through high-quality visuals, clear voiceover, and a strong emotional arc, culminating in a powerful message about chosen purpose (00:44-02:43).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video tackles a monumental concept: a future where autonomous systems provide all essentials, freeing humanity from the necessity of labor. This \"shift\" fundamentally redefines human purpose and societal values, demonstrating a very ambitious and expansive vision for humanity's future (00:27-00:38, 02:26-02:43).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video is highly aligned with the XPRIZE mission, presenting a future where advanced technology (autonomous systems, universal provision) liberates humanity from the need to earn survival. It then optimistically shows humans choosing to contribute and find new purpose, as exemplified by the widespread volunteer response during a crisis (01:26-02:17) and the concluding message about chosen meaning (02:26-02:43).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The storytelling is deeply tech-forward, with advanced technology being the central premise and driving force of the narrative. The video showcases a wide array of futuristic technologies—from robotic manufacturing and environmental restoration to autonomous logistics and global volunteer coordination networks—all meaningfully integrated to explore the profound societal and existential implications of a post-scarcity world (00:00-00:21, 01:29-02:23).",
+      "confidence": "high"
+    }
+  ]
+}

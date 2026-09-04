@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "Intense Interrogation Scene",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's total duration is 00:14, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video is only 14 seconds long and does not feature an end card with sponsors. The only on-screen text is 'VIMOJI VIDEO EMOTION DATABASE' (00:00-00:14).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The futuristic setting, the gas mask worn by the interrogator, and the advanced, non-conventional interrogation device used on the subject (00:01-00:09) strongly suggest a science fiction genre.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video portrays a man being subjected to what appears to be torture or a highly distressing interrogation by an armed individual in a gas mask (00:01-00:09), which is a bleak and violent vision, not hopeful or optimistic.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "The device used by the interrogator to inflict distress on the subject (00:01-00:09) is central to the narrative, indicating a meaningful integration of technology beyond mere background.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video depicts a man in extreme distress, gasping and sweating, while being subjected to an apparent interrogation or torture by an armed individual (00:01-00:09), which constitutes explicit violence.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands are visible in the video, other than the 'VIMOJI VIDEO EMOTION DATABASE' watermark, which is not part of the narrative.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 7,
+      "explanation": "Despite its brevity, the clip effectively establishes a tense and distressing scene, with strong performances conveying fear and pain (00:01-00:09), making it quite compelling for its short duration.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 2,
+      "explanation": "The video focuses on a very specific, intense interrogation scene (00:01-00:09) and does not provide a broader narrative or thematic scope that 'thinks big' about humanity's future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 1,
+      "explanation": "The video depicts a dark and violent scenario involving technological interrogation or torture (00:01-00:09), which is directly contrary to an optimistic, technology-enabled future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "The central conflict revolves around an advanced, unidentified device used for interrogation (00:01-00:09), and the overall aesthetic, including the interrogator's gear, clearly establishes a tech-forward setting.",
+      "confidence": "high"
+    }
+  ]
+}

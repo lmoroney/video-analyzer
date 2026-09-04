@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "Future Vision XPRIZE: A Time for Eternity",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total duration of 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "From 03:01 to 03:15, an end card is displayed, listing Salesforce as the Presenting Sponsor, Google, RANGE, and XPRIZE as Partners, and Jed McCaleb as the Presenting Donor.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video depicts a futuristic city in 'Republic of Veridia - 2077' (00:12-00:20) with advanced transportation and architecture, and showcases advanced technological devices (01:04-01:07), clearly placing it in the science fiction genre.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video presents a future where a nation has 'enough time to build, to love, to hope' (00:14-00:25), and where problems are solved through collective effort and technology, leading to 'zero casualties' (01:13-01:18) and 'one problem solved' (01:19-01:21). The overall tone is positive and forward-looking.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, from the futuristic city (00:12) and high-speed trains to the robot (00:54) and the device presented on stage (01:04-01:07) that is implied to solve major issues like 'zero casualties' (01:13-01:18). The protagonist's message is about investing in people who will 'finish' technology (01:08-01:12).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": true,
+      "rating": null,
+      "explanation": "At 00:38-00:39, a bullet hole appears on a wall with a gunshot sound effect, and a boy reacts with shock, implying a violent event. While the act itself is not graphically shown, the visual representation of the outcome of violence is present.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": true,
+      "rating": null,
+      "explanation": "At 00:41-00:42, a cereal box labeled 'VERIDIA'S FLAKES' is shown, which is a fictional brand within the video's narrative.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video effectively tells a story of a young boy's journey to leadership, advocating for a better future through people and technology. The production quality is high, with strong visuals, voice acting, and a clear narrative arc, making it compelling and well-realized.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story envisions a future (Veridia 2077) where a nation has achieved peace and progress, with problems solved through innovation and collective human effort. It presents a grand, optimistic vision for society and humanity's potential.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video's core message of building a hopeful future through investing in people and technology, leading to solutions like 'zero casualties' and 'one problem solved,' perfectly aligns with the Future Vision XPRIZE's mission of an optimistic, technology-enabled future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The narrative is deeply intertwined with advanced technology, from the futuristic city (00:12) and high-speed trains to the specific devices and systems (01:04-01:12, 01:58-02:02) that enable the depicted societal advancements and problem-solving. Technology is not merely background but a driving force in the story.",
+      "confidence": "high"
+    }
+  ]
+}

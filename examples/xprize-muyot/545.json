@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "THE ASKING Official Trailer",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video is exactly 3 minutes and 15 seconds long.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card from 3:00 to 3:15 clearly displays 'FUTUREVISION XPRIZE' and lists Google, RANGE, XPRIZE, Salesforce, XSOMA, ARK INVEST, and Jed McCaleb as partners/sponsors/donors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features futuristic cities (0:00, 0:11), advanced robots (0:00, 0:14, 0:20), flying vehicles (0:00, 0:15), and 'living technology' called 'seeds' that can terraform and heal (0:24, 0:51, 2:37), all indicative of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "Despite a period of conflict and misuse of technology, the video concludes with the world being healed and humanity looking towards a future on Mars (2:40-2:55), emphasizing wisdom catching up with technology, aligning with an optimistic, technology-forward vision.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "The 'seeds' are central to the entire narrative, acting as a powerful living technology that initially brings prosperity, then causes conflict when misused, and finally restores the world (0:24-0:28, 0:45-0:46, 0:51-0:53, 2:37-2:41).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains action sequences and implied danger, such as a dam breaking (0:03) and a chase (2:08-2:18), but no explicit graphic violence, offensive language, or sexual content is shown.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable commercial brands are visible within the main content of the video, only fictional elements and the sponsors on the final end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The trailer presents a clear and engaging narrative arc, from a utopian past to a fallen world, and then a quest for restoration, all with high-quality visuals and special effects, suggesting a well-realized story.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story encompasses global ecological restoration, advanced societal structures, and the ultimate goal of expanding humanity to Mars (2:55), demonstrating a very ambitious and expansive vision for the future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The trailer explicitly states 'Building Optimistic Visions of the Future' on its end card (3:00) and the narrative itself, despite challenges, resolves into a future where technology is used wisely to restore Earth and enable new frontiers, perfectly aligning with the mission.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The 'seeds' are not just props but are the core of the plot, driving the initial prosperity, the subsequent conflict, and the eventual healing of the world, making technology an integral and active part of the storytelling.",
+      "confidence": "high"
+    }
+  ]
+}

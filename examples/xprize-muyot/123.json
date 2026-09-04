@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=YOUR_VIDEO_ID",
+  "video_title": "The Generation That Will Build on Mars",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video is 17 seconds long, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The end card appears from 00:09 to 00:17, lasting only 8 seconds. It mentions XPRIZE but does not include Google, Jed McCaleb, or Salesforce.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video depicts a speculative future vision of humanity building a 'Solarpunk Mars' city with advanced technology like AI and sustainable infrastructure (00:06-00:08), which is characteristic of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's progression from current space ideas to a 'Solarpunk Mars' city (00:06-00:08) with AI (00:04-00:05) and sustainable technology, accompanied by upbeat music, clearly portrays a hopeful and optimistic future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, evolving from rockets and satellites (00:01-00:02) to an AI robot (00:04-00:05) and a fully developed 'Solarpunk Mars' city with advanced infrastructure (00:06-00:08).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video features only animated children's drawings and text, with no explicit violence, language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "Aside from the XPRIZE mention on the end card, no other recognizable commercial brands are used in the video.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "The video effectively tells a simple, compelling story of future Mars colonization through the imaginative lens of children's drawings, with well-realized animation and glowing effects (00:00-00:08) that enhance the narrative within its short format.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The story thinks big by envisioning humanity's future on Mars, specifically through the concept of a 'Solarpunk Mars' city (00:06-00:08), which represents a significant leap in human civilization and sustainability.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video is fully aligned with the Future Vision XPRIZE mission, explicitly mentioning the hashtag (00:11) and portraying a genuinely optimistic, technology-enabled future through the 'Solarpunk Mars' concept (00:06-00:08) and AI integration (00:04-00:05).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The storytelling is tech-forward, with advanced technology like AI (00:04-00:05), solar panels, wind turbines, and futuristic transportation (00:06-00:08) being central to the vision of 'Solarpunk Mars' and meaningfully integrated into the visual narrative.",
+      "confidence": "high"
+    }
+  ]
+}

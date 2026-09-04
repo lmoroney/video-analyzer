@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=y_211111111",
+  "video_title": "The Green Whisper: A Future Vision",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total duration of 3 minutes and 11 seconds, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's end card, from 02:56 to 03:11, clearly displays the logos and names of Google, XPRIZE, Jed McCaleb, and Salesforce as sponsors and partners.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features advanced, speculative technologies such as microchip printing by children (00:13), ambient spectroscopy for blood chemistry (00:22), futuristic labs with holographic displays (00:29), and tiny drones/underwater pods interacting with plants at a molecular level (02:00-02:36), all of which are characteristic of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "Despite an initial challenge of a global pandemic, the video presents a future where humanity uses advanced technology to collaborate with nature to find solutions, culminating in an optimistic message of 'The Green Whisper' (02:44-02:55).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, from advanced manufacturing (00:13) and non-invasive medical diagnostics (00:22) to the deployment of micro-sensors and underwater pods to 'ask the plants' for a cure to a virus (02:00-02:36).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, offensive language, or sexual content. The 'explosion' at 01:47 is an animation of a cellular process, not violence.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands are shown or mentioned within the main content of the video, only on the end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video presents a compelling narrative of humanity facing a viral threat and finding a solution through nature, enabled by advanced technology. The high-quality CGI and clear storytelling make it well-realized.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story addresses a global pandemic and environmental restoration, envisioning a future where humanity leverages technology to understand and collaborate with nature on a fundamental biological level to solve complex problems, demonstrating a very big vision.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video strongly aligns with the XPRIZE mission by showcasing an optimistic future where technology is used to overcome a significant global challenge (a pandemic) through innovative collaboration with natural systems, leading to a positive outcome.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The narrative is entirely driven by advanced technology, which is not merely background but an active agent in solving the crisis, from sophisticated diagnostics and computational systems to micro-drones and underwater pods interacting with plants to find a cure.",
+      "confidence": "high"
+    }
+  ]
+}

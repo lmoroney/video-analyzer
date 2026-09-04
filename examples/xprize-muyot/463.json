@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "Radix: Future Vision XPRIZE Short Film",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's total duration is exactly 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "From 2:59 to 3:15, the video displays an end card with 'FUTUREVISION X PRIZE', 'Partners: Google, RANGE', 'Presenting Sponsor: salesforce', 'Sponsors: XSONA, ARK INVEST', and 'Presenting Donor: Jed McCaleb'.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features advanced medical technology, holographic interfaces, orbital nodes, and futuristic settings (e.g., the space station at 2:30 and 2:48), clearly placing it within the science fiction genre.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video depicts a future where advanced technology has made 'sickness rare' (0:19) and ultimately overcomes a new pandemic through global collaboration, extending health coverage to 'no region unreached' (2:51). This is a highly optimistic and technology-forward vision.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, from the initial medical AI that reads vital signs and cures disease (0:11-0:15) to the challenge of a mutant virus that the AI can't solve (0:33-0:52), leading to a new solution involving ancient DNA analysis and orbital nodes (1:28-2:05, 2:30).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands are shown or mentioned within the main narrative of the video, only in the final end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "The video presents a clear and engaging narrative arc, from a world where disease is rare to a new pandemic, and the innovative solution found. The production quality is high, with impressive visuals and effective storytelling for a short film.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The story addresses a grand challenge of global health, envisioning a future where advanced AI and genetic research, combined with global infrastructure, eliminate disease and extend care to every corner of the world, demonstrating a very big vision for humanity.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video perfectly aligns with the XPRIZE mission by showcasing a future where technology is the key to solving a global crisis, leading to universal well-being and a healthier world, explicitly stating 'creating medicine with the entire world' (2:37-2:40) and 'no region unreached' (2:51).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The narrative is driven by advanced technology, including a predictive medical AI (0:09-0:15), holographic displays (0:49-0:52), orbital nodes for global coverage (0:41, 2:30), and the use of paleogenetics to understand ancient immune responses (1:28-2:05). These technologies are not just props but integral to the plot's progression and resolution.",
+      "confidence": "high"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "The Eden Protocol: Future Vision XPRIZE Trailer",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total duration of 3 minutes and 11 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card, which begins at 02:47 and runs until the end of the video at 03:11, prominently features the mentioned sponsors: Google, XPRIZE, Jed McCaleb, and Salesforce.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video is set in the future (2045) and features advanced technologies such as AI-driven agricultural systems (Eden OS, Seed Vault One), futuristic farming equipment (tractors, drones), and advanced dome greenhouses, all characteristic of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "Despite starting with a food crisis, the video quickly pivots to showcasing human ingenuity and advanced technology (Eden OS, Seed Vault One, futuristic farming equipment) as solutions, culminating in a vision of a flourishing, green future and a happy society (02:25-02:32).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, with the 'Eden Protocol' team developing 'Eden OS' and 'Seed Vault One' (00:21-00:26) as AI platforms to coordinate food production. Advanced tractors and drones are shown actively transforming arid landscapes into fertile farms (01:20-01:28, 02:08-02:12, 02:29-02:32).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video does not contain any explicit violence, language, or sexual content. While there is a scene of a man expressing anger by yelling and slamming his fist (00:41), it does not constitute explicit violence.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable commercial brands are displayed or mentioned within the main content of the video, outside of the end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video presents a clear and engaging narrative arc, moving from a global food crisis to a technologically advanced solution, with high-quality visuals and effective pacing for a trailer.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story tackles a monumental global food crisis and envisions a future where advanced agricultural technology and human ingenuity lead to a complete transformation of the planet, ensuring humanity's long-term survival and prosperity (02:25-02:32).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video directly aligns with the Future Vision XPRIZE mission by presenting a clear, optimistic vision of a technology-enabled future where a global food crisis is overcome through innovation and human collaboration, leading to a flourishing world (02:16-02:24, 02:29-02:32).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The storytelling is highly tech-forward, with the entire narrative centered on the development and deployment of advanced AI (Eden OS, Seed Vault One), futuristic farming machinery (tractors, drones), and controlled environment agriculture (dome greenhouses) as the primary means to solve the global food crisis and create a sustainable future.",
+      "confidence": "high"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "EMPATHI by Phara33",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total duration of 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card appears from 03:01 to 03:15 and clearly displays Google, XPRIZE, Jed McCaleb, and Salesforce as sponsors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The central technology, 'Empathi,' which allows users to feel the emotions of others (00:36-00:38, 00:51-00:53), is a futuristic and currently non-existent concept, placing the video firmly in the science fiction genre.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video depicts technology (Empathi) as a solution to societal conflicts and emotional barriers, leading to global understanding and peace (02:20-02:24, 02:36-02:44), which is a highly optimistic vision.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "The 'Empathi' device is the core of the narrative, driving the plot from its creation (00:24-00:26) to its use in resolving personal and global conflicts (00:50-00:57, 01:36-01:47, 02:18-02:24) and ultimately being mass-produced for universal benefit (02:36-02:38).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "There is a brief physical altercation (01:34-01:36) but it is not graphic or prolonged. No explicit language or sexual content is present.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The mailman's uniform clearly displays the 'USPS' (United States Postal Service) logo at 00:27 and 02:39.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video presents a clear and engaging narrative about the power of empathy enabled by technology, with strong character development and a satisfying resolution. The production quality, including cinematography and acting, is high.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story envisions a future where a single technology can eliminate barriers of language and emotion, leading to universal empathy and the end of conflict (01:09-01:12, 02:27-02:34), which is an extremely ambitious and grand vision for humanity.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video perfectly aligns with the mission by showcasing a technology that fosters empathy and resolves global conflicts, leading to a genuinely optimistic and harmonious future for humanity (02:27-02:34).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The 'Empathi' device is not merely a prop but the central catalyst for all major plot points and character transformations, demonstrating how advanced technology can profoundly reshape human interaction and society (00:11-00:14, 00:36-00:38, 00:51-00:53, 02:18-02:24).",
+      "confidence": "high"
+    }
+  ]
+}

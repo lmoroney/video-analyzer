@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=Y6Y0-0_0000",
+  "video_title": "Good Deflation: A Future Vision XPRIZE Submission",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's total duration is 3 minutes and 4 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The last 16 seconds of the video (02:48-03:04) feature an end card listing 'FUTUREVISION XPRIZE', 'Google', 'RANGE', 'Salesforce', 'XSOVA', 'ARK INVEST', and 'Jed McCaleb' as partners, sponsors, or donors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video depicts a speculative future in 2026 where advanced AI, robotics, and solar energy fundamentally alter economic systems, leading to 'good deflation' and a new monetary protocol, which is characteristic of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video presents a future where technological advancements like AI, robotics, and solar energy lead to 'good deflation,' making goods and services cheaper for everyday people, which is portrayed as a positive and hopeful outcome for humanity (01:07-01:09, 02:18-02:22).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology, specifically AI, robotic automation, and solar energy, is central to the narrative, driving the economic shift towards deflation and forming the basis of the 'Royalty Protocol' (00:00-00:03, 00:27-00:30, 00:34-00:37).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, strong language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": true,
+      "rating": null,
+      "explanation": "An Apple laptop with a visible logo is used by the family in the kitchen scene (01:10, 01:33).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video effectively tells a compelling story about a future economic shift, contrasting the perspectives of Wall Street and Main Street. The production quality is high, with clear visuals and a strong narrative arc that is well-realized within the short film format.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story envisions a complete overhaul of the global economic system, moving from inflation to 'good deflation' driven by AI, robotics, and solar energy, and introduces a new monetary protocol. This represents a very ambitious and large-scale vision for humanity's future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video directly aligns with the mission by portraying a future where technology (AI, robotics, solar energy) leads to a 'good deflation' and a 'dividend' for everyone, creating a genuinely optimistic and accessible future for humanity (01:57-01:59, 02:18-02:22).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The entire narrative revolves around the transformative power of advanced technology, specifically AI, robotics, and solar energy, on the global economy and daily life. These technologies are not merely props but are the core agents driving the story's conflict and resolution, making it highly tech-forward (00:00-00:03, 00:27-00:30, 00:34-00:37, 02:00-02:04).",
+      "confidence": "high"
+    }
+  ]
+}

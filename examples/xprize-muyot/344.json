@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "Pink Spiders - Future Vision XPRIZE",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's total duration is exactly 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card from 03:00 to 03:15 clearly displays 'FUTUREVISION XPRIZE', 'Salesforce', 'Google', 'RANGE', 'XPRIZE', 'XSOVA', 'ARK INVEST', and 'Jed McCaleb'.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video depicts a futuristic New York in 2066 with flying vehicles, advanced holographic technology, and a narrative involving a mysterious biological phenomenon and a message from 'the other side of climate change', all characteristic of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "While initially showing a climate crisis and social unrest (01:45-01:48), the video culminates in a message of unity and overcoming challenges through technology, leading to a clean, green, and thriving futuristic city (02:45-02:51), portraying a hopeful and optimistic future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, from holographic displays in a liquor store (00:18-00:24) and social media spreading the 'Pink Spiders' phenomenon (00:56-00:58) to the advanced 'Argus' system used by NASA to analyze and decode the mysterious message (01:08-01:23, 02:05-02:22).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": true,
+      "rating": null,
+      "explanation": "There is a brief scene of violence during a protest where a man uses a device to burn another man's jacket (01:46). There is no explicit language or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": true,
+      "rating": null,
+      "explanation": "In the liquor store scene (00:18-00:27), several recognizable liquor brands such as 'Jack Daniel's', 'Bulleit Bourbon', and 'Buffalo Trace' are visible on the shelves.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video presents a compelling narrative arc, moving from a mysterious biological anomaly and societal unrest to a global revelation and a unified, hopeful future. The production quality is high, with detailed futuristic cityscapes and effective visual storytelling.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story tackles grand themes like global climate crisis, humanity's place in the cosmos, and the potential for collective evolution, culminating in a vision of a united, technologically advanced society that has overcome its challenges and is ready for interstellar communication.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video strongly aligns with the mission by portraying a future where humanity, through technological advancement and a shift in perspective, successfully addresses and overcomes the climate crisis, leading to a harmonious and thriving global society, as explicitly stated by Lars Suddman (02:26-02:29) and shown in the final scenes (02:45-02:51).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "Advanced technology is not merely a backdrop but an active driver of the plot. The 'Pink Spiders' phenomenon is understood and communicated through biological and neurological data analysis, leading to the decoding of a crucial message via sophisticated AI systems like Argus, which directly impacts humanity's path forward.",
+      "confidence": "high"
+    }
+  ]
+}

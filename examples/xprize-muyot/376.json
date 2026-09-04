@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "The Looking Glass",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length? [Answer yes or no; set 'answer' to true/false, leave 'rating' null.]",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's total duration is exactly 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce? [Answer yes or no; set 'answer' to true/false, leave 'rating' null.]",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card, which displays sponsors including Google, XPRIZE, Jed McCaleb, and Salesforce, is visible from 02:59 to 03:15, covering the last 15 seconds of the video.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction? [Answer yes or no; set 'answer' to true/false, leave 'rating' null.]",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video depicts a future with advanced technologies such as AI companions, holographic communication, digital twins, and space travel to Mars, which are characteristic elements of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future? [Answer yes or no; set 'answer' to true/false, leave 'rating' null.]",
+      "answer": false,
+      "rating": null,
+      "explanation": "While the video initially presents a technologically advanced future with space travel and AI, the ending reveals a critical failure during a Mars mission due to human error (forgetting shield codes) and a solar flare, leading to a 'RADIATION EVENT WARNING' (02:40-02:50). This introduces a strong element of danger and potential catastrophe, undermining a purely optimistic vision.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,) [Answer yes or no; set 'answer' to true/false, leave 'rating' null.]",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is a core component of the narrative, with AI companions, holographic communication, digital twins, and advanced spacecraft driving the plot and character interactions, particularly the central conflict involving the radiation shield codes (01:12-01:17, 02:30-02:50).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video? [Answer yes or no; set 'answer' to true/false, leave 'rating' null.]",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video does not contain any explicit violence, offensive language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video? [Answer yes or no; set 'answer' to true/false, leave 'rating' null.]",
+      "answer": false,
+      "rating": null,
+      "explanation": "Apart from the sponsors displayed on the end card, no other recognizable brands are featured within the video's narrative.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints? [Answer with an integer rating from 1 (not at all) to 10 (extremely strongly); set 'rating', leave 'answer' null.]",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video presents a compelling narrative that effectively builds an optimistic future before introducing a dramatic and dangerous twist. The production quality is high, with detailed futuristic settings, convincing visual effects for AI and spacecraft, and strong performances, all well-realized within the short film format.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future? [Answer with an integer rating from 1 (not at all) to 10 (extremely strongly); set 'rating', leave 'answer' null.]",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The story explores grand themes of humanity's future, including digital immortality through AI twins, advanced societal integration of AI, and ambitious space colonization efforts like the Mars mission, demonstrating a broad vision for technological and human evolution.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future? [Answer with an integer rating from 1 (not at all) to 10 (extremely strongly); set 'rating', leave 'answer' null.]",
+      "answer": null,
+      "rating": 4,
+      "explanation": "While the story is technology-enabled, its ending, featuring a critical radiation event during a Mars mission due to a forgotten shield code and the limitations of a digital twin (02:40-02:50), introduces a strong element of danger and human fallibility. This significantly detracts from portraying a genuinely optimistic future, making it less aligned with the core mission of the Future Vision XPRIZE.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative? [Answer with an integer rating from 1 (not at all) to 10 (extremely strongly); set 'rating', leave 'answer' null.]",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The storytelling is highly tech-forward, with advanced technologies such as AI, holographic communication, digital twins, and space travel being fundamental to the plot, character development, and the central conflict of the narrative (e.g., the digital twin's training, the Mars mission, and the radiation shield code issue).",
+      "confidence": "high"
+    }
+  ]
+}

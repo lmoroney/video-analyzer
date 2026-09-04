@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "Time Loop to Save Earth",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total duration of exactly 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's end card, from 03:01 to 03:15, clearly displays 'FUTUREVISION XPRIZE' and lists Google, RANGE, XPRIZE, Salesforce, XSOVA, ARK INVEST, and Jed McCaleb as partners and sponsors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features elements such as a robot companion, time travel, a burning Earth, and scenes on the moon with aliens and astronauts, all of which are characteristic of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "While initially showing dystopian futures (00:00-00:08, 01:06-01:11), the protagonist uses technology (time travel, powers) to correct past mistakes, leading to optimistic outcomes like saving forests (01:17-01:26) and playing soccer on the moon (02:53-02:59), ultimately portraying a hopeful future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, with a robot guiding the protagonist (00:04-00:15), time travel being the core plot device (00:15, 00:29-00:32, 01:45), and the protagonist's powers being tech-enabled (01:12-01:26, 02:29-02:32).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video does not contain any explicit violence, offensive language, or sexual content. A character is hit by a car, but it's implied and not graphic (00:28), and a fight scene involves energy blasts without gore (02:29-02:32).",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands or logos are visible within the main content of the video, outside of the end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 6,
+      "explanation": "The story attempts to be compelling with its time-loop concept and environmental message, but the rapid scene changes and somewhat disjointed narrative make it occasionally hard to follow. The visual effects are decent for the apparent production constraints.",
+      "confidence": "medium"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The story tackles grand themes such as the destruction of Earth, time travel to alter destiny, and the potential for humanity to create a better future, demonstrating a big-picture vision.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video strongly aligns with the mission by showcasing a protagonist who uses advanced technology (time travel, powers) to overcome environmental and societal challenges, ultimately leading to a positive and optimistic future for Earth and humanity.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The narrative is driven by advanced technology, including a sentient robot, time dilation, and the protagonist's ability to manipulate events and minds. These technologies are not merely background but are integral to the plot's progression and the resolution of conflicts.",
+      "confidence": "high"
+    }
+  ]
+}

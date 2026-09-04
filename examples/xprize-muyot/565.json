@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "MAWLI: One Breath. Two Worlds.",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's total duration is exactly 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The final 15 seconds of the video (3:00-3:15) display an end card featuring the mentioned sponsors and partners.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video depicts futuristic cities (00:16), spaceships (00:14, 00:28), alien planets with unique flora and fauna (00:08, 01:51, 02:08), and advanced technologies like holographic communication (01:36) and consciousness transfer (00:57), all characteristic of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video portrays a future where humanity has healed Earth (00:16-00:27), lives in harmony with advanced technology, and explores new worlds with a sense of wonder and connection, as evidenced by the voiceover stating \"The day humanity and AI chose wisdom over control\" (00:17) and \"We healed our world\" (00:43).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is integral to the narrative, showcasing advanced AI for societal improvement (00:17-00:22), space travel for exploration (00:14, 00:28), and a consciousness transfer process (00:57-01:05) that allows individuals to experience new forms of existence. The planet Mawli itself is portrayed as an intelligent entity (02:43).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "Aside from the end card, no recognizable brands are displayed within the video content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video presents a compelling narrative of humanity's evolution, space exploration, and the discovery of an intelligent alien world, Mawli. The high-quality visuals and clear voiceover effectively convey the story, making it well-realized within its production.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story thinks very big, depicting humanity's transformation into a wise, technologically advanced society, its expansion into space, the discovery of a sentient alien world, and the concept of consciousness transfer, all of which represent grand visions for the future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video strongly aligns with the Future Vision XPRIZE mission by showcasing a genuinely optimistic, technology-enabled future where humanity and AI coexist harmoniously, Earth is healed, and new forms of understanding and existence are embraced through advanced technology and interspecies connection.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The storytelling is highly tech-forward, with advanced technology like AI-driven societal improvements (00:17-00:22), futuristic transportation (00:14, 00:28), holographic communication (01:36), and consciousness transfer (00:57-01:05) being central to the plot and character experiences, rather than mere background elements.",
+      "confidence": "high"
+    }
+  ]
+}

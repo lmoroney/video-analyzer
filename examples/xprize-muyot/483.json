@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "Inheritance: None of this is impossible. Are you ready?",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total duration of 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video concludes with an end card from 2:53 to 3:15, displaying 'FUTUREVISION XPRIZE' and listing partners and sponsors including Google, Range, Salesforce, XSOVA, ARK Invest, and Jed McCaleb.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video depicts a futuristic society with advanced technology, flying vehicles, space travel, and terraforming, which are all elements of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video showcases a utopian future with advanced cities, sustainable living, and humanity expanding into space, all enabled by technology, presenting a highly optimistic vision.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, driving plot points such as neurological experiences (0:32), instant healing (0:52), food synthesis (0:58), and large-scale terraforming efforts (2:10).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "There is a brief depiction of a cut on a hand that quickly heals (0:52), but no explicit violence, language, or sexual content is present in the video.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video shows fictional brands like 'UN-CORE' (0:22) and various company names on a moon map (2:07), but no real, recognizable brands are used outside of the end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video presents a compelling narrative arc, moving from a utopian present to a past discovery and then to ambitious future projects, all visually stunning and well-executed.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story envisions humanity living in advanced, sustainable cities, exploring and terraforming other planets, and even overcoming biological limitations, demonstrating a very grand and expansive vision for the future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video strongly aligns with the XPRIZE mission by showcasing a future where advanced technology has enabled humanity to thrive, solve complex problems, and expand beyond Earth in an optimistic and positive manner.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "Advanced technology is deeply woven into every aspect of the narrative, from personal experiences like neurological simulations (0:32) and instant healing (0:52) to societal advancements like automated logistics (0:22) and terraforming (2:10), making it integral to the storytelling.",
+      "confidence": "high"
+    }
+  ]
+}

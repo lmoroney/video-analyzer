@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=y_2012_2012",
+  "video_title": "The Architects: Future Vision Abundance",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has an exact duration of 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "From 3:00 to 3:15, an end card is displayed, listing 'FUTUREVISION XPRIZE™', 'Partners Google RANGE', 'Presenting Sponsor: salesforce', 'Sponsors XSOLLA ARK INVEST', and 'Presenting Donor Jed McCaleb'.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features advanced concepts such as brain chips (0:41), genetic reprogramming (0:54), AI governance (1:12), and wormhole travel (2:03, 2:52), which are all characteristic elements of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": false,
+      "rating": null,
+      "explanation": "While technology-forward, the vision is not entirely optimistic. It shows positive advancements like curing cancer (0:53-1:04) and new freedoms (1:16), but also negative consequences such as loss of purpose, addiction (1:19-1:20), AI governance leading to protests (1:22-1:33), and military intervention (1:34-1:37, 2:05-2:12).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the plot, driving key events like the discovery of prime numbers in galaxy light (0:27-0:32), the development of brain chips (0:41, 0:46-0:50), genetic reprogramming (0:53-1:01), the rise of AI governance (1:12-1:15), and the use of a wormhole (2:03-2:04, 2:52-2:55).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, language, or sexual content. Scenes of protests and military personnel are shown, but without graphic detail.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands are visible in the main content of the video, only on the end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video effectively presents a complex narrative arc, from scientific discovery and medical breakthroughs to societal changes and existential threats, all within a short runtime. The high-quality visuals and effective pacing contribute to a compelling story.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story explores grand concepts such as the origin of consciousness, interstellar communication, advanced genetic engineering, AI governance, and wormhole travel, demonstrating a very broad and ambitious vision for humanity's future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 4,
+      "explanation": "While technology-enabled, the future is not genuinely optimistic. It depicts significant societal challenges, including widespread addiction, loss of purpose, and a global shift to AI governance met with protests and military force (1:19-1:33), suggesting a mixed or cautionary outlook rather than pure optimism.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The storytelling is highly tech-forward, with the narrative driven by scientific discoveries (0:27-0:32), technological advancements (0:41, 0:53-1:01), and their profound societal impacts (1:12-1:33). The visual presentation of data, simulations, and futuristic interfaces (0:10-0:11, 0:17-0:20, 0:26-0:32, 0:54-0:55, 1:34-1:35, 1:57-1:59, 2:03-2:04) is integral to the plot.",
+      "confidence": "high"
+    }
+  ]
+}

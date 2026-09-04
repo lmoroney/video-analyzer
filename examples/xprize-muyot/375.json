@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "Future Vision XPRIZE Short Film",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total runtime of 1 minute and 27 seconds (01:27), which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The end card, which includes sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce, appears from 01:15 to 01:27, lasting 12 seconds, not 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features advanced humanoid robots (00:04, 00:10), futuristic cityscapes (00:00, 00:54), and technology used for apparent brain modification (00:27-00:36), all indicative of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": false,
+      "rating": null,
+      "explanation": "While the voiceover describes an optimistic future called \"Concord\" (00:52-01:10) with plenty of food, shelter, and AI, the narrative involving Sybil's capture and apparent forced mental alteration (00:27-00:36) introduces a dark, unsettling, and non-optimistic element to the vision of humanity's future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, with humanoid robots acting as characters (00:04, 00:10), advanced brain modification being a key plot point for Sybil (00:27-00:36), and futuristic infrastructure like automated vehicles and holographic interfaces (00:54-01:04) being integral to the setting.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video depicts a chase and capture (00:19-00:24) and a character being restrained, but there is no explicit violence, strong language, or sexual content shown.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "Other than the sponsors displayed on the end card (01:15-01:27), no recognizable brands are used or shown within the video's narrative content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 7,
+      "explanation": "The video presents an intriguing, albeit brief, narrative with high-quality animation and character design. While the story is compelling, its short length means it's not fully realized, leaving many questions unanswered.",
+      "confidence": "medium"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The story thinks big by presenting a complex vision of humanity's future, exploring themes of technological utopia (\"Concord\"), societal control, the role of artificial intelligence, and the trade-offs between security and individual freedom.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 4,
+      "explanation": "While the voiceover explicitly describes an optimistic, technology-enabled future (00:52-01:10), the preceding narrative of Sybil's capture and forced \"happiness\" (00:27-00:36) portrays a darker, more controlled, and less genuinely optimistic aspect of this future, creating a conflicting message.",
+      "confidence": "medium"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The storytelling is highly tech-forward, with advanced technology such as sentient robots (00:04, 00:10), brain modification (00:27-00:36), and pervasive holographic interfaces (00:52, 00:59) being meaningfully integrated into the narrative and driving key plot points and character interactions.",
+      "confidence": "high"
+    }
+  ]
+}

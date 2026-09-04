@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "Zero Frequency",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total duration of 2 minutes and 8 seconds, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "From 1:52 to the end of the video (2:08), an end card is displayed, listing 'FUTUREVISION XPRIZE', 'Google', 'RANGE', 'XPRIZE', 'salesforce', 'XSOVA', 'ARK INVEST', and 'Jed McCaleb' as partners and sponsors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video depicts a young girl building and launching a personal spaceship, interacting with advanced holographic interfaces, and traveling into space, which are all elements of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The narrative focuses on a young girl's dream of space travel, inspired by her mother, and her successful use of advanced technology to achieve it, conveying a hopeful and optimistic vision of the future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the plot, with the girl using advanced tools like welding equipment (0:37), a futuristic tablet for blueprints (0:56), and a complex control panel for launching her spaceship (0:59).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video does not contain any explicit violence, offensive language, or sexual content. There is a brief scene of a funeral (1:25-1:27) implying loss, but it is not violent.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands are visible within the main narrative of the video, only on the end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "The story of a young girl fulfilling her dream of space travel, inspired by her mother, is compelling. The production quality is good, effectively using visual effects for the spaceship and holographic interfaces to realize the narrative.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The story envisions a future where personal space travel is achievable, driven by a child's ambition and technological innovation, which represents a big and expansive vision for humanity's future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video directly aligns with the Future Vision XPRIZE mission by showcasing a genuinely optimistic, technology-enabled future where a young girl builds and launches her own spaceship, fulfilling a dream and overcoming adversity.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The narrative is driven by advanced technology, from the girl's use of a futuristic tablet for design (0:56) and welding (0:37) to the complex control panel for the spaceship launch (0:59), demonstrating a strong tech-forward approach to storytelling.",
+      "confidence": "high"
+    }
+  ]
+}

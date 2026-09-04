@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "NEUROWAVE - Wake the Mind. Save the Life.",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's total duration is exactly 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card appears from 03:00 to 03:15 and clearly displays 'FUTUREVISION XPRIZE', 'Google', 'RANGE', 'XPRIZE', 'Salesforce', 'ARK INVEST', and 'Jed McCaleb'.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features a 'Neurowave' device (00:16) that allows a comatose patient to experience a vivid, interactive dream world (00:25-00:31), which is a core concept of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The technology helps a comatose patient regain consciousness (02:40-02:44), and his final statement, 'I dreamed of a world without kings' (02:56), suggests a positive, transformative experience enabled by the technology.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "The 'Neurowave' device is central to the plot, directly enabling the patient's dream state and influencing his physical condition, as shown by the doctors monitoring his brain activity and heart rate (00:53-00:58, 01:30-01:32).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "While there are battle scenes and a car crash, the violence is not graphic or explicit. There is a kiss (00:52, 01:09) but no sexual content, and no explicit language is used.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands are visible within the main narrative of the video, only generic medical equipment and the fictional 'Neurowave' brand.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The narrative effectively intertwines a medical drama with a rich fantasy world, creating a compelling story of internal struggle and recovery. The visual effects and overall production quality are very high for a short film.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The story explores profound themes of consciousness, healing through virtual experiences, and the potential for technology to facilitate personal and societal transformation, as hinted by the patient's dream of 'a world without kings' (02:56).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The film strongly aligns by showcasing a technology that directly leads to a positive outcome (waking a comatose patient) and inspires a vision of a better future, emphasizing hope and human potential through technological innovation.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The entire plot hinges on the 'Neurowave' device, which is an advanced brain-computer interface. The narrative seamlessly integrates the real-world medical monitoring with the patient's virtual experiences, making technology a fundamental driver of the story.",
+      "confidence": "high"
+    }
+  ]
+}

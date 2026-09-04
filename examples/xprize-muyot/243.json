@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "The History of Abundance",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's total runtime is 2 minutes and 46 seconds, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's end card, from 2:28 to 2:46, clearly displays 'FUTUREVISION XPRIZE' along with Salesforce, Google, XPRIZE, and Jed McCaleb as sponsors and partners.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video is set in 2032 and features advanced 'replicator' technology that can print objects and causes city-wide blackouts, which is a clear indication of science fiction (00:20, 00:34-00:37, 00:15-00:19).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "While initially showing challenges like blackouts (00:00-00:19) and energy scarcity (01:29-01:33), the video concludes with a message of collective action and a new energy source leading to a world with 'less despair' (01:44-01:58), portraying an optimistic, technology-forward vision.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "The 'replicator' technology is the central element of the narrative, driving the plot from its creation and initial promise (00:29-00:37) to the challenges of energy consumption and control (00:47-00:56), and ultimately to a solution involving its widespread access and collective management (01:24-01:25, 01:34-01:36).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video does not contain any explicit violence, strong language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands are visible in the video's content, apart from those displayed on the end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "The video tells a compelling story about the challenges and solutions related to advanced technology, using a creative mix of live-action and animated paper cut-out visuals (00:24-00:56, 01:37-01:42) and a rhyming narration that effectively conveys the plot.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The story tackles significant themes like the societal impact of advanced replication technology, energy scarcity, and the necessity of collective decision-making and sharing for a sustainable future (00:47-00:56, 01:34-01:36, 01:44-01:49), demonstrating a big-picture vision for humanity.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The narrative, despite showing initial technological challenges and societal struggles (00:00-00:19, 01:29-01:36), ultimately concludes with a hopeful message of overcoming scarcity through shared technology and a new energy source (01:44-01:58), aligning strongly with an optimistic, technology-enabled future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The story is entirely built around the advanced 'replicator' technology, showcasing its impact on daily life, infrastructure (00:00-00:19), and societal decision-making (01:34-01:36). The narrative also features futuristic classroom technology (00:20-00:23) and a dynamic news interface (00:12-00:14), demonstrating strong tech-forward storytelling.",
+      "confidence": "high"
+    }
+  ]
+}

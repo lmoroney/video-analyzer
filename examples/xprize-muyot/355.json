@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "Assimilation",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total length of 2 minutes and 14 seconds, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card appears from 01:57 to 02:14, which is 17 seconds, and prominently displays logos for Google, XPRIZE, Jed McCaleb, and Salesforce, among others.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features advanced concepts such as neural networks, decoding the human mind, simulated realities ('replications'), and extracting future technology, which are all elements of science fiction (00:01, 00:13, 00:31, 00:40).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": false,
+      "rating": null,
+      "explanation": "While technology is forward-looking, the vision is not entirely optimistic. The narrative includes phrases like 'close out a string of anomalies' (00:59) and 'I must not lose myself' (01:51), suggesting potential dangers or a struggle within the advanced technological future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, with the plot revolving around 'the neural network,' 'complete decoding of the human mind,' and 'replications' (simulated realities) that the protagonist must enter (00:01, 00:13, 00:31, 00:57).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video does not contain any explicit violence, strong language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands are visible within the main content of the video, only on the end card (01:57-02:14).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 7,
+      "explanation": "The story is compelling due to its mysterious and thought-provoking science fiction concepts, and the production quality is high with strong visuals and sound. However, the narrative is quite abstract and fragmented, making it somewhat challenging to fully grasp within the short runtime.",
+      "confidence": "medium"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The story explores very ambitious and grand concepts, such as the complete decoding of the human mind, shared consciousness, simulated realities, and the extraction of future technology, demonstrating a 'big thinking' approach to humanity's future (00:13, 00:23, 00:40).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 6,
+      "explanation": "The story is technology-enabled and explores future possibilities, aligning with the 'Future Vision' aspect. However, the tone is not consistently optimistic, with hints of potential loss or struggle ('I must not lose myself' at 01:51), which slightly deviates from a 'genuinely optimistic' portrayal.",
+      "confidence": "medium"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The entire narrative is driven by advanced technology, from neural networks and mind decoding to simulated realities and future tech extraction. These technologies are not just background elements but are integral to the plot and the protagonist's journey (00:01, 00:13, 00:31, 00:57).",
+      "confidence": "high"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "Under the Same Sky",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's total runtime is 3 minutes and 0 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card from 2:34 to 3:00 clearly displays \"FUTUREVISION XPRIZE\", \"Google\", \"Salesforce\", and \"Jed McCaleb\" among other sponsors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video depicts a future with advanced space travel, including multiple rockets launching and a detailed moon base with astronauts, which is currently science fiction (1:32-2:27).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video transitions from a polluted past (0:55-1:02) to a vibrant, clean city (1:12-1:17) and then to humanity exploring space and building moon bases (1:32-2:27), explicitly stating the future \"had to be better\" and \"is exactly what we made it.\"",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology, particularly screens and space exploration tech, is central to the narrative, evolving from old televisions (0:00-0:10) to computers (0:58-1:02), tablets (1:07-1:11), and advanced astronaut helmets with communication displays (1:48-2:05), driving the story of humanity's progress.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The brand \"ZENITH\" is visible on televisions in a store window at 0:14, and \"TOTES\" is visible on a baby's playpen at 1:08.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video tells a compelling generational story about hope and progress, effectively using the metaphor of screens as windows to the future. The visuals are well-produced, and the emotional arc is clear and impactful.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story thinks very big, moving from personal reflection on childhood to addressing global environmental challenges and ultimately depicting humanity's expansion into space with moon bases and multiple rocket launches (1:32-2:27).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video is perfectly aligned, portraying a clear progression from environmental decline to a vibrant, technology-enabled future on Earth and in space, driven by optimism for the next generation, as explicitly stated in the narration (1:12-2:27).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The storytelling is highly tech-forward, using the evolution of screens (from old TVs to modern devices and astronaut helmet displays) as a central narrative device to show humanity's journey and technological progress, culminating in advanced space exploration (0:00-2:27).",
+      "confidence": "high"
+    }
+  ]
+}

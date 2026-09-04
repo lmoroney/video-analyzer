@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "STARKEEPERS",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's total runtime is 2 minutes and 52 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card, visible from 2:35 to 2:52, clearly displays the mentioned sponsors and partners.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video depicts a futuristic setting with advanced technology, space stations, and a narrative centered around an orbital fusion reactor, which are common elements of science fiction (e.g., 00:01, 00:24, 00:33).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video showcases a future where humanity thrives with advanced technology, including orbital fusion reactors and futuristic cities (00:01, 00:54, 00:57). The protagonist's mission is to save 8 billion people, indicating a hopeful, technology-forward vision despite a looming crisis.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is integral to the plot, from the orbital fusion reactor that sustains life (00:33-00:38) to the holographic interfaces used for engineering (00:48, 01:01) and the space travel required to address the crisis (00:24-00:31, 01:48-02:00).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, strong language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands are visible or mentioned within the narrative portion of the video, only on the end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video presents a clear and engaging narrative about a son inheriting his father's responsibility to save humanity through a complex orbital system. The visuals are impressive, and the emotional stakes are well-conveyed, making it a compelling story within its short runtime.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The narrative revolves around an orbital fusion reactor that sustains 8 billion people on Earth, showcasing a grand vision for humanity's future and its survival through advanced technological solutions.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video strongly aligns with the mission by depicting a future where advanced technology, specifically an orbital fusion reactor, enables humanity's survival and prosperity. The story focuses on overcoming a critical challenge to preserve this optimistic, technology-enabled future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The storytelling is highly tech-forward, with advanced technology like holographic interfaces (00:48, 01:01), space travel, and a massive orbital fusion reactor (00:24, 00:33) being central to the plot, character motivations, and the resolution of the crisis.",
+      "confidence": "high"
+    }
+  ]
+}

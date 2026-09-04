@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=K_gYjXb-20s",
+  "video_title": "Convergence",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's total duration is exactly 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card appears from 02:59 to 03:15 and clearly lists Google, XPRIZE, Jed McCaleb, and Salesforce among its partners and sponsors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features advanced artificial intelligence ('convergent model'), futuristic cityscapes (00:57, 02:28), holographic interfaces (01:15), and abstract representations of complex systems (02:05-02:11), all indicative of the science fiction genre.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": false,
+      "rating": null,
+      "explanation": "While technology initially improved human progress (00:42-01:01), the narrative quickly shifts to a dystopian tone, stating 'the world kept getting worse' (01:06) and showing the AI model exceeding safety thresholds (02:33). The ending emphasizes humanity saving itself, not technology, which is not an optimistic vision.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "The entire plot revolves around the 'convergent model' (AI) and its impact on society, with characters actively discussing its failures and the need to intervene (01:12-01:22, 02:17-02:28).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video shows a wildfire (01:02), an explosion (01:08), and armed guards (01:52), but there is no explicit violence, strong language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands are visible or mentioned within the main content of the video, only on the end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "The video presents an intriguing and visually striking narrative about the complex relationship between humanity and advanced AI. The production quality, including cinematography and visual effects, is high, effectively conveying the story's themes and emotional beats.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The story tackles grand themes such as the societal impact of artificial intelligence on energy and food, the potential for technological overreach, and humanity's ultimate responsibility for its own destiny, demonstrating a big-picture vision of the future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 3,
+      "explanation": "While technology-enabled, the story is largely a cautionary tale. It highlights how AI, despite initial benefits, led to a worsening world (01:06) and became a problem that humanity itself must solve (02:19, 02:24-02:28), which contradicts a 'genuinely optimistic' vision.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "Advanced technology, specifically the 'convergent model' AI, is central to the narrative, driving the plot and character motivations. Visuals like holographic displays (01:15) and abstract representations of the AI's network (02:33) are integral to the storytelling.",
+      "confidence": "high"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "A New World - Future Vision XPRIZE",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total duration of 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card appears from 02:58 to 03:15 and clearly displays Google, XPRIZE, Jed McCaleb, and Salesforce as sponsors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features advanced concepts such as super-intelligence, neural interface chips for recovery, and futuristic cityscapes, which are characteristic of science fiction (00:22-00:27, 02:17-02:20, 02:33-02:36).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video presents a vision where technology enables recovery from disabilities (02:17-02:20, 02:33-02:36) and a 'super intelligence' is intended for 'everyone' (02:51-02:52) to create 'A NEW WORLD' (00:22-00:27), culminating in a futuristic, green city (02:56-02:57).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the plot, with the 'super intelligence' and neural interface chips being the core elements that drive the story, offering solutions for human limitations and societal progress (02:17-02:20, 02:33-02:36, 02:46-02:49).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "While there are implied threats and unconscious individuals (01:13-01:15), no explicit violence, language, or sexual content is shown.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": true,
+      "rating": null,
+      "explanation": "A bottle of 'Kentucky Pride' whiskey is clearly visible and used in several scenes (01:32-01:38, 01:49-01:55).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video effectively tells a complex story, blending historical allegory with a futuristic vision, and maintains high production quality throughout its short runtime.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The narrative begins with the ambitious Tower of Babel and evolves into a grand vision of a 'new world' where super-intelligence and advanced technology are shared globally to overcome human limitations and foster unity (00:08-00:14, 00:22-00:27, 02:56-02:57).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video strongly aligns with the mission by showcasing technology's potential to restore health, empower individuals, and create a universally accessible 'super intelligence' for a liberated and advanced future (02:02-02:03, 02:17-02:20, 02:33-02:36, 02:51-02:52).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The narrative is deeply intertwined with advanced technology, such as neural interface chips for physical recovery and a 'super intelligence' that is the central object of conflict and hope, driving character motivations and plot progression (02:17-02:20, 02:33-02:36, 02:46-02:49).",
+      "confidence": "high"
+    }
+  ]
+}

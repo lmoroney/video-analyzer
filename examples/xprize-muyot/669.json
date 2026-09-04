@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "The Last Human to Die",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's total duration is 2 minutes and 42 seconds, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card, visible from 02:30 to 02:42, features logos for Google, XPRIZE, Jed McCaleb, and Salesforce, among others.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video portrays a futuristic setting with advanced technologies such as humanoid robots, mind uploading to a cloud server, and a highly developed, green city, all characteristic of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video transitions from a somber past to an optimistic future where technology, specifically mind uploading, has made death optional and allows for the preservation of consciousness, leading to a vibrant, green, and technologically advanced society.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, with the plot revolving around the concept of mind uploading (01:18-01:33) and a humanoid robot (Claire Model No C-7) serving as a surrogate mother, demonstrating a profound integration into daily life and emotional well-being.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video does not contain any explicit violence, language, or sexual content. Brief, abstract depictions of war and funerals are shown on a holographic screen (00:48-00:55) but are not graphic.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands are used in the video's narrative content, only in the end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video presents a highly compelling and emotionally resonant story about overcoming loss through advanced technology, effectively realized with consistent and appealing animation within its short runtime.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story thinks very big, addressing the ultimate human challenge of mortality by proposing a future where consciousness can be permanently preserved and transferred, fundamentally altering the human experience and enabling new forms of existence and contribution.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story is perfectly aligned with the XPRIZE mission, depicting a genuinely optimistic future where technology, specifically mind uploading, provides a solution to death and loss, enabling a new era of human existence and connection.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The storytelling is highly tech-forward, with advanced technology like humanoid robots and holographic interfaces being integral to the plot and character interactions, and the concept of mind uploading forming the foundational solution to the central conflict.",
+      "confidence": "high"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "Second Dawn: Building Optimistic Visions of the Future",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video is 2 minutes and 59 seconds long, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The last 15 seconds of the video (from 2:44 to 2:59) feature an end card that explicitly lists Google, XPRIZE, Jed McCaleb, and Salesforce as partners or sponsors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features advanced technology, space exploration, asteroid mining (0:11), terraforming of planets (0:35, 0:58, 2:06), and artificial intelligence (0:41), all characteristic elements of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video begins with a desolate, polluted Earth but quickly transitions to humanity using advanced technology for space mining (0:11), terraforming (0:35, 2:06), and ultimately restoring Earth to a lush, green state (2:18-2:27), portraying a highly optimistic and technology-driven future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is the driving force of the narrative, from space mining and resource extraction (0:11-0:14) to terraforming processes (0:35-0:38, 0:58-1:05, 2:01-2:09) and the development of advanced AI (0:41) and consciousness transfer (1:18-1:20). It's integral to solving humanity's problems and shaping its future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "Aside from the sponsors listed on the end card, there are no other recognizable real-world brands used in the video. The brands shown (e.g., \"REUNCANEE\" at 0:22, \"PATHFINDER\" at 0:41, \"NEXUS\" at 0:41, \"TERRAGEN\" at 1:22) appear to be fictional within the story.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video presents a compelling narrative arc, moving from environmental devastation to a technologically advanced, revitalized future. The high-quality CGI and dramatic voiceover effectively convey a grand vision within the short trailer format.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story thinks exceptionally big, encompassing humanity's survival through space colonization, asteroid mining (0:11), terraforming of multiple planets (0:35, 0:58, 2:06), and ultimately a profound transformation of consciousness and connection to the planet (1:18-1:20, 2:13-2:16).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video strongly aligns with the Future Vision XPRIZE mission by showcasing a genuinely optimistic future where humanity uses advanced technology to overcome environmental collapse, terraform new worlds, and achieve a harmonious, interconnected existence (2:18-2:27).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The storytelling is highly tech-forward, with advanced technologies like space mining (0:11), ocean-based energy systems (0:14), terraforming infrastructure (0:35, 0:58), holographic interfaces (0:49), and consciousness transfer (1:18) being central to the plot and the characters' ability to shape their future.",
+      "confidence": "high"
+    }
+  ]
+}

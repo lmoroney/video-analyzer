@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "The Amazing Tale of Space",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's total duration is exactly 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "From 02:54 to 03:15, the video displays an end card listing 'FUTUREVISION XPRIZE' and sponsors including Google, Range, XPRIZE, Jed McCaleb, and Salesforce.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features space travel, a 'subatomic hyperdrive unit' (00:20), holographic communication (00:11), and exploration of cosmic events like supernovas and the Big Bang, all characteristic of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video depicts a diverse group of young astronauts using advanced technology to explore and positively influence the universe, with a mission to 'give the universe its first dawn' (01:58-01:59), conveying a hopeful and optimistic future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "The entire plot is driven by the 'subatomic hyperdrive unit' (00:20-00:21) which enables time and space travel. Characters actively use holographic displays (00:11-00:13, 00:18-00:20) and specialized equipment like jetpacks (00:14-00:16) and hoverboards (00:21-00:22) to achieve their mission.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, offensive language, or sexual content. The comment about a character being 'cooked' (02:16) is metaphorical and not graphic.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands or logos are visible or mentioned within the main narrative content of the video.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "The story is engaging and well-paced for its target audience, with clear objectives and challenges. The animation quality is good, and the characters are expressive, making for a well-realized narrative.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The narrative involves traveling to the beginning of time, witnessing cosmic phenomena like supernovas and the Big Bang, and actively participating in the universe's evolution, demonstrating a very ambitious and grand vision for humanity's role.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video perfectly aligns with the mission by showcasing a future where diverse young individuals use advanced technology to explore, understand, and positively impact the universe, all presented with an optimistic tone.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "Advanced technology, such as the hyperdrive, holographic interfaces, and specialized suits, is central to the plot and character actions, driving the narrative forward rather than merely serving as background elements.",
+      "confidence": "high"
+    }
+  ]
+}

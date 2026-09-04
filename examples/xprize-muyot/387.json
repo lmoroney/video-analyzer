@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "SAAGA SOLVE: Building Optimistic Visions of the Future",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video is exactly 3 minutes and 15 seconds in length.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The last 15 seconds of the video (03:00-03:15) display an end card featuring the Future Vision XPRIZE and logos of sponsors including Google, XPRIZE, Jed McCaleb, and Salesforce.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features advanced artificial intelligence (Saaga), futuristic technology like self-driving vehicles and smart city infrastructure, and explores societal changes, all characteristic of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video explicitly portrays a hopeful and optimistic future where technology, specifically the 'Saaga' system, enables universal basic income, sustainable energy, and improved living conditions for humanity (e.g., 02:00-02:55).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology, particularly the 'Saaga' AI and its associated systems like universal basic income and renewable energy infrastructure, is central to the narrative, driving the transformation from a struggling present to an optimistic future (e.g., 02:00-02:55).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video does not contain any explicit violence, offensive language, or sexual content. It focuses on emotional and societal challenges.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": true,
+      "rating": null,
+      "explanation": "A bag of 'Lay's' potato chips is visible on a shelf in the background at approximately 01:03, which is a recognizable brand outside of the end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video tells a compelling story by contrasting the struggles of individuals in the current system with the promise of a technology-enabled future. The animation is high quality, and the emotional journey of the characters is well-realized within the short runtime.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story presents a grand vision for humanity's future, imagining a world transformed by advanced AI and universal basic income, leading to environmental sustainability and improved quality of life for all, moving beyond current systemic limitations.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video's central theme of building a genuinely optimistic, technology-enabled future through a new, equitable system (Saaga) is perfectly aligned with the stated mission of the Future Vision XPRIZE competition.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The storytelling is highly tech-forward, with the 'Saaga' AI and its associated technologies (like UBI and sustainable infrastructure) being the primary drivers of the narrative's positive transformation, fundamentally changing how society functions and how individuals live.",
+      "confidence": "high"
+    }
+  ]
+}

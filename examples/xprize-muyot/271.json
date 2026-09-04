@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "The Common Measure",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total runtime of 2 minutes and 9 seconds (02:09), which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card appears from 01:55 to 02:09, which is 14 seconds, and explicitly lists Google, XPRIZE, Jed McCaleb, and Salesforce as partners or sponsors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video is set in the future (2046, 2049, 2065) and features advanced AI systems for governance, autonomous vehicles, and domestic robots, which are elements of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The narrative begins with societal challenges but concludes with a successful AI-driven 'Common Measure' and 'National Dignity Fund' providing universal basic income and improving quality of life, showcasing a positive future enabled by technology (01:21-01:44).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "The AI system and 'Common Measure' are central to the plot, serving as the mechanism for tracking societal progress and ultimately leading to the successful implementation of the National Dignity Fund (00:16-00:20, 00:57-01:01). Robots are also shown assisting in daily life and elderly care (01:31-01:39).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video does not contain any explicit violence, strong language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable commercial brands are displayed or mentioned within the main narrative of the video, only the fictional 'National Dignity Fund' and 'Common Measure'.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video presents a clear and emotionally resonant narrative arc, from a politician's ambitious promises and initial failures to eventual success through perseverance and technological innovation. The production quality is high, effectively conveying the story's themes within its short runtime.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The story addresses fundamental societal challenges such as economic stability, social welfare, and democratic governance, proposing a large-scale, AI-driven solution that impacts every citizen, demonstrating a big-picture vision for humanity's future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video directly aligns with the mission by showing how an AI-powered 'Common Measure' and 'National Dignity Fund' overcome economic crises and improve citizens' lives, leading to a demonstrably optimistic and technology-enabled future where societal metrics are 'ON TARGET' (01:40-01:44).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "Advanced technology, specifically the AI-driven 'Common Measure' and its real-time data display, is not merely background but a core driver of the plot and the ultimate success of the societal reforms. Robots are also shown integrated into daily life and care, highlighting a future where technology is deeply embedded and beneficial.",
+      "confidence": "high"
+    }
+  ]
+}

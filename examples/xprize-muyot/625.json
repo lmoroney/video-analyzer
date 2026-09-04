@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=26262626262",
+  "video_title": "MOT: Music on Transcend",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total duration of 2 minutes and 26 seconds, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "From 2:12 to the end of the video (2:26), an end card is displayed, listing 'FUTUREVISION XPRIZE' and sponsors including Google, XPRIZE, Jed McCaleb, and Salesforce.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features advanced technology, specifically the 'MOT' device, which can erase songs and potentially memories, and explores themes of memory manipulation and societal control, clearly placing it within the science fiction genre.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": false,
+      "rating": null,
+      "explanation": "While technology-forward, the vision is not optimistic. It depicts a future where technology is used for memory erasure ('The song erases itself' at 1:26, 'SESSION COMPLETE / FILE ERASED' at 2:06) and control, leading to conflict and a sense of loss, rather than a hopeful outlook.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "The 'MOT' device and its function of erasing music and emotional attachment are central to the plot, driving the characters' actions and the core conflict of the story, as seen from 1:14 onwards.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains scenes of chaos, running from a storm (0:50), and a motorcycle chase with implied gunfire and explosions (1:57-2:02), but these are not graphic or explicit. There is no explicit language or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": true,
+      "rating": null,
+      "explanation": "A Google Pixel 7 phone is clearly visible and used by characters at 1:11 and 1:22, distinct from the end card sponsors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "The video presents an engaging narrative about memory, music, and technology, with dynamic visuals and a good pace. The blend of animation and live-action, along with strong character portrayals, makes the story compelling and well-executed for a short film.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The story delves into profound implications of technology on human emotion and memory, exploring concepts like the erasure of personal history and societal control through sensory input. This addresses significant questions about the future of human experience and identity.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 3,
+      "explanation": "The story is technology-enabled but presents a largely dystopian or cautionary vision. The technology is used for control and memory erasure, leading to conflict and a sense of loss, which contradicts the mission of portraying a genuinely optimistic future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The central plot revolves around the 'MOT' device and its advanced capabilities to manipulate memory and emotion through music. The narrative is driven by this technology, and the visual style, including glitch effects and animated sequences, reinforces its tech-forward nature.",
+      "confidence": "high"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "The Future of Work",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total runtime of 3 minutes and 10 seconds (03:10), which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The final 15 seconds of the video, from 02:55 to 03:10, display an end card listing 'Future Vision XPRIZE', 'Google', 'Jed McCaleb', and 'Salesforce' among other sponsors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video depicts a futuristic world with advanced technologies like holographic interfaces, automated drone delivery, and personalized AI assistants (e.g., 00:20, 01:15), clearly placing it within the science fiction genre.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The narrative consistently shows technology enhancing human capabilities and connections, leading to a more efficient and collaborative society (e.g., 00:45, 02:10), presenting a distinctly optimistic future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the characters' daily lives and work, from interactive holographic displays for collaboration (00:50) to AI-driven personal assistants facilitating tasks (01:30), making it integral to the narrative.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video maintains a professional and family-friendly tone throughout, with no instances of explicit violence, strong language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "Aside from the sponsor logos on the end card, no other recognizable commercial brands are explicitly shown or mentioned within the main narrative of the video.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "The video effectively conveys a clear and engaging vision of future work through strong visual storytelling and a cohesive narrative, demonstrating high production value for a short film format.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The story envisions a transformative shift in how humanity works and interacts, moving beyond current limitations to a highly integrated and collaborative global society, showcasing a very ambitious future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video perfectly aligns with the XPRIZE mission by presenting a future where advanced technology empowers individuals and fosters global collaboration, leading to a distinctly positive and hopeful outlook for humanity.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The narrative is driven by the seamless integration of advanced technologies, such as AI companions and holographic communication (00:20, 01:15), which are not merely props but essential elements shaping the characters' experiences and the world itself.",
+      "confidence": "high"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=21X5l_g1D04",
+  "video_title": "Intergalactic Geographic: The Perfect World",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total duration of 2 minutes and 46 seconds, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card appears from 02:29 to 02:46, displaying 'FUTUREVISION XPRIZE' and listing Google, RANGE, XPRIZE, Salesforce, XSOMA, ARK INVEST, and Jed McCaleb as partners/sponsors/donors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features futuristic cities (00:23), space travel to the moon and other planets (00:31, 01:09), advanced technology like hoverboards (00:11), holographic communication (00:16), and encounters with alien environments and life forms (01:14, 01:31), all indicative of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "Despite moments of peril, the overall narrative focuses on exploration, discovery, and overcoming challenges through advanced technology and teamwork, culminating in the title 'The Perfect World' and a hopeful final scene (02:03-02:14).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, enabling interstellar travel via spaceports and moon trains (00:28-00:39), holographic communication (00:16), and exploration of new planets with specialized devices (01:28).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, language, or sexual content. There are scenes of characters in peril (e.g., running from large rolling objects at 01:36), but these are not graphic.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video features fictional entities like 'SALLY RIDE SPACEPORT' (00:29) and 'PEREGRINE INTERGALACTIC' (01:05), but no other recognizable real-world brands are shown outside of the end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video effectively tells a concise story of exploration and discovery with high-quality visuals and engaging character moments, making it compelling despite its short length.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The narrative depicts humanity venturing far beyond Earth, establishing moon bases, exploring diverse alien planets, and encountering new forms of life, showcasing a grand vision for the future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video strongly aligns with the mission by presenting an optimistic future where technology facilitates humanity's expansion into space, discovery of new worlds, and overcoming challenges through innovation and collaboration.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "Advanced technology, such as holographic guides, interstellar travel, and specialized exploration tools, is not merely background but actively drives the plot and character interactions, demonstrating tech-forward storytelling.",
+      "confidence": "high"
+    }
+  ]
+}

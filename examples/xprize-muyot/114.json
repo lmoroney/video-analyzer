@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "Two Witnesses - Future Vision XPRIZE",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total duration of 3 minutes and 6 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card appears from 02:51 to 03:06, which is exactly 15 seconds, and prominently displays the logos for Google, XPRIZE, Jed McCaleb, and Salesforce, among others.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features elements such as cryo-sleep pods (00:34), discussions of reversing aging (00:15), DNA repair (01:57), futuristic cities with flying vehicles (02:07, 02:24), and space settlements (00:40), all of which are characteristic of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video presents a future where aging can be reversed (00:15), there's a 'utopia ahead' (00:56), 'abundance in Andromeda' (02:09), 'a thousand years of life expectancy' (02:15), and a 'Christmas kingdom 24/7 full of puppies and kittens' (02:19), all enabled by advanced technology, indicating a hopeful and optimistic vision.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, with cryo-sleep used for character preservation and time progression (00:34, 01:03), DNA repair as a plot device for memory restoration (01:57), and futuristic settings and vehicles being integral to the world the characters inhabit (02:07, 02:24).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains a stylized martial arts training sequence (00:54-01:02) and a brief kiss (02:28, 02:34), but no explicit violence, language, or sexual content is depicted.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands or logos are visible within the main content of the video, only on the end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 6,
+      "explanation": "The video presents an ambitious concept, but the narrative jumps between ideas and time periods, making it somewhat disjointed. The dialogue is often expository, explaining concepts rather than letting the story unfold organically. However, the production quality is decent for a short film.",
+      "confidence": "medium"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The story certainly thinks big, exploring themes of reversing aging, achieving extended life expectancy, establishing space settlements, and fighting evil to create a utopian future for humanity.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video strongly aligns with the mission by explicitly showcasing a future where technology enables significant advancements like reversing aging, extended life, and creating abundant, utopian societies, despite acknowledging challenges.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "Advanced technology is a core driver of the plot and world-building, from cryo-sleep and DNA repair to futuristic transportation and the concept of space settlements. It's not just background but actively shapes the characters' experiences and the narrative's progression.",
+      "confidence": "high"
+    }
+  ]
+}

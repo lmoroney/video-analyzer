@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=YOUR_VIDEO_ID",
+  "video_title": "Speak Me Deeper: The ASI Movie",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's total runtime is exactly 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card, visible from 2:58 to 3:15, explicitly displays the mentioned sponsors and partners.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video depicts advanced AI, space stations, robots, and futuristic technology, including a planetary coordination system (ASI) and moon mining, which are all elements of science fiction (e.g., 00:10-00:20, 00:46-00:53, 01:51-02:09).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "While there are initial scenes of global chaos (01:18-01:28), the video quickly transitions to a future where ASI stabilizes and optimizes systems, ensuring food, shelter, medicine, safety, and freedom for all, with robots assisting in various tasks and space exploration (01:45-02:09). The closing narration speaks of \"limitless possibilities.\"",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology, particularly the ASI (Artificial Super Intelligence) and advanced robotics, is the central driving force of the narrative. The ASI is a character that interacts with humans, stabilizes global systems, and enables new advancements like space mining (00:46-00:53, 01:40-02:09).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video contains scenes of violence, including a bullet being fired at a person (01:09-01:12), images of drones flying over a destroyed city (01:21-01:22), and a nuclear detonation (01:23-01:24). There is no explicit language or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable real-world brands are visible or mentioned in the video's narrative content, outside of the end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 7,
+      "explanation": "The video presents an ambitious narrative arc, from global chaos to a technology-optimized future, with high-quality visuals and special effects. While the story is broad and characters are not deeply developed due to its short length, it effectively conveys a grand vision within its production constraints.",
+      "confidence": "medium"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story envisions a future where humanity achieves global coordination through ASI, reverses environmental decline, and expands into space for resources (01:45-02:09), demonstrating a very ambitious and expansive vision for humanity's future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video directly aligns with the Future Vision XPRIZE mission by showcasing a future where advanced technology (ASI) resolves global crises, optimizes societal systems, and enables human flourishing, presenting a genuinely optimistic and technology-enabled vision (01:45-02:09, 02:58-03:15).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The narrative is entirely centered around the development and impact of ASI, showcasing its integration into biofeedback, higher-dimensional patterns, global coordination, resource management, and space exploration (00:39-00:44, 01:40-02:09). This demonstrates a strong tech-forward approach to storytelling.",
+      "confidence": "high"
+    }
+  ]
+}

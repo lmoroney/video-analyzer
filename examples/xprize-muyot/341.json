@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "The Legend of Tapioca",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's total duration is exactly 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card, which includes Google, XPRIZE, Jed McCaleb, and Salesforce, appears from 2:58 to 3:15, covering the last 15 seconds of the video.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video depicts a futuristic world with advanced AI robots, smart homes, vertical cities, and eradicated global problems, clearly placing it in the science fiction genre (e.g., 00:05-00:08, 00:14-00:24).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video presents a highly optimistic future where technology has solved major global issues like war, crime, and disease, allowing humanity to live in peace and explore the world (e.g., 01:23-01:35).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology, particularly the AI robot Bob, is a central character and driving force in the narrative, enabling the protagonist's experiences and personal growth (e.g., 00:00-00:04, 01:12-01:17, 02:26-02:33).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, offensive language, or sexual content. It maintains a family-friendly tone throughout.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable commercial brands are visible or mentioned within the main content of the video, only in the end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video tells a compelling story of discovery and growth, with high production quality, diverse settings, and a clear narrative arc for both the man and the robot.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story envisions a grand future where humanity has overcome major challenges, living in a perfect world free of conflict, disease, and poverty, and focusing on exploration and personal fulfillment (e.g., 01:23-01:35).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video perfectly aligns with the XPRIZE mission by showcasing a genuinely optimistic future where advanced technology has enabled a utopian society and enriched human experience.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "Advanced technology is not merely background but is integral to the plot, character development (e.g., Bob's journey from home assistant to world traveler), and the overall vision of the future, making it tech-forward storytelling.",
+      "confidence": "high"
+    }
+  ]
+}

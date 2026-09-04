@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "Future Vision XPRIZE: Building Optimistic Visions of the Future",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total duration of 2 minutes and 58 seconds, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card appears from 02:42 to 02:58 and clearly displays 'Google', 'XPRIZE', 'Jed McCaleb', and 'Salesforce' among other sponsors and partners.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The latter half of the video (from approximately 01:41 onwards) features advanced technology such as futuristic control rooms, satellites firing energy beams, robots, self-driving cars, and advanced spacecraft, which are characteristic of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video transitions from scenes of conflict and personal struggle to a future where technology enables peace, global unity, and advanced living, culminating in the on-screen text 'Peace on Earth' (02:34-02:42).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, from the 'Scoop' guidance (00:38), hacking for truth (00:41-00:45), futuristic weapons for peace (01:41-01:52), and advanced robotics and transportation in the future (02:01-02:26).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "While there are scenes depicting a protest turning violent (00:47-00:53) and a battlefield (01:03-01:07), the violence is not explicit or graphic. There is no explicit language or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video mentions 'Scoop' (00:38) but does not display a recognizable brand logo for it. No other recognizable brands are shown outside of the end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "The video presents a compelling narrative arc, moving from individual challenges and societal conflicts to a hopeful, technologically advanced future. The production quality is high, effectively conveying the story's progression and emotional beats.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The story starts with personal and societal issues but quickly expands to global conflicts and then envisions a future with advanced technology, space exploration, and universal peace, demonstrating a very ambitious and broad scope for humanity's future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video directly aligns with the mission by showcasing how technology can resolve conflicts, enable progress, and lead to a peaceful and advanced global society, explicitly ending with the message 'Peace on Earth' (02:34-02:42).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The narrative is driven by and heavily features advanced technology, from personal AI assistance ('Scoop') to futuristic weaponry, robotics, and smart cities, all of which are integral to the plot's progression and the vision of the future.",
+      "confidence": "high"
+    }
+  ]
+}

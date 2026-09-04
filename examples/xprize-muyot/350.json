@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "The Abundance of a Billion Stars",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video is exactly 3 minutes and 15 seconds long, which is not strictly 'less than' 3 minutes and 15 seconds. It is 'equal to'.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The end card, which includes the mentioned sponsors, starts at 02:59 and ends at 03:15, making it 16 seconds long, not 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features advanced AI systems, robotic surgery (01:22), antimatter containment (02:00), and futuristic cities with space launches (02:38), all indicative of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "Despite an initial challenge with AI denying medical coverage (00:29), the narrative progresses to show a future where advanced technology, like antimatter containment (02:00) and futuristic cities (02:38), leads to a positive and thriving society.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the plot, from the AI system denying medical treatment (00:31) to the protagonist developing a new AI solution for antimatter containment (01:55-02:01) that ultimately saves his daughter and advances humanity.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "There is no explicit violence, language, or sexual content. Brief, abstract flashes of conflict are shown during the brain sequence (01:39-01:42), but they are not explicit.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands are visible within the main content of the video, only generic technology and settings.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video tells a compelling story of a father's struggle to save his daughter, leading to a scientific breakthrough. The narrative is clear, emotionally resonant, and visually well-produced, effectively conveying a complex journey within its short runtime.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story starts with a personal crisis but quickly expands to a grand vision of humanity's future, showcasing advanced energy solutions, space exploration, and a utopian society, demonstrating a very big-picture perspective.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video perfectly aligns with the mission by showing how technology, initially a barrier, becomes the key to overcoming challenges and creating a genuinely optimistic and advanced future for humanity, as explicitly stated in the end card (02:59).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The narrative is driven by advanced technology, from the AI assessment system (00:31) to the development of antimatter containment (01:55-02:01) and robotic medical procedures (01:22). These technologies are not just props but integral to the plot's conflict and resolution.",
+      "confidence": "high"
+    }
+  ]
+}

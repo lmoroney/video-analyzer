@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "On The 8th Day - Future Vision XPRIZE",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total runtime of 1 minute and 46 seconds, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The last 15 seconds of the video, from 1:31 to 1:46, display an end card listing 'FUTUREVISION XPRIZE' and sponsors including Google, XPRIZE, Jed McCaleb, and Salesforce.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features futuristic technology such as flying vehicles (0:24, 0:36, 0:50), augmented reality glasses (1:17), and a device that scans ancient maps (0:03-0:06), all set in an advanced urban and natural landscape, clearly indicating a science fiction genre.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video depicts a future with advanced, integrated technology, green cities (0:22, 1:17), and people engaging positively with augmented reality for entertainment (1:17-1:29), suggesting a hopeful and optimistic vision.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, with the plot driven by a mysterious device (0:39) used to scan ancient maps (0:03-0:06) and augmented reality glasses (1:17) that enable a new game, all of which are integral to the characters' quest.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, strong language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands are visible within the video content itself, apart from those listed on the end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "The video presents a clear and intriguing mystery about a missing scientist and a unique device, with high production values and effective pacing that builds curiosity within its short runtime.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The narrative, titled \"On the 8th Day,\" hints at a profound discovery or new beginning for humanity, showcasing advanced urban environments, personal flying vehicles, and augmented reality games that integrate real-world puzzles, indicating a grand vision for the future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video perfectly aligns with the Future Vision XPRIZE mission by depicting a genuinely optimistic and technology-enabled future, featuring thriving green cities, advanced transportation, and engaging augmented reality experiences, all without any dystopian undertones.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The narrative is driven by advanced technology, including a specialized device for scanning ancient maps (0:03-0:06) and augmented reality glasses (1:17) that enable a new game, all of which are crucial tools for the characters' quest and exploration.",
+      "confidence": "high"
+    }
+  ]
+}

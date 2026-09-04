@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=2_2L-J0-210",
+  "video_title": "Future Vision XPRIZE: Eli's Story",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's total duration is exactly 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card appears from 03:00 to 03:15 and clearly displays Google, XPRIZE, Jed McCaleb, and Salesforce among other sponsors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features advanced AI assistants (Ari), smart glasses with augmented reality capabilities (01:23-01:25), and humanoid robots (ACE 02) that serve as companions and engage in activities like tennis (01:40-02:27), which are all elements of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video depicts technology as a positive force, helping an elderly man overcome loneliness, learn new skills, and find companionship, presenting a hopeful and optimistic future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, evolving from an AI assistant (Ari) providing plant advice (01:08-01:13) and shopping information (01:21-01:25) to a physical robot companion (01:26-02:27) that directly interacts with the protagonist, Eli.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, offensive language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands are displayed on any of the technology or products shown in the video, apart from the sponsors on the end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video tells a touching story of an elderly man finding connection and purpose through evolving technology, effectively conveying emotion and narrative progression within its unique painted animation style.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "While focusing on an individual's journey, the story presents a future where AI and robotics are deeply integrated into daily life, addressing social needs like companionship and personal growth, which is a significant 'big idea' for humanity's future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video perfectly aligns with the mission by showcasing how advanced technology can profoundly enhance an individual's life, combat loneliness, and enable new experiences, all within a positive and hopeful framework. The message 'Say NO to END. Upload!' (02:34) further emphasizes a human-centric, technology-supported future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The narrative is driven by the progression and integration of technology, from an AI assistant (Ari) to smart devices and a physical robot companion, demonstrating how these advancements become integral to the protagonist's life and personal transformation.",
+      "confidence": "high"
+    }
+  ]
+}

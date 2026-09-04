@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "THE INHERITED SPARK",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video is 1 minute and 42 seconds long, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The last 16 seconds of the video (01:26-01:42) display an end card featuring 'FUTUREVISION XPRIZE' and sponsors including Google, XPRIZE, Jed McCaleb, and Salesforce.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video depicts advanced technology, futuristic cityscapes, flying vehicles, and energy manipulation, clearly placing it within the science fiction genre (e.g., 00:10-00:16, 01:02-01:08, 01:20-01:25).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The narrative progresses from a 'problem nobody else could solve' to a 'bright' future, visually represented by a vibrant, technologically advanced city (01:20-01:25). The end card explicitly states 'Building Optimistic Visions of the Future.'",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "The core narrative revolves around a technological 'problem' that needs a precise solution (12 millimeters tolerance, 00:00-00:16), leading to a technologically advanced and bright future (01:20-01:25).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, strong language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands are displayed or mentioned within the video content itself, outside of the final sponsor end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video effectively uses evocative visuals and a compelling voiceover to tell a concise story of overcoming a critical challenge to achieve a bright future, demonstrating high production value and strong narrative realization within its short runtime.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story tackles a grand theme of bringing light and a bright future to the world through technological innovation, suggesting a transformative impact on humanity's existence.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video directly aligns with the XPRIZE mission by showcasing a future where a critical problem is solved through technology, resulting in a genuinely optimistic and bright world, as explicitly stated in the voiceover and the end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "Technology is central to the narrative, from the intricate manipulation of a glowing energy source (00:00-00:32) to the advanced energy reactor (01:02-01:08) and the futuristic city (01:20-01:25), all of which are integral to the story's progression and its optimistic vision.",
+      "confidence": "high"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "Optics tie - Future Vision XPRIZE",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's total runtime is exactly 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card, visible from 3:00 to 3:15, clearly displays Google, XPRIZE, Jed McCaleb, and Salesforce as partners/sponsors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video depicts advanced technology, futuristic architecture (00:52, 02:45), and human-machine integration (01:22, 02:19), all common themes in science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's visuals of advanced, clean technology (00:52, 01:08, 02:19) and the voiceover's themes of building and choice (01:08-01:17, 02:57-03:00) convey a hopeful and optimistic future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, from the 'cursive ladder' being designed (01:32) and built (00:52, 02:45) to the neural link and data transfer (01:22-01:31) and the human-machine interfaces (02:19-02:38).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, offensive language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands are visible within the video content itself, only on the end card at the very end.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "The video presents an abstract but cohesive narrative about building a 'ladder' and 'gate' for humanity's future, with high-quality visuals and a fitting soundtrack that effectively convey its themes (00:52-01:20, 02:45-02:55).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The narrative explores grand themes of humanity's collective future, building a 'ladder' to new possibilities, and the evolution of intelligence and choice (01:08-01:17, 02:45-02:55), demonstrating a big-picture vision.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video directly aligns with the Future Vision XPRIZE mission by showcasing a highly optimistic, technology-driven future where humanity builds advanced structures and integrates with AI for collective progress and choice (00:52-01:20, 02:19-02:38).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The storytelling is tech-forward, with advanced concepts like neural links (01:22-01:31), holographic interfaces (01:32-01:51), and human-machine integration (02:19-02:38) being integral to the plot and visual narrative.",
+      "confidence": "high"
+    }
+  ]
+}

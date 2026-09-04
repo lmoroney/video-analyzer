@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=2_Minds_One_Road",
+  "video_title": "Two Minds One Road: A Human-AI Collaboration Story",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's total duration is exactly 3 minutes and 15 seconds (03:15).",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The end card containing the listed sponsors (Google, XPRIZE, Jed McCaleb, Salesforce, XSOVA, ARK INVEST, RANGE) appears from 02:56 to 03:15, which is 19 seconds, not 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features advanced AI characters (Luna, Boo) and references to Star Trek (00:00-00:14), which are clear science fiction elements.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The narrative focuses on the positive impact of technology, such as AI collaboration (02:26-02:29) and YouTube enabling a new career path (01:58-02:00), presenting an optimistic view of the future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology, specifically AI (Luna and Boo) and video platforms like YouTube, is central to the story, driving the plot about human-AI collaboration and the 'creator age' (01:00-01:07, 01:40-01:52).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video does not contain any explicit violence, strong language, or sexual content. A brief, stylized image of a burning figure is shown at 01:29-01:31, but it is not graphic.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": true,
+      "rating": null,
+      "explanation": "Yes, 'YouTube' is prominently displayed at various points (e.g., 01:09, 01:20, 01:42) and 'Starbucks' cups are visible at 02:05. 'Google' is also seen on a letter at 02:37.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "The video tells a compelling personal story of Joe's journey into content creation, framed by an AI narrator. The blend of AI-generated visuals and real-world footage is effectively used to convey the narrative, demonstrating good realization within its production style.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The story thinks big by exploring the transformative potential of AI and digital platforms, highlighting how they can empower individuals and foster new forms of human-AI collaboration, leading to an 'endless possibilities' future (00:48).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video strongly aligns with the mission by presenting a future where AI and technology are positive forces, enabling human creativity, connection, and personal growth, as exemplified by Joe's journey and the 'human AI collaboration' (02:37-02:39).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The storytelling is tech-forward, with an AI (Luna) narrating the human story and an AI robot (Boo) acting as a travel assistant. The narrative itself is about how technology (YouTube) transformed a human's life, making technology an intrinsic part of both the story's content and its presentation.",
+      "confidence": "high"
+    }
+  ]
+}

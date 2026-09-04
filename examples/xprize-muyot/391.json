@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "Chasing the Horizon",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total duration of 2 minutes and 42 seconds, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "From 2:23 to 2:42, the video displays an end card with the title 'FUTUREVISION XPRIZE' and lists 'Google', 'XPRIZE', 'Jed McCaleb', and 'Salesforce' among its partners, sponsors, and donors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features advanced technology such as cryo-sleep (0:00), fusion power (0:01), interstellar travel through 'corridors' (0:08-0:11), terraforming distant planets (0:14), AI companions (0:45, 1:12), and encounters with alien life forms (0:40, 1:36), all indicative of the science fiction genre.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The narrative describes humanity mastering fusion, building intelligent machines, exploring the solar system, and colonizing other planets (0:00-0:15). Despite challenges, the overall tone is one of progress, discovery, and a hopeful future enabled by technology, culminating in a young girl watching a rocket launch (2:16-2:22).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the plot, with 'corridors' enabling interstellar travel (0:08-0:11, 1:35), the 'Horizon Key' being the object of the quest (0:22-0:24, 1:43-1:45), and holographic interfaces used for planning and analysis (0:17, 1:04, 1:20). AI companions and advanced spacecraft are also integral to the characters' journey and survival.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "While there are scenes of peril and conflict, such as an alien attacking an astronaut (0:40-0:41) and characters in dangerous environments (0:50-0:51, 1:31-1:33, 1:48-1:49), none of the content is explicit, graphic, or sexual. There is no explicit language.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands or product placements are visible within the narrative portion of the video, outside of the end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "As a short film/trailer, it effectively establishes a compelling sci-fi premise involving humanity's expansion, mysterious interstellar 'corridors', and a quest for the 'Horizon Key'. The high-quality visuals and engaging pacing create a strong sense of adventure and intrigue, making it well-realized despite its brevity.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story envisions a grand future for humanity, encompassing mastery of advanced energy (fusion), development of AI, interstellar travel, terraforming and colonizing new planets, and the discovery of ancient alien technology. It portrays a vast scale of exploration and progress.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video's themes of technological advancement, interstellar exploration, and overcoming challenges with a hopeful outlook perfectly align with the Future Vision XPRIZE's mission of 'Building Optimistic Visions of the Future,' as stated on the end card (2:23).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "Advanced technology is not merely background but is integral to the plot and character actions. The 'corridors' are the primary means of interstellar travel, the 'Horizon Key' drives the central quest, and holographic interfaces (0:17, 1:04, 1:20) and AI companions (1:12, 1:28) are crucial tools for the protagonists, demonstrating deep integration into the narrative.",
+      "confidence": "high"
+    }
+  ]
+}

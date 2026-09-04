@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "Nevaeh's Yearbook: Future Vision XPRIZE",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total runtime of 2 minutes and 48 seconds, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "From 2:33 to 2:48, the video displays an end card with the title 'FUTUREVISION XPRIZE' and lists Google, Range, XPRIZE, Salesforce, Ark Invest, and Jed McCaleb as partners and sponsors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video depicts a future world facing environmental collapse (e.g., snowy ruined cities at 0:01, wildfires at 0:02, water rationing at 0:05, dried-up lake at 0:45) and introduces advanced technology like a 'digital archive' or 'yearbook' that can preserve memories and potentially 'speak' to the dead (1:43, 2:02), which are elements of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "Despite starting with a bleak outlook on the 'end of the world' (0:00-0:04), the narrative quickly shifts to a hopeful tone as the protagonist creates 'Nevaeh's Yearbook' to preserve humanity's memories and 'rewrite the future' (2:22), using technology to foster connection and remembrance. The final title card explicitly states 'Building Optimistic Visions of the Future'.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology, specifically the 'Nevaeh's Yearbook' digital platform, is central to the entire narrative. It's the protagonist's solution to a world forgetting its history (0:08-0:12) and is shown being developed (0:58-1:00), used by various people (0:18, 1:17, 1:19, 1:22), and becoming a point of conflict (1:37-1:43).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains scenes of environmental disaster and a protest, but no explicit violence, strong language, or sexual content. There is a brief kiss between two characters at 2:15, but it is not explicit.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": true,
+      "rating": null,
+      "explanation": "A MacBook Air laptop is visible at 0:52, and a microphone with the NBC logo is visible at 1:57.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The story is compelling, driven by a personal mission to preserve memories that expands into a global initiative. The production quality is high, with effective visuals and emotional beats that convey the narrative well within the short runtime.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The story tackles grand themes such as the preservation of collective memory, the impact of environmental decline, and the role of technology in shaping human identity and legacy, demonstrating a big-picture vision for humanity's future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video directly aligns with the XPRIZE mission by showcasing a technology-enabled solution (Nevaeh's Yearbook) that aims to 'save our memory' and 'rewrite the future' (2:22) in an optimistic way, despite initial challenges, as explicitly stated in the end card 'Building Optimistic Visions of the Future'.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The narrative is built around the creation and impact of 'Nevaeh's Yearbook', a sophisticated digital platform. The technology is not merely a backdrop but an active agent in the plot, enabling the preservation of memories, connecting people, and driving the central conflict, as seen with the coding interface (0:59) and holographic displays (2:02).",
+      "confidence": "high"
+    }
+  ]
+}

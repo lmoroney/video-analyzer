@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "The Story Seed",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total duration of 3 minutes and 15 seconds (03:15).",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's end card, from 03:00 to 03:15, clearly displays Salesforce as a Presenting Sponsor, and Google, XPRIZE, and Jed McCaleb as Partners/Presenting Donor.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video depicts futuristic, green cities (00:25), space travel and observatories (00:30, 00:35, 00:55, 01:10), advanced technology integrated into daily life (00:45, 01:20), and communication with cosmic entities via glowing crystals (01:50-02:55), all of which are elements of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video consistently shows a harmonious, sustainable, and technologically advanced future where humanity thrives in lush, green cities, explores space, and engages in creative and intellectual pursuits (00:25-01:30). The overall tone is one of wonder and positive evolution.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, enabling the futuristic green cities (00:25), space exploration and observation (00:30, 00:35, 00:55, 01:10), and the eventual communication with the universe through the crystal structures (01:50-02:55). It's not merely decorative but drives the story's progression.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, language, or sexual content. It maintains a family-friendly and inspiring tone throughout.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands or product placements are visible or mentioned in the video, apart from the sponsors listed on the final end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video tells a compelling, evocative story of humanity's journey from looking at the stars to becoming a space-faring, creative, and connected civilization. The visuals are stunning and consistent, effectively conveying the narrative despite its brevity.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story thinks very big, envisioning humanity not only living sustainably on Earth but also exploring the cosmos, building advanced societies, and ultimately achieving a profound connection with the universe through a 'story seed' (02:55).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story is perfectly aligned with the XPRIZE mission. It presents a highly optimistic future where technology enables sustainable living, space exploration, artistic expression, and intergalactic communication, all contributing to a thriving and evolving humanity.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The storytelling is tech-forward, with advanced technology like bio-integrated architecture (00:25), space habitats (00:30, 00:55), and cosmic communication devices (01:50-02:55) being integral to the plot and the evolution of humanity. These technologies are not just props but active elements in the narrative.",
+      "confidence": "high"
+    }
+  ]
+}

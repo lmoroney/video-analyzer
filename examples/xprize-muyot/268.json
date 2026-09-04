@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "NUVAGAIA: The First Thread - A Future Worth Repairing",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total duration of exactly 3 minutes and 15 seconds (03:15).",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card appears from 02:59 to 03:15, which is 16 seconds. It explicitly lists 'FUTUREVISION XPRIZE', 'Google', 'XPRIZE', 'Jed McCaleb', and 'Salesforce' among its partners and sponsors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features futuristic cities, advanced medical technology, flying vehicles, holographic interfaces, and a narrative about repairing a fractured reality, all indicative of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "Despite facing a crisis, the video emphasizes rebuilding, unity, and a collective effort to 'repair' the future, concluding with the tagline 'A future worth repairing' (02:58), which conveys an optimistic outlook.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, from the three distinct technologically advanced societies (Solarnati, Hydrovalent, Nanocodex) to the diagnostic tools (01:11-01:14) and the 'thread' device used to resolve the anomaly (02:13-02:17, 02:36-02:37).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, offensive language, or sexual content. There are moments of tension and implied danger, but nothing graphic.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The only visible brand is 'THE NOMAD' on the flying vehicle (e.g., 00:27, 02:20), which appears to be a fictional brand within the video's universe and not a real-world recognizable brand.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video presents a clear narrative arc: a world rebuilt in three ways, a unifying 'Confluence,' a mysterious anomaly, and a heroic effort to 'cross' and repair it. The visuals are consistently high-quality and immersive, effectively conveying the story within the short runtime.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story envisions humanity rebuilding the world in diverse, advanced ways, uniting these societies, and then facing an existential threat to reality itself, requiring a bold, collective solution. This demonstrates a grand vision for humanity's future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video strongly aligns with the mission by showcasing a future where humanity uses advanced technology to overcome a profound crisis, emphasizing collaboration and resilience to create 'A future worth repairing' (02:58).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "Advanced technology is not merely background but integral to every aspect of the story: the distinct societal structures (Solarnati, Hydrovalent, Nanocodex), the diagnosis of the 'fracture' (01:11-01:14), and the innovative solution involving a 'thread' (02:13-02:17, 02:36-02:37) to navigate and repair the anomaly.",
+      "confidence": "high"
+    }
+  ]
+}

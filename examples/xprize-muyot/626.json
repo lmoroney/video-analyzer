@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "Meet Fiona",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video is 28 seconds long, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The end card (00:25-00:28) only displays \"PROJECT MARS\" and \"#FUTUREVISIONXPRIZE\", and does not list Google, Jed McCaleb, or Salesforce as sponsors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features a character in an astronaut suit tending to plants in an advanced indoor farming facility, with text mentioning \"Project Mars\" and \"feeding a planet,\" indicating a science fiction setting.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video portrays a future where humanity is actively engaged in space colonization and sustainable food production (00:10-00:24), with a character dedicated to \"feeding a planet\" using advanced technology, which is a hopeful and technology-forward vision.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "The narrative revolves around Fiona, a botanist, utilizing advanced \"Food & Closed-Loop Systems\" in a futuristic indoor farm (00:10-00:24) to grow food, making technology central to her character's purpose and the story's setting.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, language, or sexual content; it focuses on a character tending to plants.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands are visible in the video's content, only the #FUTUREVISIONXPRIZE hashtag appears on the end card (00:27).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 7,
+      "explanation": "While a short character introduction rather than a full story, the video effectively introduces Fiona, her unique personality, and her critical role in \"feeding a planet\" (00:00-00:24), creating intrigue and suggesting a compelling larger narrative.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video explicitly mentions \"Project Mars\" and Fiona's \"Core Drive: An intense, serious dedication to feeding a planet\" (00:00-00:09), which represents a very ambitious and large-scale vision for humanity's future in space.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video showcases a positive, technology-driven future where humanity is actively colonizing Mars and solving food scarcity through advanced botanical systems (00:10-00:24), aligning perfectly with an optimistic, technology-enabled future as suggested by the #FUTUREVISIONXPRIZE hashtag (00:27).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The narrative is built around Fiona's use of advanced \"Food & Closed-Loop Systems\" in a futuristic hydroponic farm (00:10-00:24) to sustain life, demonstrating a strong integration of tech-forward concepts into the core of the story.",
+      "confidence": "high"
+    }
+  ]
+}

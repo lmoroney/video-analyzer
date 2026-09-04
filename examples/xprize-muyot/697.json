@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "The Pulse: Planetary Early Warning System",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total runtime of 3 minutes and 7 seconds (03:07).",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The last 15 seconds of the video (from 02:52 to 03:07) display an end card featuring \"FUTUREVISION XPRIZE\" and sponsors including Google, Salesforce, and Jed McCaleb.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video presents a \"Planetary Early Warning System (PEWS)\" that uses advanced satellite and data analysis to detect subtle, almost imperceptible environmental changes globally, such as individual trees disappearing (00:30-00:44, 01:48-01:52). This level of pervasive, real-time environmental monitoring and predictive capability goes beyond current technology, placing it in the realm of science fiction or speculative fiction.",
+      "confidence": "medium"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video portrays a future where humanity uses advanced technology, specifically the \"Planetary Early Warning System (PEWS)\", to detect and respond to environmental threats, saving lives and nature (00:18-00:29, 01:08-01:12). The narrative emphasizes proactive intervention and a collaborative effort to protect the planet, presenting a hopeful and optimistic vision.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "The \"Planetary Early Warning System (PEWS)\" is the central element of the narrative, with satellites, advanced data analysis, and drones being crucial tools for detecting subtle environmental changes and enabling human response (00:58-01:03, 01:24-01:26, 02:05-02:13). The technology directly drives the plot and the characters' actions.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video does not contain any explicit violence, strong language, or sexual content. It focuses on environmental monitoring and response.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "Apart from the sponsors listed on the end card, no other recognizable commercial brands are visible or mentioned in the video. The \"PEWS\" logo is part of the fictional organization.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "The video presents a clear and engaging narrative about a global early warning system for environmental threats. The production quality is high, with effective visuals, sound, and pacing that convey the story's message compellingly within its short duration.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The story envisions a future where humanity has developed a sophisticated, global \"Planetary Early Warning System\" to monitor and protect the entire living world, demonstrating a grand vision for humanity's collective responsibility and technological capability in safeguarding the planet.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video perfectly aligns with the mission by showcasing a genuinely optimistic future where advanced technology, specifically the PEWS system, empowers humanity to detect subtle environmental changes and respond effectively, ensuring the well-being of the planet and its inhabitants.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The narrative is driven by the advanced \"Planetary Early Warning System (PEWS)\", which uses satellites, sophisticated data visualization, and drones to detect and highlight subtle environmental degradation (01:24-01:52, 02:05-02:13). This technology is central to both the problem identification and the proposed solution, making it tech-forward storytelling.",
+      "confidence": "high"
+    }
+  ]
+}

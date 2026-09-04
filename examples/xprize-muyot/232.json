@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "Golden Dreams: A Future Vision",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total duration of 2 minutes and 4 seconds, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The last 15 seconds of the video (from 1:49 to 2:04) include an end card that explicitly displays the logos for XPRIZE, Jed McCaleb, Salesforce, and Google.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video depicts a highly futuristic world with advanced technologies such as flying vehicles (0:10), a space elevator (0:53), a moon base (1:19), and brain-computer interfaces (0:26, 1:30), all characteristic of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video consistently shows bright, green, and clean futuristic cities (0:09, 1:35), people collaborating peacefully (0:21, 1:26), and advanced technology enabling creation and expansion into space, all contributing to a hopeful and optimistic vision.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the depicted future, with characters using brain-computer interfaces to create holographic designs (0:26, 1:30) and flying vehicles serving as primary transportation (0:10, 0:33, 1:35), indicating deep integration.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, offensive language, or sexual content. It maintains a positive and family-friendly tone throughout.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands or product placements are visible within the main content of the video, outside of the final sponsor end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "While more of a visual montage than a traditional story, the video effectively conveys a compelling and coherent vision of a future world. The production quality is high, with detailed and consistent futuristic environments.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video presents a grand vision of humanity's future, showcasing advanced sustainable cities, space travel via a space elevator (0:53), and colonization of the moon (1:19), demonstrating a very ambitious and expansive outlook.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video perfectly aligns with the XPRIZE mission by depicting a highly optimistic and technology-enabled future where humanity thrives, innovates, and expands its horizons, emphasizing creation and collaboration.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The storytelling is tech-forward, illustrating how advanced technology, such as brain-computer interfaces for creative design (0:26, 1:30) and ubiquitous flying vehicles, is fundamental to the daily lives and progress of the future society.",
+      "confidence": "high"
+    }
+  ]
+}

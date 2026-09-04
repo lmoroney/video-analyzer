@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "Green Wings, Red Wings",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total duration of 3 minutes and 15 seconds (03:15).",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card, featuring logos for Salesforce, Google, RANGE, XPRIZE, XSOVA, ARK INVEST, and Jed McCaleb, is displayed from 02:56 to 03:15, which covers the last 15 seconds of the video.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video depicts futuristic cities (00:08-00:15, 00:32-00:39), advanced agricultural robots (00:24-00:31), holographic interfaces (00:40-00:47, 01:52-01:59), and a narrative about humanity's choices shaping a technologically advanced future, all characteristic of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "While it presents a contrast with a dystopian future, the video ultimately concludes with a hopeful message about choosing a 'green' path, enabled by technology for health and sustainability (02:08-02:23, 02:32-02:39).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is a central theme, explicitly described as a 'mirror' for human choices (01:52-02:07). It is shown enabling sustainable agriculture (00:24-00:31), smart cities (00:32-00:39), and genetic research (00:40-00:47), as well as facilitating the 'red wings' of instant gratification (01:04-01:19).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, language, or sexual content. The 'clash' between green and red forces is depicted in a highly stylized, cartoonish manner (01:28-01:43).",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands are shown in the main content of the video, only generic advertisements in the 'red wings' city (01:12-01:19).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video presents a clear and engaging allegorical story about choices, with high-quality animation and effective visual metaphors that are well-executed.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The narrative explores two grand, contrasting visions for humanity's future—one of sustainable harmony and the other of rapid, unhealthy consumption—demonstrating a broad scope of thought regarding global impact and societal direction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video's core message is about humanity choosing an optimistic, technology-enabled future focused on health, sustainability, and unity, which directly aligns with the stated mission of the Future Vision XPRIZE competition.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "Advanced technology, such as AI-powered farming robots (00:24-00:31), smart city infrastructure (00:32-00:39), and genetic engineering interfaces (00:40-00:47), is integral to both the problem and solution presented in the narrative, making it tech-forward storytelling.",
+      "confidence": "high"
+    }
+  ]
+}

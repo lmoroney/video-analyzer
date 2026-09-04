@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "The Last Frontier: A Future Worth Living For",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's total runtime is 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card from 2:56 to 3:15 clearly displays Google, XPRIZE, Jed McCaleb, and Salesforce as partners, sponsors, or donors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features futuristic settings, advanced robots, spaceships, and a narrative involving cyborgs and humans, all indicative of science fiction (0:07, 0:12, 0:26, 0:31).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "Despite initial conflict, the video concludes with a message of love and a 'future worth living for' (2:53), showcasing advanced technology integrated into a beautiful, harmonious world (2:16-2:20).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, with characters having advanced prosthetics (0:31), sentient robots playing key roles (0:26, 1:12, 1:30), and the concept of 'cybers' and 'humans' being intertwined (0:34).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, language, or sexual content. There are kisses between two women, but no nudity or explicit acts (0:07, 2:17, 2:28).",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands are visible or mentioned in the video content itself, outside of the final end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video presents a compelling narrative about identity, belonging, and the integration of humans and advanced AI, with stunning visuals and a clear emotional arc, especially the relationship between the two main characters (0:07-2:50).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The story explores profound themes of human-AI integration, identity, and the evolution of love and care in a technologically advanced, multi-planetary future, demonstrating a grand vision for humanity (0:34, 1:15, 2:45).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video strongly aligns with the mission by portraying a genuinely optimistic future where technology enables deep connections and a harmonious existence between humans and advanced AI, culminating in the message 'A future worth living for' (2:53).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The storytelling is highly tech-forward, with advanced prosthetics (0:31), sentient robots (0:26, 1:12), and the AI entity Mizuki (1:30, 1:59) being central to the characters' identities, relationships, and the core themes of the narrative.",
+      "confidence": "high"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "theSkyARC STARSEEDS AWAKENING",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total duration of 2 minutes and 59 seconds, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The last 18 seconds of the video (from 02:41 to 02:59) feature an end card displaying sponsors including Salesforce, Google, XPRIZE, and Jed McCaleb.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features advanced technology, futuristic infrastructure (01:16, 01:20, 01:27), space travel, and humanity's expansion into the cosmos (01:39-02:19), all characteristic elements of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video transitions from an environmental crisis caused by technology (00:00-00:55) to a future where advanced technology (E.R.I.D.U. system, vertical farms, space stations) is used to restore Earth, create sustainable societies, and enable humanity's peaceful expansion into space (01:09-02:20), portraying a highly optimistic vision.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is the core driver of the narrative, both as the cause of the initial environmental crisis (Percincrantz & Guildertech, 00:03-00:44) and as the solution through the E.R.I.D.U. system (00:56-01:04) that enables environmental restoration, sustainable living, and interstellar travel (01:16-02:19).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "While there are scenes of environmental destruction and explosions (00:37-00:47), there is no explicit violence against individuals, strong language, or sexual content present in the video.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video features fictional company names like \"Percincrantz & Guildertech\" and satirical logos such as \"Horse Drawn Carriage\" and \"OnlyFarmsPics\" (00:09-00:13), but no recognizable real-world brands are used outside of the end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video presents a clear and compelling narrative arc, moving from environmental crisis to a technologically advanced, harmonious future. The production quality, including CGI for futuristic cities and space travel, is very high and effectively realizes the ambitious vision.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story envisions humanity overcoming a global crisis to achieve interstellar travel, sustainable living, and a harmonious existence across the universe, demonstrating an extremely ambitious and expansive view of the future (01:39-02:20).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video directly aligns with the Future Vision XPRIZE mission by showcasing a future where humanity leverages advanced technology to overcome environmental devastation, establish sustainable societies, and embark on peaceful interstellar exploration, culminating in a genuinely optimistic and technology-enabled future (01:09-02:20). The end card explicitly states the competition's mission.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The narrative is driven by advanced technology, from the initial crisis caused by \"Percincrantz & Guildertech\" (00:03) to the innovative E.R.I.D.U. system (00:56-01:04) that restores the environment and enables a new way of living, including vertical farms (01:20-01:24) and interstellar travel (01:39-02:19). Technology is central to every major plot point and societal transformation.",
+      "confidence": "high"
+    }
+  ]
+}

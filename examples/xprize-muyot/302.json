@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=YOUR_VIDEO_ID",
+  "video_title": "REMNANTS",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total runtime of 3 minutes and 2 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The end card, which includes sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce, appears for approximately 12 seconds (02:50-03:02), not 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features futuristic cities, advanced robotics, hover-scooters, a 'Lunar Resident Program,' and technology for memory/simulation, all indicative of a science fiction genre (e.g., 00:08, 00:13, 01:02, 01:05, 01:38, 02:14, 02:43).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": false,
+      "rating": null,
+      "explanation": "While technology-forward, the vision is not purely optimistic. The narrative includes themes of past failures ('what we got wrong' at 00:21, 'always off by one' at 02:10), personal struggle ('Why is it never enough?' at 01:44), and impending danger ('I'm scared, they're coming!' at 02:33), suggesting a challenging future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, from the 'Hall of Records' (00:08) and the 'Ouros Engineering Competition' (01:05) to personal protective shields (01:27), hover-scooters (01:02), and advanced robotics (02:14). It drives character actions and plot points.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains action sequences and implied danger, such as a girl falling from a hover-scooter (01:29) and fighting robots (02:15-02:28), but there is no explicit violence, strong language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable commercial brands are visible or mentioned in the video outside of the sponsor logos on the end card. 'Ouros' is a fictional brand within the video's universe.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "The video presents an intriguing, high-quality cinematic experience with strong visuals and a narrative that hints at a complex world and character journey, despite being a short trailer.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The story explores grand themes such as the accumulation of human and machine knowledge, the challenges of progress, space colonization (Lunar Residency Program at 01:11), and the potential for both creation and destruction in humanity's future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 6,
+      "explanation": "While technology-enabled, the future presented is not genuinely optimistic. It highlights significant struggles, past failures ('what we got wrong' at 00:21), and a sense of fear and impending conflict ('I'm scared, they're coming!' at 02:33), which detracts from a purely optimistic vision. It's more about overcoming challenges to achieve optimism.",
+      "confidence": "medium"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "Advanced technology is not merely background but is integral to the plot, character development, and world-building, from the Hall of Records and engineering competition to personal devices, robotics, and environmental manipulation.",
+      "confidence": "high"
+    }
+  ]
+}

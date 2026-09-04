@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "The Trade: Now the Bargaining Begins",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total duration of 2 minutes and 29 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The last 14 seconds of the video (from 02:15 to 02:29) display an end card featuring \"FUTUREVISION X PRIZE\" and sponsors including Google, Salesforce, and Jed McCaleb.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video clearly depicts science fiction elements such as advanced holographic interfaces (00:05), alien structures (00:11), large spacecraft in orbit (00:27), futuristic vehicles on Earth (00:31), and giant walking machines (01:37). The narrative revolves around humanity's first contact and interaction with an alien civilization.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": false,
+      "rating": null,
+      "explanation": "While technology is advanced, the vision of humanity's future is not entirely hopeful or optimistic. The video shows protests against aliens (01:11), an explosion at a UN facility (01:42), and a character stating that \"Project Guayakill\" is \"our only hope to save them\" (02:04), suggesting a dire situation.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, with characters discussing \"dimensional drives\" (00:47) and \"So-Udan inventions\" (00:37). The initial discovery of alien images (00:05) and the subsequent contact and exchange are the core plot drivers.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video does not contain any explicit violence, strong language, or sexual content. There is an explosion (01:42) and arguments, but these are not explicit.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "Aside from the sponsors listed on the end card, no other recognizable real-world brands are visible or mentioned in the video.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "The video presents a compelling and dramatic narrative about humanity's first contact with an alien civilization, featuring elements of political tension, personal sacrifice, and a looming crisis. The production quality, including special effects for alien technology and futuristic settings, appears well-realized for a short film.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The story addresses profound questions about humanity's future, including first contact with an alien civilization, the implications of being \"not alone in the universe\" (00:26), and the challenges and opportunities of interspecies exchange and potential conflict.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 4,
+      "explanation": "While the story is technology-enabled, it does not portray a genuinely optimistic future. It highlights significant global conflict, fear of aliens (01:11), and a sense of urgency to \"save them\" (02:04), suggesting a future fraught with challenges rather than pure hope.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The storytelling is highly tech-forward, with advanced technology deeply integrated into the narrative. Examples include holographic displays for scientific discovery (00:05), the critical \"dimensional drive\" (00:47), and the visual representation of alien technology and futuristic machinery (00:27, 01:37).",
+      "confidence": "high"
+    }
+  ]
+}

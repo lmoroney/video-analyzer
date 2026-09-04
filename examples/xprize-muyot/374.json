@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=y_2_2_2_2_2",
+  "video_title": "AI Video Generation: The Narrow Path We Tread",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total duration of 01:30.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The end card (01:17-01:30) includes the hashtag #FutureVisionXPRIZE but does not explicitly list Google, Jed McCaleb, or Salesforce as sponsors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": false,
+      "rating": null,
+      "explanation": "While the example footage shown (00:07-00:18) features a robot, the video's core content is a technical explanation of an AI video generation pipeline and its challenges, not a science fiction narrative itself.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video focuses on the technical challenges and solutions in AI video generation, such as continuity errors and character identity drift (00:07-01:16). It does not portray a broad hopeful or optimistic vision of humanity's future, but rather a technical problem-solving approach to AI filmmaking.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's entire narrative revolves around the challenges and solutions in AI video generation, specifically discussing how AI \"rerolls fine detail every single generation\" (00:31-00:35) and the need for an \"adaptive scene loop\" to catch errors (00:48-00:58). The narration itself is also AI-cloned (01:24-01:28).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands are used in the video content itself, apart from the #FutureVisionXPRIZE mentioned on the end card (01:22).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 7,
+      "explanation": "The video effectively presents a technical problem in AI video generation (continuity errors, 00:07-00:18) and a proposed solution (adaptive scene loop, 00:48-00:58). While not a traditional narrative, it clearly communicates its message and is well-produced for its explanatory purpose.",
+      "confidence": "medium"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 4,
+      "explanation": "The video focuses on the technical challenges of generating a two-hour feature film using AI (00:42-00:47) and solving continuity issues. While this is a significant advancement in filmmaking technology, the video itself does not explore broader implications or a grand vision for humanity's future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 5,
+      "explanation": "The video demonstrates how technology (AI video generation) can be used to create feature films, addressing technical challenges like continuity (00:07-00:18) and identity (00:59-01:16). While it showcases technology enabling a new form of filmmaking, it doesn't explicitly portray a genuinely optimistic vision of humanity's future, focusing more on the technical process.",
+      "confidence": "medium"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video's entire narrative is an in-depth explanation of advanced AI video generation technology, detailing its challenges with continuity (00:07-00:18) and identity (00:59-01:16), and presenting a technical solution (00:48-00:58). The narration itself is also an example of cloned voice technology (01:24-01:28).",
+      "confidence": "high"
+    }
+  ]
+}

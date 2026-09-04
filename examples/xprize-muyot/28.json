@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "A Short Film About Life in The Nest",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total duration of exactly 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card appears from 3:00 to 3:15, displaying logos for Salesforce, Google, RANGE, XPRIZE, XSOVA, ARK INVEST, and Jed McCaleb.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video depicts a futuristic society with advanced robotics (00:51-00:56, 01:04-01:15), advanced transportation (01:37-01:44), and a utopian community structure called 'The Nest' that has solved major societal problems. The mention of a 'Mars mission' (02:37-02:41) further confirms its science fiction genre.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video explicitly describes 'The Nest' as a place without stress or fear, where life is safe and stable (00:26-00:31). It shows technology enabling a healthy, happy, and communal lifestyle, with solutions for mental health issues (01:37-01:44) and even space exploration (02:37-02:41).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, with robots acting as doctors, surgeons, and agricultural workers (01:04-01:15, 01:10-01:15). The car-free surface is enabled by underground tunnels (00:32-00:41) and self-driving vehicles (01:37-01:44), and the entire 'Nest' concept is a technologically advanced solution to societal problems.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video portrays a peaceful, family-friendly community with no instances of explicit violence, language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands are visible within the video's narrative content, only on the final end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video effectively conveys its optimistic vision through high-quality visuals and a clear narrative voice-over. The introduction to 'The Nest' and the emotional reunion of the Mars astronaut (02:42-02:55) create a compelling and well-realized short story.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story addresses grand challenges like loneliness, depression, anxiety, and sustainability, proposing a future where these are largely solved through advanced community design and technology (01:37-01:44). It also includes humanity's expansion into space with a Mars mission (02:37-02:41), demonstrating a very ambitious vision.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video's central theme is a future where technology and community collaboration lead to a genuinely optimistic society, free from many current societal ills and focused on well-being and exploration. This aligns perfectly with the XPRIZE mission.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "Technology is deeply embedded in the narrative, not merely as a backdrop. Robots are active characters and essential to daily life, from farming to healthcare (01:04-01:15, 01:10-01:15). The infrastructure, like underground tunnels for transport (00:32-00:41) and the self-driving car (01:37-01:44), are integral to the utopian setting and plot points like the Mars mission.",
+      "confidence": "high"
+    }
+  ]
+}

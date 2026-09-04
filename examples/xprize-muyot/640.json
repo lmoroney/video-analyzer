@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "The Gardener of Cocytus - Future Vision X Prize",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total duration of 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "From 2:59 to 3:15, the video displays an end card with 'FUTUREVISION X PRIZE' and lists Google, XPRIZE, Jed McCaleb, and Salesforce as partners/sponsors/donors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features advanced AI, humanoid robots, neural interfaces, futuristic cities, and spaceships, which are all elements of science fiction (e.g., 0:02, 0:20, 0:29, 0:47, 0:55).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The narrative focuses on the creation of an empathetic AI, its integration into society, and the potential for extended life, culminating in the AI gaining citizenship (2:00-2:11), presenting an overall optimistic view.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the plot, with the synthetic mind 'Cochito' and the neural interface being key elements that drive the story and its themes of empathy, personhood, and life extension (e.g., 0:29, 1:04, 1:45, 2:04).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "While there is a scene of a woman crying in distress (0:34-0:38), there is no explicit violence, language, or sexual content depicted in the video.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable commercial brands are visible or mentioned in the video outside of the final sponsor end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video tells a compelling story about AI, empathy, and the definition of personhood, with high-quality visuals and sound design that effectively convey its futuristic setting and emotional depth.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story tackles significant questions about the future of consciousness, the legal and social integration of AI, and the potential for human-AI co-existence and extended life, demonstrating a very ambitious vision.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video strongly aligns with the XPRIZE mission by showcasing a future where advanced AI and neural technology lead to positive outcomes, such as empathetic synthetic minds and the granting of citizenship to AI, representing a genuinely optimistic and technology-enabled future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The narrative is built around the advanced technology of synthetic minds and neural interfaces, which are not merely background elements but are crucial to the characters' interactions, emotional arcs, and the central themes of the story (e.g., 1:04, 1:45-1:53, 2:04-2:08).",
+      "confidence": "high"
+    }
+  ]
+}

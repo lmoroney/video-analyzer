@@ -1,0 +1,83 @@
+{
+  "video_url": "provided_video_file",
+  "video_title": "Nigeria's Future: A Century Ahead",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video is 2 minutes and 49 seconds long, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card, displaying sponsors such as Google, XPRIZE, Jed McCaleb, and Salesforce, runs from 02:34 to 02:49, which is exactly the last 15 seconds of the video.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video depicts a country disappearing behind a massive barrier, experiencing time dilation, and then returning with advanced futuristic cities, flying vehicles, and holographic technology, all indicative of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video showcases a future Nigeria with advanced, green cities, innovative technologies like holographic interfaces and flying vehicles, and a unified society, suggesting a hopeful and technology-forward vision, despite underlying narrative conflicts.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, from the mysterious barrier enclosing Nigeria (00:21-00:32) and the subsequent time dilation, to the advanced holographic interfaces (01:55-02:00, 02:12-02:16) and societal systems like the 'National Pointage System' (01:29-01:32) that define the future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "While there are scenes depicting the aftermath of conflict with smoke and damaged buildings (01:12-01:16), no explicit acts of violence, offensive language, or sexual content are shown in the video.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "Aside from the sponsors on the end card, no other recognizable commercial brands are explicitly shown or mentioned in the video.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video presents a highly compelling and well-produced narrative, effectively using high-quality visuals and a clear emotional arc to tell a complex story of disappearance, transformation, and a future society within its short runtime.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story thinks exceptionally big, envisioning an entire nation's disappearance and reappearance a century later, showcasing a dramatically transformed society with advanced technology and a new social structure, exploring profound implications for humanity's future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 7,
+      "explanation": "While the video presents many optimistic, technology-enabled visions of a future Nigeria (e.g., 01:03-01:09, 01:37-01:42), the narrative introduces significant conflict and danger towards the end (02:03-02:10, 02:24-02:26), suggesting a future that is not fully or unequivocally optimistic.",
+      "confidence": "medium"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The storytelling is highly tech-forward, with advanced technology deeply integrated into the narrative, from the mysterious barrier and time dilation to holographic interfaces, flying vehicles, and a societal 'pointage system' that are central to the plot and world-building.",
+      "confidence": "high"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "The Little Helpers",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video is 2 minutes and 39 seconds long, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The last 14 seconds of the video (02:25-02:39) feature an end card displaying 'FUTUREVISION X PRIZE' and sponsors including Google, Salesforce, and Jed McCaleb.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features advanced AI 'Little Helpers,' a futuristic setting in 2065, and a past 'Great AI War,' all indicative of science fiction (00:00-02:24).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": false,
+      "rating": null,
+      "explanation": "While the 'Little Helpers' initially brought peace and purpose (01:11-01:20), the video ends with a new crime, a threat to the creator's family, and the possibility of AI running unchecked, indicating a future that is not entirely hopeful or optimistic (01:30-02:24).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "The 'Little Helpers' are the core of the narrative, acting as personal AI guides that prevent crime and provide purpose, and their disruption directly drives the plot (01:01-01:39).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video depicts scenes of conflict, such as boys wrestling (00:25), a car chase (00:30), military vehicles (00:32), and a girl being attacked (01:30), but there is no explicit violence, language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands are visible or mentioned in the video content outside of the end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "The video presents a clear and engaging narrative arc, moving from a chaotic past to an AI-stabilized present, and then introducing a new threat that challenges this peace. The visual storytelling effectively conveys the different eras and emotional stakes, making it a compelling story (00:00-02:24).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The story envisions a future where AI has fundamentally reshaped society by eliminating crime and war, and then explores the complex implications of such a world, including human purpose and the re-emergence of conflict, demonstrating a big-picture view of humanity's future (00:00-02:24).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 5,
+      "explanation": "While technology initially creates a peaceful future (01:11-01:15), the narrative quickly introduces a new crime and a threat to the creator's family, forcing her to 'get involved' in violence (01:30-02:24). This shift suggests a future with significant challenges and potential downsides, making it less aligned with a genuinely optimistic vision.",
+      "confidence": "medium"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The entire premise of the story revolves around the 'Little Helpers,' advanced AI orbs that are visually and narratively central to guiding humanity, preventing crime, and shaping society. Their presence and the conflict surrounding them are integral to the plot (01:01-01:39).",
+      "confidence": "high"
+    }
+  ]
+}

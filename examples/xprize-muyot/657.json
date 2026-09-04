@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "EVE: The Return of Sapiens",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total duration of 3 minutes and 1 second.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The last 15 seconds of the video, from 02:46 to 03:01, display an end card featuring sponsors such as Google, XPRIZE, Jed McCaleb, and Salesforce.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video is set in 5136 AD, features alien species, interstellar travel, advanced VR technology, and the 3D printing of a human, all of which are hallmarks of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video portrays humanity as a highly advanced and benevolent species that helped other worlds, and despite their apparent extinction, technology is used to bring them back, suggesting a hopeful future where humanity can return to face new challenges (01:46-01:56, 02:26-02:38).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, with a VR simulation used to recount humanity's history (00:41-00:48) and advanced 3D printing technology used to resurrect a human at the climax (02:26-02:38).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video does not contain any explicit violence, offensive language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": true,
+      "rating": null,
+      "explanation": "At timestamp 01:39-01:40, the human characters are shown eating \"Cup Noodles,\" a recognizable brand.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video tells a compelling story of humanity's past glory, extinction, and technological resurrection, with impressive visuals and effective pacing for a short film.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The narrative encompasses the entire history of humanity, from its primitive origins to interstellar civilization, its demise, and its potential rebirth to confront a universal threat, demonstrating a very ambitious vision for the future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "While it touches on humanity's past demise, the core message is one of hope and technological rebirth, where advanced technology is used to bring back humanity to potentially save the universe, aligning with an optimistic, technology-enabled future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video uses advanced technology, such as an interactive VR simulation to convey historical events (00:41-01:38) and the 3D printing of a human to drive the climax (02:26-02:38), making technology integral to the storytelling.",
+      "confidence": "high"
+    }
+  ]
+}

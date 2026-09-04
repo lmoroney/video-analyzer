@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "Hyperworld: Building Optimistic Visions of the Future",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's total duration is 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "From 03:04 to 03:15, an end card is displayed listing 'FUTUREVISION XPRIZE', 'Building Optimistic Visions of the Future', and sponsors including Salesforce, Google, RANGE, XPRIZE, XSOVA, ARK INVEST, and Jed McCaleb.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features advanced genetic engineering, rapid plant growth to colossal sizes, a building being lifted by a giant tree, and a monkey-masked character with a wingsuit, all indicative of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video begins with a desolate, dying world and transforms it into a lush, green 'Hyperworld' through scientific intervention, portraying a hopeful and technology-forward future (02:54-03:04).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology, such as drones for crop spraying (00:21), advanced lab equipment (00:32-00:46), glowing green liquid for rapid plant growth (00:41-00:46), and a wingsuit with a tablet (02:03-02:17), is central to the plot and the world's transformation.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, language, or sexual content. While there are scenes of conflict (01:19-01:26, 02:48-02:50), they are not graphic.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The character in the monkey mask wears an Adidas tracksuit, visible at multiple points, such as 01:36 and 01:40.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video presents a clear narrative arc from environmental collapse to a thriving world, with engaging visuals and a sense of urgency and triumph. The special effects are well-executed, making the fantastical elements believable within the story's context.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story envisions a complete global transformation, addressing food scarcity and environmental degradation on a massive scale, culminating in a 'Hyperworld' where nature and humanity coexist in abundance. This is a very ambitious and large-scale vision.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video perfectly aligns with the mission by showcasing a future where advanced technology (genetic engineering, bio-engineering) is used to solve critical global challenges like food shortages and environmental collapse, leading to a genuinely optimistic outcome.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The narrative is driven by the development and application of advanced bio-technology, from the initial green liquid to the resulting giant, life-sustaining plants. The monkey-masked character's tech-enabled gear also plays a crucial role in the climax, demonstrating technology as an integral part of the solution.",
+      "confidence": "high"
+    }
+  ]
+}

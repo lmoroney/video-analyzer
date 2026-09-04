@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=YOUR_VIDEO_ID",
+  "video_title": "The Last Language - Future Vision XPRIZE",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video is 1 minute and 42 seconds long, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card, featuring the mentioned sponsors, appears from 01:25 to 01:42, covering the last 17 seconds of the video.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video depicts advanced technologies such as futuristic cities, robots assisting in healthcare and education, brain-interface headsets, and drones for reforestation, all characteristic of science fiction (00:04-00:29, 00:30-00:32).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video showcases a future where technology is used to heal the planet, improve healthcare, enhance education, and preserve cultural heritage, all presented with an optimistic tone (00:04-00:29, 00:33-01:24).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, with robots actively participating in environmental restoration, healthcare, and education, and a brain-interface headset enabling the protagonist to recover lost language and cultural memories (00:09-00:29, 00:30-01:09).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, offensive language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands are visible within the video content itself, apart from those displayed on the end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video tells a compelling story of technological progress intertwined with human connection and cultural preservation, particularly through the emotional journey of the girl and her grandmother (00:30-01:09), all presented with high-quality visuals.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The narrative envisions a future where humanity has successfully addressed global challenges like environmental degradation, healthcare, and education, while also preserving diverse cultural heritage on a worldwide scale (00:04-00:29, 01:10-01:24).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video strongly aligns with the XPRIZE mission by presenting a highly optimistic future where advanced technology is instrumental in solving global problems, fostering human well-being, and preserving cultural identity (00:03-01:24).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The storytelling is tech-forward, with advanced technologies like AI robots, drones, and brain-interface headsets being integral to the plot, driving positive outcomes in environmental restoration, healthcare, education, and cultural preservation (00:09-00:29, 00:30-01:09).",
+      "confidence": "high"
+    }
+  ]
+}

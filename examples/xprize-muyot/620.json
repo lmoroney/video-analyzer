@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "Sector Seven: Nothing Goes to Waste",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total duration of 2 minutes and 50 seconds, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card appears from 02:36 to 02:50, displaying 'FUTUREVISION XPRIZE', 'Google', 'RANGE', 'XPRIZE', 'Salesforce', 'XSOVA', 'ARK INVEST', and 'Jed McCaleb'.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features advanced technologies such as autonomous waste collection vehicles (00:20), holographic mapping (00:28, 00:39), robotic sorting facilities (00:08, 00:52), and subsurface scanners (00:36), which are characteristic of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": false,
+      "rating": null,
+      "explanation": "While the initial premise of reclaiming landfills through advanced technology is optimistic (00:12-00:14, 00:49-00:50), the discovery of 'Sector 7' and the hidden, potentially dangerous contents (01:31-01:46, 01:55-02:11) introduce a significant element of conflict and secrecy, undermining a purely optimistic vision. The post-credits scene also shows a drone classifying an object as 'obsolete' (02:26-02:35), adding a slightly unsettling tone.",
+      "confidence": "medium"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, driving the plot through the advanced waste management system, the subsurface scanning to reveal hidden materials, and the conflict surrounding 'Sector 7' which is revealed through technological means.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, strong language, or sexual content. There is a minor car crash (01:54) and a jump scare with a spider (01:01), but these are not explicit.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands are shown or mentioned in the video, apart from the sponsors on the end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "The video presents a compelling narrative arc, starting with an optimistic technological solution to waste, then introducing a mystery and conflict with 'Sector 7'. The production quality is high, with impressive visual effects and character development for a short film.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The story tackles a significant global challenge—waste management and land reclamation—on a massive scale, envisioning a future where landfills are not just managed but entirely repurposed and restored, demonstrating big thinking about environmental impact and resource utilization.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 7,
+      "explanation": "While the core concept of reclaiming landfills is optimistic and technology-enabled, the introduction of 'Sector 7' and the hidden secrets within it (01:31-01:46, 02:06-02:11) adds a layer of ambiguity and potential ethical concerns, preventing it from being a 'genuinely optimistic' vision without caveats. It presents a future where technology solves problems but also uncovers past mistakes or creates new dilemmas.",
+      "confidence": "medium"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The storytelling is highly tech-forward, with advanced technology not merely as a backdrop but as the primary driver of the plot. From autonomous recycling vehicles (00:20) and subsurface scanners (00:36) to robotic sorting facilities (00:52) and holographic interfaces (00:28, 00:39), technology is integral to the characters' goals, discoveries, and the unfolding conflict.",
+      "confidence": "high"
+    }
+  ]
+}

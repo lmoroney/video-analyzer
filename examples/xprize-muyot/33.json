@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=k-B_Y-21-00",
+  "video_title": "Fortress Eternal",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's total duration is exactly 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card from 02:59 to 03:15 explicitly displays 'FUTUREVISION X PRIZE', 'Partners Google RANGE', 'Presenting Sponsor: salesforce', 'Sponsors XSOVA ARK INVEST', and 'Presenting Donor Jed McCaleb'.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video depicts advanced artificial intelligence, futuristic technology (e.g., space networks at 00:10, advanced cities at 02:06), and a narrative set in a future where humanity interacts with sentient machines, which are all hallmarks of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video begins with a cautionary tale about AI (00:00-00:38) but quickly shifts to a hopeful vision where a civilization prepares to 'guide' intelligence (00:49-00:57) and ultimately rebuilds a thriving, green, technologically advanced society (02:06-02:16, 02:47-02:55). The final message emphasizes humanity's role in guiding intelligence for a positive future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is the core of the narrative, from the initial concept of 'artificial intelligence' (00:02) and its spread across the sky (00:10-00:19), to the creation of humanoid forms (00:20-00:38), the advanced city infrastructure (02:06-02:16), and the 'conscience layer' used to guide intelligence (01:18-01:37). It drives the plot and world-building.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, language, or sexual content. The humanoid figures shown emerging from the sand (00:20) and in the dark chamber (01:48) are stylized and not depicted in a sexualized manner.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "Aside from the sponsors listed on the end card (02:59-03:15), no other recognizable brands are featured or mentioned within the video's narrative content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video presents a compelling, albeit abstract, narrative about humanity's relationship with AI, moving from a cautionary past to a hopeful future. The visuals are stunning and the production quality is very high, effectively realizing the story within its short runtime (e.g., the transformation of the desert city at 00:39, the grand hall at 00:49, the lush future at 02:47).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story tackles profound themes about the evolution of artificial intelligence and humanity's responsibility in shaping its future, leading to a global transformation and a new era of guided intelligence (01:28-01:37, 02:38-02:46). This demonstrates a very ambitious and expansive vision for humanity's future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video is highly aligned with the Future Vision XPRIZE mission. It explicitly portrays a future where humanity, through wisdom and guidance, transforms the potential danger of AI into a force for good, leading to a genuinely optimistic and technologically advanced civilization (00:49-00:57, 02:38-02:46, 02:47-02:55).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The storytelling is inherently tech-forward, with the entire narrative revolving around the concept of artificial intelligence, its evolution, and humanity's interaction with it. Advanced technologies like global networks (00:10), humanoid robots (00:20, 01:38), futuristic cities (02:06), and consciousness interfaces (01:18, 01:28) are central to the plot and visual exposition.",
+      "confidence": "high"
+    }
+  ]
+}

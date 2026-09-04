@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "PULSE - AI Film by PHARA33",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total duration of 3 minutes and 4 seconds (03:04).",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card appears from 02:48 to 03:04 and prominently displays 'FUTUREVISION X PRIZE', 'Google', 'Jed McCaleb', and 'Salesforce' among other sponsors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features advanced robotics, futuristic technology (like the 'Heart Seed' and high-speed trains), and a narrative exploring humanity's future, which are all hallmarks of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video contrasts a dystopian, polluted past/present (01:10-01:15) with a future where technology (robots, advanced infrastructure) is used to restore nature, help people, and create a harmonious, clean environment (02:10-02:36), presenting a hopeful vision.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "The 'Heart Seed' artifact and the 'Planetary Biosynthetic Intelligence' robots are central to the plot, acting as catalysts and agents for the world's transformation and guiding the protagonist's journey (00:46-00:54, 01:26-01:31, 02:06-02:08).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, language, or sexual content. Scenes depicting environmental destruction and child labor are shown in a non-graphic, suggestive manner (01:10-01:15).",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands or logos are visible within the main narrative content of the video.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video tells a compelling story of environmental redemption and technological harmony, with high-quality visuals and a clear narrative arc, effectively realized despite its short runtime.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story envisions a complete global transformation, moving from widespread environmental and social decay to a future where advanced technology enables a harmonious coexistence between humanity and nature, demonstrating a grand vision.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video perfectly aligns with the mission by showcasing how advanced technology, embodied by the 'Heart Seed' and benevolent robots, can lead to a profoundly optimistic and sustainable future for Earth and its inhabitants.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The narrative is driven by the 'Heart Seed' and the 'Planetary Biosynthetic Intelligence' robots, which are not just props but active agents of change, demonstrating a deep integration of advanced technology into the core storytelling.",
+      "confidence": "high"
+    }
+  ]
+}

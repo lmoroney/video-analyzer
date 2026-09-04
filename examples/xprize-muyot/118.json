@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "See You In A Hundred Years",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video is 2 minutes and 52 seconds long, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The last 17 seconds of the video (from 02:35 to 02:52) feature an end card displaying sponsors including Google, XPRIZE, Jed McCaleb, and Salesforce.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video clearly depicts science fiction elements such as advanced robotics, futuristic cities, space travel, and a plot involving the effects of space on human biology and memory (00:40-00:44, 01:05-01:07, 01:18-01:25).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": false,
+      "rating": null,
+      "explanation": "While the video showcases advanced technology and futuristic settings (00:40-00:44), the overarching narrative is melancholic, focusing on a family's separation, memory loss due to space travel, and the protagonist's regret, which does not present a purely hopeful or optimistic vision of the future (00:50-01:00, 01:18-01:25, 02:18-02:30).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is meaningfully integrated into the narrative, as it enables the futuristic setting, space travel, and is the direct cause of the wife and daughter's memory erosion, driving the protagonist's quest to reunite with them (01:05-01:07, 01:18-01:25, 01:30-01:31).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video does not contain any explicit violence, language, or sexual content. There is a brief kiss at a party (00:48-00:49), but it is not explicit.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands, other than those on the end card, are used in the video.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "The video tells a compelling story of love, loss, and a father's journey across time and space to reconnect with his family, with strong emotional beats and impressive futuristic visuals that are well-realized within the short format (00:35-00:40, 00:50-01:00, 01:15-01:25, 02:15-02:30).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The story thinks big by depicting humanity's expansion to other planets, the development of advanced space travel and futuristic cities, and the profound biological and psychological challenges of long-term interstellar living, such as memory erosion (01:05-01:07, 01:18-01:25, 01:34-01:37).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 3,
+      "explanation": "The story is not fully aligned with a genuinely optimistic vision, as it focuses heavily on themes of family separation, memory loss, and the emotional cost of a technologically advanced but fragmented future, rather than a purely positive outlook (00:50-01:00, 01:18-01:25, 02:18-02:30).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The storytelling is tech-forward, with advanced technology being a core driver of the narrative, from the futuristic setting and space travel to the biological effects of space on human memory, which directly impacts the characters' relationships and motivations (01:05-01:07, 01:18-01:25, 01:30-01:31).",
+      "confidence": "high"
+    }
+  ]
+}

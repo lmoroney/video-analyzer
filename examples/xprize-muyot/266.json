@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=yG0g-20_210",
+  "video_title": "The Future Remembers",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's total duration is exactly 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card appears from 03:00 to 03:15 and clearly displays 'FUTUREVISION X PRIZE', 'Google', 'Salesforce', and 'Jed McCaleb' among other sponsors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video depicts advanced technologies such as 'Bubble Architecture' (00:16), 'Civilization Vessels' orbiting Earth and colonizing Mars (02:00, 02:31), and humanoid robots (00:30, 01:15, 02:03), which are characteristic of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video shows humanity successfully building new, green habitats in space and on Mars, with diverse people smiling and looking towards a bright future (01:40-01:49), indicating a hopeful and technology-driven vision.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, with 'Bubble Architecture' and 'Civilization Vessels' being the primary means of human expansion and survival (00:45, 02:00). Robots are shown performing essential tasks like gardening and terraforming (02:13, 02:31-02:49).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, offensive language, or sexual content. The protests shown are non-violent.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable commercial brands are displayed or mentioned within the video content itself, apart from those listed on the final end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video presents a compelling narrative that effectively links historical exploration with future endeavors, showcasing a journey of human ambition and technological achievement. The production quality is high, making the futuristic concepts feel tangible and emotionally resonant.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story envisions humanity expanding beyond Earth, terraforming Mars, and creating vast, self-sustaining habitats in space, demonstrating a grand and ambitious vision for the future of civilization.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video strongly aligns with the XPRIZE mission by depicting a future where advanced technology (e.g., 'Bubble Architecture', 'Atmosphere Generators') enables humanity to overcome challenges and thrive across the solar system, presenting a highly optimistic outlook.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The narrative is deeply intertwined with advanced technology. The 'Civilization Vessels' are the setting for daily life and exploration (02:04, 02:11), robots are active participants in society and development (02:03, 02:13, 02:31), and holographic interfaces are tools for planning and education (00:16, 00:45).",
+      "confidence": "high"
+    }
+  ]
+}

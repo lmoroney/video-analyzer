@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "Future Archaeologists",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total duration of 2 minutes and 39 seconds, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card appears from 02:20 to 02:39, lasting 19 seconds, and clearly displays the logos for Google, XPRIZE, Jed McCaleb, and Salesforce as sponsors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video is explicitly set in 'Year 3026' (00:00) and features advanced technology such as holographic displays for archaeological analysis (00:05, 00:30) and futuristic urban landscapes with flying vehicles (02:05-02:11).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video depicts a future where advanced technology is used to uncover and reinterpret history, leading to a more accurate understanding of the past. The final scenes show a thriving, technologically advanced city and a museum filled with people learning, suggesting a positive and forward-looking future (02:05-02:15).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, with ground resonance scanning (00:12), holographic data analysis (00:05, 00:30, 01:12), and robotic excavation (02:16) being key elements that drive the plot and enable the characters' discoveries and reinterpretations.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, offensive language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands are shown or mentioned within the main content of the video, outside of the end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "The story is compelling, presenting a future where historical artifacts are misinterpreted and then re-evaluated through scientific inquiry. The animation is consistent, and the narrative arc of discovery, misinterpretation, and renewed determination is effectively realized.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The story thinks big by exploring themes of historical interpretation, the role of advanced technology in understanding the past, and humanity's continuous drive for knowledge and progress centuries into the future, showing a society that values its history and actively works to preserve and understand it.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video perfectly aligns with the XPRIZE mission by showcasing a future (Year 3026) where advanced technology is instrumental in uncovering and reinterpreting history, fostering a hopeful outlook on humanity's ability to learn, adapt, and build a better future, as reinforced by the 'Future Archaeologists' message (02:16-02:19).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "Advanced technology is deeply integrated into the narrative, with ground resonance scanners (00:12), holographic interfaces for data analysis (00:05, 00:30, 01:12), and robotic excavators (02:16) serving as crucial tools that drive the plot and enable the characters' discoveries and reinterpretations, rather than just being background elements.",
+      "confidence": "high"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "Michael: The Digital Omega Man - Future Vision XPRIZE",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total duration of 1 minute and 18 seconds, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The last 15 seconds (from 01:03 to 01:18) show a man and child, a title card for 'MICHAEL', and then only the XPRIZE logo. No other sponsors like Google, Jed McCaleb, or Salesforce are visible on an end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video discusses concepts like 'digital twin' and 'digital Omega Man' (00:02-00:07), AI's role in society, and presents scenarios for '2026' (00:10, 00:40). The title card at 01:08 explicitly states the film 'Michael' is an 'AI-ASSISTED FEATURE FILM (DOCUMENTARY + SPECULATIVE FUTURE)', indicating a science fiction element.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": false,
+      "rating": null,
+      "explanation": "While the video is technology-forward, its vision is not purely optimistic. It raises questions like 'Is it the security blanket you need? Or is it in fact the thing that has taken away your digital twin?' (00:14-00:18) and 'What happens to society when AI is in charge?' (00:37-00:40), suggesting a more complex and potentially cautionary outlook on AI's impact.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology, particularly AI and data, is central to the narrative. The video explores concepts such as 'digital twin', 'digital Omega Man', AI's role in society, and data tracking in sports (00:02-00:07, 00:18-00:29, 00:37-00:40), making it an integral part of the story's core themes.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video does not contain any explicit violence, strong language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video mentions 'FIFA World Cup' (00:25) and displays logos for various football confederations like 'UEFA', 'CONMEBOL', 'AFC', 'OFC', 'CAF', 'CONCACAF' (00:24-00:29). It also shows the logos for the 'US Department of Justice' and 'FBI' (00:29).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 5,
+      "explanation": "The video functions more as a conceptual trailer or pitch, presenting a series of ideas and questions about AI and digital identity rather than a traditional, linear story. While visually well-produced, the narrative itself is fragmented and doesn't fully develop a compelling plot.",
+      "confidence": "medium"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video tackles significant, large-scale concepts such as the societal impact of AI, the nature of digital identity ('digital twin', 'digital Omega Man'), and global data ownership and control (00:02-00:07, 00:18-00:29, 00:37-00:40). It explicitly frames itself as a 'speculative future' (01:08), demonstrating a broad scope.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 6,
+      "explanation": "The story is technology-enabled and explores future possibilities, aligning with the 'technology-enabled' aspect. However, its optimism is tempered by critical questions about AI's potential downsides, such as taking away one's 'digital twin' (00:14-00:18) and the implications of AI being 'in charge' (00:37-00:40), making it less 'genuinely optimistic' than fully aligned.",
+      "confidence": "medium"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "The storytelling utilizes infographics and visual data representations (00:10, 00:18, 00:24, 00:29, 00:40) to convey complex ideas about AI, data, and digital identity. The narrative is structured around these technological concepts and their societal implications, demonstrating a tech-forward approach.",
+      "confidence": "high"
+    }
+  ]
+}

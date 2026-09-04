@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "Day One",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total duration of exactly 3 minutes and 15 seconds (03:15).",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's end card, from 03:00 to 03:15, clearly displays 'FUTUREVISION XPRIZE' along with partners Google, RANGE, XPRIZE, and presenting sponsor Salesforce, and presenting donor Jed McCaleb.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video depicts a futuristic society with advanced AI integrated into human minds, glowing technological suits, advanced aircraft, and a reimagined political structure, all characteristic elements of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video explicitly contrasts a dystopian 2025 with a hopeful future where AI empowers a new generation, leading to unity and purpose, and where basic needs are met (01:28-01:34, 01:57-02:00).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "AI is a central theme, described as a 'co-pilot' for children's minds (01:12-01:19), enabling advancements in medicine (00:50), navigation (00:53), manufacturing (00:57), and personal assistance (00:59). The glowing suits and advanced vehicles are also integral to the characters' roles.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, language, or sexual content. Scenes depicting past societal issues (00:32-00:42) show conflict and hardship but are not explicit.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable commercial brands are visible or mentioned in the video, apart from the sponsors listed on the end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video presents a clear and engaging narrative about a future led by AI-enhanced youth, with high production values evident in the futuristic sets, costumes, and visual effects. The twist at the end adds a compelling element.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story envisions a radical transformation of society and leadership, where AI is integrated with human development from childhood, leading to a unified and purposeful future, which is a very ambitious and 'big' concept.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video strongly aligns with the mission by showcasing AI as a positive, empowering force that helps humanity overcome past divisions and build a better future, emphasizing collaboration between technology and a new generation.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The narrative is built around the concept of AI as a 'co-pilot' for human minds, directly influencing leadership, societal structure, and daily life. The visual elements like glowing suits and advanced vehicles are integral to showing this technological integration.",
+      "confidence": "high"
+    }
+  ]
+}

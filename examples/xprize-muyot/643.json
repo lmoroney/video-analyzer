@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "THE ADJACENT",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's total duration is exactly 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video concludes with an end card from 3:00 to 3:15, displaying the mentioned sponsors and partners.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features advanced quantum technology ('The Adjacent') that enables observation and knowledge transfer between parallel realities, a core concept in science fiction (0:36-0:54).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The technology is presented as a means to cure diseases (1:17-1:32) and solve previously insurmountable problems, offering 'every second chance' (2:07-2:10), which portrays a hopeful and optimistic future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "The 'Adjacent' quantum technology is the central plot device, enabling cross-reality knowledge transfer for medical breakthroughs (0:36-1:32) and driving the characters' personal and ethical dilemmas, making it integral to the narrative.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video does not contain any explicit violence, strong language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands are visible or mentioned in the video's content, excluding the end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video presents a compelling narrative about accessing parallel realities for medical cures, effectively building intrigue and emotional depth through personal stakes and ethical questions, all supported by high-quality visuals and sound design.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story envisions a future where humanity transcends the limitations of a single reality by accessing knowledge from 'neighboring realities' (0:40), enabling cures for diseases and solving previously unsolvable problems, representing a monumental leap for humankind.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "The story largely aligns with an optimistic, technology-enabled future by showcasing a quantum technology that cures diseases and solves complex problems (1:17-1:32). However, hints of potential risks and unintended consequences (1:45, 2:46) suggest a future that, while hopeful, is not entirely without its challenges.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The narrative is entirely built around the advanced 'Adjacent' quantum technology, with detailed visual representations of its mechanisms (0:36-0:47, 0:51-0:54) and its direct application in medical breakthroughs (1:17-1:32), demonstrating a deep and meaningful integration of technology into the storytelling.",
+      "confidence": "high"
+    }
+  ]
+}

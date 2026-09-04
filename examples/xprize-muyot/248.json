@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=YOUR_VIDEO_ID",
+  "video_title": "The Day We Realized",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's total duration is exactly 3 minutes and 15 seconds (03:15).",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card appears from 02:59 to 03:15 and clearly displays 'FUTUREVISION X PRIZE', 'Partners Google RANGE', 'Presenting Sponsor: salesforce', 'Sponsors XSOVA ARK INVEST', and 'Presenting Donor Jed McCaleb'.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video depicts first contact with non-human intelligence, large alien spacecraft hovering over Earth cities (00:53-01:07), and a futuristic city where humans and aliens coexist (02:47-02:54), which are all elements of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "Despite initial fear and protests (01:13-01:17, 01:40-01:47), the narrative concludes with a vision of a harmonious, technologically advanced future where humans and aliens live together peacefully (02:47-02:54), emphasizing choice and possibility over fear.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "The advanced alien technology (spaceships, the alien representative) is the central catalyst for the story's events, leading to humanity's transformation and the creation of a technologically advanced, integrated future city (02:47-02:54).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video shows protests and police presence (01:40-01:52), but no explicit violence, language, or sexual content is depicted.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands are visible or mentioned in the video content outside of the end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video tells a clear and engaging story of humanity's first contact and subsequent evolution, with impressive visual effects for the spaceships and futuristic city, demonstrating strong realization within the short film format.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story presents a grand vision of humanity's future, encompassing first contact with an advanced alien civilization, societal transformation, and the creation of a unified, technologically advanced, and harmonious world.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video perfectly aligns with the mission by showing humanity overcoming initial fear to embrace a future of coexistence with advanced non-human intelligence, leading to a highly optimistic and technologically integrated society (02:47-02:58).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "Advanced alien technology, represented by the spaceships (00:53-01:07) and the 'Galactic Confederation representative' (02:10-02:32), is not just background but the central element that drives the narrative and enables humanity's future transformation into a technologically advanced society (02:47-02:54).",
+      "confidence": "high"
+    }
+  ]
+}

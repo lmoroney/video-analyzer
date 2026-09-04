@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "Private Time",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total runtime of 3 minutes and 5 seconds (03:05), which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card appears from 02:46 to 03:05, which is 19 seconds. It clearly displays Google, Range, XPRIZE, Salesforce, XSOVA, ARK INVEST, and Jed McCaleb as partners/sponsors/donors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video introduces the concept of 'Private Time' where 3 hours of subjective experience equals 1 hour in the real world, allowing for accelerated learning and skill acquisition. This, along with subatomic particles, spaceships, and robots, firmly places it in the science fiction genre (01:07, 01:15, 01:25, 02:07).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The central premise of 'Private Time' is presented as a way for individuals to rapidly acquire skills and knowledge, leading to advancements like building spaceships and flying planes, which is an optimistic view of human potential enabled by technology (01:15-01:27).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "The 'Private Time' technology is the core driver of the narrative, explaining how characters gain skills and experiences that impact their real lives. It's not merely a backdrop but the central plot device (01:07-01:09, 01:15-01:17).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "While there are brief scenes depicting explosions and robots in a war-like setting (02:06-02:08), the violence is not explicit or graphic. There is no explicit language or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands or logos were observed within the video content itself, outside of the final sponsor end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video presents a highly compelling and original concept, effectively using visual storytelling and dialogue to convey its complex ideas within a short runtime. The production quality is high, making the fantastical elements feel grounded.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The concept of 'Private Time' fundamentally redefines human learning, skill acquisition, and experience, suggesting a future where individuals can achieve extraordinary feats and accelerate societal progress. This is a very ambitious and 'big' vision for humanity's future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video perfectly aligns with the mission by showcasing a future where advanced technology ('Private Time') empowers individuals to learn, grow, and contribute to society in unprecedented ways, fostering an optimistic outlook on human potential and progress.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The entire narrative revolves around the 'Private Time' technology, which is not just a background element but the central mechanism driving character development and plot progression. It's a prime example of tech-forward storytelling.",
+      "confidence": "high"
+    }
+  ]
+}

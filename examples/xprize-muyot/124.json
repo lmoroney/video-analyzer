@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=2_2L-J02110",
+  "video_title": "Ours to Build",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's total duration is exactly 3 minutes and 15 seconds (03:15).",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card, which includes logos for Google, XPRIZE, Jed McCaleb, and Salesforce, appears from 02:58 to 03:15. The last 15 seconds of the video (03:00-03:15) are entirely part of this end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features futuristic cities with advanced transportation, a sentient robot (M42), a 'blue wheel' system that evaluates individuals, and technology capable of 'repairing' life, all indicative of a science fiction genre.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "Despite initial themes of obsolescence and being 'beyond saving,' the narrative shifts to one of hope and repair, culminating in the message 'Tomorrow is ours to build' (02:46-02:55), showcasing a future where technology enables renewal and connection.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the plot, from the 'blue wheel' system that scores individuals (00:57-01:04) to the robotic hand (00:38-00:43) and M42, which is instrumental in 'repairing' the old man (01:36-01:50) and revitalizing the city (01:53-02:00).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, offensive language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable commercial brands are displayed or mentioned within the narrative portion of the video.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video tells a deeply emotional and compelling story of overcoming despair through connection and technological innovation. The visuals are consistently stunning and the narrative arc is clear and impactful, making it very well-realized.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The story explores grand themes of societal evolution, the role of technology in human well-being, and the potential for renewal and repair on both individual and urban scales, presenting a broad and ambitious vision of the future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video perfectly aligns with the mission by showcasing how technology, initially perceived as a tool for abandonment, becomes the means for 'repair' and building a hopeful future, directly embodying an optimistic, technology-enabled vision.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The narrative is driven by advanced technology, from the 'blue wheel' system's societal impact to the personal connection facilitated by M42 and the 'repair' network. These technologies are not mere backdrops but active agents in the story's progression and resolution.",
+      "confidence": "high"
+    }
+  ]
+}

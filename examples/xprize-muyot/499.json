@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "Commonwealth Zero: 2063",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total runtime of 2 minutes and 39 seconds, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card, which appears from 02:20 until the end of the video at 02:39, prominently displays the sponsors Google, XPRIZE, Jed McCaleb, and Salesforce.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features advanced technologies such as holographic interfaces (00:05), robotic surgery (00:08), futuristic cities and vehicles (00:00, 00:44), and energy beamed from satellites (00:19, 01:42), clearly placing it within the science fiction genre.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video explicitly contrasts a dark, controlled world with a future of \"abundance\" and \"light\" enabled by technology (00:02-00:13, 01:42-02:09). The protagonists actively use advanced technology to liberate people and create a hopeful, optimistic future, as highlighted by the closing statement \"We Didn't Wait for Peace. We Built It.\" (02:13).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is the driving force of the narrative, presenting a future where energy is either freely available or controlled as a \"leash\" (00:02, 00:14). The plot revolves around using advanced infrastructure and holographic interfaces to \"bypass\" oppressive regimes and beam energy directly to the people, leading to their liberation (00:39, 01:42-01:48).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "While there are scenes depicting conflict and arrests by soldiers (00:17-00:18, 01:19-01:20), the video does not contain any explicit violence, strong language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": true,
+      "rating": null,
+      "explanation": "At 00:23, the character's uniform features a small, recognizable \"TOMMY\" logo on his chest, which appears to be the brand Tommy Hilfiger.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video presents a clear and engaging narrative of a struggle for freedom and abundant energy against oppressive control. The production quality is high, with impressive visual effects, strong acting, and effective pacing that builds tension and delivers a satisfying resolution within its short runtime.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The story tackles a grand vision for humanity's future, addressing global issues of energy distribution and freedom versus control on a planetary scale. The concept of \"Commonwealth Zero\" and the widespread beaming of energy to liberate populations (01:42-01:48) demonstrates a significant and ambitious scope for the future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video is perfectly aligned with the Future Vision XPRIZE mission, explicitly portraying a genuinely optimistic and technology-enabled future. It showcases technology as the means to overcome oppression and scarcity, leading to global liberation and abundance, directly reflecting the competition's goal of \"Building Optimistic Visions of the Future\" (02:20).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The storytelling is highly tech-forward, with advanced technology deeply and meaningfully integrated into every aspect of the narrative. From holographic interfaces for global monitoring and strategic planning (00:23, 00:39, 01:07, 01:10, 01:29) to the central plot device of beaming energy from satellites to liberate people (01:42-01:48), technology is not merely background but the primary driver of the conflict and its resolution.",
+      "confidence": "high"
+    }
+  ]
+}

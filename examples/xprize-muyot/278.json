@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "FREQUENCY - The First AI Whisperer",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total duration of 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card appears from 03:00 to 03:15 and explicitly lists 'FUTUREVISION XPRIZE', 'Google', 'Salesforce', and 'Jed McCaleb' among its partners, sponsors, and donors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features futuristic technologies such as 'water trees' that restore ecosystems, orbital mirror satellites, and the merging of ancestral and artificial intelligence to solve a global water crisis, which are elements of science fiction (01:08, 01:57, 02:18).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video begins with a severe water crisis but concludes with humanity successfully restoring the planet's water systems through advanced technology and ancient wisdom, resulting in lush landscapes and full lakes (02:43-02:52), presenting a highly optimistic future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, with the 'wisdom seed' device (00:35), the 'water tree' structures (01:08), orbital mirror satellites (01:57), and the 'Hydrodendrum Solaris' network (02:00) driving the plot and providing the solution to the water crisis.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video does not contain any explicit violence, offensive language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands are shown or mentioned within the main content of the video, only on the end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The story is compelling, presenting a clear global problem and a unique, technology-enabled solution. The visuals are high-quality and effectively convey the narrative's progression from desolation to restoration, with a strong emotional arc for the main character.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story addresses a global water scarcity crisis and proposes a large-scale, planetary solution involving a vast network of 'water trees' and advanced AI, leading to a complete restoration of Earth's ecosystems (02:26-02:56). This is a very ambitious and expansive vision for humanity's future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video perfectly aligns with the XPRIZE mission by presenting a future where a critical global problem is solved through innovative technology (AI, orbital satellites, water trees) combined with traditional wisdom, resulting in a thriving, restored planet. The tone is overwhelmingly optimistic and technology-enabled.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The entire solution revolves around the 'wisdom seed' device, the concept of 'ancestral intelligence' merging with 'artificial intelligence', and the deployment of the 'Hydrodendrum Solaris' network of 'water trees' and satellites. These technologies are integral to the plot and the resolution of the conflict, demonstrating tech-forward storytelling (01:34-01:42, 02:00-02:05, 02:18-02:42).",
+      "confidence": "high"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=y_2_2111111",
+  "video_title": "Future Vision XPRIZE: Building Optimistic Visions of the Future",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's total length is exactly 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The end card containing the listed sponsors (Salesforce, Google, RANGE, XPRIZE, XSOVA, ARK INVEST, Jed McCaleb) appears from 2:55 to 3:15, which is 20 seconds, not 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video depicts a futuristic setting with advanced technology such as holographic displays, flying vehicles, autonomous robots, and highly developed urban infrastructure (00:00-00:09, 00:10-00:20, 02:06-02:16).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The narrative explicitly shows a transformation from a world plagued by problems in 2025 (00:30-00:38) to a clean, green, and technologically advanced 2075, emphasizing collective problem-solving and a changed definition of 'winning' (01:37-01:56, 02:06-02:16).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Holographic displays are central to teaching and illustrating past problems and future solutions (00:00-00:09, 00:30-00:38, 01:08-01:17, 01:37-01:56). Robots are shown as active participants in daily life and work (00:00-00:09, 01:17-01:27, 02:46-02:55).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands are visible within the main content of the video, only on the end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video tells a compelling story through a conversation between a girl and her grandfather, effectively illustrating a societal shift and technological progress. The visuals are high-quality and consistently support the narrative.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story addresses major global challenges like energy, disease, climate, population, and conflict, and proposes a fundamental change in human motivation ('what winning meant') to achieve a better world, demonstrating a very ambitious vision (00:30-00:38, 01:45-01:56).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video directly aligns with the mission by showing how technology (clean energy, advanced medicine, robotics) and a shift in human values enabled the resolution of complex global problems, leading to a genuinely optimistic future where people compete to help more (01:37-02:06, 02:35-02:46).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "Advanced technology, particularly holographic interfaces and AI robots, is not merely background but is integral to how the story is told, how characters interact with information, and how the future is visualized and understood (e.g., the grandfather's holographic presentations from 00:30-01:56).",
+      "confidence": "high"
+    }
+  ]
+}

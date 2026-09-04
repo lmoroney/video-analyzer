@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "THE SPACE PIRATE'S CODE: NOAH",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total runtime of 2 minutes and 56 seconds, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card appears from 02:40 to 02:56, clearly displaying logos for Google, XPRIZE, Jed McCaleb, and Salesforce.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features spaceships, space piracy, futuristic technology like an AI navigator, alien creatures, and advanced cities, all indicative of the science fiction genre (e.g., 00:01, 00:10, 00:25, 02:18).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "Despite initial conflict, the story concludes with the protagonist saving a family using advanced AI, leading them to a utopian, technology-driven city (02:18-02:28), portraying an optimistic future where technology 'always brings you home'.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "The 'Noah' AI device is central to the plot, acting as a predictive navigator that guides the protagonist through dangerous situations and ultimately to safety (01:19-01:25, 01:50-02:02).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": true,
+      "rating": null,
+      "explanation": "There is a chase scene with implied violence and explosions (00:04-00:08, 01:55-01:58), and the word 'Shit!' is used at 01:56. There is no sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable commercial brands are visible within the narrative content of the video itself, only in the final sponsor end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video presents a clear and engaging narrative arc, from a space pirate's routine to a heroic rescue, with high-quality visuals and sound design that effectively convey the story within its short runtime.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The concept of an AI capable of calculating 'billions of futures' to ensure survival and guiding humanity to a technologically advanced, utopian society demonstrates a grand vision for the future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The narrative strongly aligns with the mission by showcasing technology (the Noah AI) as a benevolent force that enables survival and leads to a hopeful, advanced future for humanity, culminating in a peaceful, futuristic city.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The 'Noah' AI is not merely a prop but an active character and plot device, directly influencing decisions and guiding the protagonist through complex challenges, making technology integral to the storytelling and resolution.",
+      "confidence": "high"
+    }
+  ]
+}

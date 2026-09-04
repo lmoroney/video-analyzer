@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "The Invisible Night",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total duration of 3 minutes and 15 seconds, which is less than or equal to the specified length.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "From 03:00 to 03:15, the video displays an end card with the 'FUTUREVISION XPRIZE' logo and lists 'Google', 'RANGE', 'XPRIZE', 'Salesforce', and 'Jed McCaleb' as partners and sponsors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features advanced technology like perception-altering glasses (00:57), nanobots (01:48), holographic interfaces (01:02), futuristic cities (01:10), and multiple layers of reality, clearly placing it within the science fiction genre.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": false,
+      "rating": null,
+      "explanation": "While the video initially presents a seemingly utopian, technology-advanced society (01:10-01:19), it quickly reveals this to be a controlled illusion, with a darker, more complex and unsettling reality underneath (01:21-01:25, 02:16-02:29). The overall portrayal is one of hidden truths and control, rather than genuine optimism.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, with special glasses (00:57) revealing hidden realities, a nanobot (01:48) controlling perception, and advanced interfaces (01:02) being key plot devices that drive the story.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video does not contain any explicit violence, strong language, or sexual content. A character is shown being pushed off a building (02:24), but the act itself is not graphic.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands or logos are visible within the narrative portion of the video, only in the final end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "The video effectively establishes a mysterious and intriguing premise, with good visual effects and a clear narrative progression that keeps the viewer engaged, especially for a short film/trailer format.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story explores grand concepts such as multiple layers of reality, the control of human perception, the evolution of advanced civilizations, and the search for ultimate truth, demonstrating a very ambitious scope for humanity's future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 3,
+      "explanation": "While technology-enabled, the story's core theme revolves around a controlled, illusory 'optimistic' world and a darker, hidden reality. This subversion of optimism makes it less aligned with the XPRIZE mission of portraying a *genuinely* optimistic future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "Advanced technology, such as the special glasses (00:57) and the nanobot (01:48) that manipulate perception and reveal different realities, is fundamental to the plot and how the story unfolds, making it highly tech-forward.",
+      "confidence": "high"
+    }
+  ]
+}

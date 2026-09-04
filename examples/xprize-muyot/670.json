@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "From Pyramids to Diamonds: A Vision of Humanity's Next Evolution",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total length of 2 minutes and 50 seconds, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card, visible from 02:19 to 02:30, clearly lists Google, XPRIZE, Jed McCaleb, and Salesforce among its partners and sponsors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video depicts futuristic cities, advanced technology, and a transformative societal evolution (01:30-01:49) that goes beyond current reality, aligning with science fiction themes.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The narration explicitly states, 'From Pyramids to Diamonds is an optimistic vision of humanity's next evolution' (01:27), and the visuals showcase lush, sustainable, and interconnected futuristic communities and cities (01:30-01:49).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "The narration highlights artificial intelligence transforming how we create, connect, and collaborate (01:09). Visuals include drones in agriculture (01:34), smart city infrastructure (01:30-01:49), and interconnected networks (01:47, 01:57), demonstrating technology's central role in the depicted societal evolution.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, offensive language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands are displayed or mentioned within the video content, excluding the final sponsor end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video presents a compelling visual narrative, effectively contrasting old hierarchical 'pyramid' structures with a new, interconnected 'diamond' model. The high-quality CGI and clear thematic progression make the abstract concepts tangible and engaging.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story proposes a fundamental and ambitious shift in human organization and civilization, moving from traditional, top-down hierarchies to a more equitable, interconnected, and sustainable 'Diamond Civilisation'. This represents a grand vision for humanity's future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video explicitly aligns with the Future Vision XPRIZE mission by portraying an 'optimistic vision of humanity's next evolution' (01:27) and advocating for a 'new way of organizing ourselves, our communities, and our civilization' (01:30-01:33) through technology and interconnectedness.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The narrative is deeply intertwined with the concept of AI and new organizational structures, visually demonstrated through advanced CGI depicting futuristic, sustainable cities, integrated drones, and interconnected networks (01:09-01:14, 01:30-01:49, 01:57).",
+      "confidence": "high"
+    }
+  ]
+}

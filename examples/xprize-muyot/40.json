@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "A Beautiful Future",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video is 2 minutes and 42 seconds long, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card, from 02:26 to 02:42, features the mentioned sponsors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video depicts advanced technologies such as humanoid robots (00:35, 00:55, 01:10, 01:25, 02:00), autonomous vehicles (00:50, 00:55), flying cars (01:05), and 3D-printed houses (01:25), which are currently speculative or in early development, placing the content in the realm of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video begins with a city in decline and then shows its transformation into a vibrant, technologically advanced hub with clean energy, efficient transportation, and new job opportunities, explicitly stating \"A Beautiful Future\" (00:01) and showing people thriving (01:50, 02:05).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is a core driver of the narrative, with AI recommending solutions for energy (00:35), traffic (00:45), water (01:10), and job training (01:20). Robots are shown actively participating in construction (01:25) and service industries (02:00), demonstrating meaningful integration.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands are visible in the video content itself, only in the end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "The video tells a clear story of a city's revitalization through technology and human collaboration, with a personal touch through the characters Dara and Srinim. The visual effects and narrative progression are well-executed, showing the transformation from unfinished buildings (00:06) to a thriving, modern city (01:40, 02:05).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The story envisions a future where advanced AI and robotics transform an entire city, addressing major challenges like energy, traffic, water scarcity, and unemployment through integrated technological solutions, demonstrating a big-picture approach to urban development (e.g., nuclear energy 00:35, tunnel boring 00:45, desalination 01:10).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video directly aligns with the mission by showcasing a future where technology, guided by human vision, revitalizes a struggling city, creates new opportunities, and fosters a harmonious environment, explicitly titled \"A Beautiful Future\" (00:01) and demonstrating optimistic technological solutions throughout.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The storytelling is tech-forward, with advanced technologies like AI, robotics, autonomous vehicles, and 3D printing being central to the city's transformation and the characters' journey. The narrative explicitly details how these technologies solve problems and improve daily life (e.g., AI recommending solutions 00:35, 00:45, 01:10, 01:20; robots working alongside humans 01:25, 02:00).",
+      "confidence": "high"
+    }
+  ]
+}

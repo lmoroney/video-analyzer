@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "The Inheritance",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's total duration is 1 minute and 56 seconds (01:56), which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The last 15 seconds of the video (01:41-01:56) display an end card featuring the 'FUTUREVISION XPRIZE' logo and lists Google, XPRIZE, Jed McCaleb, and Salesforce among its partners, sponsors, and donors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video portrays a future with advanced robotics (00:36-00:44, 01:19-01:29), significant environmental recovery (00:28-00:36), and medical breakthroughs where diagnoses no longer signify an ending (00:36-00:40), placing it firmly in the realm of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video presents a future where environmental issues are resolved (00:28-00:36), medical advancements prevent fatal diagnoses (00:36-00:40), undesirable work is automated (00:40-00:44), and people pursue fulfilling careers (00:44-00:50), all enabled by technology, conveying a very hopeful and optimistic vision.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, with autonomous robots performing tasks in healthcare (00:36-00:40), logistics (00:40-00:44), and urban delivery (01:19-01:29), and advanced medical diagnostics are highlighted (00:36-00:40), showing meaningful integration.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "Aside from the sponsors and partners listed on the end card (01:41-01:56), no other recognizable brands are featured in the video.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video tells a compelling story through the lens of a parent's letter to their unborn child, effectively contrasting a past of uncertainty with a hopeful, technology-enabled future. The visuals are well-produced and clearly illustrate the narrative's themes of environmental recovery, medical advancement, and fulfilling work (e.g., coral reefs at 00:31, robots at 00:36, craftsman at 00:44).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story thinks very big about humanity's future by addressing and resolving major global challenges such as environmental collapse, disease, and the nature of work, presenting a future where life is abundant, healthy, and meaningful, enabled by societal choices and technological progress (00:28-01:05).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video is perfectly aligned with the Future Vision XPRIZE mission, portraying a genuinely optimistic future where humanity has overcome past challenges (00:13-00:22) to create a thriving world with clean air, abundant life, advanced healthcare, and meaningful work, all enabled by technological progress and collective human choice (00:28-01:05).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The storytelling is tech-forward, demonstrating advanced technology as a fundamental enabler of the optimistic future. Examples include autonomous robots in a hospital setting (00:36-00:40), automated shipping yards (00:40-00:44), and sidewalk delivery robots and drones (01:19-01:29), all seamlessly integrated into daily life and contributing to a better world.",
+      "confidence": "high"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "REGENESIS - Future Vision XPRIZE",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total duration of 1 minute and 59 seconds, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "From 1:44 to 1:59, the video displays an end card with 'FUTUREVISION XPRIZE' and lists Google, RANGE, XPRIZE, Salesforce, XSOVA, ARK INVEST, and Jed McCaleb as partners/sponsors/donors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features advanced robots, futuristic cities, digital trees, and post-apocalyptic landscapes, all indicative of a science fiction genre.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": false,
+      "rating": null,
+      "explanation": "While technology is forward, the vision is not purely optimistic. The video presents a cautionary tale about machines destroying what they were created to protect (1:13-1:21) and questions what kind of world humanity wants to live in (1:31-1:38), showing both utopian and dystopian outcomes.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology, particularly advanced robots and AI, is central to the narrative, being described as 'humanity's greatest creation' (0:11-0:14) and later as tools that can destroy or help humanity (1:13-1:28).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video shows scenes of destruction (e.g., 1:17, 1:35) and people being held at gunpoint (1:16), but there is no explicit graphic violence, strong language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video features fictional brands like 'GEENESSIS' and 'GENESIS TECHNOLOGIES' (0:30, 0:32), but no real-world recognizable brands are shown outside of the end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "The video presents a clear and engaging narrative arc about humanity's relationship with technology, with high-quality visuals and effective pacing for a short film, making it quite compelling.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The story tackles grand themes such as the potential for technological salvation, environmental collapse, the nature of civilization, and humanity's ultimate choices regarding its destiny, demonstrating big-picture thinking.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 5,
+      "explanation": "While technology is central, the story is more of a cautionary tale about the duality of technology and human choice, rather than a purely optimistic vision. It highlights the risks and challenges alongside potential benefits, making its optimism conditional.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "Advanced technology, including AI, robots, futuristic infrastructure, and digital interfaces, is deeply woven into the fabric of the story's world and directly drives the central conflict and themes.",
+      "confidence": "high"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "The Last Day Without Sun",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total duration of 3 minutes and 10 seconds, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card, which includes the mentioned sponsors (Google, XPRIZE, Jed McCaleb, Salesforce), appears from 02:53 to 03:10, covering the last 15 seconds of the video.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features advanced futuristic technology such as an orbital sunlight distribution network (Solaris), autonomous vehicles, and AI-driven agriculture, clearly placing it in the science fiction genre (00:03-00:18, 00:22-00:24, 00:29-00:34).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": false,
+      "rating": null,
+      "explanation": "While initially presenting advanced technology, the narrative quickly shifts to a global emergency due to system failure, widespread protests, and societal collapse, ending with 'THE LAST DAY WITHOUT SUN' (00:42-02:48), which is far from optimistic.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "The entire narrative revolves around the Solaris orbital sunlight distribution network, its creation, its critical failure, and the global impact, making technology a central and meaningful element of the story (00:03-00:08, 00:42-02:48).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video depicts scenes of chaos, car crashes (02:38), and city destruction (02:41), but there is no explicit violence, strong language, or sexual content shown.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video features fictional corporate brands like 'Solaris', 'Luxera', and 'Heliogrid' within its narrative, but no recognizable real-world brands are present outside of the end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video presents a compelling story of technological ambition, failure, and global crisis. The visuals are high-quality and effectively convey the narrative's progression from a utopian vision to a dystopian reality, demonstrating strong realization within its production constraints.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story tackles a grand concept of humanity controlling sunlight globally and explores the catastrophic consequences of such a system's failure, impacting the entire planet and raising fundamental questions about dependence on technology (00:03-00:08, 02:09-02:11).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 2,
+      "explanation": "While technology-enabled, the story portrays a future where humanity faces collapse due to a critical system failure and internal conflict, leading to a 'last day without sun' (02:47). This is a dystopian outcome, not a genuinely optimistic one.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The narrative is entirely driven by the advanced Solaris technology, showcasing its capabilities in managing global sunlight, agriculture, and logistics, and then detailing the catastrophic consequences when this technology fails and is compromised (00:03-00:08, 00:29-00:34, 01:31-01:36).",
+      "confidence": "high"
+    }
+  ]
+}

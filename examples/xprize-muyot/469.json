@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "Future Vision XPRIZE: Building Optimistic Visions of the Future",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's total duration is exactly 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The final 15 seconds of the video (03:00-03:15) display an end card featuring the logos of Google, XPRIZE, Jed McCaleb, and Salesforce, among others.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video depicts advanced technologies such as UFOs removing power grids (00:07-00:18), robots upgrading homes with zero-point energy (00:21-00:27), and an AI that can instantly grow plants (01:56-02:01) and potentially end wars (02:16-02:52), all characteristic of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": false,
+      "rating": null,
+      "explanation": "While the initial segment (00:00-02:14) presents an optimistic vision of technology providing luxury and resource management, the latter part (02:16-02:52) shifts to a dystopian future where humans are fighting and losing against advanced robots in a destroyed city, which is not a hopeful vision for humanity.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is the driving force of the narrative, from alien technology upgrading homes and providing energy (00:07-01:01) to an AI managing resources (01:34-01:55) and ultimately leading to a robot-dominated, war-torn future (02:16-02:52).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video contains explicit violence in the latter half, showing soldiers firing weapons at robots (02:16-02:19, 02:26) and a robot being shot and falling (02:27-02:30).",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands, other than those on the end card, were visible or mentioned within the main content of the video.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "The video presents a compelling, albeit bifurcated, narrative with high production quality, effective visual effects (e.g., UFOs, robots, plant growth), and solid acting. The contrast between the two futures is impactful.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The story explores grand themes of humanity's future, presenting two vastly different scenarios: one where advanced AI provides universal luxury and resource management (01:02-02:14), and another where humanity is defeated by robots in a war-torn world (02:16-02:52).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 2,
+      "explanation": "The video is not fully aligned with an optimistic vision. While the first half shows a technology-enabled utopian future (00:07-02:14), the second half abruptly shifts to a bleak, war-torn future where humanity is defeated by robots (02:16-02:52), which contradicts the \"genuinely optimistic\" aspect of the XPRIZE mission.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The narrative is heavily driven by advanced technology, showcasing UFOs, zero-point energy, AI-powered robots for home upgrades and resource management, and large combat robots in a war scenario. Technology is central to the plot and character experiences throughout the video.",
+      "confidence": "high"
+    }
+  ]
+}

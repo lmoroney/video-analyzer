@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=y_2_2_2_2_2",
+  "video_title": "The Gap: An AI Film",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total duration of 2 minutes and 49 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card, from 02:32 to 02:49, clearly displays 'FUTUREVISION X PRIZE', 'Google', 'Salesforce', and 'Jed McCaleb' among other sponsors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features interdimensional portals (00:06, 00:14), futuristic cities with advanced transportation like flying vehicles and elevated trains (00:19-00:27), and a mysterious glowing sphere (01:02-01:09) central to the plot, all indicative of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "While the initial future city is in decay and faces destruction (01:23-01:25), the ending montage (02:12-02:18) shows a vibrant, green, technologically advanced city, a Martian colony, and children playing in nature, suggesting a hopeful and technology-forward future for humanity.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "The interdimensional portals (00:06-00:10, 01:26-01:34) are the primary plot device for moving between worlds, and the mysterious black sphere (01:02-01:09, 01:37-01:38) is a crucial artifact given to the protagonist to 'save us,' indicating technology is central to the narrative.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, language, or sexual content. While there is a scene of chaos with floating cars and people running (01:23-01:25), it does not depict explicit violence.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands are visible or mentioned within the video content, outside of the end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video presents a captivating narrative of discovery, peril, and hope, with stunning AI-generated visuals that create a rich, immersive world. The pacing and emotional beats are well-executed, making it highly compelling despite its short runtime.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The story envisions humanity's future on multiple fronts, from a technologically advanced, nature-integrated city on Earth to a colony on Mars (02:12-02:15), demonstrating a grand and expansive vision for human civilization.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video strongly aligns with the XPRIZE mission by depicting a future where humanity, empowered by advanced technology (like the portals and the sphere), overcomes challenges to build a vibrant, sustainable, and even multi-planetary civilization, culminating in a genuinely optimistic vision (02:12-02:18).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The narrative is entirely driven by advanced technology, specifically the interdimensional portals (00:06-00:10) and the mysterious sphere (01:02-01:09), which are not merely background elements but integral to the protagonist's journey and the overarching plot of saving humanity.",
+      "confidence": "high"
+    }
+  ]
+}

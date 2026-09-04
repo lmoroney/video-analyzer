@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "Zairdja Prime - Future Vision XPRIZE",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video is exactly 3 minutes and 15 seconds long.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card from 03:00 to 03:15 clearly displays Google, XPRIZE, Jed McCaleb, and Salesforce as partners and sponsors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features futuristic cities, flying vehicles, advanced robotics, cybernetic enhancements, and memory archiving technology, all indicative of a science fiction genre.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": false,
+      "rating": null,
+      "explanation": "While technology is advanced, the vision is not entirely optimistic. It depicts a stark contrast between utopian-looking cities (00:22-00:28) and a dystopian, crowded, and impoverished San Francisco (01:10-01:21), along with police brutality (02:08-02:16) and conflict.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, including memory archiving (00:28-00:37), futuristic police (02:02-02:16), cybernetic enhancements for the dog (02:29-02:33, 02:47-02:51), and holographic interfaces (00:43-00:46).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": true,
+      "rating": null,
+      "explanation": "There is explicit violence when a man is punched and arrested by futuristic police (02:08-02:16), and another character is shown injured and bleeding from the mouth (02:52-02:55).",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable commercial brands are visible in the video content itself, only fictional entities like 'Eunoia Institute' and 'Black Crow Productions'.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "The video presents an intriguing story with high-quality visuals and detailed world-building, effectively contrasting utopian and dystopian elements. The characters and action sequences are well-executed, making it compelling.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The story explores grand themes such as memory, identity, societal control through technology, and the potential for both advanced utopias and stark dystopias, demonstrating big-picture thinking about humanity's future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 4,
+      "explanation": "While technology is clearly enabled, the future depicted is not genuinely optimistic. It highlights significant social inequality, a dystopian urban landscape, and a central conflict where one faction is declared 'the enemy,' which detracts from an optimistic vision.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "Advanced technology is deeply woven into the narrative, driving the plot and defining the world. Concepts like memory archiving, cybernetic enhancements, and futuristic law enforcement are integral to the characters' motivations and the unfolding conflict.",
+      "confidence": "high"
+    }
+  ]
+}

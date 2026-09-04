@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "ELIOS - Future Vision XPRIZE",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video is 1 minute and 4 seconds long (01:04), which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card appears from 00:47 to 01:04 and explicitly lists 'FUTUREVISION X PRIZE', 'Google', 'salesforce', and 'Jed McCaleb' among others.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video depicts a future scenario involving a moon base (00:15), an advanced artificial intelligence named ELIOS (00:22), and humanity discovering cosmic patterns, all of which are elements of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video shows humanity using advanced AI and a moon observatory to understand the universe, culminating in the discovery of a cosmic pattern, which presents a positive and technology-driven future (00:15-00:47).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, with the Nexus 13 Observatory on the moon (00:15) and the AI named ELIOS (00:22) being key to humanity's ability to observe and understand the universe's patterns.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, language, or sexual content; it focuses on scientific discovery and space exploration.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "Apart from the end card, no recognizable brands are shown or mentioned within the video's narrative content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "The video presents a clear and intriguing narrative about humanity's discovery of a cosmic pattern through advanced technology, with high-quality visuals and narration that effectively convey the story within its short runtime (00:00-00:47).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The story thinks very big, focusing on humanity's quest to understand the fundamental patterns of the universe through advanced AI and space observatories, suggesting a future of profound cosmic discovery (00:05-00:47).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video directly aligns with the Future Vision XPRIZE mission by showcasing a genuinely optimistic future where humanity, empowered by AI and space technology, achieves a profound understanding of the universe's synchronized patterns (00:22-00:47). The end card also explicitly links it to the XPRIZE.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The storytelling is highly tech-forward, with the artificial intelligence ELIOS (00:22) and the Nexus 13 Observatory (00:15) being integral to the plot, demonstrating how advanced technology enables humanity to uncover cosmic secrets.",
+      "confidence": "high"
+    }
+  ]
+}

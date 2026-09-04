@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "PROVENANCE: THE FUTURE WE OWN.",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total length of 3 minutes and 14 seconds, which is less than or equal to 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card appears from 02:55 to 03:14, which is 19 seconds, and clearly displays Google, XPRIZE, Jed McCaleb, and Salesforce as sponsors/partners/donors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features advanced holographic interfaces, AI models, and a futuristic city, which are common elements of science fiction (e.g., 00:15, 00:30, 00:46, 02:41).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video explicitly states, 'This is what the future of prosperity looks like. A world where technology enhances society, not supplants it. Where every person has dignity. Where every creator has a legacy' (02:41-02:53), clearly presenting a hopeful and optimistic vision.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, showing how AI and a 'Provenance Ledger' can track and value human expertise in agriculture, music, and medicine, transforming it into tradable assets (e.g., 00:15-00:26, 00:30-00:40, 00:46-00:55, 01:12-02:39).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands are shown within the main content of the video; any interfaces or products depicted use generic or fictional names (e.g., 'Ginnovaviet' at 01:41).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video presents a clear and compelling narrative about valuing human expertise through technology, using strong visual metaphors and high-quality production to illustrate its points effectively.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story envisions a fundamental shift in how human contributions are recognized and rewarded across various industries, leading to a more prosperous and dignified future for all creators, which is a very ambitious and 'big' idea.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video's core message directly aligns with the XPRIZE mission by showcasing how technology can enhance human dignity, creativity, and economic value, leading to an optimistic and equitable future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The storytelling is highly tech-forward, using holographic displays, data visualizations, and digital interfaces to demonstrate how the 'Provenance Ledger' and 'Performance Oracle' function and integrate into daily life, making technology an active part of the narrative.",
+      "confidence": "high"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "Jessie",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's total duration is exactly 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card begins at 02:57 and runs until the end of the video at 03:15, which is 18 seconds. This end card prominently displays the mentioned sponsors: Google, XPRIZE, Jed McCaleb, and Salesforce.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features elements such as long-duration space travel, cryo-sleep, advanced AI (the robot character), and hydroponic farming in a futuristic spaceship environment, all indicative of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "Despite the initial sacrifices and challenges, the video concludes with a message of hope for the future, where the child 'Jessie' is needed, implying a future where humanity continues and thrives, enabled by technologies like cryo-sleep and AI. The overall context of the 'Future Vision XPRIZE' also points to an optimistic vision.",
+      "confidence": "medium"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, with cryo-sleep enabling long-term space travel and the mother's journey, the robot serving as a caregiver and source of information, and hydroponics being crucial for sustenance. The baby's monitoring device and the child's tablet also play roles.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "There is no explicit violence, language, or sexual content. A scene at 01:12-01:15 depicts a painful medical procedure, possibly an abortion, but it is not graphically violent or sexual.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable commercial brands are visible or mentioned within the narrative portion of the video.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video tells an emotionally compelling story of sacrifice, survival, and hope across generations, with strong visual storytelling and effective use of futuristic settings and character performances, all well-executed for a short film format.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The story explores grand themes of humanity's long-term survival, interstellar travel, the role of artificial intelligence in human life, and the continuation of the species through immense personal sacrifice, demonstrating a 'big picture' vision of the future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The narrative, despite its hardships, culminates in a hopeful message about the child 'Jessie' being essential for the future, aligning with an optimistic outlook. The extensive use of advanced technology (cryo-sleep, AI, space habitats) clearly demonstrates a technology-enabled future, fitting the XPRIZE mission.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "Advanced technologies like cryo-sleep, the sentient robot, and hydroponic systems are not merely background elements but are integral to the plot, driving character decisions, creating conflicts, and enabling the very existence and journey of the protagonists.",
+      "confidence": "high"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=20y-20y-20y",
+  "video_title": "Morning After",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total duration of 3 minutes and 10 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card begins at 02:49 and continues until the end of the video at 03:10. The last 15 seconds (from 02:55 to 03:10) are part of this end card and display the mentioned sponsors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features advanced AI (Falcon, 00:04, 00:48, 01:43, 01:49), bio-engineered medical technology (the bracelet, 01:07-01:13), and a narrative set in a technologically advanced future, clearly placing it within the science fiction genre.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video explicitly states, 'It wasn't the end of the world. It was the morning after' (00:17-00:18), showing technology being used to solve global issues like water scarcity (00:21) and to heal individuals (01:09-01:13), culminating in a 'remade' world (02:44-02:48).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, with the AI 'Falcon' acting as a character (00:04, 00:48, 01:43, 01:49), the bio-engineered bracelet serving as a key plot device for healing (01:07-01:13), and the discovery of mathematical patterns driving scientific and societal progress (00:06-00:08, 00:30-00:32, 02:22-02:24).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, offensive language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The HP logo is visible on the computer monitors at 00:04 and 01:40.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video effectively conveys a complex and compelling narrative about humanity's future and its relationship with technology through high-quality visuals, voiceover, and interconnected scenes, all within a short runtime.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story explores grand themes such as humanity's interaction with AI, the universe's fundamental mathematical language, overcoming environmental challenges, and advanced medical solutions, demonstrating a highly ambitious vision for the future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video's narrative arc, moving from initial fear to a hopeful 'morning after' enabled by technology, and its explicit statement at the end (02:49) about humanity's best days being ahead, perfectly align with the competition's mission.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The narrative is driven by advanced technologies like the sentient AI 'Falcon,' bio-engineered solutions for health, and the application of universal mathematical patterns to reshape the world, making technology an intrinsic and forward-thinking element of the storytelling.",
+      "confidence": "high"
+    }
+  ]
+}

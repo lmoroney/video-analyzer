@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "Harbor One: A Future Vision",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total duration of 2 minutes and 49 seconds (02:49), which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card appears from 02:34 to 02:49 and explicitly lists 'salesforce' as Presenting Sponsor, 'Google' and 'XPRIZE' as Partners, and 'Jed McCaleb' as Presenting Donor.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video depicts futuristic cities, advanced humanoid robots, space colonization on the moon and near Jupiter, and interstellar travel through wormholes, all characteristic elements of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The voiceover explicitly states, 'We imagine a future transformed by technology' (00:01) and 'The future is what we choose to build together' (02:22), showcasing humanity's expansion into space and collaboration with AI to overcome challenges.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, enabling space colonization (00:20), human-robot coexistence (00:15), interstellar travel (00:30), and the defense of the 'Harbor One' space station against a cosmic threat (01:28).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, language, or sexual content. There is a scene of a damaged space station and an injured person (01:45), but it is not graphic.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable commercial brands are visible or mentioned within the main content of the video, only on the end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video presents a clear and engaging narrative arc, from humanity's technological advancement and expansion to facing an existential threat and working together to overcome it. The visuals are high quality and effectively convey the story within the short runtime.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story envisions humanity colonizing the moon ('Luno City' at 00:25), building massive space stations ('Harbor One' at 00:41) near gas giants like Jupiter, and exploring beyond the known solar system, demonstrating a grand vision for the future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video's end card explicitly states 'FUTUREVISION XPRIZE: Building Optimistic Visions of the Future', and the narrative perfectly aligns with this by showcasing humanity's progress, collaboration with AI, and resilience in building a future despite challenges, all enabled by advanced technology.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The entire narrative is driven by advanced technology, from the initial futuristic cities and transportation (00:01) to the moon colony (00:20), interstellar travel (00:30), and the critical role of the 'Harbor One' space station and its energy systems in saving humanity's future (01:28, 02:13).",
+      "confidence": "high"
+    }
+  ]
+}

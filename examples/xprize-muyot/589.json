@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=y_2_2_2_2_2",
+  "video_title": "The Canine Sea",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's total duration is exactly 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card appears from 03:00 to 03:15 and clearly lists Google, XPRIZE, Jed McCaleb, and Salesforce as partners/sponsors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video is set in the near future (2029-2030) and features an 'AI-Guided Adaptive Parole' (A.G.A.P.) program that monitors dreams and behavior, which are clear science fiction elements (00:11, 00:30, 01:28).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video portrays a dystopian future where AI-guided parole is a controlling and intrusive system, leading to protests (00:11-00:18) and the protagonist's uncertain fate (02:55-02:57). This is not an optimistic vision.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "The AI-Guided Adaptive Parole (A.G.A.P.) system is central to the narrative, actively monitoring the protagonist's dreams (01:28-01:33), predicting violent responses (01:47-01:52), and guiding his daily 'CBT Cycle' (02:06-02:12).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video depicts protests, a burning building, and a confrontation, but none of these are explicitly violent or graphic. There is no explicit language or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands are visible in the video content itself, only in the end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "The video presents a compelling narrative about an individual's struggle against an oppressive AI system, with strong visuals and a clear emotional arc for the protagonist, Miro. The production quality is high for a short film.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The story explores profound questions about free will, rehabilitation, and the potential for AI to control human behavior and thought, offering a significant commentary on a possible future society.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 2,
+      "explanation": "While technology-enabled, the future depicted is largely dystopian and controlling, with the AI system dictating behavior and suppressing individuality, which directly contradicts an optimistic vision.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The A.G.A.P. system, with its dream audits, behavioral monitoring, and real-time recommendations displayed on a smartwatch, is deeply and meaningfully integrated into every aspect of the protagonist's life and choices, driving the core conflict.",
+      "confidence": "high"
+    }
+  ]
+}

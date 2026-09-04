@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=y_221111111",
+  "video_title": "Applied Creation: Growing Homes",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's total duration is exactly 3 minutes and 15 seconds (03:15).",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card appears from 03:00 to 03:15 and clearly lists Salesforce as the Presenting Sponsor, Google and XPRIZE as Partners, and Jed McCaleb as the Presenting Donor.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features advanced holographic interfaces, AI-driven genetic merging of plant traits, and houses that grow from small pods, which are all futuristic concepts not currently possible, placing it firmly in the realm of science fiction (e.g., 01:06-01:10, 02:14-02:22).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video depicts children using advanced technology in a collaborative and innovative environment to solve real-world problems like reforestation, coral reef restoration, and creating sustainable 'growing homes,' presenting a very optimistic future (e.g., 01:51-02:00, 02:36-02:55).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, with children using AR glasses and holographic interfaces for research, design, simulation, and the creation of 'Agropods' to grow houses, directly driving the plot and problem-solving (e.g., 00:14-00:22, 01:01-01:26, 01:35-01:44).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video is family-friendly and contains no explicit violence, language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands are visible or mentioned in the video outside of the final end card credits.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The story is simple yet compelling, following children as they use technology to solve problems, culminating in Jared's innovative 'Agropod' project. The visual effects are high-quality, and the futuristic setting is consistently well-designed, making it a well-realized narrative.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The story addresses significant global challenges like environmental degradation (reforestation, coral reef health) and sustainable living (growing homes), demonstrating a large-scale, transformative vision for humanity's future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video perfectly aligns with the Future Vision XPRIZE mission by showcasing an optimistic, technology-enabled future where children use advanced tools to solve complex environmental and social problems, creating a sustainable and thriving world.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The entire narrative is built around advanced technology, with AR glasses and holographic interfaces being integral to the characters' learning, design, simulation, and creation processes. The technology is an active and essential element of the storytelling, not merely a backdrop (e.g., 01:01-01:26, 02:14-02:22).",
+      "confidence": "high"
+    }
+  ]
+}

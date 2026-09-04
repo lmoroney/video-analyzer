@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "Humanity's Last Exam",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's total duration is exactly 3 minutes and 15 seconds (03:15).",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card appears from 03:00 to 03:15 and clearly displays the logos and names of Google, XPRIZE, Jed McCaleb, and Salesforce, among others.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features advanced technology such as glowing armbands that enable immersive environmental projections and time travel/visualization (02:30-02:45), as well as a concept called 'The Big Fix' (02:50), all set in a future context, which are elements of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video presents a future where technology facilitates understanding and acceptance of life's cycles, including mortality ('choosing birthdays'). The teacher uses advanced tech to foster empathy and connection, leading to a hopeful resolution for the children and Jenny (02:55-03:15).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology, specifically the glowing armbands and the ability to project different environments (02:30-02:45), is central to the teacher's method of educating the children about life, death, and purpose, making it a meaningful part of the narrative.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, offensive language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands are visible or mentioned within the video's narrative content, only on the final sponsor end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The story is deeply moving, addressing complex themes of life, death, and purpose through the eyes of children. The emotional performances, particularly from the young actors, and the seamless transitions between settings (02:30-02:45) demonstrate strong realization within the short format.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The narrative explores profound philosophical questions about mortality and the meaning of life in a future where technology ('The Big Fix') has fundamentally altered human existence. It suggests a future focused on emotional and spiritual well-being, which is a big vision.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video perfectly aligns with the mission by showcasing a future where advanced technology is used to foster empathy, understanding, and acceptance of life's challenges, leading to a compassionate and optimistic outlook on human existence, even in the face of mortality.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The storytelling is tech-forward, using glowing armbands and environmental projections (02:30-02:45) as a core mechanism for the teacher to illustrate abstract concepts and transport children through different realities, making technology an active and essential part of the narrative's progression.",
+      "confidence": "high"
+    }
+  ]
+}

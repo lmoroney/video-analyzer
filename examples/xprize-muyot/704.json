@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "The Lightship: Future Vision XPRIZE",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's total runtime is exactly 3 minutes and 15 seconds (03:15).",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The last 15 seconds of the video (03:00-03:15) display an end card featuring the sponsors Google, XPRIZE, Jed McCaleb, and Salesforce, along with others.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features advanced technologies such as ocean-cleaning facilities (00:00), desert water purification (00:05), immersive virtual reality games causing comas (00:58-01:13), and futuristic \"lightships\" (01:38).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "While initially presenting challenges like human extinction (00:13) and children in comas due to a game (01:00-01:13), the narrative shifts to a hopeful vision where children use advanced technology to address global issues like water scarcity (01:50-02:24) and unite humanity, culminating in the text \"CIRCULATION RESUMED\" (02:59) and \"Building Optimistic Visions of the Future\" (03:00).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, with the plot driven by futuristic ear devices that connect children to a virtual world (00:38-00:45), the \"Terravale\" system for resource management (00:20, 02:40), and \"lightships\" used to implement solutions like global water distribution (01:48-01:52).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video does not contain any explicit violence, language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "Aside from the sponsors listed in the end card (03:00-03:15), no other recognizable brands are visible or mentioned in the video.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video presents a compelling narrative arc, transitioning from a dystopian warning about human extinction (00:13) and children in comas (01:00) to an optimistic resolution where children use technology to solve global water scarcity (01:50-02:24). The production quality is high, with strong visual effects and emotional performances.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The story addresses large-scale global challenges such as ocean pollution (00:00), water scarcity (00:05, 01:57), and the societal impact of advanced virtual reality (01:00-01:13). It envisions a future where children leverage technology to implement global solutions and unite humanity (01:48-02:24, 02:55).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video perfectly aligns with the Future Vision XPRIZE mission by portraying a genuinely optimistic, technology-enabled future. It showcases how advanced technology, initially causing a crisis (children in comas, 01:00-01:13), is then harnessed by children to solve critical global issues like water scarcity (01:50-02:24) and foster unity, explicitly stating \"Building Optimistic Visions of the Future\" (03:00).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The storytelling is highly tech-forward, with advanced technology deeply integrated into the narrative. The virtual reality game and associated ear devices (00:38-00:45, 01:13), the \"Terravale\" system for resource management (00:20, 02:40), and the \"lightships\" (01:38) are not merely background elements but are central to the plot, character development, and the resolution of global conflicts.",
+      "confidence": "high"
+    }
+  ]
+}

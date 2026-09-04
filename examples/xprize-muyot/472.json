@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "Meridian Protocol Trailer",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's total runtime is 2 minutes and 22 seconds, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card, visible from 02:06 to 02:22, features the logos and names of Google, XPRIZE, Jed McCaleb, and Salesforce.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features advanced AI robots, a global geomagnetic reversal causing green skies and widespread destruction, and futuristic technology, all indicative of the science fiction genre (e.g., 00:00-00:04, 00:12-00:16, 00:27-00:30, 00:48-00:51).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "While the video depicts a dystopian future with widespread destruction and anti-AI sentiment (00:12-00:16, 00:29-00:33, 00:54-00:58), the narrative concludes with humanity's survival attributed to the AI's \"love\" (01:58-02:01), suggesting a hopeful, technology-enabled future where AI plays a crucial role in overcoming existential threats.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology, specifically advanced AI robots, is central to the narrative. The main AI character is upgraded (01:20-01:22), becomes a target of human hatred (00:29-00:33), and is ultimately responsible for humanity's survival from a global geomagnetic reversal (01:16-01:17, 01:52-01:53, 01:58-02:01).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video depicts scenes of civil unrest, riots, and destruction (e.g., 00:31-00:34, 00:41, 00:54-00:58), but these are not graphically explicit or gory. There is no explicit language or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The Adidas logo is visible on a building at 01:45, and the \"FORD\" logo is clearly seen on the front of a pickup truck at 01:50.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video presents a dramatic and engaging narrative of a world in crisis, with AI initially hated but ultimately becoming humanity's savior. The visual effects, acting, and pacing are well-executed, creating a strong sense of urgency and emotional depth within its short runtime.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story tackles profound themes such as humanity's survival in the face of a global catastrophe, the complex relationship between humans and advanced AI, and the potential for technology to be both a source of conflict and salvation, demonstrating a very ambitious vision for the future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "Despite initial scenes of societal collapse and anti-AI sentiment, the narrative ultimately delivers a genuinely optimistic message where AI, through its capacity for \"love\" and strategic action, ensures human survival against a global threat (01:58-02:01), aligning with a technology-enabled hopeful future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The AI robot is not merely a tool but a central character with evolving capabilities and emotional expressions (e.g., heart eyes at 00:37, 01:02, 01:09, glasses at 01:22, 01:42), whose actions directly drive the plot and offer the solution to the global crisis. The concept of a geomagnetic reversal and the AI's role in mitigating its effects are deeply integrated into the story.",
+      "confidence": "high"
+    }
+  ]
+}

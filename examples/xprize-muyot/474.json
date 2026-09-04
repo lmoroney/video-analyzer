@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=k4t_j440-10",
+  "video_title": "我们与他们：内战的起源",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video has a total length of 03:36:05, which is longer than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The last 15 seconds of the video (from approximately 03:21 to 03:36) show the final conclusion and credits for the video creators and sources, but not an end card with the specified sponsors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video discusses real-world historical events, sociological theories, and scientific studies (e.g., Yuval Noah Harari, Francis Fukuyama, Samuel Huntington, and a chimpanzee study published in Science). It does not contain fictional elements or speculative future technologies.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video presents an analytical and cautionary perspective on human nature and the ease with which societal divisions and conflicts arise, even with deep connections. While it uses scientific understanding to explore these challenges, it does not portray a hopeful or optimistic vision of the future; rather, it serves as a warning about potential pitfalls.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is meaningfully integrated into the narrative. The video uses the global supply chain of an iPhone [05:07] and global internet connectivity [05:22] as examples of interconnectedness. It also discusses how recommendation algorithms on platforms like YouTube and TikTok contribute to societal division by creating 'information silos' [27:00].",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video depicts historical warfare and animated conflict, but these are presented in a non-explicit manner. There is no explicit language or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": true,
+      "rating": null,
+      "explanation": "Yes, the video explicitly mentions and shows 'Science' (the journal) [00:54], 'Apple Inc.' [03:24], 'Costco' [03:07], 'Tesla' [03:18], 'Nike' [10:12], 'YouTube' [26:15], and 'TikTok' [26:15].",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video uses a unique paper-cut animation style, historical footage, and clear data visualizations to present complex sociological and biological theories in an engaging and compelling manner. The narrative builds logically and effectively.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video thinks big about humanity's future by exploring the long-term trajectory of human civilization, from tribes to nation-states, and questioning the possibility of global unity ('天下大同'). It uses historical and scientific perspectives to ponder fundamental aspects of human cooperation and conflict.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 3,
+      "explanation": "The video is primarily analytical and cautionary, focusing on the inherent human tendency towards division and conflict, even with technological advancements. While it uses technology in its storytelling and discusses its societal role, it does not portray a 'genuinely optimistic' future. The message is more about understanding challenges than presenting an already positive future state.",
+      "confidence": "medium"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video demonstrates tech-forward storytelling by integrating data visualization, social network analysis, and the impact of algorithmic influence (e.g., recommendation algorithms) into its narrative to explain complex social phenomena. The visual style also contributes to a modern and engaging presentation.",
+      "confidence": "high"
+    }
+  ]
+}

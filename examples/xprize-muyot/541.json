@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "Resonance - Future Vision XPRIZE",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total duration of 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card from 02:57 to 03:15 explicitly lists Google, XPRIZE, Jed McCaleb, and Salesforce as partners, sponsors, or donors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features advanced AI (Vella), futuristic aircraft, underwater facilities, holographic interfaces, and technology capable of predicting and mitigating global natural disasters, all characteristic of science fiction (00:00-03:00).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "Despite facing a catastrophic earthquake and tsunami, humanity, through collaboration with advanced AI, successfully averts disaster, showcasing a hopeful and technology-driven future (02:08-02:57).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology, particularly the AI 'Vella' and its predictive capabilities, is central to the plot, driving the conflict and its resolution. The characters interact directly with advanced holographic interfaces and operate futuristic machinery to address the crisis (01:13-02:37).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video depicts a natural disaster and moments of tension, but there is no explicit violence, offensive language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands are shown or mentioned within the narrative content of the video, only on the end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video presents a clear and engaging narrative arc, from the introduction of advanced AI and its purpose to the impending disaster and its resolution. The visual effects and character performances are strong, creating a believable and immersive futuristic world.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story addresses a global-scale threat (tsunamis impacting entire coastlines) and humanity's ability to overcome it through a symbiotic relationship with super-intelligence, demonstrating a grand vision for the future of human-AI collaboration and planetary protection (02:16-02:57).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video perfectly aligns with the mission by showcasing an optimistic future where advanced AI and human empathy combine to solve existential threats, leading to a positive outcome for humanity and the planet (02:34-02:57).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The narrative is entirely driven by advanced technology, from the AI 'Vella' predicting events and requiring human emotional input to the use of futuristic vehicles, underwater infrastructure, holographic displays, and a mechanical suit for disaster mitigation. Technology is an active and essential character in the story (00:00-02:57).",
+      "confidence": "high"
+    }
+  ]
+}

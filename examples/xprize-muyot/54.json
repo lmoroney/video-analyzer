@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "Future Vision XPRIZE: Building Optimistic Visions of the Future",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total duration of 2 minutes and 46 seconds, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card appears from 02:29 to 02:46. The last 15 seconds (02:31-02:46) clearly show the specified sponsors: Google, XPRIZE, Jed McCaleb, and Salesforce.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video depicts advanced futuristic concepts such as cities on Mars (00:19), underwater civilizations (00:27), adventure parks on the moon (00:37), genetically enhanced humans (00:55-01:07, 01:16-01:27), and interstellar travel (01:49-01:54, 02:12-02:13), all characteristic of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The narration explicitly states that 'This world is a better place' (00:50), 'Humans live longer now, healthier, fuller lives' (00:41-00:44), and 'World peace was no longer a hope. It became a definition' (01:29-01:37), all driven by advanced technology.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "The entire narrative is centered on technological advancements, from terraforming Mars (00:19) and creating underwater cities (00:27) to enhancing human capabilities through AI (00:55-01:07, 01:21-01:27) and enabling interstellar travel (01:49-01:54).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, offensive language, or sexual content. It maintains a positive and family-friendly tone throughout.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable real-world brands are visible in the video, apart from those listed on the end card. The 'ASTRA' logo on some jackets appears to be a fictional brand within the video's universe.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video presents a highly compelling and coherent narrative of humanity's future, with impressive visual effects and a clear message, demonstrating strong realization within its production constraints.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story thinks exceptionally big, showcasing humanity living on Mars, under the ocean, on the moon, achieving world peace, universal provision, and even traveling beyond the Milky Way galaxy (01:49-02:11).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video is perfectly aligned with the mission, explicitly promoting an optimistic, technology-enabled future where humanity thrives, solves global challenges, and expands its reach across the cosmos, as stated in the narration and shown visually.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "Technology is central to every aspect of the narrative, from enabling new habitats and human enhancements to facilitating interstellar exploration. It's not merely a backdrop but the driving force behind the depicted future, exemplified by the news report on AI-enhanced fertility (00:55) and holographic interfaces (01:21).",
+      "confidence": "high"
+    }
+  ]
+}

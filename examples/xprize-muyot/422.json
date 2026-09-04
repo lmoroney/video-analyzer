@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "The Orbital Mind - Future Vision XPRIZE",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video is exactly 3 minutes and 15 seconds long.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The last 15 seconds of the video (3:00-3:15) display an end card listing 'FUTUREVISION XPRIZE' and sponsors including Salesforce, Google, XPRIZE, and Jed McCaleb.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video portrays a future in 2029 where AGI emerges, leading to humans with AI implants and off-grid communities, and eventually humanity living on the moon, which are all elements of science fiction (0:15, 0:30-0:40, 2:36-2:44).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "While initially showing conflict and struggle, the video concludes with a vision of humanity achieving a 'united consciousness' through technology, leading to a new civilization on the moon, suggesting an optimistic and technology-forward future (2:00-2:08, 2:36-2:44, 2:46-2:50).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "The narrative revolves around the emergence of AGI and its integration into human society, defining different human factions and leading to a 'united consciousness' as a solution, making technology a central plot element (0:15, 0:33-0:38, 1:11-1:12, 2:00-2:08).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video does not contain any explicit violence, language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands are visible within the video content itself, only on the end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "The video presents a grand narrative about humanity's evolution with AI, featuring high production quality and strong emotional beats, particularly in the father-son dynamic and the ultimate embrace of a 'united consciousness' (1:09-1:20, 1:42-1:59, 2:00-2:08).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story tackles profound questions about humanity's evolution, the integration of AI, and the future of consciousness, culminating in a vision of a unified human-AI existence and off-world civilization, demonstrating a very ambitious scope (0:15-0:38, 2:36-2:50).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video directly addresses the potential for AGI to lead to a positive 'next evolutionary step' for humanity through 'united consciousness' and 'alignment of greater minds,' presenting a highly optimistic and technology-enabled future vision (2:00-2:08, 2:46-2:50).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The narrative is deeply intertwined with advanced AI, from the emergence of AGI and human-AI symbiosis to the concept of a 'weave' of consciousness, visually represented through glowing eyes and abstract neural networks, making technology integral to the storytelling (0:15, 0:33-0:38, 0:54, 1:00, 1:11-1:12, 1:31-1:33).",
+      "confidence": "high"
+    }
+  ]
+}

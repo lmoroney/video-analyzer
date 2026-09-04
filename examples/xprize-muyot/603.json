@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "LISTEN: Building Optimistic Visions of the Future",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total duration of 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card, featuring the listed sponsors, appears from 2:59 to 3:15, which includes the last 15 seconds of the video.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features humanoid robots interacting with humans in various futuristic scenarios, including advanced medical procedures (00:10) and discussions about humanity's future (01:35, 02:01).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "Despite scenes of destruction (01:55), the video concludes with diverse groups of people and robots working together, sharing food, and smiling, conveying a message of unity and a positive future enabled by technology (02:26, 02:43).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Robots are central characters, shown assisting in medical care (00:10), flying an elderly woman (00:23), hugging a child (00:34), and actively participating in discussions about humanity's survival and future (01:35, 02:01, 02:17).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video depicts scenes of ruined cities (00:20, 01:55) but does not show explicit violence, offensive language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands or logos are visible in the video content itself, apart from those displayed on the final end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "The video presents an abstract but emotionally resonant narrative about connection and survival, with high-quality visuals and a clear overarching message, making it quite compelling despite its short length.",
+      "confidence": "medium"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The narrative explores grand themes of human-robot coexistence, global challenges, and collective action for survival, demonstrating a broad and ambitious vision for humanity's future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video strongly aligns with the mission by showcasing technology (robots) as integral partners in overcoming adversity and fostering a hopeful, unified future for humanity, explicitly stating 'Building Optimistic Visions of the Future' on the end card (02:59).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "Advanced technology, particularly the sentient robots, is not merely a backdrop but an active and essential component of the narrative, participating in healing, community building, and problem-solving throughout the video.",
+      "confidence": "high"
+    }
+  ]
+}

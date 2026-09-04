@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=y_211111111",
+  "video_title": "GaiaSophia: A Vision of Ecological Restoration",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total duration of 3 minutes and 15 seconds (03:15).",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card appears from 02:59 to 03:15 and clearly displays 'FUTUREVISION XPRIZE' along with logos for Salesforce, Google, RANGE, XPRIZE, XSOVA, ARK INVEST, and 'Presenting Donor Jed McCaleb'.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video depicts advanced environmental restoration technology, 'Gaia Sophia', capable of rapidly transforming barren, polluted landscapes into lush, thriving ecosystems, which is a futuristic and speculative concept.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video transitions from scenes of drought and pollution to vibrant, green landscapes and thriving communities, showcasing technology as a key enabler for ecological recovery and a positive future (e.g., 00:29-00:33, 01:49-01:55).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "The 'Gaia Sophia' system, including a rugged tablet with data visualizations (00:39-00:41, 01:39-01:41) and solar-powered sensors (01:10-01:13, 01:41-01:43), is central to the story, actively guiding and enabling the environmental restoration efforts.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, offensive language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable commercial brands are visible in the video outside of the final sponsor card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video tells a compelling story of environmental degradation and subsequent restoration through clear visual contrasts and a hopeful narrative arc, effectively realized with high production quality within its short runtime.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story addresses global challenges like desertification, pollution, and climate change, presenting a grand vision of a future where humanity successfully restores and coexists with nature on a planetary scale (e.g., 02:48-02:55).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video perfectly aligns with the XPRIZE mission by showcasing a future where advanced technology ('Gaia Sophia') is used to overcome environmental crises, leading to a genuinely optimistic and thriving world.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The narrative is driven by the 'Gaia Sophia' technology, which is shown actively monitoring, analyzing, and guiding the ecological restoration process, making it an integral part of the storytelling rather than a mere prop (e.g., 00:33-00:41, 01:34-01:41).",
+      "confidence": "high"
+    }
+  ]
+}

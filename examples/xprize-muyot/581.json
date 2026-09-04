@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "Technology and Humanity's Evolution in Arum",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video is 0:25 in length, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video ends at 0:25 and does not feature an end card with sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce in its last 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video depicts advanced, glowing technology integrated into the environment (0:00, 0:05, 0:10) and a narrative about 'the universe of Arum' where technology has 'freed humanity from the slavery of time,' indicating a science fiction genre.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The narration explicitly states that 'the right technology... is abundance' (0:01) and that 'technology has freed humanity from the slavery of time' (0:07), portraying a positive and advanced future enabled by technology.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is not merely background; it is a central theme, described as freeing humanity and being the 'ultimate tool of our evolution' (0:07, 0:18). Visuals show glowing, interactive technology responding to human touch and movement (0:00, 0:05, 0:10).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands are visible in the video.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 7,
+      "explanation": "While very short, the video effectively establishes a futuristic setting and a philosophical concept about technology's role in human evolution through evocative visuals and narration (0:00-0:25). It is well-realized as a concept piece, though it does not present a traditional narrative story.",
+      "confidence": "medium"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The narration speaks of technology freeing humanity from the 'slavery of time' and becoming the 'ultimate tool of our evolution' (0:07, 0:18), which represents a very ambitious and expansive vision for humanity's future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video explicitly promotes an optimistic, technology-enabled future where technology leads to 'abundance' (0:01) and frees humanity from the 'slavery of time' (0:07), aligning perfectly with the Future Vision XPRIZE mission.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The storytelling is highly tech-forward, with advanced, glowing technology visually and narratively integrated as the central theme, described as the 'ultimate tool of our evolution' (0:18) and shown interacting with humans (0:00, 0:05, 0:10).",
+      "confidence": "high"
+    }
+  ]
+}

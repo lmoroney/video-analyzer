@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "COLONIZE - Future Vision XPRIZE",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total length of 2 minutes and 57 seconds, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The end card appears from 02:46 to 02:57, which is 11 seconds, not 15 seconds. It does contain the mentioned sponsors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features futuristic cityscapes (00:00, 02:06), advanced robotics (00:12, 01:30), bio-mechanical integration (01:48), and planetary-scale terraforming (02:17, 02:34), all strong elements of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video transitions from a dark, decaying, and foggy city (00:00-00:12, 00:58-01:11) and a desolate landscape (02:00) to a vibrant, green, and technologically advanced future city (02:06, 02:17) and a thriving planet (02:34), indicating a hopeful and optimistic vision.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, depicted through spider-like robots (00:12), bio-mechanical processes (00:23, 01:48), and advanced infrastructure that revitalizes the environment (02:03, 02:17).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, language, or sexual content. There is a small explosion at 01:06, but it is not graphic.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The neon signs visible in the dystopian city, such as 'VOID-NET' and 'KAIRO-DYNE' (00:58), are fictional brands and not recognizable real-world brands.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video tells a compelling story of environmental decay and technological rebirth through evocative visuals and a clear narrative arc, demonstrating high production quality and effective storytelling within its short runtime.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story envisions a complete transformation of Earth from a state of ruin to a thriving, technologically integrated, and ecologically balanced planet, showcasing a grand vision for humanity's future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video strongly aligns with the XPRIZE mission by depicting a future where advanced technology is used to overcome environmental challenges and create a beautiful, sustainable, and optimistic world for humanity.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The narrative is driven by advanced technology, from the bio-mechanical processes that revitalize the land (02:03) to the futuristic infrastructure of the new cities (02:06) and the global network connecting the planet (02:34), making technology an integral part of the story's progression.",
+      "confidence": "high"
+    }
+  ]
+}

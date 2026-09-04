@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "Renaissance - Future Vision XPRIZE Trailer",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's total runtime is exactly 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The last 15 seconds of the video (from 3:00 to 3:15) display an end card with the 'FUTUREVISION XPRIZE' logo and lists Google, XPRIZE, Jed McCaleb, and Salesforce among its partners and sponsors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video clearly depicts futuristic technology, space travel, advanced societies, and non-human intelligent beings, all hallmarks of science fiction (e.g., 00:00, 00:06, 00:11, 01:40, 02:20).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "While depicting conflict and oppression, the video's narrative centers on a struggle for freedom and the spread of ideas, culminating in a 'renaissance' (02:54) and the awakening of 'a million more' (02:06), suggesting a hopeful and technology-enabled future where humanity breaks free from control.",
+      "confidence": "medium"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology, such as interstellar portals (00:01), advanced spacecraft (00:11, 02:35), and a controlling 'system' (01:48), is central to the plot, driving the conflict and the protagonists' quest for freedom.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains action sequences with explosions and combat (e.g., 02:35-02:45) but no explicit gore, strong language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands are visible within the video's narrative content, only on the end card (3:00-3:15).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video presents a visually stunning and intriguing sci-fi narrative about rebellion and the spread of ideas against an oppressive system, effectively building suspense and character motivation within its short runtime (e.g., 00:40, 01:02, 01:25, 02:23).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The story explores grand themes such as interstellar civilization, the power of ideas to challenge oppressive systems, and the potential for a societal 'renaissance' (02:54), demonstrating a broad vision for humanity's future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "Despite depicting initial oppression and conflict, the narrative's core message of liberation through the spread of knowledge and the eventual 'renaissance' (02:54) aligns with an optimistic, technology-enabled future, where technology is both the tool of control and the means to freedom.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "Advanced technologies like interstellar portals (00:01), futuristic transportation (00:11, 02:35), and a pervasive control system (01:48) are integral to the plot, driving character actions and the central conflict, rather than merely serving as background elements.",
+      "confidence": "high"
+    }
+  ]
+}

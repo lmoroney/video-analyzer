@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=y_2_2_2_2_2",
+  "video_title": "Syntropy: No More Dreams of Yesterday",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's total duration is exactly 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The last 15 seconds of the video (3:00-3:15) display an end card featuring sponsors such as Google, XPRIZE, Jed McCaleb, and Salesforce.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video portrays a future with advanced technologies like rejuvenation protocols (0:25), space mining (0:54, 1:25), futuristic cities (0:45, 1:10), and an AGI ship (2:27), which are all elements of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video explicitly contrasts a past \"Age of Scarcity\" (0:03) with a future \"Era of Abundance\" (0:27) enabled by technology, showing thriving cities (0:45) and a positive outlook on humanity's potential, despite a new challenge.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is deeply integrated into the narrative, with concepts like \"Rejuvenation protocol complete\" (0:25), \"Quantum Core\" (0:54), \"AGI Ship\" (2:27), and a futuristic hammer (1:53) driving the plot and world-building.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "While there are scenes depicting conflict and destruction (e.g., 0:13-0:16, 2:03), they are not explicitly graphic or gratuitous. There is no explicit language or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable commercial brands were observed within the video content, excluding the sponsors listed on the end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "The video presents a compelling narrative arc from scarcity to abundance, then introduces a new existential threat, all supported by high-quality visuals and a clear voice-over.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The story explores grand themes such as humanity's transition from an \"Age of Scarcity\" to an \"Era of Abundance\" (0:03-0:27), space colonization (0:52), and confronting a universe-level \"Entropic Anomaly\" (1:10), demonstrating a very broad scope for humanity's future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video strongly aligns with the XPRIZE mission by showcasing a future where technology enables humanity to overcome scarcity and achieve abundance (0:27), and then to confront new cosmic challenges with a \"Syntropic Response\" (2:33), portraying a genuinely optimistic and technology-driven future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The storytelling is highly tech-forward, with advanced technologies such as rejuvenation protocols (0:25), quantum cores (0:54), and an AGI ship (2:27) being central to the plot and the evolution of humanity's existence.",
+      "confidence": "high"
+    }
+  ]
+}

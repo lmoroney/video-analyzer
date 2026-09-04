@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "The Moon We Made",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video is 1 minute and 8 seconds long, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The end card from 01:04 to 01:08 displays the title 'The Moon We Made' and 'Written by Matthew Warner', but does not include any of the listed sponsors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features advanced AI (00:03, 00:24-00:28, 00:56-00:57), space travel (00:05-00:08, 00:13-00:16, 01:00-01:03), moon mining (00:00-00:02, 00:41-00:49), and futuristic habitats (00:17-00:18), all characteristic elements of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The narrative depicts an AI saving Earth from an asteroid (00:03-00:04, 00:50-00:53), leading to an advanced civilization (00:14-00:16) and the potential for a 'new beginning' (01:06-01:07), despite some initial resistance to AI.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology, particularly the AI character (00:03, 00:24-00:28, 00:56-00:57) and space-faring capabilities (00:00-00:02, 00:05-00:08, 00:13-00:16, 00:41-00:49), is central to the narrative, driving the plot about saving Earth from an asteroid and the subsequent societal debate.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video does not contain any explicit violence, language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands are visible in the video, apart from the fictional 'U.N. AI Tribunal' logo (00:29).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "The video presents a complex narrative about an AI saving Earth, leading to societal debate and a new beginning, all within a short runtime. The visuals are well-rendered and effectively convey the story's scope.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The story tackles grand themes such as humanity's survival against cosmic threats, the role of advanced AI in society, and the establishment of off-world civilizations, demonstrating a significant scope for humanity's future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "The video portrays a future where humanity overcomes an existential threat through advanced AI and technology, leading to an advanced civilization and a hopeful 'new beginning' (01:06-01:07), aligning with an optimistic, technology-enabled vision.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The narrative is built around advanced technology, specifically an AI character who is central to saving Earth and shaping humanity's future. Space mining, advanced spacecraft, and the ethical debate surrounding AI are all deeply integrated into the plot.",
+      "confidence": "high"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "Curiosity: Europa Deep Space Outpost",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's total runtime is 2 minutes and 43 seconds, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The last 15 seconds of the video (02:28-02:43) show an underwater scene with ice cracking, followed by a fade to black, and do not contain an end card with the listed sponsors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video depicts space travel to Europa, advanced AI (Athena), futuristic technology like deep space outposts and underwater submersibles, and the discovery of intelligent alien life, all characteristic of science fiction (00:04, 00:29, 01:44, 02:12).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The narration at 00:15-00:18 states, \"Instead, we found the ultimate partner,\" referring to AGI, and the mission is to build \"humanity's first deep space outpost\" (01:09). The ending narration (02:36-02:43) emphasizes technology opening the stars and humanity walking among them, portraying a hopeful and technology-forward future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, with AGI named Athena guiding the mission (00:20-00:28, 01:17-01:23), robots building the deep space outpost (01:02-01:10), and advanced submersibles used for underwater exploration and first contact (01:34-01:41).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, language, or sexual content. There is a brief moment of an astronaut screaming in panic (00:02, 02:01) and an alien being captured (01:47-01:50), but these are not graphic.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The narration mentions \"Google\" releasing the first AGI in 2027 (00:10). The lander also has \"NASA ESA\" visible on its side (00:52, 01:01).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video presents a compelling narrative of humanity's expansion into space, the discovery of intelligent alien life, and a subsequent misunderstanding, all within a visually stunning and well-produced short film. The pacing and character reactions effectively convey the wonder and tension of the events.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story envisions humanity building deep space outposts on other celestial bodies (01:09), discovering and interacting with intelligent alien civilizations (01:44, 02:19), and leveraging advanced AI for exploration and development, demonstrating a grand vision for the future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video strongly aligns with the mission by portraying a future where advanced AI (Athena) and technology enable humanity to overcome challenges and explore the cosmos, ultimately leading to first contact and a hopeful message of coexistence and continued exploration (00:15-00:18, 02:36-02:43).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The narrative is driven by advanced technology, such as the AGI Athena providing critical information and guidance (00:20-00:28, 01:17-01:23), autonomous robots constructing the base (01:02-01:10), and specialized submersibles enabling underwater exploration and interaction with alien life (01:34-01:41), making technology an integral part of the story's progression.",
+      "confidence": "high"
+    }
+  ]
+}

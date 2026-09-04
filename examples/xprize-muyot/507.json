@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=y_211111111",
+  "video_title": "Mapping the Physical Language of Life - Future Vision XPRIZE",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total duration of exactly 3 minutes and 15 seconds (03:15).",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The last 15 seconds of the video (from 02:57 to 03:15) display an end card that lists Google, XPRIZE, Jed McCaleb, and Salesforce among its partners, sponsors, and donors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video presents highly advanced concepts such as the 'Physical Response Intervention Specification Map (PRISM)' (01:20) and 'Precision Regenerative Rehabilitation' (02:30) that involve precisely mapping and influencing biological responses at a cellular level to optimize human recovery and performance, which are currently beyond present-day scientific capabilities, placing it in the realm of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video explicitly promotes a hopeful and optimistic vision, stating that the technology will lead to 'human recovery,' 'resilience, performance, independence,' and 'healthier, longer lives' (01:57, 02:40-02:47).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "The entire narrative is centered around the development and application of the 'Physical Response Intervention Specification Map (PRISM)' (01:20) and its role in 'Precision Regenerative Rehabilitation' (02:30), making technology the core driver of the story.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video does not contain any explicit violence, language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands are displayed or mentioned in the video, apart from those featured on the end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video effectively communicates a complex scientific vision through clear narration and high-quality, illustrative animations (e.g., DNA mapping at 00:00, neural networks at 00:07, cellular interactions at 00:57, and the global PRISM map at 01:14), creating a compelling and well-realized narrative.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story thinks extremely big by proposing a global 'Physical Response Intervention Specification Map (PRISM)' (01:20) to understand and optimize every biological response, leading to 'resilience, performance, independence, and healthier, longer lives' (02:40-02:47) for all humanity.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story is fully aligned with the XPRIZE mission, as it explicitly presents an optimistic, technology-enabled future where humanity maps the 'physical language of life' (02:52) to achieve 'precision regenerative rehabilitation' (02:30) and ultimately 'healthier, longer lives' (02:47). The end card also directly references the XPRIZE mission.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The storytelling is highly tech-forward, using sophisticated animations to visualize intricate biological processes (e.g., DNA, neurons, cells at 00:00-00:13) and the proposed technological interventions (e.g., robotic interaction at 02:12, energy application at 02:23), making the technology central to the narrative and its understanding.",
+      "confidence": "high"
+    }
+  ]
+}

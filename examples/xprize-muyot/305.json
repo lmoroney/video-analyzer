@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "Carriers of Earth - Future Vision XPRIZE",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total duration of 2 minutes and 41 seconds, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card appears from 02:28 to 02:41 and clearly displays the logos for Google, XPRIZE, Jed McCaleb (as Presenting Donor), and Salesforce (as Presenting Sponsor).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features advanced technology such as time travel (01:03, 01:13, 01:34), AI climate control (00:21, 00:33), futuristic cities (00:08, 00:26), and a mission to save Earth's biodiversity by going back in time, all of which are hallmarks of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "While the initial future (2150) is bleak, the narrative focuses on a mission to use time travel and advanced technology to restore Earth's biodiversity and climate, culminating in a hopeful vision of a restored planet in 2050 (02:18-02:23).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, with time travel being the core plot device (01:13, 01:34), an AI named Gaia managing climate (00:21, 00:33), and holographic displays used for critical data analysis (00:33, 01:17).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, language, or sexual content. There is a brief scene of a burning vehicle (02:03) and people running, implying action, but it is not graphic.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable commercial brands are visible or mentioned within the narrative portion of the video, only the sponsors on the final end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "The video effectively sets up a high-stakes time-travel mission to save Earth, with clear character motivations and impressive futuristic visuals, making for a compelling and well-realized short narrative.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The story tackles the monumental challenge of global climate collapse and the extinction of life, proposing a solution involving time travel to restore Earth's biodiversity, which is a very ambitious and 'big' vision for humanity's future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The narrative directly addresses a global crisis (climate collapse, biodiversity loss) and presents a technology-driven solution (time travel, AI climate control) that leads to a positive and hopeful outcome for Earth, aligning strongly with the XPRIZE mission.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "Advanced technology, particularly time travel and AI, is not just background but is integral to the plot, the problem, and the solution. Holographic interfaces and futuristic infrastructure are consistently shown and used by characters, demonstrating tech-forward storytelling.",
+      "confidence": "high"
+    }
+  ]
+}

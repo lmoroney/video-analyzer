@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "Future Vision XPRIZE: Building Optimistic Visions of the Future",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's total length is exactly 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "From 2:59 to 3:15, the video displays an end card with 'FUTUREVISION XPRIZE' and lists Google, RANGE, XPRIZE, Salesforce, ARK INVEST, and Jed McCaleb as partners/sponsors/donors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video depicts advanced futuristic technologies such as holographic interfaces, robotic assistance, exoskeletons, and highly integrated AI systems, which are characteristic of science fiction (00:00-00:15, 00:20-00:29, 00:47-00:55, 01:31-01:57).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video transitions from initial fear of technology to a future where it aids in rebuilding, healthcare, environmental sustainability, and disaster relief, ultimately fostering human connection and progress (00:29-00:47, 01:08-01:22, 01:31-01:57, 02:30-02:59).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, shown actively assisting in medical care (00:15-00:29, 00:55-01:02), urban development (01:31-01:50), personal assistance (01:50-01:57), and disaster response (02:09-02:29), driving the story's themes of human-tech collaboration.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, language, or sexual content. While there is a scene of a ruined city and people in distress (02:09-02:29), it is not graphic.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands are shown or mentioned within the narrative portion of the video.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video tells a compelling story of humanity's evolving relationship with technology, from initial apprehension to harmonious integration, effectively conveying its message through strong visuals and narration within its animated format.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The story envisions a future where technology helps overcome significant challenges like natural disasters and personal limitations, enabling a more connected, sustainable, and fulfilling human existence, demonstrating a grand vision for humanity.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video perfectly aligns with the Future Vision XPRIZE mission by showcasing an optimistic future where advanced technology is a tool for human empowerment, resilience, and collective well-being, transforming challenges into opportunities.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The narrative is driven by the integration of advanced technology, such as AI companions, robotic assistance, and smart infrastructure, which are not merely props but active participants in shaping the characters' lives and the future world.",
+      "confidence": "high"
+    }
+  ]
+}

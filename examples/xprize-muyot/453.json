@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "The Last Exam",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's total runtime is 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's end card, from 3:00 to 3:15, displays sponsors such as Google, XPRIZE, Jed McCaleb, and Salesforce.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features advanced technologies like augmented reality glasses (0:04), holographic projections (0:17, 1:21, 2:05), and a global network of drones for reef restoration (1:24, 2:16), set in the near future (Sarabhai Challenge 2039), indicating a science fiction genre.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The narrative depicts a community successfully using technology (drones, open-source collaboration) to restore a coral reef and save their school, culminating in a hopeful future where the school becomes \"The Commons\" (2:29-2:49).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is a core element of the narrative, with AR glasses used for species identification (0:07), a projector for teaching about the reef (0:56), and 200 drones built and deployed to save the reef (1:24, 2:16), all of which are crucial to the plot.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video does not contain any explicit violence, language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands are used in the video's main content, apart from those listed on the end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video tells a compelling story of a community uniting to save their school and environment through innovation, with strong emotional beats and high production quality for a short film (e.g., the children building drones, the father's boat in the storm, the reef's recovery).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The story tackles significant global challenges like climate change and education, presenting a future where open-source technology and global collaboration can solve complex environmental problems and foster learning worldwide (2:05-2:14, 2:57-2:59).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video directly aligns with the Future Vision XPRIZE mission by showcasing a genuinely optimistic, technology-enabled future where a community uses innovation to overcome environmental and educational challenges, leading to a positive global impact (3:00-3:15).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The storytelling is tech-forward, with advanced technologies like AR glasses (0:07), holographic projections (1:21), and a global open-source drone project (2:05-2:14) being central to the plot and the characters' journey to save their reef and school.",
+      "confidence": "high"
+    }
+  ]
+}

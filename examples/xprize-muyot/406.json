@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "Icarus Project: A Climate Repair System",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video is 3 minutes and 16 seconds long, which is longer than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The last 16 seconds of the video (from 03:00 to 03:16) are an end card that includes sponsors such as Google, XPRIZE, Jed McCaleb, and Salesforce.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features advanced nanotechnology (Icarus particles), futuristic interfaces (00:26, 01:41), and a dystopian future setting, which are characteristic elements of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video portrays a future where humanity faces severe climate change but ultimately develops and deploys advanced nanotechnology (Icarus) to reverse the damage, leading to a restored environment and a hopeful future (02:37-02:58).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "The central plot of the video is the development and deployment of the 'Icarus' nanotechnology to combat climate change, with characters actively engaging with and relying on this advanced technology throughout the narrative (e.g., 01:26-01:35, 01:41-01:51, 02:37-02:43).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video does not contain any explicit violence, language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "Apart from the sponsors displayed on the end card, no other recognizable brands are featured in the video.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video presents a compelling narrative arc from climate disaster to technological salvation, with strong visual storytelling and emotional impact, particularly through the characters' struggles and eventual hope (e.g., 00:54-01:04, 02:17-02:20, 02:53-02:58).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story addresses the monumental challenge of global climate change and envisions a future where humanity successfully deploys advanced technology to not only mitigate but reverse environmental damage on a planetary scale, demonstrating a grand vision for the future (01:14-01:17, 02:37-02:43).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video perfectly aligns with the Future Vision XPRIZE mission by depicting a future where a catastrophic climate crisis is resolved through a groundbreaking technological solution (Icarus), resulting in a restored planet and a deeply optimistic outlook for humanity (02:53-02:58).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The narrative is deeply intertwined with the Icarus climate repair system, showcasing its scientific principles (01:21-01:25) and its impact on the world. Advanced interfaces (00:26-00:31, 01:41-01:51) and augmented characters (01:49) are integral to the storytelling, making it highly tech-forward.",
+      "confidence": "high"
+    }
+  ]
+}

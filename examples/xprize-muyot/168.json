@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "Public Domain",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total duration of 3 minutes and 15 seconds (03:15).",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "From 03:00 to 03:15, the video displays an end card with 'FUTUREVISION XPRIZE' and lists 'salesforce' as Presenting Sponsor, 'Google' and 'XPRIZE' as Partners, and 'Jed McCaleb' as Presenting Donor.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video depicts a futuristic society with advanced technologies such as 3D food printers, humanoid robots, brain implants, autonomous vehicles, and a dystopian social structure, all characteristic elements of science fiction (e.g., 00:11-00:18, 00:23-00:24, 00:48-00:49, 00:59-01:01).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video portrays a dystopian future where technology has led to extreme social stratification ('Orgs' vs. 'Blanks'), environmental collapse, and a subscription-based existence where basic necessities like air are monetized (00:28-00:34, 01:31-01:32, 01:48-01:49). The narrative focuses on a struggle against this oppressive system, which is not optimistic.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, driving the plot and character motivations. It creates the societal divide (implants at 00:59-01:01), controls resources (subscription expired at 01:48-01:49), and is the key to the protagonist's mission to find suppressed patents (01:42-01:46).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains scenes of protest and a child in distress, but no explicit violence, language, or sexual content is shown.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands are used in the video, apart from those displayed on the end card from 03:00 to 03:15.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "The video effectively establishes a dystopian world, introduces a clear conflict, and builds emotional stakes around the protagonist's child. The production quality, visual effects, and acting are strong for a short film, making the story compelling and well-realized.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The story explores profound societal changes, including advanced technology's impact on human identity (Orgs vs. Blanks), social structures, and the monetization of basic human needs. It presents a large-scale vision of a technologically advanced yet deeply divided future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 2,
+      "explanation": "The story is largely misaligned with the mission of portraying an optimistic future. It depicts a dystopian world where technology has led to severe inequality, control, and the commodification of life's essentials, which is the opposite of an optimistic vision.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The storytelling is highly tech-forward, with advanced technology being integral to the plot, character development, and world-building. Holographic interfaces, brain implants, companion robots, and 3D printing are not just background elements but crucial drivers of the narrative and its central conflict.",
+      "confidence": "high"
+    }
+  ]
+}

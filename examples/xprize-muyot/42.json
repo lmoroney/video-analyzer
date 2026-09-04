@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "NEVARA - Future Vision XPRIZE",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total duration of 1 minute and 56 seconds, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card appears from 01:38 to 01:56, lasting 18 seconds, and clearly displays logos for Google, XPRIZE, Jed McCaleb, and Salesforce, among others.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features advanced technology like 'lithic science' that manipulates gravity and preserves vibrations, futuristic cities, space travel, and themes of extended lifespans and societal control, all indicative of science fiction (e.g., 00:02-00:15, 00:30-00:33, 01:08-01:09).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "While the video depicts initial conflict and destruction (00:00-00:01, 00:20-00:21), it concludes with the protagonists in a serene, beautiful new world (01:30-01:32) and a voiceover stating, 'Science didn't save humanity. Sharing did' (01:32-01:35), suggesting a hopeful and collaborative future enabled by technology.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology, specifically 'lithic science,' is central to the narrative, enabling the sages' long lives and their control over society (00:13-00:15, 00:34-00:36). Advanced flying objects are used for transport and warfare (00:30-00:33, 01:18-01:19), and the suspended human figures (01:05-01:06) represent a key technological aspect of the ruling order.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains scenes of combat, explosions, and destruction (e.g., 00:00, 00:07, 00:20, 00:57, 01:18, 01:21, 01:23), but these are stylized and do not depict graphic injury, gore, explicit language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands or logos were observed within the narrative portion of the video, only on the final end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video effectively establishes a compelling conflict between an oppressive, technologically advanced society and a resistance, leading to a new beginning. The high-quality visuals and concise narrative create an engaging and well-realized story within its short runtime.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story explores grand themes such as immortality, societal control, rebellion, and the rebuilding of civilization on a new world, driven by advanced 'lithic science' and ultimately a message of 'sharing,' demonstrating a very ambitious vision for humanity's future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "Despite initial depictions of conflict and a 'cruel order,' the narrative culminates in a genuinely optimistic vision of a new, beautiful world (01:30-01:32) where humanity thrives through 'sharing' (01:32-01:35), aligning well with the competition's focus on optimistic, technology-enabled futures.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The concept of 'lithic science' is fundamental to the plot, explaining the sages' power and the world's advanced state (00:02-00:15). Technologies like flying objects (00:30-00:33) and the human suspension chambers (01:05-01:06) are integral to the narrative's conflict and world-building, showcasing tech-forward storytelling.",
+      "confidence": "high"
+    }
+  ]
+}

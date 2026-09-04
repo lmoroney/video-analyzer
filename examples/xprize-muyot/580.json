@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "Assembly Theory: Building Optimistic Visions of the Future",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total duration of 2 minutes and 51 seconds, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card appears from 02:36 to 02:51 and clearly displays 'Google', 'RANGE', 'XPRIZE', 'Salesforce', 'XSOVA', 'ARK INVEST', and 'Jed McCaleb' as partners and sponsors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features futuristic elements such as advanced aircraft (01:08), a speculative future city (01:32), and a device that appears to manipulate matter to restore nature (01:43-01:48, 02:08-02:11), all indicative of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "While starting with scenes of environmental degradation (whaling at 00:25) and resource scarcity (water rationing at 01:21, 02:00), the narrative progresses to show technology being used to restore ecosystems (fern growing at 02:17, whales returning at 02:23) and bring joy to people (02:11), culminating in a positive, technology-enabled future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the plot, from the rocket launcher used to disable the whaling ship (00:39) to the futuristic aircraft (01:08) and, most importantly, the 'Assembly Theory' device that transforms golden origami into a restorative force for the environment (01:43-01:48, 02:08-02:11).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video depicts a whale being hoisted from the ocean (00:25) and a rocket hitting a ship (00:39-00:45), implying violence. However, there is no explicit gore, strong language, or sexual content shown.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The 'Yamaha' logo is visible on the outboard motor of the small boat at 00:23 and 00:54.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "The video presents an engaging narrative arc from environmental crisis to technological solution, with high-quality visuals and effective storytelling that makes it compelling despite its short duration.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The story tackles global challenges like resource depletion and environmental collapse, offering a grand vision of technological intervention that restores nature on a planetary scale, demonstrating big-picture thinking about humanity's future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video directly aligns with the XPRIZE mission by showcasing a future where advanced technology is instrumental in overcoming significant environmental and societal challenges, leading to a clearly optimistic outcome. The end card explicitly states 'Building Optimistic Visions of the Future'.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The core of the narrative, the 'Assembly Theory' device and its golden origami components (01:43-01:48, 02:08-02:11), is an advanced technology that drives the plot and enables the positive transformation of the world, making it highly tech-forward storytelling.",
+      "confidence": "high"
+    }
+  ]
+}

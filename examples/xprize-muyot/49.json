@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "TRANSITUS THE CROSSING BEGINS",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total duration of 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "From 03:00 to 03:15, the video displays an end card with 'FUTUREVISION X PRIZE' and lists Google, RANGE, salesforce, XSOVA, ARK INVEST, and Jed McCaleb as partners, sponsors, or donors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video depicts a futuristic setting with advanced technology, space travel, robots, and human colonization of Mars, which are all hallmarks of science fiction (e.g., 00:00-00:07, 00:27-00:30, 01:07-01:09).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video initially presents a highly optimistic future where aging is cured, Mars is colonized, and AI assists humanity (01:07-01:50). While there's a shift to a crisis (02:37-02:42), the overarching message and the title 'The Crossing Begins' suggest a hopeful, forward-looking perspective on overcoming challenges through technology.",
+      "confidence": "medium"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, enabling key advancements like curing aging (01:10-01:14), AI for learning and exploration (01:15-01:19, 01:46-01:50), and the colonization of Mars (00:27-00:30, 01:36-01:39).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains scenes of peril and destruction (e.g., 02:37-02:42) but no explicit violence, language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable commercial brands are visible or mentioned within the main content of the video, only fictional entities like 'United Galactic Authority'.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 7,
+      "explanation": "The video presents a grand vision with high production quality and impressive visuals. However, the narrative is more of a montage of concepts and emotional beats rather than a deeply developed story, making it compelling in its scope but somewhat less realized as a cohesive plot within its short runtime.",
+      "confidence": "medium"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story thinks extremely big, showcasing humanity curing aging, colonizing Mars, developing advanced AI, and exploring the unknown, fundamentally altering the human condition and expanding its reach across the galaxy (e.g., 01:07-01:19, 01:36-01:39).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video strongly aligns with the XPRIZE mission by depicting a future where humanity has leveraged technology to overcome significant challenges like aging and to build new civilizations on other planets. Despite a brief crisis, the overall tone is one of progress and the potential for a better future through innovation.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "Advanced technology is not merely background but is integral to the plot and character interactions, from the AI companion Atlas Z5 (00:32-00:34) and cellular regeneration (01:10-01:14) to personalized education by robots (01:46-01:50) and space colonization, demonstrating a tech-forward approach to storytelling.",
+      "confidence": "high"
+    }
+  ]
+}

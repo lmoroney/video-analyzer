@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "Tipping Point: Building Optimistic Visions of the Future",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's total duration is exactly 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "From 03:00 to 03:15, the video displays an end card with 'FUTUREVISION XPRIZE', 'Salesforce' as Presenting Sponsor, 'Google' and 'XPRIZE' as Partners, and 'Jed McCaleb' as Presenting Donor.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video depicts advanced technologies such as robotic deforestation machines (00:32), 3D-printed seed pods that grow into trees (01:00), autonomous ocean cleaning drones (01:57), underwater 3D printing for coral reefs (02:12), space-based solar arrays (02:03), and futuristic sustainable cities (02:28), which are speculative and beyond current widespread capabilities.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video begins with environmental destruction but transitions to a future where technology is used to restore forests (01:17), clean oceans (02:00), generate sustainable energy (02:03, 02:24), and build eco-friendly cities (02:28), culminating in a harmonious coexistence between humanity and nature.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, shown as both the cause of initial destruction (robotic deforestation at 00:32) and the primary solution for environmental restoration and future development (3D-printed seed pods at 01:00, ocean cleaning drones at 01:57, underwater 3D printing at 02:12, and sustainable urban planning at 02:28).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video shows deforestation and environmental damage, but it does not contain any explicit violence, offensive language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands or logos are visible within the main content of the video, only on the end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video tells a clear and emotionally resonant story of environmental decline and subsequent restoration, using the journey of a bird as a central motif. The visuals are high quality and effectively convey the narrative arc, making it compelling.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story addresses global challenges on a grand scale, proposing large-scale technological solutions for reforestation, ocean cleanup, sustainable energy, and urban development, envisioning a future where humanity thrives in harmony with a restored planet and even ventures into space.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video perfectly aligns with the Future Vision XPRIZE mission by showcasing a future where technology is leveraged to overcome environmental crises and create a genuinely optimistic and sustainable world, moving past a 'tipping point' of destruction to one of renewal.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The narrative is entirely driven by advanced technology, from 3D-printed seed pods for reforestation (01:00) and AI-powered drones (01:40) to ocean cleaning robots (01:57), underwater 3D printing for coral restoration (02:12), and futuristic sustainable cities (02:28). These technologies are integral to the story's progression and the vision of the future.",
+      "confidence": "high"
+    }
+  ]
+}

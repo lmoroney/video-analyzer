@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "THE WHEEL",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's total duration is exactly 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card, featuring sponsors like Salesforce, Google, XPRIZE, and Jed McCaleb, appears from 2:58 until the end of the video at 3:15, covering the last 17 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video depicts a futuristic society with advanced technology such as holographic displays, AI-powered robots, self-driving cars, and utopian city planning, which are characteristic elements of science fiction (0:19-0:48, 1:14-1:20, 1:32-1:43).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video transitions from a dystopian, fear-driven society (0:06-0:33) to an optimistic future where technology is integrated with nature and community (1:08-2:26), culminating in the text 'Who will we become together?' and 'An invitation for the age we are entering' (2:50-2:57).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, initially portraying a society driven by fear and surveillance (0:11-0:33) and later evolving into a harmonious future enabled by smart farming, sustainable infrastructure, and global data visualization for collective decision-making (1:08-2:26).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, language, or sexual content. While 'conflict escalates' is mentioned on a news screen (0:11), it is not depicted visually.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands are visible or mentioned in the video content itself, only on the final sponsor end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video tells a compelling story of societal transformation from a dystopian past to an optimistic future, effectively using high-quality visuals and a clear narrative arc to convey its message.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The narrative presents a grand vision of a globally transformed society, emphasizing harmony, sustainability, and interconnectedness, moving beyond current challenges to a utopian future (1:32-1:43, 2:19-2:26).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The entire video is a clear demonstration of an optimistic, technology-enabled future, directly aligning with the competition's mission. The closing text 'An invitation for the age we are entering' (2:55) explicitly states this alignment.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "Advanced technology is not merely a backdrop but an integral part of the narrative, illustrating both the pitfalls of a fear-driven, surveillance-heavy society (0:11-0:33) and the potential for a harmonious, sustainable future through smart systems and community-focused innovation (1:08-2:26).",
+      "confidence": "high"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "THE DARK BUDDHA A SINGLE FACE",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's total runtime is exactly 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card, which includes sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce, is displayed from 3:00 to 3:15, comprising the last 15 seconds of the video.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features advanced memory immersion technology (AKRec) that allows users to experience past lives, leading to societal and personal identity crises, which are classic science fiction themes (00:00-00:18, 00:20-00:52).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video portrays the technology leading to an 'identity collapse crisis' (00:15), widespread protests, fear, and societal division (00:04, 01:47-01:50). The protagonist herself fears losing her identity (02:20-02:23), indicating a dystopian rather than optimistic vision.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "The entire narrative is driven by the AKRec memory immersion technology, which is central to the plot, character motivations, and the societal conflicts depicted (e.g., 00:00-00:03, 00:15-00:18, 00:41-00:52).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video depicts scenes of civil unrest, protests, and chaotic historical memories (01:00-01:02, 01:47-01:50, 02:24-02:33), but it does not contain explicit graphic violence, strong language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The news channel CNN is visible on screen at 00:21, and NNC is shown at 00:15, which are recognizable news brands.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video presents a highly compelling and thought-provoking premise about memory, identity, and past lives, with strong production values, engaging visuals, and effective pacing that builds intrigue for a complex narrative.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The story tackles grand themes such as the nature of human identity, the impact of accessing past lives on individual consciousness, and the potential for global societal upheaval, new faiths, and new powers (00:37-00:40, 01:50-01:54).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 2,
+      "explanation": "The story primarily focuses on the negative consequences of the memory immersion technology, such as 'identity collapse crisis' (00:15), widespread fear, protests, and societal chaos (01:47-01:50), which is not aligned with an optimistic vision of the future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The AKRec memory immersion technology is the core of the narrative, driving the plot, character development, and societal conflicts. Its visual representation and the exploration of its profound effects on human identity are central to the storytelling (00:20-00:29, 00:52-01:17, 02:33-02:42).",
+      "confidence": "high"
+    }
+  ]
+}

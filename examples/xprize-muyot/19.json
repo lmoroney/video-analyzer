@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "Singularity - Future Vision XPRIZE Trailer",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video is 3 minutes and 19 seconds long, which is longer than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's end card, from 03:05 to 03:19, clearly displays 'FUTUREVISION XPRIZE' and lists Salesforce, Google, RANGE, XPRIZE, XSOVA, ARK INVEST, and Jed McCaleb as sponsors/donors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features advanced technology, space travel, robots, futuristic cities, and a black hole, all characteristic elements of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "While starting with a catastrophic event (00:00-00:18), the narrative quickly shifts to humanity's use of advanced technology and collective effort to escape and survive, portraying a hopeful future for those who embark on the 'ark' (01:07-01:09, 02:57-03:04).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, from the AI's calculations (00:47-00:49) and the 'new physics' (00:42-00:46) to the advanced spaceships (01:02-01:03, 01:08-01:09) and manual controls (01:13-01:15, 02:27-02:28) used to save humanity.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video depicts destruction and combat (e.g., exploding space station at 00:13-00:14, drones being shot down at 01:53-01:58), but it is not graphic or explicit. There is no explicit language or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands are visible or mentioned in the video outside of the end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video presents a clear, high-stakes narrative of global catastrophe and humanity's desperate, technologically advanced effort to survive. The visuals are impressive and the pacing effectively builds tension and hope, making it very compelling for a short trailer.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story tackles an existential threat to humanity and proposes a solution involving interstellar travel and the creation of 'arks' to preserve life, demonstrating a grand vision for humanity's long-term survival and future beyond Earth.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "Despite the initial dystopian premise, the core of the story is about humanity leveraging advanced technology and ingenuity to overcome an apocalyptic event and secure a future, which strongly aligns with the XPRIZE's mission of optimistic, technology-enabled futures.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The entire plot is driven by advanced technology, from the 'new physics' required to deflect the threat (00:42-00:46) to the AI's role (00:47-00:49), the space fleet (01:02-01:03), the ark ship (01:08-01:09), and the manual controls for complex space maneuvers (01:13-01:15, 02:27-02:28). Technology is not just a backdrop but an active participant in the story.",
+      "confidence": "high"
+    }
+  ]
+}

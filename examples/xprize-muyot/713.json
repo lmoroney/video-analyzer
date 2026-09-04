@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=example",
+  "video_title": "VR-Exam",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's total duration is exactly 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The last 15 seconds of the video (3:00-3:15) feature an end card that displays 'FUTUREVISION XPRIZE' and lists partners/sponsors including Google, XPRIZE, Jed McCaleb, and Salesforce.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video depicts a futuristic setting with advanced virtual reality technology, robots, and drones, clearly placing it within the science fiction genre (e.g., 00:00-00:15, 01:37-01:41).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video portrays a future where virtual reality technology is used to train and prepare individuals, with the concluding statement (2:54-2:58) explicitly highlighting how virtual difficulties can exclude real-world ones, presenting an optimistic, technology-forward vision.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology, specifically virtual reality, is central to the narrative, as the characters participate in a 'VR-Exam' using VR headsets (00:56-00:58) to overcome various simulated challenges, including those involving drones and robots (02:12-02:17).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "While the video features animated combat and explosions within the virtual reality simulation (e.g., 00:10-00:15, 01:45-01:46), these are stylized and not explicit. There is no explicit language or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "Apart from the sponsors listed on the end card (3:00-3:15), no other recognizable brands are used or displayed within the video content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "The video presents a clear and engaging narrative of three students overcoming challenges in a VR exam, with high-quality animation and a satisfying resolution, making it a well-realized story within its constraints.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The story explores a future where virtual reality is a fundamental tool for education and overcoming real-world challenges, suggesting a transformative impact on human development and problem-solving, which is a big idea for humanity's future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video is perfectly aligned with the Future Vision XPRIZE mission, explicitly stating that virtual difficulties can 'exclude the difficulties in reality' (2:54-2:58) and showcasing technology (VR) as a means to achieve an optimistic and enabled future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The storytelling is inherently tech-forward, with the entire plot centered on a virtual reality exam that showcases advanced VR headsets, simulated environments, and AI-controlled adversaries, demonstrating technology's meaningful integration into the narrative.",
+      "confidence": "high"
+    }
+  ]
+}

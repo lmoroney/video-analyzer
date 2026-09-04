@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=YOUR_VIDEO_ID",
+  "video_title": "A Vision of Humanity's Technology-Enabled Future",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total duration of 2 minutes and 29 seconds, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video ends at 02:29. The last 15 seconds (from 02:14 to 02:29) show scenes of human-like figures in a lush, futuristic environment, and then fades to black. There is no end card with sponsors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features advanced technology such as spaceships (00:00-00:13), human-like robots/androids (e.g., 00:14, 00:26, 00:45), and futuristic, organic architecture (00:43, 00:59), all characteristic elements of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The visuals depict lush, green environments integrated with advanced, organic-looking technology, and the figures appear to be exploring or living harmoniously. The overall aesthetic and uplifting music suggest a positive and optimistic future enabled by technology.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, with human-like robots/androids as main characters (e.g., 00:14, 00:26, 00:45). Their interactions with the environment, such as a hand transforming when touching water (00:38-00:42) or a helmet transforming into wings (02:11-02:13), are key plot points.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no scenes or audio that depict explicit violence, offensive language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands are visible or mentioned throughout the video, excluding any potential end card which was not present.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video presents a visually stunning and emotionally evocative series of scenes that hint at a grand narrative of exploration, transformation, and harmony between advanced beings and nature. The high production quality and consistent aesthetic make it very compelling, even if the story is abstract.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video showcases a vast, advanced civilization with space travel, sentient AI/robots, and monumental, nature-integrated architecture, clearly presenting a grand and expansive vision for humanity's future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video consistently portrays an optimistic future where advanced technology and lush natural environments coexist harmoniously. The themes of exploration, transformation, and serene coexistence strongly align with a positive, technology-enabled future vision.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The entire visual narrative is driven by advanced technology, from the initial spaceship to the human-like robots whose forms and interactions with the environment (e.g., hand transformation at 00:38, helmet transformation at 02:11) are central to the unfolding visual story.",
+      "confidence": "high"
+    }
+  ]
+}

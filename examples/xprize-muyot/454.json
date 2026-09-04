@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "Abstract Data Flow Visualization",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video is 1 minute and 19 seconds long, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video ends at 01:19 with an abstract animation and does not feature an end card with the mentioned sponsors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video presents abstract visualizations of complex data processing, neural networks, and interconnected systems, which are speculative and futuristic concepts often explored in science fiction (00:09-01:19).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The visuals are clean, organized, and evolve into intricate, interconnected, and aesthetically pleasing patterns, accompanied by calm, uplifting electronic music, suggesting a positive and advanced technological future (00:43-01:19).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "The entire video is an abstract visualization of technological processes, data flow, and network connections, making technology the central subject and narrative driver (00:00-01:19).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video consists solely of abstract animations and electronic music, with no explicit violence, language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "There are no recognizable brands or logos displayed in the video, apart from a small 'AI' watermark in the top left corner which appears to be a channel identifier rather than a brand within the narrative.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "While not a traditional narrative, the video's abstract visualization of data and network evolution is visually compelling and well-executed, effectively conveying a sense of progression and complexity through its animation and sound design (00:09-01:19).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video's abstract representation of vast, interconnected systems, potentially symbolizing advanced AI, global consciousness, or complex data networks, suggests a grand and ambitious vision for future technological capabilities (00:43-01:19).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video strongly aligns with the mission by presenting a visually clean, organized, and evolving technological landscape, suggesting an optimistic and advanced future driven by interconnected systems and data (00:43-01:19).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The entire video is a form of tech-forward storytelling, using abstract animation to visualize the intricate processes and evolution of advanced technology, making it the core subject and narrative (00:00-01:19).",
+      "confidence": "high"
+    }
+  ]
+}

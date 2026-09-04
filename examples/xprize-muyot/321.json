@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "The Hole in the Sky",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total duration of 2 minutes and 12 seconds, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card appears from 01:57 to 02:12, which is exactly 15 seconds, and clearly displays the logos and names of Google, XPRIZE, Jed McCaleb, and Salesforce as sponsors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features a rogue black hole threatening Earth, advanced space travel, and futuristic technology, all characteristic elements of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video portrays an impending global catastrophe due to a rogue black hole, with a sign explicitly stating 'CLOSED DUE TO IMPENDING DOOM' (00:59) and a character stating, 'I found the end of the world' (00:43). While technology is used, the overall vision is one of crisis and survival, not optimism.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, from the discovery of the black hole using a telescope (00:21-00:28) and the calculation of the timeline (01:13) to the development and launch of an advanced spaceship to confront the threat (01:15-01:19).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, offensive language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands are visible within the main content of the video, only on the end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "The video effectively creates a sense of urgency and high stakes with its narrative of an impending cosmic disaster. The production quality, including visual effects and acting, is strong, making the story compelling despite its short length.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The story addresses an existential threat to humanity on a cosmic scale (a rogue black hole) and humanity's response through advanced scientific and engineering efforts, demonstrating a very 'big' scope for humanity's future challenges and endeavors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 3,
+      "explanation": "While technology is central to addressing the crisis, the narrative focuses on an impending 'end of the world' (00:43) and 'impending doom' (00:59), which is not a genuinely optimistic portrayal of humanity's future, even if it shows resilience.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The narrative is driven by advanced technology, from the discovery of the black hole via an observatory (00:21-00:28) and the calculation of the remaining time (01:13) to the construction and deployment of a sophisticated interstellar vessel (01:15-01:19) as humanity's last hope.",
+      "confidence": "high"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "W Football Match Celebration",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total duration of 31 seconds, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The last 15 seconds of the video (00:16-00:31) show the crowd celebrating, a character holding money, the team celebrating with a trophy, and a final 'W' graphic. There is no end card with sponsors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video depicts a stop-motion animated football match and celebration, which does not contain any elements typically associated with science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video shows a celebratory football match but does not present a vision of humanity's future or integrate advanced technology.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video depicts a traditional football match and celebration, with no discernible technology meaningfully integrated into the narrative.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, language, or sexual content; it depicts a sports event and its celebration.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The player's jersey clearly displays the Nike swoosh logo (e.g., 00:02, 00:27).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "The video tells a simple yet compelling story of a football team scoring and celebrating a victory, effectively realized through detailed and expressive stop-motion animation within its short runtime.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 1,
+      "explanation": "The story is confined to a football match and celebration, offering no broader vision or contemplation of humanity's future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 1,
+      "explanation": "While generally optimistic about a sports victory, the video does not portray a technology-enabled future and therefore does not align with the Future Vision XPRIZE competition's mission.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 1,
+      "explanation": "The video does not feature any advanced technology or tech-forward storytelling; it depicts a conventional football match and celebration.",
+      "confidence": "high"
+    }
+  ]
+}

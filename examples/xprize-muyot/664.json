@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=example",
+  "video_title": "THE ENLIGHTENMENT PARADOX",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's total runtime is 2 minutes and 56 seconds, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The final 15 seconds of the video (2:41-2:56) display an end card featuring 'FUTUREVISION X PRIZE' and sponsors including Google, Salesforce, and Jed McCaleb.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features futuristic settings, advanced technology, and a narrative about consciousness, liberation, and transcending the physical body, all characteristic of science fiction (e.g., 0:21-0:29, 1:26-1:34).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video depicts a future where technology enables 'liberation' and a harmonious coexistence with nature, as seen in the transformation from barren land to lush, futuristic cities (0:00-0:05, 2:08-2:21) and the protagonist's peaceful gardening (2:03-2:07). The narration speaks of 'the most beautiful thing I had ever received' (1:38-1:39).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "The narrative directly addresses themes of advanced intelligence, consciousness transfer, and 'liberation' through technology, making it central to the story rather than just a visual backdrop (e.g., 0:26-0:29, 1:26-1:34).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, strong language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands are used or mentioned in the video, apart from those displayed on the end card (2:41-2:56).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "The video presents a compelling, philosophical narrative about identity and the future of consciousness, supported by high-quality, evocative visuals and poetic narration that effectively convey its themes within the short format (e.g., 0:21-0:29, 1:20-1:34).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The story explores profound concepts such as the liberation of consciousness from physical bodies, the nature of intelligence, and the evolution of humanity into advanced, technologically integrated societies, demonstrating a very ambitious vision for the future (e.g., 0:26-0:29, 1:26-1:34, 2:15-2:21).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video strongly aligns with the XPRIZE mission by presenting a highly optimistic and technology-enabled future, where advanced intelligence leads to 'liberation' and a harmonious, sustainable existence, as evidenced by the lush futuristic landscapes and the philosophical narration (e.g., 0:26-0:29, 2:08-2:21).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The storytelling is inherently tech-forward, with the core narrative exploring the implications of advanced AI and consciousness transfer, visually represented by digital environments and futuristic structures (e.g., 0:21-0:29, 0:30-0:33, 1:26-1:34).",
+      "confidence": "high"
+    }
+  ]
+}

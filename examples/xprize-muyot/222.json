@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "Building Optimistic Visions of the Future",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total duration of 3 minutes and 14 seconds, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's end card, appearing from 02:56 to 03:14, explicitly lists Google, XPRIZE, Jed McCaleb, and Salesforce among its partners and sponsors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video presents highly advanced and speculative technologies, such as fully decentralized money creation, holographic interfaces for community planning, advanced medical treatments for life extension, and futuristic cities, which are characteristic of science fiction (e.g., 02:14-02:37).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video transitions from highlighting current societal problems (00:00-01:48) to showcasing a future where technology enables transparent governance, accessible education, scientific advancement, and environmental restoration, presenting a highly optimistic outlook (01:48-02:56).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, presented as the solution to current societal inefficiencies. Examples include open-source governance, decentralized ledgers, secure digital identity, and auditable voting (02:14-02:29), as well as advanced science and environmental tech (02:29-02:37).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, language, or sexual content. It focuses on societal issues and futuristic solutions.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands are displayed or mentioned within the main content of the video, only on the end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video effectively tells a compelling story by first outlining current societal challenges and then presenting a clear, visually rich, and optimistic vision for a technology-enabled future. The production quality is high, with detailed CGI and clear narrative progression.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story thinks very big, addressing fundamental systems like money, governance, and education, and envisioning a future with advanced science, extended life, environmental restoration, and even space exploration (02:29-02:37).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video is perfectly aligned with the Future Vision XPRIZE mission, explicitly stating 'Building Optimistic Visions of the Future' and showcasing a future where technology solves complex societal problems, leading to prosperity and human potential (01:48-02:56).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The storytelling is highly tech-forward, with advanced technology not just as a backdrop but as the core mechanism for societal transformation. Examples include holographic community planning (02:04), decentralized money creation (02:11), and secure digital voting (02:24), all integral to the narrative's optimistic future.",
+      "confidence": "high"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=y_2_2_2_2_2",
+  "video_title": "Future Vision XPRIZE: Mirror // Loop",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total duration of 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "From 3:00 to 3:15, the video displays an end card with the Future Vision XPRIZE logo and lists Google, Range, XPRIZE, Salesforce, Xsova, Ark Invest, and Jed McCaleb as partners/sponsors/donors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features advanced AI systems, futuristic cities, holographic interfaces, and predictive technologies, all characteristic of the science fiction genre (e.g., 'The Artificial Sun' at 0:02, brain implants at 0:05, advanced transit at 0:07, holographic displays at 0:11, 0:35, 1:22, 2:04).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video initially presents a highly coordinated and abundant city (0:02-0:09) and concludes with a vision where intelligence serves humanity, and personal tracking ends while public safety remains, leaving the future open for human choice (2:51-2:59). This suggests an optimistic and technology-forward future where technology is aligned with human well-being.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, driving the plot and character interactions. Examples include the 'Artificial Sun' coordinating city services (0:02), the predictive system influencing choices (0:16-0:19), the 'in-camera spatial slide' for intervention (0:47-0:49), and the 'restore key' to remove prediction (2:14-2:27).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, strong language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands are visible within the video content itself, only on the end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video presents a clear and engaging narrative about free will versus predictive systems, with high-quality visuals and effective storytelling. The conflict and resolution are well-paced and visually striking, making it very compelling.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story tackles profound philosophical questions about human agency, the role of AI in governance, and the balance between safety and freedom in a technologically advanced society, demonstrating a very big vision for humanity's future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video directly addresses the core themes of the Future Vision XPRIZE by showcasing a future where technology is leveraged to create an abundant and safe society, while ultimately prioritizing human choice and freedom over deterministic prediction, leading to a genuinely optimistic outcome.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The entire narrative revolves around advanced technology, from the city's infrastructure and personal health monitoring to predictive algorithms and systems of governance. The technology is not merely a backdrop but an active participant and driver of the plot, making it highly tech-forward.",
+      "confidence": "high"
+    }
+  ]
+}

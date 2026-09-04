@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "The Taíno Code",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total duration of 2 minutes and 40 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's end card, from 02:25 to 02:40, prominently displays sponsors including Google, XPRIZE, Jed McCaleb, and Salesforce.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features elements such as a woman meditating in space (00:00-00:05), a portal opening (01:37-01:40), and ancient glyphs revealing cosmic truths (01:40-01:50), which are characteristic of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video portrays a future where technology helps uncover ancient truths, leading to a realization of shared consciousness and unity (\"one consciousness\" at 01:47-01:50), which is a hopeful and optimistic vision.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology, including a smartphone, laptop, and microscope (01:06-01:19), is meaningfully integrated into the narrative as the primary means to decipher ancient patterns and unlock a deeper understanding of existence (01:30-01:35).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video does not contain any explicit violence, language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": true,
+      "rating": null,
+      "explanation": "A Dell laptop is visible at 01:38, and an iPhone-like smartphone is used throughout the lab scenes (e.g., 01:06, 01:27).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "The video presents a compelling narrative that effectively blends ancient mystery with advanced technology and spiritual discovery. The production quality is high, particularly in the visual effects of space and digital interfaces (e.g., 00:00-00:05, 01:30-01:40).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The story thinks big by exploring themes of universal consciousness and forgotten truths, suggesting a profound interconnectedness of humanity and the cosmos (01:47-02:00).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video strongly aligns with the XPRIZE mission by portraying a genuinely optimistic future where technology (01:06-01:35) enables humanity to unlock ancient wisdom and achieve a higher state of collective consciousness (01:47-02:00).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The storytelling is highly tech-forward, with advanced technology like the \"Minoan Glyph Decoder\" (01:30-01:35) being integral to the plot's progression and the discovery of profound truths. The use of AI generative tools in its creation also reflects this tech-forward approach (02:17-02:20).",
+      "confidence": "high"
+    }
+  ]
+}

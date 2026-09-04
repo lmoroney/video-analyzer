@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "Future Vision 2057",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total duration of 2 minutes and 55 seconds, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "From 02:39 to 02:55, an end card is displayed, clearly showing 'FUTUREVISION XPRIZE' and listing Salesforce as the Presenting Sponsor, Google and XPRIZE as Partners, and Jed McCaleb as the Presenting Donor.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's premise involves a man broadcasting from the year 2057 to 2026 (00:00-00:04), advanced AI integrated into rings and teeth (00:23-00:39), contact lens displays (00:45-00:47), and age reversal technology (01:29-01:46), all of which are science fiction elements.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video depicts a future where AI provides personal assistance and protection (00:55-01:03), age reversal is possible (01:29-01:46), and a 'freedom credits' system (UBI) addresses job displacement (01:10-01:28). The overall message is that the future is not a warning but a set of instructions for a better, technology-enabled world (01:59-02:04).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, with the 'ring' and 'exo-self' AI (00:23-00:39), contact lens displays (00:45-00:47), and age reversal (01:29-01:46) being key plot devices and integral to the characters' experiences and the future society depicted.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, offensive language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands are shown or mentioned within the main content of the video, only on the final end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "The video tells a compelling story through a dual narrative, effectively using a 'future-to-past' transmission concept to introduce advanced technologies and societal changes. The production quality is solid for a short film, making the futuristic elements believable.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The story explores significant future concepts such as ubiquitous AI, universal basic income, and age reversal, demonstrating a broad and ambitious vision for how humanity might evolve with advanced technology.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video directly aligns with the Future Vision XPRIZE mission by presenting an optimistic future where technology solves major societal problems like job displacement (through UBI) and aging (through age reversal), and enhances daily life with personal AI. The end card explicitly states the mission.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The storytelling is highly tech-forward, with the core plot revolving around transmissions from the future enabled by advanced technology. The personal AI ring, tooth clip, and contact lens displays are not just props but integral to how characters interact with their world and how information is conveyed.",
+      "confidence": "high"
+    }
+  ]
+}

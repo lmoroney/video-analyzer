@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "CATALYST",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's total runtime is 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card from 2:58 to 3:15 clearly displays 'FUTUREVISION X PRIZE', 'Google', 'Salesforce', and 'Jed McCaleb' among other sponsors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features advanced technologies such as vertical farming, robotic agriculture, AI-driven disease prediction, genetic engineering (e.g., crossing species at 1:11, DNA manipulation at 2:02), and a genetically engineered 'desert mycophyte' superfood (1:37), which are all elements of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video presents a hopeful vision where technology, particularly genetic engineering and AI, is used to solve global challenges like food scarcity (0:26-0:31, 1:30-1:43) and disease (0:33-0:37), ultimately leading to a more harmonious future (0:43-0:44, 2:46-2:55).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is a core driver of the narrative, showcasing vertical farms (0:26), robotic agriculture (0:27-0:30), AI for disease prediction (0:33-0:37), and the creation of a new desert-adapted superfood (1:37-1:43) through genetic engineering, directly impacting the story's progression and solutions.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video does not contain any explicit violence, language, or sexual content. There is a brief depiction of coyotes fighting (2:28) and a scorpion (2:25), but these are not explicit.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "Aside from the sponsors listed on the end card, no other recognizable brands are explicitly shown or mentioned within the video's narrative.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video presents a compelling narrative about using advanced technology to solve global issues and personal tragedies, with high production values, strong visuals, and a clear story arc that feels well-executed within its short runtime.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story thinks very big, tackling humanity's future challenges such as global food scarcity, disease eradication, and environmental adaptation through large-scale technological and genetic interventions, aiming for a future of abundance and harmony.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video is fully aligned with the Future Vision XPRIZE mission, explicitly showcasing a genuinely optimistic future enabled by advanced technology, where scientific breakthroughs address critical global issues like food security and health, leading to a better world.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The storytelling is highly tech-forward, with advanced technologies like AI-driven farming, genetic engineering, holographic interfaces, and sophisticated data analysis being central to the plot, character development, and the proposed solutions for humanity's future.",
+      "confidence": "high"
+    }
+  ]
+}

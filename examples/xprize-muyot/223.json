@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=example",
+  "video_title": "Space Academy: Future Vision XPRIZE",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's total runtime is exactly 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The end card, which features sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce, appears from 03:03 to 03:15, making it 12 seconds long. The last 15 seconds of the video (03:00-03:15) also include a scene of an alien exploding.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video prominently features futuristic technology, space travel, alien species, terraforming, and time portals (00:00-00:10, 00:27-00:33, 01:06-01:22, 02:26-02:28), which are all hallmarks of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": false,
+      "rating": null,
+      "explanation": "While the video initially presents a vision of advanced technology and space exploration (00:56-01:06), it quickly introduces elements of conflict, a 'CLASSIFIED' Fermi Project (01:39-01:44), a lockdown at Space Academy (01:50-02:01), and a warning that timelines could 'tear apart our universe' (02:45-02:47). The final scene of an alien exploding after drinking a 'cure' (02:55-03:03) further undermines an optimistic vision.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, with characters using hoverbikes (00:00-00:09), spaceships (00:10-00:13), terraforming devices (01:06-01:15), bioprinters (01:35-01:37), empathy cradles (01:37-01:39), and time portals (02:26-02:28) to explore, terraform, and address threats to the universe.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video contains scenes of suggestive dancing and revealing attire at a beach party (00:39-00:48) and a college party (01:22-01:28). There is also a scene where an alien explodes after consuming a drink (02:55-03:03).",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "Aside from the sponsors listed on the end card, no other recognizable commercial brands are explicitly shown or mentioned in the video.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 5,
+      "explanation": "The video presents a series of visually impressive sci-fi vignettes, but the overarching narrative feels somewhat disjointed and lacks a clear, compelling arc. While the production quality is high, the story's realization within the short runtime struggles to connect the various ambitious concepts into a cohesive whole.",
+      "confidence": "medium"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The story explores grand themes such as interstellar travel, terraforming planets to create new habitable worlds (01:06-01:22), manipulating timelines (02:26-02:31), advanced bio-engineering (01:35-01:37), and fostering interspecies communities (00:39-00:48, 01:22-01:28), demonstrating a very expansive vision for humanity's future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 3,
+      "explanation": "Despite showcasing advanced technology, the narrative includes significant elements of conflict, secrecy (e.g., 'The Fermi Project' at 01:39-01:44), and threats of universal destruction due to timeline interference (02:45-02:47). The overall tone shifts from initial wonder to a more perilous and ambiguous future, culminating in a non-optimistic scene of an alien exploding (02:55-03:03), which does not align with a genuinely optimistic vision.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The storytelling is highly tech-forward, with advanced technologies like hoverbikes, terraforming arrays, time portals, bioprinters, and empathy cradles being central to the characters' experiences, the setting of Space Academy, and the unfolding plot, rather than merely serving as background elements.",
+      "confidence": "high"
+    }
+  ]
+}

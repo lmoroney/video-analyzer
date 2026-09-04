@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=z_UD120y_14",
+  "video_title": "Spinal Tap - Stonehenge",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video is 4 minutes and 16 seconds long, which is longer than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The last 15 seconds of the video (from 04:01 to 04:16) show the band members discussing the Stonehenge prop in a hotel room, not an end card with sponsors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video is a comedic scene from the mockumentary \"This Is Spinal Tap,\" depicting a rock band's stage production issues, and does not contain any science fiction elements.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video is a comedic scene about a band's stage prop and does not portray any vision of humanity's future, optimistic or otherwise.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": false,
+      "rating": null,
+      "explanation": "While musical instruments and stage lighting are present (e.g., 00:55-03:34), they serve as background for a rock concert and are not meaningfully integrated into a narrative about technology. The main narrative revolves around a misunderstanding about a stage prop's size.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": true,
+      "rating": null,
+      "explanation": "At 00:54, one character explicitly uses strong language, saying \"Fuck the napkin.\"",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": true,
+      "rating": null,
+      "explanation": "Marshall amplifiers are clearly visible on stage during the concert scenes, for example, at 01:19 and 03:08.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "The video portrays a compelling and humorous story about a band's stage prop mishap, which is well-realized within the production constraints of a comedic mockumentary. The misunderstanding about the Stonehenge size is a classic comedic element (00:00-00:54, 03:35-04:16).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 1,
+      "explanation": "The story is a satirical comedy about a rock band's stage production and does not address or think big about humanity's future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 1,
+      "explanation": "The video is a comedic scene from a mockumentary and does not portray a genuinely optimistic, technology-enabled future, thus it is not aligned with the XPRIZE mission.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 1,
+      "explanation": "The storytelling focuses on a comedic misunderstanding about a stage prop, and the technology depicted (musical instruments, stage lighting) is conventional for a rock concert, not advanced or meaningfully integrated in a tech-forward way.",
+      "confidence": "high"
+    }
+  ]
+}

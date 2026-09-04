@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "Outlived",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total duration of 3 minutes and 13 seconds (03:13), which is less than or equal to 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card appears from 02:56 to 03:13 and clearly displays 'FUTUREVISION X PRIZE', 'Partners Google RANGE', 'Presenting Sponsor: salesforce', and 'Presenting Donor: Jed McCaleb'.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video is set in 2068 and features advanced concepts like human life extension to 150 years, body rejuvenation, drone delivery, and a global virtual connection system called 'Phase 3' (00:00-00:02, 00:18-00:20, 00:23, 01:00-01:05).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "While initially presenting the downsides of extended life and impersonal virtual connections (00:05-00:07, 01:10-01:17), the narrative shifts to a hopeful vision where technology ('Phase 3') is repurposed to foster real human connection and skill-sharing through 'workshops' (01:51-01:52, 02:44-02:46), ultimately leading to a more fulfilling future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, with life extension and the 'Phase 3' virtual connection system driving the core conflict and resolution of the story (00:00-00:02, 00:18-00:20, 01:00-01:05, 01:10-01:17).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, strong language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "A beetle is shown with 'RADARLY' written on it (00:08), which appears to be a fictional brand within the video's universe. No other recognizable real-world brands are present outside of the end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video tells a compelling story about the human cost of technological advancement and the importance of real connection, with strong character arcs and high production quality. The narrative effectively conveys its message within the short film format.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The story explores significant themes such as radical life extension, the nature of human connection in a technologically advanced world, and the societal implications of virtual reality, demonstrating big thinking about humanity's future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "The story is strongly aligned, as it ultimately portrays an optimistic future where technology, specifically 'Phase 3', is re-engineered by Iris to facilitate genuine human connection and skill-sharing, rather than isolating individuals. It shows technology serving humanity's deeper needs (01:51-01:52, 02:44-02:46).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The narrative is deeply intertwined with advanced technologies like life extension and the 'Phase 3' virtual network, which are not merely background elements but central drivers of the plot, character motivations, and the overall societal context (00:00-00:02, 00:18-00:20, 01:00-01:05, 01:10-01:17).",
+      "confidence": "high"
+    }
+  ]
+}

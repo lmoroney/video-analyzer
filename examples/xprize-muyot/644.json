@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "The Crossing - Future Vision XPRIZE",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total duration of 2 minutes and 53 seconds, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card appears from 02:34 to 02:53, which is 19 seconds. It clearly displays Google, XPRIZE, Jed McCaleb, and Salesforce as sponsors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features advanced technology such as drones (00:04), humanoid robots (00:06, 00:09, 01:43), futuristic data interfaces (01:04, 02:11), and specialized pods for a 'crossing' (01:01, 02:29), all of which are elements of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": false,
+      "rating": null,
+      "explanation": "While technology is forward-looking, the vision is not consistently optimistic. The video shows scenes of forced labor (00:42-00:48), suffering (00:50-00:53), and a 'war' (01:52-01:57), concluding with the need for a 'miracle' (02:19-02:21) to overcome significant challenges.",
+      "confidence": "medium"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, with robots performing tasks in prisons (00:06-00:10), advanced data systems being crucial (00:58-01:08), and the 'crossing' itself being a technology-enabled process (01:01-01:04, 02:29-02:31).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video does not contain any explicit violence, language, or sexual content. Scenes of conflict or danger are depicted without graphic detail.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands or product placements are visible in the video, apart from the sponsors listed on the end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "The video presents a complex and intriguing narrative, shifting between different scenarios and time periods, which keeps the viewer engaged. The production quality is high, with diverse and well-executed visuals.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The story addresses large-scale societal issues like incarceration, freedom, and a fundamental 'war' (01:52-01:57), suggesting a transformative future for humanity where deep-rooted problems are confronted and potentially resolved through advanced means.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 7,
+      "explanation": "While technology-enabled, the story presents a future fraught with significant challenges and suffering, requiring a 'crossing' and a 'miracle' (02:19-02:21). It's more about overcoming adversity to achieve a better future than a purely optimistic vision from the outset, making it partially but not fully aligned with a 'genuinely optimistic' portrayal.",
+      "confidence": "medium"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The narrative heavily relies on advanced technology, from robots in prisons (00:06) and data centers (00:08) to futuristic interfaces (02:11) and the central concept of the 'crossing' via specialized pods (01:01, 02:29), demonstrating a strong integration of technology into the plot.",
+      "confidence": "high"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "The Exponentials: Building Optimistic Visions of the Future",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's total duration is 2 minutes and 52 seconds, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The last 15 seconds of the video (from 02:37 to 02:52) display an end card with logos for Google, XPRIZE, Jed McCaleb, and Salesforce, among others.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video prominently features advanced technologies such as 3D printing on Mars (00:02-00:04, 01:14-01:16), AI and robotics (00:34-00:48, 00:49-00:57), biotechnology for health and age reversal (00:58-01:09), spatial computing/metaverse (01:34-01:45), and futuristic smart cities (01:46-01:58), all of which are characteristic of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video presents a highly optimistic vision of the future, showcasing how advanced technologies like AI, robotics, biotechnology, 3D printing, and spatial computing address global challenges such as energy access (00:17-00:23), environmental restoration (00:23-00:30), health (00:58-01:09), and space exploration (01:10-01:22), leading to a thriving, interconnected society.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is the core of the narrative, with each segment explicitly demonstrating how different advanced technologies (AI, robotics, biotech, 3D printing, blockchain, spatial computing, networks/sensors) are actively used to solve problems and improve lives, rather than just being a backdrop. Examples include the girl interacting with holographic atoms via AR goggles (00:34-00:38) and the woman receiving a prosthetic arm (00:49-00:53).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, offensive language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "Apart from the sponsor logos displayed on the end card (02:34-02:52), no other recognizable brands are featured in the video.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "The video effectively uses a series of well-produced vignettes to convey a cohesive message about the positive impact of exponential technologies. While not a traditional narrative, the visual storytelling is compelling and the production quality is high, making the vision feel tangible and inspiring.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video demonstrates an extremely ambitious vision for humanity's future, encompassing solutions to global challenges like climate change and disease, as well as expanding human presence to Mars (00:00-00:04, 01:10-01:22) and creating advanced, interconnected societies (01:46-01:58) and virtual worlds (01:43-01:45).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video is perfectly aligned with the Future Vision XPRIZE mission, explicitly showcasing a genuinely optimistic future enabled by exponential technologies. It demonstrates how these advancements can overcome significant global challenges and create a better world, directly reflecting the competition's goal.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The storytelling is highly tech-forward, with advanced technologies not merely mentioned but visually demonstrated and integrated into the characters' experiences. Examples include the boy interacting with holographic atoms through AR goggles (00:34-00:38), nanobots healing a patient (01:00-01:02), and robotic arms 3D printing structures on Mars (01:14-01:16), making the technology a dynamic element of the narrative.",
+      "confidence": "high"
+    }
+  ]
+}

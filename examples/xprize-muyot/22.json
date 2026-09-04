@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=21212121212",
+  "video_title": "Fastship: Forward",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video has a total length of 4 minutes and 27 seconds, which is longer than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The last 15 seconds of the video (from 03:12 to 04:27) are a black screen with music fading out. The end card, which appears from 02:11 to 03:05, mentions '#FutureVisionXPRIZE' but does not list Google, Jed McCaleb, or Salesforce as sponsors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features a futuristic spaceship traveling through space, past gas giants, volcanic planets, ice planets, and asteroid fields, which are all common elements of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video depicts advanced space travel and exploration of diverse celestial bodies, presented with an adventurous and positive tone. The dialogue at the end is also lighthearted and optimistic about the 'Fastship'.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "The entire video's narrative revolves around the 'Fastship', an advanced technological vessel, as it journeys through various space environments. The ship is the central focus and driver of the visual story.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, language, or sexual content. The dialogue at the end is humorous and family-friendly.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The spaceship has 'RYD' written on its side, which is not a recognizable brand. No other recognizable brands appear in the video outside of the end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 5,
+      "explanation": "The video is visually well-realized with impressive CGI for the spaceship and environments. However, the 'story' is a simple journey montage, lacking a complex plot or character development, making it less compelling as a narrative.",
+      "confidence": "medium"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "The video showcases humanity's ability to build advanced spacecraft and explore distant planets and asteroid fields, which represents a grand and ambitious vision for the future of space exploration.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video strongly aligns with the XPRIZE mission by presenting an optimistic future where advanced technology (the 'Fastship') enables humanity to explore and thrive in space. The end card also explicitly references '#FutureVisionXPRIZE'.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "The entire visual narrative is centered around the 'Fastship', an advanced piece of technology, as it navigates various cosmic landscapes. The technology is not merely background but is the subject and enabler of the story's events.",
+      "confidence": "high"
+    }
+  ]
+}

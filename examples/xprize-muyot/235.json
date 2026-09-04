@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "Space Wonders: Theatrical Arts in Space",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's total duration is exactly 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "From 03:03 to 03:15, an end card is displayed, featuring logos for Google, RANGE, XPRIZE, Salesforce, XSOVA, ARK INVEST, and Jed McCaleb.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video shows a future timeline (2026, 2034, 2040 at 00:07-00:11), a large space station orbiting Earth (00:09, 02:03, 02:12, 02:40), and people performing dance in zero-gravity environments within the space station (e.g., 01:50-01:54, 02:17-02:18), which are elements of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's narrative and on-screen text (e.g., 'A NEW MILESTONE IN THE MERGING OF ART, SCIENCE, AND SPACE' at 01:41, 'THE NEXT GIANT LEAP SHOULD MAKE ROOM FOR WONDER' at 01:55, 'CULTURE IS BOARDING' at 02:55) consistently portray a positive and forward-looking future where humanity integrates arts and emotion with space exploration.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "The entire premise revolves around using advanced technology like space stations (00:09, 02:03), zero-gravity training facilities (00:27, 00:50), and VR/AR (01:39-01:44) to enable human artistic expression and performance in space. The technology is not merely a backdrop but an essential enabler of the narrative.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no scenes or audio that depict explicit violence, language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": true,
+      "rating": null,
+      "explanation": "A Speedo logo is visible on the swim cap and goggles of a man training underwater at 02:42.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video effectively tells a unique and inspiring story about bringing art and culture to space. The visuals are high quality, blending real-world training with impressive CGI of space stations and zero-gravity performances, making the vision feel tangible and exciting.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video explicitly addresses humanity's future in space, asking 'WHAT TRACES OF HUMANITY WILL WE TAKE WITH US?' (00:01) and proposing that 'CULTURE IS BOARDING' (02:55). It envisions a future where space exploration is not just for science or defense but also for human flourishing through art and emotion, which is a very expansive and optimistic view.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video's core message, explicitly stated and visually demonstrated, is about an optimistic, technology-enabled future where humanity's cultural and emotional aspects are integrated into space exploration. This directly aligns with the 'Building Optimistic Visions of the Future' tagline of the Future Vision XPRIZE.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The storytelling is tech-forward by showcasing how current training methods (like zero-gravity flights and underwater simulations) lead to future possibilities in space. The use of VR/AR (01:39-01:44) to visualize space environments for performers further emphasizes the integration of advanced technology into the artistic process and the narrative.",
+      "confidence": "high"
+    }
+  ]
+}

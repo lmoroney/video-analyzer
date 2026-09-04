@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=k_Q8g_22222",
+  "video_title": "Still Here: A Concept Trailer",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video is 7 minutes and 0 seconds long, which is longer than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The last 15 seconds (06:45-07:00) show an end card with \"MISSION: AURELIA\" and \"A future worth living in\", but it does not contain the listed sponsors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features spaceships, robotic prosthetics, futuristic cities on other planets, and advanced technology, clearly indicating a science fiction genre (e.g., 00:05, 03:17, 05:50).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "Despite depicting significant challenges like environmental disaster (04:19) and personal hardship (01:04), the video concludes with a vision of a thriving futuristic settlement on another planet (05:50) and advanced technology like robotic prosthetics (03:17, 06:24), suggesting humanity overcomes adversity to build a hopeful, technology-forward future, reinforced by the closing text \"A future worth living in\" (06:40).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, from the construction of massive spacecraft (00:05, 01:48) and advanced prosthetics (01:13, 03:17, 06:24) that enable human interaction, to the futuristic living environments and interstellar travel depicted in the final scenes (05:50).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video does not contain any explicit violence, offensive language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable real-world brands are used in the video, apart from fictional company names like \"Wendell & Cross\" (00:05).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "The video effectively uses strong visuals and music to convey a compelling narrative arc, transitioning from themes of industrial struggle and environmental disaster to a hopeful, technologically advanced future. The production quality is high, making the concept well-realized within the trailer format.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story clearly thinks big about humanity's future, depicting large-scale space colonization, advanced technological integration into human life (e.g., robotic prosthetics), and the overcoming of global environmental challenges to establish new civilizations on other planets (05:50).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video strongly aligns with the mission by portraying a future where humanity, empowered by advanced technology like space travel and prosthetics, overcomes significant challenges to build a genuinely optimistic and thriving society on another planet (05:50). The closing message \"A future worth living in\" (06:40) reinforces this alignment.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The storytelling is tech-forward, with advanced technology like sophisticated prosthetics (01:13, 03:17, 06:24), large-scale spacecraft construction (00:05, 01:48), and futuristic living environments (05:50) being central to the narrative and character experiences, rather than mere background elements.",
+      "confidence": "high"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "Interstellar Liaison: The Shape of Honey",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total duration of 2 minutes and 49 seconds, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's end card, appearing from 02:34 to 02:49, clearly displays Google, XPRIZE, Jed McCaleb, and Salesforce as sponsors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features futuristic cities (00:31), spaceships (00:50), interstellar travel (00:57), and an AI that designates life purposes (00:47), all indicative of a science fiction genre.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": false,
+      "rating": null,
+      "explanation": "While the video ends on a hopeful and optimistic note with people rebuilding community and nature (02:01-02:11), the initial technology-forward society (AI assigning purpose, space travel) is shown to have led to division and a dystopian Earth, suggesting a critique rather than a purely technology-forward optimistic vision.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, with an AI designating life purposes (00:47), advanced transportation (00:03, 00:31), and interstellar travel (00:50) driving the plot and creating the initial societal structure and subsequent conflict.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video depicts scenes of struggle and conflict (01:00-01:05, 01:15-01:20) but does not contain explicit violence, offensive language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands are visible within the video content itself, only on the final end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video tells a compelling story of a boy's journey from a technologically advanced but emotionally detached society to a community rediscovering human connection and purpose, with strong visuals and a clear narrative arc.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story explores grand themes such as the role of AI in society, the nature of human purpose, the consequences of technological advancement, and the importance of community and empathy, demonstrating a big-picture vision of humanity's future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 7,
+      "explanation": "The story is genuinely optimistic in its resolution, showing humanity overcoming past divisions. However, it also critiques the initial 'technology-enabled' future that led to those divisions, suggesting that true optimism lies in human connection and choice, rather than solely in technological advancement.",
+      "confidence": "medium"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "Advanced technology, such as AI-driven purpose designation (00:47), futuristic cities (00:31), and interstellar travel (00:50), is deeply woven into the narrative, serving as both a catalyst for the plot and a central theme for exploration.",
+      "confidence": "high"
+    }
+  ]
+}

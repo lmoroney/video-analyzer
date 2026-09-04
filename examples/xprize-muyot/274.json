@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "Rogue Iron",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's total runtime is exactly 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card, which includes sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce, is displayed from 2:57 until the end of the video at 3:15. Therefore, the last 15 seconds (3:00-3:15) are indeed comprised of this end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video is set in the year 2426 and features advanced technology such as deep space surveys, holographic interfaces (00:25), space mining operations (00:57), and futuristic, green cities (01:08), clearly placing it within the science fiction genre.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video portrays humanity successfully utilizing advanced technology to address a potential interstellar threat by capturing and processing it for resources (02:16-02:28). The futuristic cities are depicted as green and sustainable (01:08), and the narrative emphasizes scientific discovery and teamwork, suggesting an optimistic future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is integral to the narrative, from the initial detection and analysis of the rogue object using advanced deep space surveys and holographic interfaces (00:00, 00:25) to the development and execution of a specialized \"comet capture sequence\" (02:07, 02:16) for resource acquisition.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, strong language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands are visible or mentioned within the video's narrative content, only on the end card at the end of the video.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "The video presents a clear and engaging narrative about humanity's response to an interstellar object, transitioning from perceived threat to valuable resource. The animation is consistent and the futuristic settings are well-realized, effectively conveying the story within its short runtime.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The story envisions a future where humanity is capable of detecting and interacting with interstellar objects, transforming potential threats into valuable resources through advanced space mining and engineering. It portrays a technologically advanced and resourceful civilization expanding its reach beyond Earth.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video strongly aligns with the Future Vision XPRIZE mission by depicting a genuinely optimistic future where humanity uses advanced technology to solve complex problems, such as converting a rogue interstellar object into a resource. The emphasis on scientific discovery, resourcefulness, and sustainable living (green cities) highlights a positive, technology-enabled vision.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The storytelling is highly tech-forward, with advanced technology being central to every major plot development. This includes the use of deep space surveys for detection (00:00), holographic data analysis (00:25, 00:51), specialized spacecraft for ice harvesting (00:57), and the complex \"comet capture sequence\" (02:07, 02:16) that drives the mission.",
+      "confidence": "high"
+    }
+  ]
+}

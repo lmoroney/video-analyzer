@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "Digital Twin",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's total length is exactly 3 minutes and 15 seconds (03:15).",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card appears from 02:52 to 03:15 and clearly displays 'FUTUREVISION X PRIZE', 'Partners Google RANGE', 'Presenting Sponsor: salesforce', 'Sponsors XSOVA ARK INVEST', and 'Presenting Donor Jed McCaleb'.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features a 'Digital Twin' of Earth capable of predicting natural disasters with high precision and the ethical dilemma of controlling such information, which are concepts firmly rooted in science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "Despite an initial conflict where warnings are filtered, the protagonist successfully uses the 'Digital Twin' to warn and protect a city from a major earthquake and tsunami, showcasing a hopeful outcome enabled by technology (02:41-02:51).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "The 'Digital Twin' technology is the central element of the narrative, driving the plot, creating the core conflict (filtered warnings), and ultimately providing the solution for disaster prevention (00:00-00:23, 00:40-00:47, 02:18-02:51).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video depicts natural disasters like tsunamis, earthquakes, and volcanic eruptions, but there is no explicit violence against people, no strong language, and no sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands are visible or mentioned in the video's content, only on the final end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video presents a clear and engaging narrative with a strong ethical dilemma, high-quality visual effects for the disasters and control room, and effective pacing, making it a compelling story within its short runtime.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story addresses global-scale natural disasters and the profound ethical implications of advanced predictive technology, impacting millions of lives and raising questions about who controls such power, demonstrating very big thinking about humanity's future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The story aligns strongly with the XPRIZE mission by showcasing how advanced technology, despite initial misuse, can ultimately be leveraged to save lives and protect communities from natural disasters, leading to an optimistic, technology-enabled future (02:41-02:51).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The entire plot revolves around the 'Digital Twin' technology, its capabilities in predicting global events, the ethical challenges of its control, and its ultimate use in enabling mass evacuations and saving lives, making it highly tech-forward storytelling (00:00-00:23, 01:18-01:51, 02:18-02:51).",
+      "confidence": "high"
+    }
+  ]
+}

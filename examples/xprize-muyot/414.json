@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "FutureVision XPRIZE: Mission Abundance",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total duration of 59 seconds, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The end card, which displays sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce, appears from 0:50 to 0:59, lasting only 9 seconds, not 15.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video depicts humanity colonizing the solar system, futuristic cities, advanced technology, and a narrative involving the hoarding of sunlight, all characteristic elements of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "While the video shows a period of decline where sunlight is hoarded (0:27-0:32), it begins with an 'Age of Abundance' (0:07-0:18) and concludes with a mission to 'Bring The Light Back' (0:33-0:35) and restore 'Abundance' (0:45-0:47), ultimately portraying a hopeful future that can be achieved through effort.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, from humanity colonizing the solar system and building advanced cities (0:03-0:18) to the powerful technology used to hoard sunlight (0:28-0:30) and the implied technological effort to restore it.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video does not contain any explicit violence, language, or sexual content. A brief scene shows a person being restrained (0:25), but no direct violence is depicted.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "Apart from the sponsors listed on the end card (0:50-0:59), no other recognizable brands are used or displayed within the video content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "The video effectively tells a clear story of humanity's rise, fall due to greed, and a mission to restore abundance, using strong visuals (e.g., 0:08-0:14 for abundance, 0:28-0:32 for hoarding, 0:40-0:42 for restoration) and evocative music within its short runtime.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The story thinks big by depicting humanity's colonization of the entire solar system (0:03-0:04), the creation of advanced civilizations, and a large-scale conflict over fundamental resources like sunlight, aiming to restore universal abundance.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "While the narrative includes a period of decline and resource hoarding (0:19-0:32), the video's overarching message and explicit mission to 'Bring The Light Back' (0:33-0:35) and achieve 'Abundance' (0:45-0:47) align with portraying a genuinely optimistic, technology-enabled future that can be restored.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The storytelling is highly tech-forward, with advanced technology being fundamental to the narrative, including solar system colonization (0:03-0:06), futuristic urban development (0:08-0:18), space travel (0:20-0:21), and the central conflict of hoarding sunlight using advanced structures (0:28-0:30).",
+      "confidence": "high"
+    }
+  ]
+}

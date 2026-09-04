@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "POST: What Comes After",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's total duration is exactly 3 minutes and 15 seconds (03:15).",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card appears from 03:00 to 03:15 and clearly lists Google, XPRIZE, Jed McCaleb, and Salesforce among its partners and sponsors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features advanced robots (e.g., 01:19, 01:35, 02:29), a futuristic, multi-tiered building (00:11, 01:29), and a device that appears to show different realities or timelines (01:08-01:13), all indicative of science fiction elements.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": false,
+      "rating": null,
+      "explanation": "While technology is forward-looking, the vision is more contemplative and questioning than purely optimistic. The protagonist expresses a desire to escape a 'world I was trying to escape' (01:03) and the ending poses the question 'what comes after' (02:57) with an ambiguous tone, suggesting a search for meaning beyond technological advancement.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, with a glowing orb device seemingly triggering visions of different futures/pasts (01:08-01:13) and robots actively participating in labor and interacting with the protagonist (01:35-01:41, 02:29-02:39).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains brief, non-graphic scenes of war and destruction (01:14, 01:20), but no explicit violence, language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The protagonist is seen wearing Vans shoes (00:15, 00:19) and a Carhartt beanie (01:04, 02:30).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video offers a thought-provoking narrative with strong visuals and effective transitions between different realities. The protagonist's journey and the questions posed are engaging, and the production quality is high, making it a well-realized story.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The story deeply explores humanity's future by contrasting technological progress with traditional ways of life and existential questions about purpose. It presents a broad scope of possibilities and challenges, prompting viewers to consider fundamental aspects of human existence.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 5,
+      "explanation": "While technology-enabled and future-focused, the video's tone is more reflective and ambiguous than genuinely optimistic. It highlights both the advancements and the potential loss of traditional values, with the protagonist seemingly seeking an escape from a technologically advanced world, which doesn't fully align with a purely optimistic vision.",
+      "confidence": "medium"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "Advanced technology is integral to the storytelling. The orb device drives the narrative by revealing different timelines and possibilities (01:08-01:13), and robots are depicted as active participants in society and the protagonist's personal journey (01:35-01:41, 02:29-02:39), making the technology a key part of the plot.",
+      "confidence": "high"
+    }
+  ]
+}

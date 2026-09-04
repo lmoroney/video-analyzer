@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "Future Vision XPRIZE: Building Optimistic Visions of the Future",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video is exactly 3 minutes and 15 seconds long.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card from 03:00 to 03:15 clearly displays 'FUTUREVISION XPRIZE', 'Building Optimistic Visions of the Future', and lists Google, RANGE, XPRIZE, XSOVA, ARK INVEST, Jed McCaleb, and Salesforce as partners/sponsors/donors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features advanced AI, humanoid robots, futuristic cities, and virtual reality/dream-like sequences, which are all elements of science fiction (e.g., robots working at 00:15, futuristic city at 01:06, robotic bird at 02:16).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video contrasts a dystopian past caused by AI (00:18-00:24, 00:39-00:43) with a utopian future where technology serves humanity, allowing people to pursue leisure, creativity, and connection (01:06-01:14, 01:51-02:26, 02:48-02:53). The voiceover explicitly states, 'It carried the weight of the world. So a human could be human again' (02:03-02:05).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, driving the plot from the protagonist's creation of AI that replaces human jobs (00:07-00:18) to the advanced robots that later enable a utopian society by handling all labor, freeing humans (01:27-01:31, 01:59-02:05).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "While there are scenes of protest and implied societal unrest (00:18-00:24, 00:39-00:43), there is no explicit violence, language, or sexual content shown in the video.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands are visible or mentioned in the video content outside of the final sponsor card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video presents a compelling narrative arc, following the protagonist's journey from creating disruptive AI to witnessing its ultimate positive impact 200 years later. The visual storytelling is strong, effectively contrasting different eras and conveying emotional depth, all within the short film format.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story tackles profound questions about the evolution of AI, human purpose, and the potential for a utopian society where technology liberates humanity from labor, allowing for personal growth and connection. It envisions a future spanning centuries, demonstrating a grand scale of thought.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video perfectly aligns with the mission by explicitly showing how technology, despite initial challenges, ultimately enables a peaceful, abundant, and fulfilling existence for humanity, allowing people to 'be human again' (02:05) and pursue their passions (02:50-02:53).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The entire narrative is driven by the impact of advanced AI and robotics on society. From the initial job displacement (00:18-00:24) to the creation of a world where machines handle all labor (01:27-01:31, 01:59-02:05), technology is the central force shaping humanity's past, present, and future, making it highly tech-forward storytelling.",
+      "confidence": "high"
+    }
+  ]
+}

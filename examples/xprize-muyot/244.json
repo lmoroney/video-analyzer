@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "Nectar: A Future Vision XPRIZE Film",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's total duration is exactly 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "From 03:00 to 03:15, an end card is displayed, listing 'FUTUREVISION XPRIZE' and sponsors including Salesforce, Google, RANGE, XPRIZE, XSOVA, ARK INVEST, and Jed McCaleb.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features advanced AI, futuristic wearable tech, space travel to Mars, and a global protective network, all characteristic elements of science fiction (e.g., 00:15, 00:47, 00:50, 01:06, 01:53).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "Despite initial conflicts, the narrative concludes with the global deployment of Nectar, an AI designed to address humanity's needs and foster a peaceful future, driven by the principle of unconditional love (02:10-02:25, 02:59).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "The entire plot revolves around the Nectar AI and the 'Bee' wearable device, which are central to the characters' motivations, the conflicts, and the ultimate resolution of the story (e.g., 00:41, 00:47, 00:52, 01:06, 02:10).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "While there are scenes of conflict, a car crash, and implied danger (e.g., 00:30-00:32, 01:09-01:10), the violence is not explicit or graphic. There is no explicit language or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": true,
+      "rating": null,
+      "explanation": "A black Tesla car is clearly visible and involved in a chase scene from 00:30 to 00:32.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video presents a complex and engaging story of family, betrayal, global crisis, and the ethical deployment of powerful AI, all executed with high production value and effective pacing for a short film.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The narrative tackles grand themes of global peace, preventing pandemics and famine, and protecting against violence through a unified AI, aiming for a singularity based on humanity's collective needs (01:56-02:02, 02:10-02:14).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The film strongly aligns with the mission by showcasing a future where advanced AI (Nectar) is deployed to solve global challenges and protect humanity, ultimately leading to an optimistic outcome driven by shared values and technology (02:10-02:25, 02:59).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "Technology is central to every aspect of the story, from the 'Bee' wearable device and Nectar AI to futuristic suits, robots, and space travel, driving the plot and character decisions rather than merely serving as background elements (e.g., 00:41, 00:47, 01:06, 01:53, 01:59).",
+      "confidence": "high"
+    }
+  ]
+}

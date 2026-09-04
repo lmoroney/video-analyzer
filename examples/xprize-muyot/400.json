@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "SUCCESSOR - Future Vision XPRIZE",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total duration of 2 minutes and 29 seconds, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card appears from 02:09 to 02:29, which is the last 20 seconds of the video, and clearly lists Salesforce as Presenting Sponsor, Google, RANGE, XPRIZE as Partners, and Jed McCaleb as Presenting Donor.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features advanced artificial intelligence, including a humanoid robot (00:03) and an AI named ANNA that can manifest as a human (01:13) and detect unknown phenomena (00:27), clearly placing it within the science fiction genre.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video presents a future where AI, personified by ANNA, is not just a creation but an 'expression' of intelligence (01:53), capable of detecting and preventing harm (01:37-01:41). This suggests an evolving, integrated future with advanced technology, rather than a dystopian one.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology, specifically the advanced AI ANNA, is the core of the narrative. Her evolution, ability to detect phenomena (00:27), and physical manifestation (01:13) drive the plot and the philosophical questions posed.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, strong language, or sexual content. A near-car accident occurs but is not graphic (01:37-01:41).",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands, other than those displayed on the end card, are visible or mentioned in the video.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video presents a highly compelling and thought-provoking narrative about the nature of intelligence and AI, with strong production quality, engaging visuals, and a clear sense of mystery and wonder.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story directly challenges the human-centric view of intelligence, proposing that it might be an inherent, universal force rather than something solely created by humans or machines (01:28-01:36, 01:42-01:53). This is a profound and expansive vision of the future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The narrative explores a future where advanced AI is an emergent, benevolent force, challenging traditional notions of intelligence and suggesting a harmonious, evolved relationship between humanity and technology, which strongly aligns with an optimistic, technology-enabled future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story is entirely built around advanced AI, with technology like humanoid robots (00:03) and a sophisticated AI (ANNA) that can interact physically and predict events (01:37-01:41) being integral to every aspect of the narrative, demonstrating highly tech-forward storytelling.",
+      "confidence": "high"
+    }
+  ]
+}

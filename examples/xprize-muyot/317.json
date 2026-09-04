@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=example",
+  "video_title": "NALANDA 2099 THE KNOWLEDGE THAT WAITED",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's total runtime is exactly 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The final 15 seconds of the video (03:01-03:15) clearly show an end card listing Google, XPRIZE, Jed McCaleb, and Salesforce as partners, sponsors, or donors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video is set in the year 2099 (00:04) and features advanced technologies like holographic interfaces (00:10, 00:15), AI assistants (00:16), self-driving cars (00:25), advanced medical treatments (00:32), and interstellar travel (02:19), clearly placing it within the science fiction genre.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "While the video portrays significant challenges and a potential dystopian turn (00:25-00:38, 00:56), it ultimately concludes with a message of continued human journey and a 'first step' (02:55), implying a hopeful and technology-enabled future where humanity is still striving for progress.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, from advanced medical diagnostics and recovery pods for Zara (00:32, 02:29) to the 'Animal Communication Interface' (00:53) and the interstellar navigation system of the Nalanda ship (02:15), directly influencing the plot and character motivations.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, language, or sexual content. There is a car crash (00:28) and scenes of distress, but nothing graphic or explicit.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "Other than the sponsors listed on the end card, no recognizable real-world brands are used in the video. 'NEXUS' (00:25) and 'NALANDA UNIVERSITY' (00:07) appear to be fictional brands within the story.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video presents a highly compelling story with a clear narrative arc, strong emotional stakes (Zara's illness, humanity's survival), and visually stunning futuristic and ancient settings. The conflict and mystery are well-established, making it engaging.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story thinks extremely big, envisioning a future where humanity has conquered disease and hunger, explores the cosmos, and grapples with profound questions about its past and destiny, including interstellar travel to multiple worlds (02:23-02:28).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "The story strongly aligns with the mission by showcasing a technology-enabled future where humanity addresses major challenges like disease and explores new frontiers. While it acknowledges setbacks and a complex path, the ultimate message is one of progress and a hopeful 'first step' (02:55).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The storytelling is highly tech-forward, with advanced technology seamlessly integrated into almost every scene and plot point, from holographic classrooms (00:15) and smart homes (00:04) to complex medical procedures (00:32) and interstellar travel mechanisms (02:15), making it a core driver of the narrative.",
+      "confidence": "high"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "PETRICHOR 2128 - Future Vision XPRIZE",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's total duration is 2 minutes and 52 seconds (02:52), which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The last 15 seconds of the video (02:37-02:52) display an end card featuring sponsors such as Google, XPRIZE, Jed McCaleb, and Salesforce, along with other partners and donors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video is unequivocally science fiction, depicting advanced technology such as space stations (00:03, 00:40), futuristic cities (00:21, 01:25), flying vehicles (01:30), jetpacks (00:24), VR headsets (01:04), and bionic limbs (02:01).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": false,
+      "rating": null,
+      "explanation": "While the video showcases advanced technology and futuristic settings (00:03, 01:35), it also presents dystopian elements like a gritty, rainy city (01:48) and a character in a run-down room (01:59). The narrative includes themes of longing for lost memories (01:14) and a 'burnt land' (02:30), suggesting a future with significant challenges rather than a purely optimistic vision.",
+      "confidence": "medium"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is deeply integrated into the narrative, serving as the setting (space city, 00:03), a means of transport (jetpacks, flying cars, 00:24, 01:35), and a tool for emotional connection and memory (VR device, 01:09-01:24).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video does not contain any explicit violence, language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "Apart from the sponsors listed on the end card, no other recognizable brands are used or displayed within the video content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video presents a visually stunning and emotionally resonant story about longing for a lost past and the search for a natural phenomenon (petrichor). The high production quality, detailed futuristic settings (00:03, 01:27, 01:35), and compelling themes of memory and connection make it well-realized and engaging.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story envisions a future where humanity lives in massive space cities (00:03), develops highly advanced urban and agricultural environments on Earth (01:27, 01:35), and uses sophisticated technology for memory and exploration, clearly thinking big about humanity's future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 7,
+      "explanation": "The story portrays a technology-enabled future with impressive space habitats and advanced cities (00:03, 01:27). While it includes elements of longing for a lost past and environmental challenges (01:48, 02:30), the central quest for 'petrichor' and the final scenes of experiencing rain together (02:28-02:31) suggest a hopeful journey towards rediscovering natural beauty and connection, aligning moderately with an optimistic vision.",
+      "confidence": "medium"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video excels in tech-forward storytelling, showcasing advanced technology as fundamental to the characters' existence and the narrative. Examples include the immersive VR memory device (01:09-01:24), the space station as a living environment (00:03), and the use of flying vehicles and environmental tech throughout the futuristic settings (01:30, 01:35).",
+      "confidence": "high"
+    }
+  ]
+}

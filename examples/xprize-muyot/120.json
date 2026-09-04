@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "The Mindset Chronicles Trailer",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total duration of 2 minutes and 55 seconds (02:55), which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card appears from 02:39 to 02:55, which is 16 seconds. It clearly displays 'Google', 'XPRIZE', 'Jed McCaleb', and 'Salesforce' as partners, sponsors, or presenting donors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features advanced AI, futuristic cities, brain implants, collective consciousness, and space travel, all indicative of the science fiction genre. The title card at 01:38 explicitly states 'from the best-selling sci-fi series... THE MINDSET CHRONICLES'.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "While it begins with a crisis of AI shutdown and human disconnection (00:26-00:50), the narrative quickly shifts to the creation of 'Mindset' technology to reconnect and evolve humanity (00:53-01:18), leading to a future of collective intelligence and space exploration (01:40-01:54, 02:24-02:31). The overall message is one of positive evolution through technology.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, from the initial AI-driven world and its collapse (00:18-00:50) to the development of 'Mindset' (brain implants and a collective network) as the solution to reconnect humanity and enable its evolution (00:57-01:18).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, language, or sexual content. There is a brief kiss between two characters (02:08-02:09), but it is not explicit.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": true,
+      "rating": null,
+      "explanation": "At 00:29, the logos for 'NORAD' and 'SPACE FORCE' are visible on the building entrance to the Cheyenne Mountain Complex.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video effectively condenses a complex sci-fi narrative of technological crisis, human reconnection, and evolution into a short trailer. The visuals are high quality, and the voiceover and character interactions convey a strong sense of purpose and urgency, making it compelling despite its brevity.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story begins with a Nikola Tesla quote about Earth becoming a 'huge brain' (00:02) and progresses to humanity overcoming a global digital collapse by evolving into a collective intelligence ('Mindset') that enables space exploration and a new form of existence (01:08-01:18, 01:40-01:54, 02:27-02:31). This demonstrates a very grand vision for humanity's future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video directly aligns with the mission by showing how advanced technology ('Mindset') is used to solve a global crisis and lead humanity to a more connected and evolved future. The on-screen text 'THE FUTURE OF INTELLIGENCE ISN'T ARTIFICIAL... IT'S COLLECTIVE' (01:54-02:08) and 'MINDSET the future of intelligence...' (02:31-02:39) explicitly states this optimistic, technology-enabled vision, which is further reinforced by the XPRIZE end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The entire narrative is built around advanced technology: from the initial reliance on AI and its subsequent 'Deletion' (00:26-00:50) to the innovative solution of 'Mindset' involving brain implants and a collective human network (00:57-01:18). This technology is not just a backdrop but the driving force behind the plot and humanity's transformation.",
+      "confidence": "high"
+    }
+  ]
+}

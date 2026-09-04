@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=21212121212",
+  "video_title": "The Making of RNAi: A Future Vision Story",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video has a total duration of 7 minutes and 25 seconds, which is longer than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The sponsors (Google, RANGE, Salesforce, Jed McCaleb) are displayed between 06:31 and 06:35. The last 15 seconds of the video (07:12-07:25) feature the 'RNAi' title card and music, not an end card with sponsors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video is about the creation of a science fiction film titled 'RNAi' for a 'Future Vision Contest' (01:51). It features AI-generated cyborg characters (00:09, 03:25, 04:26, 04:58) and futuristic settings, clearly placing its content within the science fiction genre.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The host explicitly states that the story was rewritten to be 'a much more human story' (02:19-02:20) for a 'Future Vision Contest'. Movie posters within the video feature taglines like 'THE FUTURE IS NOT US OR THEM. IT'S US TOGETHER.' and 'LOVE. TRUST. PARTNERSHIP. BUILDING A BETTER TOMORROW.' (04:29, 04:37), indicating an optimistic and technology-forward vision.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video itself is a 'making-of' documentary showcasing the use of AI tools like Gemini and Leonardo.ai for character design, storyboarding, and scene generation (00:26, 01:24, 02:28, 03:51). The narrative of the film being created ('RNAi') centers around cyborgs and advanced technology, making technology a core element of both the production and the story.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains a brief, non-graphic explosion (03:18-03:19) and an AI-generated image of characters in a fight stance (03:25), but no explicit violence, language, or sexual content is present.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video prominently features screen recordings of Leonardo.ai (00:29, 03:51) and mentions using ChatGPT and Gemini (02:28) as AI tools, which are recognizable brands.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "The video effectively tells a compelling meta-story about the challenges and creative process of AI filmmaking. The host clearly articulates her journey and lessons learned, and the AI-generated scenes, despite the mentioned difficulties, are visually impressive and convey the intended narrative.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The underlying film concept, 'RNAi', is explicitly framed as a 'Future Vision Story' (04:29) that explores themes of human-AI partnership and a 'better tomorrow' (04:37). The visuals of futuristic cities and advanced cyborgs demonstrate a grand vision for humanity's technological and social evolution.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The host explicitly states that the story was rewritten for the 'Future Vision Contest' (01:51) to portray a 'much more human story' (02:19-02:20) with themes of 'Love, Trust, Partnership, Building a Better Tomorrow' (04:37). The final scene showing 'Case Solved' (06:43) by a cyborg police officer reinforces a positive, technology-enabled future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video itself is a prime example of tech-forward storytelling, demonstrating the use of AI tools (Gemini, Leonardo.ai) for every stage of film production, from character design to scene generation (00:26, 01:24, 02:28, 03:51). The narrative of the film being created also features advanced technology and cyborgs as central characters and plot devices, making technology integral to both the 'making-of' and the 'story' aspects.",
+      "confidence": "high"
+    }
+  ]
+}

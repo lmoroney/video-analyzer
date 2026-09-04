@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=example",
+  "video_title": "The Wild Return",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video is 2 minutes and 18 seconds long, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The last 15 seconds of the video (from 02:03 to 02:18) display an end card with logos for XPRIZE, RANGE, Salesforce, and Jed McCaleb.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video depicts the de-extinction of mammoths and their return to the wild, a concept that relies on advanced technology and is presented as a future event (a calendar shows 2054 at 00:11), aligning with science fiction themes.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video portrays a hopeful future where technology (de-extinction) is used to bring back extinct species like mammoths and protect them, as highlighted by the voiceover \"Now, we protect them\" (01:44) and the actress stating it's a \"story about hope\" (01:58).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is a core element of the narrative, enabling the de-extinction of mammoths (00:46-00:55) and being actively used for their protection, such as drones deploying nets (01:15, 01:33-01:34) and vehicles for intervention (01:19, 01:27).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains scenes of a wildfire and efforts to protect animals from poachers, but it does not feature explicit violence, language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The car driven by the mother and daughter appears to be an MG (00:17, 00:20), and the boat at 01:25 has \"RANGER\" written on its side.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video presents a compelling narrative about de-extinction and the protection of revived species, effectively using emotional storytelling and high production quality to convey its message within the short runtime.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story thinks very big about humanity's future by exploring the profound implications of de-extinction, showcasing a future where humans actively restore and protect species thought lost forever, fundamentally altering our relationship with the natural world.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story is fully aligned with the XPRIZE mission, presenting a genuinely optimistic future where advanced technology is used to reverse extinction and protect revived species, embodying a hopeful vision for humanity's role in ecological restoration.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The story features tech-forward storytelling by making de-extinction a central plot point, and integrating advanced technologies like genetic engineering (implied by de-extinction), sophisticated mapping on tablets (00:13), and drones for monitoring and rescue (01:15, 01:33) directly into the narrative.",
+      "confidence": "high"
+    }
+  ]
+}

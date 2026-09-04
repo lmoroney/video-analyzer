@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "The Watcher",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total duration of 3 minutes and 7 seconds, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card appears from 02:49 to 03:07, which is approximately 18 seconds, and clearly displays Google, XPRIZE, Jed McCaleb, and Salesforce as sponsors/partners/donors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features advanced robotics (00:05, 02:04), large-scale space-based solar energy collection (00:20-00:23, 00:53-00:56), and the discovery of a human-like being orbiting the sun (00:26-00:28, 00:39-00:42), all of which are elements of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "While there are initial conflicts and fears, the video concludes with a message of hope and evolution, emphasizing that humanity has built, evolved, created life, and achieved abundance through technology (02:05-02:11). The 'watcher' encourages looking up and embracing the unknown for future wonders (02:28-02:33), suggesting an optimistic outlook.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, from the advanced solar energy infrastructure that powers Earth (00:20-00:23, 00:53-00:56) to the astronomical technology used to discover the 'watcher' (00:26-00:28) and the space mission to retrieve him (01:14-01:25). Robots are also shown in agricultural and urban settings (00:05, 02:08).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video does not contain any explicit violence, offensive language, or sexual content. There is a brief chase scene and a robot being hit by a car (02:13-02:14), but it is not graphic.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands are visible in the video content itself, apart from the sponsors listed on the end card. 'NEXUS R-1' is a fictional brand for the robot (00:07).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video presents a highly compelling story with a strong narrative arc, from the mysterious discovery of the 'watcher' to the global reaction and the eventual philosophical message. The production quality, visual effects, and acting are excellent, making it feel like a high-budget short film.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story thinks very big, exploring humanity's technological evolution, its relationship with the sun as a power source, the potential for extraterrestrial encounters, and a profound philosophical shift towards embracing the unknown and building a greater future. It envisions a future where humanity has overcome environmental challenges and is ready for new wonders.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story is fully aligned with the Future Vision XPRIZE mission. It explicitly showcases a technology-enabled future (solar energy, advanced robotics, space travel) that, despite initial fear and division, ultimately leads to an optimistic vision of human progress, renewed wonder, and the potential for even greater achievements, as articulated by the 'watcher' at the end (02:28-02:43). The end card also directly states 'Building Optimistic Visions of the Future'.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The storytelling is highly tech-forward. The central conflict and resolution are driven by advanced technology: the discovery of the 'watcher' via astronomical observation (00:26-00:28), the reliance on space-based solar energy (00:20-00:23), and the mission to retrieve the 'watcher' using advanced spacecraft (01:14-01:25). Technology is not just a backdrop but an integral part of the plot and the world-building.",
+      "confidence": "high"
+    }
+  ]
+}

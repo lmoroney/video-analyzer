@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "The Listening Chamber",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video is 3 minutes and 9 seconds long, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card, featuring sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce, is displayed from 02:54 until the end of the video at 03:09, which is exactly 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video depicts futuristic technology like the 'Listening Chamber' (00:37) that enables interspecies communication and visualizes thoughts as light patterns (00:55, 01:08, 02:00), set in the years 2032 and 2050, which are elements of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video portrays a future where technology facilitates profound communication, initially between a mother and her son (00:13-00:16), then with orcas (01:14-01:29), and eventually across species and generations (02:05-02:25), leading to understanding and connection, which is a hopeful and optimistic vision.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "The 'Listening Chamber' and the associated communication technology are central to the narrative, enabling the mother to connect with her son (00:13-00:16) and later facilitating interspecies communication with orcas (01:14-01:29), directly driving the plot and its optimistic message.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video does not contain any explicit violence, offensive language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "Apart from the sponsors listed on the end card (02:54-03:09), no other recognizable brands are used within the video's narrative content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video presents a compelling and emotionally resonant story about communication and connection, effectively realized through strong visuals, character development, and a clear narrative arc, despite its short runtime.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story thinks very big about humanity's future by envisioning a world where advanced technology enables not only deeper human connection but also interspecies communication, leading to a more harmonious and understanding global society by 2050 (02:25-02:37).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video is fully aligned with the Future Vision XPRIZE mission, explicitly stating 'Building Optimistic Visions of the Future' (02:54) and demonstrating a genuinely optimistic future where technology fosters communication and understanding across species and generations.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The storytelling is highly tech-forward, with advanced technology like the 'Listening Chamber' (00:37) and the visualization of communication patterns (00:55, 01:08, 02:00) being central to the plot and character interactions, demonstrating its meaningful integration into the narrative.",
+      "confidence": "high"
+    }
+  ]
+}

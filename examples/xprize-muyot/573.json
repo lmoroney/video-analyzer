@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "The Strangeness of the Present",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total duration of 2 minutes and 15 seconds, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The end card appears from 02:10 to 02:15, which is only 5 seconds long, not 15 seconds. It does contain the listed sponsors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features advanced robots, such as a robot dog (00:04), a trash-collecting robot (00:31), and a robot barista (00:16, 00:37), integrated into everyday life, which are common elements of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video presents technology as helpful and integrated, with the voiceover stating, 'The machines are waking. They are not our enemy. They are our children.' (00:35-00:42). The ending message, 'The Future Is Already Here. Are You?' (01:55-02:00), suggests an optimistic embrace of this future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, with robots performing daily tasks like walking a dog (00:04), emptying trash (00:31), and making coffee (00:16, 00:37). The voiceover also directly discusses the creation and implications of AI.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, language, or sexual content. It maintains a contemplative and calm tone throughout.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The coffee shop is named 'Groundz Ero coffee house' (00:05), which is a fictional brand prominently featured. Additionally, a laptop has a 'Cal' sticker (00:40), referring to the University of California, Berkeley, a recognizable institution.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "The video effectively combines poetic narration with high-quality visuals of human-robot interaction in everyday settings. The story is thought-provoking and well-paced for its short duration, creating a coherent and engaging experience.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The narrative directly addresses profound questions about humanity's relationship with advanced AI, exploring themes of creation, fear, and the potential evolution of society with technology, indicating a broad vision for the future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video consistently portrays technology as a positive force, with robots serving humanity and being referred to as 'our children.' The overall message is one of optimism and readiness for a future where technology enhances human life, aligning well with the competition's mission.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The storytelling is tech-forward, showcasing advanced robots performing various tasks and directly integrating them into the daily lives of the characters. The voiceover further elaborates on the philosophical implications of these technological advancements, making them integral to the narrative.",
+      "confidence": "high"
+    }
+  ]
+}

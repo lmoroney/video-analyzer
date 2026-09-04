@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=3033",
+  "video_title": "3033",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's total duration is 3 minutes and 0 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card, visible from 02:40 to 02:54, clearly displays 'FUTUREVISION X PRIZE', 'Google / RANGE', 'salesforce', and 'Jed McCaleb' as sponsors and donors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video depicts advanced technology like intravenous augmentation for mental health, the manifestation of thoughts into reality, sentient AI, and futuristic environments, all characteristic of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": false,
+      "rating": null,
+      "explanation": "While the initial premise involves technology for mental health, the narrative quickly shifts to a dystopian portrayal where the protagonist loses agency, her thoughts manifest as menacing robots, and she is forced into a new reality, culminating in a seemingly endless 'testing' loop. The final scene with the chef's ominous comment reinforces a lack of optimism.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "The central conflict and progression of the story are entirely dependent on the 'intravenous augmentation' technology, which causes the protagonist's thoughts and memories to manifest as tangible realities, directly integrating technology into the core narrative.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video does not contain any explicit violence, strong language, or sexual content. While there are menacing robots and a brief struggle, it is not graphic.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands, other than those displayed on the end card, are visible or mentioned within the main content of the video.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "The video presents a visually striking and thought-provoking narrative with high production quality, effectively conveying a complex story about reality, perception, and control within its short runtime.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The story delves into significant philosophical and technological questions about humanity's future, including the nature of reality, the impact of advanced mental augmentation, and the potential for AI to control or redefine human experience.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 2,
+      "explanation": "The story portrays a future where technology, initially presented as a solution for mental health, leads to a loss of individual autonomy and a potentially dystopian reality where thoughts are controlled or manipulated, which is not genuinely optimistic.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The narrative is driven by advanced technology, specifically the 'intravenous augmentation' that blurs the lines between thought and reality, making the technology an integral and dynamic part of the storytelling and visual experience.",
+      "confidence": "high"
+    }
+  ]
+}

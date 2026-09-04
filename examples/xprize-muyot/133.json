@@ -1,0 +1,83 @@
+{
+  "video_url": "attached_video",
+  "video_title": "The Scroll of Moirai",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's total duration is exactly 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card, which includes the mentioned sponsors, is displayed from 02:57 until the end of the video at 03:15. Therefore, the last 15 seconds (from 03:00 to 03:15) are indeed part of this end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features advanced robotics (00:15, 00:23, 00:36, 02:54), space travel (01:30), an artificial cylindrical world (01:44), and alien-like creatures (01:51), all indicative of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": false,
+      "rating": null,
+      "explanation": "While technology is forward-looking, the vision is not purely optimistic. It initially shows technology replacing human roles and purpose (00:10-00:44), and the ending introduces a clear threat with a large spider-like robot (02:54-02:57), suggesting a challenging future.",
+      "confidence": "medium"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, from autonomous robots replacing jobs (00:15-00:28) to space travel and the exploration of an artificial world (01:30-02:42), and even as a direct threat (02:54).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "There is a brief physical struggle between two characters (02:31-02:32) and a chase scene with a robot (02:54-02:57), but no explicit violence, strong language, or sexual content is present.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands were observed within the main content of the video, only in the end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "The video presents an intriguing premise about humanity's search for purpose in a technologically advanced world, leading to space exploration and discovery. The visuals are high quality, and the narrative, though concise, is engaging and well-executed.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The story explores grand themes such as the impact of automation on human purpose, interstellar travel, and the discovery of vast, artificial worlds, demonstrating a significant scope for humanity's future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 6,
+      "explanation": "While technology-enabled, the story presents a nuanced view of the future. It highlights the displacement of human roles by technology and ends with a threatening encounter, suggesting that the future, while adventurous, is not purely optimistic or without significant challenges, which slightly deviates from a 'genuinely optimistic' portrayal.",
+      "confidence": "medium"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "Advanced technology is integral to the plot, driving the initial societal changes, enabling space travel, and forming the environment and challenges encountered by the characters. The visual effects effectively showcase these technological advancements.",
+      "confidence": "high"
+    }
+  ]
+}

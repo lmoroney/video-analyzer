@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=YOUR_VIDEO_ID",
+  "video_title": "Future Vision XPRIZE Trailer",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total duration of 2 minutes and 55 seconds, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card appears from 02:34 to 02:55 and clearly displays Google, XPRIZE, Jed McCaleb, and Salesforce as sponsors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features advanced technology such as humanoid robots (00:00, 00:45), futuristic flying vehicles (00:03), a space station (00:30), and holographic maps (00:58, 02:14), all indicative of the science fiction genre.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "Despite initial scenes of global crises (00:33-00:40), the video shows technology being used to mitigate disasters (01:26-01:29) and solve problems, culminating in a message of unity and hope with the text 'BEFORE YOU GO' and 'We are one' (02:28-02:34), suggesting an optimistic, technology-forward future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, with a 'Global Nervous System' (01:34) and advanced devices (00:10, 01:00) being key to understanding and solving global crises. The robot character is also a main protagonist (00:45, 01:13).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video depicts natural disasters and implied conflict with soldiers (02:00), but there is no explicit violence, offensive language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable commercial brands are visible within the narrative content of the video, only on the final end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video effectively establishes a compelling narrative of loss, global crisis, and a mission to find solutions, with high-quality visuals and special effects that make the futuristic world feel real, especially for a short trailer format.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story addresses large-scale global challenges like climate change and resource scarcity, and proposes a vast, interconnected technological solution ('Global Nervous System') that spans Earth and space, demonstrating a very ambitious vision for humanity's future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "While it begins with dire global crises, the narrative quickly shifts to showcasing how advanced technology can be leveraged to understand and mitigate these issues, ultimately conveying a message of hope and unity for a technology-enabled future, which strongly aligns with the XPRIZE mission.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The entire plot revolves around advanced technology, from personal AI companions and flying vehicles to a global nervous system that monitors and responds to environmental threats. These technologies are not just props but are integral to the characters' actions and the resolution of conflicts, making it highly tech-forward storytelling.",
+      "confidence": "high"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "Five Points of Intimacy",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total duration of 3 minutes and 2 seconds, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The last 15 seconds (02:47-03:02) show the protagonist meeting Karen, followed by the title 'Five Points of Intimacy' and then the 'Henrie Studio' end card. This end card (02:57-03:02) does not contain any of the listed sponsors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features an advanced online dating app, FPI, which uses an 'AI twin' that flawlessly mirrors a person's personality and allows users to build 'intimacy points' to earn a face-to-face meeting (00:30-00:45). This concept of highly sophisticated AI for personal relationships is characteristic of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The protagonist, initially in a deep depression after his divorce (00:07-00:10), finds renewed hope and happiness through the AI dating app, eventually leading to a real-life connection (02:47-02:56). The technology helps him overcome loneliness and find joy, presenting an optimistic outcome.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "The FPI dating app and its AI twin are central to the entire narrative. The protagonist's emotional journey, his interactions, and the progression of the story are all driven by this technology, which is explicitly explained and shown to facilitate his connection (00:30-00:45, 00:59-01:14).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video does not contain any explicit violence, language, or sexual content. The protagonist experiences emotional distress and screams at one point (02:08-02:12), but this is not explicit violence.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The protagonist is shown driving a car with a 'Rivian' logo clearly visible on the steering wheel (01:15).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video effectively tells a compelling story of overcoming loneliness and finding connection through technology. The emotional arc of the protagonist is clear, and the production quality, including acting and visual transitions, is strong for a short film, making the narrative well-realized.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "The story explores the significant potential of advanced AI to address profound human needs like loneliness and the desire for connection. It envisions a future where AI can act as a sophisticated intermediary in forming relationships, which is a substantial and thought-provoking concept for humanity's future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The narrative strongly aligns with an optimistic, technology-enabled future by showing how an advanced AI dating app helps a depressed and lonely individual find happiness and a real-life connection. Technology is presented as a positive force that facilitates personal growth and meaningful human interaction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The entire plot hinges on the advanced FPI app and its AI twin, which is a clear example of tech-forward storytelling. The mechanics of the 'intimacy points' and the AI's ability to flawlessly mirror personality are not just background elements but are crucial drivers of the protagonist's journey and the story's resolution.",
+      "confidence": "high"
+    }
+  ]
+}

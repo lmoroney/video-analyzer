@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "The Last Archive - Future Vision XPRIZE",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total duration of 1 minute and 14 seconds, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "From 00:58 to the end of the video (01:14), an end card is displayed, listing 'Salesforce' as Presenting Sponsor, 'Google', 'RANGE', 'XPRIZE' as Partners, and 'Jed McCaleb' as Presenting Donor.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features futuristic technology such as holographic displays (00:25, 00:37, 00:41), advanced control rooms (00:00), and a deep-sea submersible (00:48), set in the years 2026 and 2056, indicating a science fiction genre.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's central theme is 'Project Ocean: Save the Ocean, Save the Future' (00:09), with the protagonist aiming to 'build something that will help people one day' (00:13) and 'build a better future' (00:40). The father also tells his son, 'Your future will be beautiful' (00:22).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, with the protagonist working on 'Project Ocean' using advanced data analysis (00:25, 00:41) and a specialized submersible (00:48) to restore the ocean, directly driving the plot.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video does not contain any explicit violence, offensive language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands are visible or mentioned within the main content of the video, outside of the end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video effectively tells a compelling story of a father's dedication to a future-saving project, spanning decades, with high-quality visuals and a clear emotional arc, despite its short length.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story addresses a global environmental crisis with 'Project Ocean' (00:09), aiming to 'restore what we've lost for our children and for generations to come' (00:26-00:29), demonstrating a grand vision for humanity's future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video explicitly promotes 'Project Ocean: Save the Ocean, Save the Future' (00:09) and the end card states 'FUTUREVISION XPRIZE: Building Optimistic Visions of the Future' (00:58), directly aligning with the competition's mission of an optimistic, technology-enabled future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The narrative is driven by advanced technology, including holographic data interfaces (00:25, 00:37, 00:41), futuristic control rooms (00:00), and a deep-sea exploration vessel (00:48), all integral to the 'Project Ocean' mission.",
+      "confidence": "high"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=22222222222",
+  "video_title": "Tides of Time",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's total duration is exactly 3 minutes and 15 seconds (03:15).",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card appears from 2:59 to 3:15 and clearly lists Salesforce as 'Presenting Sponsor', Google and XPRIZE as 'Partners', and Jed McCaleb as 'Presenting Donor'.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features portals for interdimensional travel (00:04), futuristic cities and vehicles (00:16), robots (00:21), spaceships (01:02), alien worlds and creatures (02:03-02:16), and a protagonist with glowing, flying abilities (01:38-01:58), all indicative of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": false,
+      "rating": null,
+      "explanation": "While the video initially shows a technology-forward future with advanced cities and robots (00:16-00:23), it quickly shifts to a narrative of conflict, chase, and destruction (00:32-01:20), and later depicts a ruined city (01:36-01:38). The overall tone is more adventurous and suspenseful than purely optimistic, despite a hopeful ending.",
+      "confidence": "medium"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, with portals enabling travel (00:04), advanced motorcycles and flying vehicles used for transport and chase (00:16, 00:40), robots assisting humans (00:21), and spaceships for interstellar journeys (01:02). The protagonist's abilities also appear to be technologically or supernaturally enabled (01:30-01:40).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "There are scenes of implied violence during a fight (00:32-00:37) and a vehicle explosion (00:50-00:52), but no explicit gore or graphic content. There is no explicit language or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands were observed in the video content itself, only on the end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video presents a highly engaging and fast-paced story with impressive visual effects, diverse settings, and clear character motivations, making it very compelling despite its short duration.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The story explores grand themes such as interdimensional travel, advanced civilizations, alien life, and humanity's potential across different realities, showcasing a very broad and ambitious vision of the future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 7,
+      "explanation": "While technology is central and the ending offers a sense of hope and new beginnings, the story includes significant conflict, danger, and a ruined Earth, which detracts from a 'genuinely optimistic' portrayal. It's more of an adventurous sci-fi narrative with hopeful elements.",
+      "confidence": "medium"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "Advanced technology is not merely background but drives the plot, from the initial portal travel (00:04) and futuristic urban life (00:16) to high-speed chases (00:40) and interstellar journeys (01:02). The protagonist's abilities also appear to be technologically or supernaturally enhanced, making technology integral to the character's journey.",
+      "confidence": "high"
+    }
+  ]
+}

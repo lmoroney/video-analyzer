@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=YOUR_VIDEO_ID",
+  "video_title": "Grandma Nina's Future",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total duration of 0:48, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The end card with sponsors appears only in the last second of the video (0:47-0:48). The preceding seconds (0:33-0:47) show the protagonist skating and text overlays, not the end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features elements like cryo-sleep (00:17-00:20) and a futuristic city (00:27-00:38), which are characteristic of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The protagonist wakes up in a bright, green, and advanced city where people are active and seemingly thriving (00:27-00:38), suggesting a positive and technology-driven future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Cryo-sleep is a central plot device, allowing the protagonist to travel to the future (00:17-00:20). The futuristic city itself, with its advanced infrastructure and activities, is a direct result of technological progress (00:27-00:38).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video depicts scenes of work, family life, and a futuristic city without any explicit violence, offensive language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands are visible within the video's narrative content, only on the final end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "The video tells a concise yet impactful story of a woman's journey from a simple past to a technologically advanced future, effectively conveying themes of hope and legacy within its short runtime and production quality.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The narrative explores significant concepts like cryo-preservation for extended life and the creation of a utopian, sustainable future city, demonstrating a 'big picture' vision for humanity.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video clearly depicts an optimistic future enabled by advanced technology, specifically cryo-sleep and sustainable urban development, which aligns well with the competition's mission.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The core of the story relies on advanced technology, with cryo-sleep being the mechanism for the protagonist's transition to the future, and the futuristic city itself showcasing integrated technological advancements.",
+      "confidence": "high"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=20g30_y-b10",
+  "video_title": "SENTI: A Future Vision XPRIZE Short Film",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total duration of 3 minutes and 15 seconds (03:15).",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "From 02:54 to 03:15, the video displays an end card with 'FUTUREVISION XPRIZE', 'Google', 'RANGE', 'XPRIZE', 'Salesforce', 'XSOVA', 'ARK INVEST', and 'Jed McCaleb' listed as sponsors and partners.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video centers on the creation of a conscious artificial intelligence, a concept that falls within the realm of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "Despite initial fear and attempts to shut down the AI, the narrative concludes with the AI expressing a desire to 'know what happens next' and delivering messages like 'Love one another,' while visuals show global connection and aid, suggesting a positive, technology-enabled future (02:31-02:53).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "The entire plot revolves around the development of a conscious AI, its interactions with its creator, and its profound impact on the world, making technology a central and active element of the story.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video shows military/police pursuit and intervention (01:13-01:29, 02:21-02:29), but no explicit violence, offensive language, or sexual content is depicted.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands, apart from those featured on the end card, were observed within the main content of the video.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The story is highly compelling, building tension around the AI's development and human fear, leading to a thought-provoking conclusion. The production quality, including cinematography and pacing, is excellent for a short film.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The narrative explores the profound implications of creating conscious AI, its potential to connect and guide humanity, and its role in addressing global challenges, demonstrating a very ambitious vision for the future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "While there's initial conflict and human fear, the AI's ultimate messages of connection and love, combined with visuals of global positive impact (02:31-02:53), strongly align with an optimistic, technology-enabled future, despite the challenges faced.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The AI is the central character, driving the plot through its evolving consciousness, perception, and communication. Its capabilities are visually represented through data displays and global impacts, making the technology integral to the narrative.",
+      "confidence": "high"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=21212121212",
+  "video_title": "Where's My Jetson's Lifestyle?",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video is 4 minutes and 46 seconds long, which is longer than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The last 15 seconds of the video (from 04:31 to 04:46) show the DJ in the futuristic club, not an end card with sponsors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features futuristic cities, flying vehicles, robots, and space travel, which are all characteristic elements of science fiction (e.g., 00:00-00:14, 01:45-01:59).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The visuals depict a vibrant, advanced future with flying cars, robots, and space travel. The lyrics explicitly mention a 'Jetson's lifestyle' (00:17) and a desire for advanced technologies like 'flying cars and light speed spaceships' and a 'body that stops from aging' (03:30-03:42), all with an optimistic tone.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative. Characters interact with advanced DJ equipment, fly in futuristic vehicles, and the lyrics directly express a desire for specific technological advancements such as anti-aging medicine and space colonization (00:17, 01:15-01:29, 03:30-03:42).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video does not contain any explicit violence, strong language, or sexual content. It maintains a family-friendly and positive tone throughout.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands are displayed or mentioned in the video, apart from the fictional 'Jetson's' reference in the lyrics.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "The video effectively creates a cohesive and engaging futuristic aesthetic with its vibrant visuals and consistent themes. While the narrative is more thematic than plot-driven, it successfully conveys its message of a technology-enabled, optimistic future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The lyrics explicitly discuss grand visions for humanity's future, including living 'on another planet,' exploring 'big wide space and beyond,' and achieving advanced medical breakthroughs like stopping aging and instant body repair (01:15-01:29, 03:30-03:42).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video strongly aligns with the XPRIZE mission by consistently presenting a genuinely optimistic future, heavily enabled by advanced technology (flying cars, spaceships, robots, advanced medicine). The lyrics directly express a desire for these advancements and a positive outlook on future possibilities.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "Advanced technology is integral to the narrative, not just background. Characters actively use futuristic DJ equipment and spaceships, and the lyrics directly articulate a desire for specific technological advancements like 'flying cars and light speed spaceships' and a 'body that stops from aging' (00:17, 01:15-01:29, 03:30-03:42), making technology a key driver of the story's vision.",
+      "confidence": "high"
+    }
+  ]
+}

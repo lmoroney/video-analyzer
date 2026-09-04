@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=yG20_Q-401E",
+  "video_title": "Future Vision XPRIZE: The Game",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's total duration is exactly 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "From 03:00 to 03:15, the video displays an end card with the 'FUTUREVISION XPRIZE' logo and lists Google, RANGE, XPRIZE, Salesforce, XSOMA, ARK INVEST, and Jed McCaleb as partners/sponsors/donors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video depicts a futuristic world with advanced AI, autonomous drones, highly developed cities, and a narrative set in the year 2056, all characteristic elements of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "While initially showing a detached, tech-driven warfare, the narrative shifts to a hopeful vision where technology is repurposed for humanitarian aid during a disaster (01:04-01:38) and ultimately for global environmental restoration (02:27-02:38), emphasizing a new, more compassionate definition of victory.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the entire narrative, from the 'bloodless' drone warfare (00:00-00:09) to the advanced city infrastructure (00:10-00:18), the AI-driven decision-making (00:31-00:40), the use of drones for rescue (01:27-01:38), and the eventual terraforming efforts (02:27-02:38). The story's core conflict and resolution are driven by how technology is utilized and redefined.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video describes war as 'bloodless' (00:01) and depicts a natural disaster with destruction but no explicit violence, gore, strong language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": true,
+      "rating": null,
+      "explanation": "At 00:35, news screens in the background clearly display the 'CNN' logo, which is a recognizable brand.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video tells a compelling story of a general's transformation from a focus on strategic victory to humanitarian values, with stunning visuals and a clear narrative arc. The production quality is consistently high, effectively realizing its ambitious vision.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story thinks very big, moving from advanced warfare to a global natural disaster, and then to humanity uniting to repurpose technology for saving lives and ultimately undertaking a massive environmental restoration project (terraforming 200,000 sq km of dying soil at 02:35).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video is fully aligned, explicitly stating 'Building Optimistic Visions of the Future' at the end (03:00). The narrative demonstrates a powerful shift from a flawed, tech-driven 'victory' to a truly optimistic future where technology is repurposed for collective good, saving lives, and healing the planet, redefining success through human values.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The entire narrative is built around advanced technology, including AI, autonomous drones, and sophisticated urban systems. The plot's progression, conflicts, and resolutions are all driven by how this technology is developed, used, and ultimately repurposed for humanitarian and environmental goals, making it integral to the storytelling.",
+      "confidence": "high"
+    }
+  ]
+}

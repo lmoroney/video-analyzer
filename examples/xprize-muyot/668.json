@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "Zander and the Infinite Ways Trailer",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total duration of 2 minutes and 36 seconds, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card appears from 02:21 to 02:36, which is the last 15 seconds of the video, and clearly displays Google, XPRIZE, Jed McCaleb, and Salesforce as sponsors/partners.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features advanced technology such as shared sensory experiences (SenseShare at 0:09), futuristic cities with flying vehicles (0:00-0:01), robots, and the cloning of extinct animals (0:52-0:53), all indicative of a science fiction genre.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "Initially, the invention of SenseShare is presented as a positive breakthrough for sharing ideas and collaboration (0:21-0:27). Although a villain corrupts the technology, the protagonists embark on a mission to save their city, implying a hopeful resolution and the potential for technology to be used for good.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology, specifically the 'SenseShare' invention, is central to the plot, driving both the initial optimistic vision (0:05-0:09) and the subsequent conflict when it is corrupted (0:35-0:39). It is also key to the heroes' abilities and strategy (1:03-1:06, 1:18-1:26).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, language, or sexual content. It is a family-friendly animated trailer.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands are visible or mentioned within the narrative portion of the video, only on the end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "The trailer effectively sets up a clear conflict and a heroic quest, with high-quality animation and character design. The pacing is good, and the core concept of shared senses is intriguing, making for a compelling, albeit brief, story introduction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The story explores significant future concepts such as advanced AI, shared sensory experiences, de-extinction, and highly developed urban environments, demonstrating a broad vision for humanity's technological and societal evolution.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "Despite the conflict with a villain, the underlying message is about the positive potential of technology for connection, collaboration, and learning, ultimately aiming to restore a vibrant, technologically advanced city. The ending reinforces the optimistic use of SenseShare.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The 'SenseShare' technology is not merely a backdrop but a pivotal element that drives the plot, enables character abilities (e.g., the girl experiencing the sabertooth's senses at 1:03-1:06, the boy sensing with a dolphin at 1:18-1:26), and defines the world's possibilities and challenges.",
+      "confidence": "high"
+    }
+  ]
+}

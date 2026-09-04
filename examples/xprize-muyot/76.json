@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "PULSE - Future Vision XPRIZE Trailer",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total duration of 2 minutes and 15 seconds, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "From 01:57 to 02:15, an end card is displayed featuring logos for Google, XPRIZE, Jed McCaleb (as 'Presenting Donor'), and Salesforce (as 'Presenting Sponsor'), along with other partners and sponsors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video depicts a futuristic human settlement on the moon, complete with advanced infrastructure like a moon base, vertical farms, and specialized vehicles, which are all elements of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": false,
+      "rating": null,
+      "explanation": "While the setting is technology-forward (a moon city), the narrative focuses on a catastrophic event, showing explosions (00:59), structural damage, flooding (01:03), lava fissures (01:05), and people in distress, which creates a tone of struggle and survival rather than pure optimism.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, as the entire human existence on the moon relies on advanced infrastructure like the moon base, transport systems (00:08, 01:07), and environmental controls (00:18). The disaster itself is a technological failure or an environmental challenge that directly impacts the technological systems.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video shows explosions and people in peril, but there is no graphic violence. There is no explicit language or sexual content, only a brief, emotional kiss between two characters (01:53-01:54).",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable commercial brands are visible or mentioned within the main content of the video, only fictional branding related to the moon base or space suits.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "The video effectively creates a sense of urgency and human drama through its visuals and voiceover, despite being a short trailer. The production quality is high, with detailed futuristic environments and convincing special effects.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The concept of establishing a permanent human city of 10,000 people on the moon, complete with self-sustaining agriculture and advanced transportation, represents a very ambitious and 'big' vision for humanity's future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 5,
+      "explanation": "While the video is clearly technology-enabled and explores a future scenario, the narrative itself is centered around a catastrophic event and the struggle for survival, which is not a 'genuinely optimistic' portrayal of the future, despite the competition's stated mission on the end card.",
+      "confidence": "medium"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The entire premise and conflict of the story are deeply intertwined with advanced technology, from the moon base infrastructure and vertical farms (00:13-00:23) to the hover-bikes (00:24) and the challenges posed by the lunar environment's interaction with human-made structures (01:05-01:06).",
+      "confidence": "high"
+    }
+  ]
+}

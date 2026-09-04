@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "The Tenth Key",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total duration of 2 minutes and 59 seconds, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card appears from 2:43 to 2:59, which is the last 16 seconds of the video, and clearly displays the sponsors Google, XPRIZE, Jed McCaleb, and Salesforce.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video depicts a future where a 'ninth base' has entered the genetic code, causing widespread reproductive failure in all life forms, and a quest to find a 'tenth key' to stabilize it. This premise, involving advanced genetic concepts and a global crisis, is characteristic of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "While the video starts with a dire situation of genetic instability and reproductive collapse, it transitions to a hopeful narrative where scientists discover a solution ('the tenth key') and implement technology (like drones for reforestation and advanced agricultural facilities) to restore life and create a thriving future (1:39-1:42, 2:29-2:30).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, from the initial genetic scanning during pregnancy (0:04) to the depiction of DNA instability (0:39), the use of advanced scanning devices to identify the 'tenth key' (1:34-1:37), and the deployment of drones for environmental management (1:11-1:17).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains scenes of emotional distress (e.g., a pregnant woman crying at 0:20, people crying in a burning facility at 2:05-2:14) and implied danger (people running from fire at 2:03), but no explicit violence, language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands are visible or mentioned in the video content itself, only in the end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video presents a compelling story of a global genetic crisis and the scientific quest for a solution. The narrative is clear, emotionally engaging, and visually well-produced, effectively conveying a complex sci-fi premise within its short runtime.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The story tackles an existential threat to all life on Earth – the inability to reproduce due to genetic code instability. The solution involves a fundamental biological discovery and its large-scale application to save humanity and the biosphere, demonstrating a very big vision for the future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The story strongly aligns with the XPRIZE mission. It presents a future where a catastrophic biological problem is overcome through scientific discovery and technological application, leading to a renewed, thriving world. The overall arc is one of overcoming adversity with innovation, resulting in an optimistic future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The narrative is deeply intertwined with advanced technology and scientific concepts, such as genetic code analysis, the 'ninth base' and 'tenth key', and the use of drones for environmental restoration. These elements are not merely background but are critical drivers of the plot and the solution.",
+      "confidence": "high"
+    }
+  ]
+}

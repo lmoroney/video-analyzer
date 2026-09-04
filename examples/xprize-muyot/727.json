@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "Grillo: Every Child Deserves a Guide",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video is 1 minute and 16 seconds long, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The last 16 seconds of the video (from 1:00 to 1:16) display an end card with logos for Salesforce, Google, RANGE, XPRIZE, XSOVA, ARK INVEST, and Jed McCaleb.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features a boy interacting with an advanced, sentient mechanical insect that projects holographic maps and speaks, which is a clear element of science fiction (00:00-00:46).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video portrays a hopeful future where advanced technology, in the form of a helpful robotic insect, guides a lost child and provides comfort, culminating in the tagline \"Every child deserves a guide\" (00:17-00:50).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "The robotic insect, Grillo, is a central character that actively guides the boy, communicates with him, and projects a holographic map, making technology integral to the narrative (00:00-00:46).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, offensive language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "Apart from the sponsor logos on the end card (01:00-01:16), no other recognizable brands are featured in the video.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "The video tells a simple yet compelling story of a lost boy finding a technological guide, with high-quality animation for the robotic insect and effective visual storytelling (00:00-00:50).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The story envisions a future where advanced AI companions like Grillo provide guidance and safety for children, suggesting a significant and positive integration of technology into human development and well-being (00:23-00:50).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video perfectly aligns with the mission by showcasing a genuinely optimistic future where technology, embodied by the helpful robotic guide Grillo, enhances safety and provides companionship for children, as highlighted by the tagline \"Every child deserves a guide\" (00:23-00:50).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The narrative is driven by the advanced robotic insect, Grillo, which is a sentient guide that communicates, projects holographic maps, and actively assists the lost boy, demonstrating a deep integration of technology into the story (00:00-00:46).",
+      "confidence": "high"
+    }
+  ]
+}

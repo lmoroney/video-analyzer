@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=2_2-2122",
+  "video_title": "Daydreams: Future Vision XPRIZE Short Film",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's total runtime is exactly 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The end card, which includes sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce, appears from 2:55 to 3:15, which is 20 seconds, not 15.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features futuristic settings, advanced transportation (e.g., flying vehicles at 1:15), and a society that appears to be technologically advanced, all indicative of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video depicts advanced, clean cities and technology integrated with nature (0:03, 0:21, 1:29). While there's a moment of past destruction (2:05), the narrative concludes with a focus on rebuilding and a hopeful, technology-enabled future (2:29, 2:34).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is integral to the characters' lives, from their advanced living spaces (0:21) and public transport (0:32) to the flying vehicles (1:15) and the central 'seed' structure that is destroyed and rebuilt (2:05, 2:34), driving the narrative.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "There is a brief physical altercation where one character punches another (2:16), but it is not graphic or prolonged. There is no explicit language or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands are visible or mentioned within the video's narrative content, outside of the end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "The video tells a compelling story of loss and renewal through evocative animation and character interactions (0:05, 2:16, 2:29). The visual style is consistent and well-executed, effectively conveying the narrative within its short runtime.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The narrative explores significant themes such as humanity's impact on the environment (2:05), the potential for technological advancement, and the cycle of destruction and rebuilding, culminating in a vision of a harmonious, integrated future (2:34).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video strongly aligns with the mission by showcasing a future where advanced technology (e.g., flying vehicles at 1:15, futuristic architecture at 0:21) is used to rebuild and create a beautiful, optimistic world after past destruction (2:05-2:10), emphasizing renewal and hope (2:34-2:46).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The storytelling is tech-forward, with advanced technology like personal flight devices (1:15), futuristic urban planning (0:21), and the central 'seed' structure (2:05, 2:34) being integral to both the setting and the plot's progression, rather than just background elements.",
+      "confidence": "high"
+    }
+  ]
+}

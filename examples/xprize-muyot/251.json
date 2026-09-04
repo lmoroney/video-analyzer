@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "THE AEGEAN STORM | Future Vision XPRIZE",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total runtime of 2 minutes and 13 seconds (02:13), which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The last 22 seconds of the video (from 01:51 to 02:13) feature an end card displaying sponsors such as Google, XPRIZE, Jed McCaleb, and Salesforce.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video depicts a future world in 2055 with advanced AI, futuristic cityscapes, neurotech implants, and technology capable of mapping and healing the human mind, all characteristic elements of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": false,
+      "rating": null,
+      "explanation": "While the video initially presents a technologically advanced world (00:00-00:10), it quickly introduces a conflict where corporations map and potentially control human minds (00:14-00:23), and the protagonists are hunted for their mind-healing technology (01:39-01:43), indicating a dystopian rather than optimistic future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, with the plot revolving around neurotech implants for mind mapping (00:14, 00:25), a new technology to \"heal the mind without ever owning the soul\" (00:48), and the corporate battle for control over these advancements (00:52-00:57).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video does not contain any explicit violence, language, or sexual content. There is a brief, non-graphic depiction of a needle drawing a small amount of blood (00:16).",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "Aside from the sponsors listed on the end card, no other recognizable commercial brands are used or displayed within the video content. Fictional corporate names like \"Axiom Kushinsha\" and \"Kronos Dynamics\" are shown.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "The video presents a compelling high-stakes conflict between corporate control over human minds and a new technology offering freedom, with strong visual storytelling and production quality. While a short trailer, it effectively establishes the core narrative and character motivations.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The story tackles grand themes concerning the future of humanity, including the impact of advanced AI and neurotechnology on society, corporate control over individual minds, and the fundamental concepts of freedom and the soul (00:14-00:23, 00:48-00:50).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 4,
+      "explanation": "While technology-enabled, the story's core conflict revolves around corporate control over human minds and the protagonists being \"hunted\" for their mind-healing technology (01:39-01:43), which portrays a struggle against a dystopian future rather than a genuinely optimistic vision.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The storytelling is highly tech-forward, with advanced neurotechnology being the central element driving the plot, from corporate mind-mapping (00:14-00:23) to the development of a mind-healing device (00:28-00:32, 00:48-00:50) that challenges existing power structures.",
+      "confidence": "high"
+    }
+  ]
+}

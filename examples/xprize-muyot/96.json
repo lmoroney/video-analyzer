@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "Humanity Forward: Building Optimistic Visions of the Future",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's total duration is exactly 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The last 15 seconds of the video (02:59-03:15) feature an end card displaying sponsors such as Google, XPRIZE, Jed McCaleb, and Salesforce.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video incorporates elements like holographic interfaces (00:03, 00:32, 00:42, 01:25, 01:39, 02:15), advanced drones (01:23, 02:22, 02:29), and futuristic suits (01:20, 02:41), which are characteristic of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video presents a highly optimistic vision, showcasing technology as a tool to overcome past and future disasters (00:13-00:40, 00:55-01:04, 01:16-01:26) and improve human connection and education (02:15, 02:29). The overarching message is one of hope and progress through innovation, explicitly stating \"tomorrow can be better than today\" (02:09).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is a core driver of the narrative, depicted as essential for disaster response (00:13-00:23, 01:20-01:34), public health frameworks (00:55-00:58), education (02:15-02:17), and overall societal resilience.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "While the video shows scenes of historical disasters and their aftermath (e.g., flooded cities at 00:13, burning buildings at 01:27), there is no explicit violence, language, or sexual content. The focus is on recovery and resilience.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The only brands visible in the video, apart from the end card, are \"Beyond Airlines\" and \"AICARGO\" (00:01, 02:53), which appear to be fictional entities within the video's narrative.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video effectively uses a \"past problem, future solution\" narrative structure, with high-quality visuals and clear messaging, making it a compelling and well-realized short film.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The narrative tackles significant global issues such as disaster preparedness, public health, and education on a grand scale, demonstrating a bold and expansive vision for humanity's future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video directly aligns with the Future Vision XPRIZE mission by consistently portraying an optimistic, technology-enabled future where humanity overcomes challenges through innovation, collaboration, and learning from history (00:00, 02:09, 02:56).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The narrative is deeply intertwined with advanced technology, showcasing futuristic cockpits (00:02), holographic data displays (00:03, 00:32, 00:42, 01:25), drone-based rescue and mapping (00:16, 01:23), and smart emergency systems (01:39), all of which are central to the plot's progression.",
+      "confidence": "high"
+    }
+  ]
+}

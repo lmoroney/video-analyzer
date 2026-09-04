@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "Skyboard: A Future Worth Building",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's total runtime is exactly 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The final 15 seconds of the video (3:00-3:15) display an end card featuring the FutureVision XPRIZE logo and logos of sponsors including Google, XPRIZE, Jed McCaleb, and Salesforce.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video depicts a futuristic 'skyboard' made of nano-architected meta-materials and powered by solar hydrogen (0:43-0:49), which is a technology not currently available. The final scene (2:44) also shows a highly advanced, futuristic city.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video portrays an optimistic future where a 'skyboard' powered by solar hydrogen (0:49) enables clean air travel and leads to a technologically advanced, beautiful city (2:44), suggesting a hopeful vision for humanity.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "The narrative is centered on the invention and development of the 'skyboard,' with the creation of nano-architected meta-materials (0:43) and solar hydrogen power (0:49) being central to the plot and overcoming challenges.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "While there are moments of conflict, such as a woman attempting to burn the prototype (0:09, 1:15) and an inspector being confrontational (1:28-1:38), there is no explicit violence, language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable commercial brands are visible or mentioned in the video content outside of the end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "The video presents a clear and engaging narrative of innovation, struggle, and eventual success, with good pacing and visual effects that effectively convey the story within its short runtime (e.g., the development montage 0:32-0:50, the escape from the storm 2:02-2:18).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The story envisions a future where personal, clean, lighter-than-air transportation (the skyboard) is commonplace, leading to a sustainable and technologically advanced society (2:44-2:54), which represents a significant and ambitious vision for humanity's future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video perfectly aligns with the Future Vision XPRIZE mission by showcasing a genuinely optimistic, technology-enabled future through the invention and successful implementation of the 'skyboard,' which offers clean, personal air travel and contributes to a utopian future city (2:44).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The advanced 'skyboard' technology, including nano-architected meta-materials (0:43) and solar hydrogen power (0:49), is central to the entire narrative, driving the plot, character motivations, and the ultimate vision of the future, making it tech-forward storytelling.",
+      "confidence": "high"
+    }
+  ]
+}

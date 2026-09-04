@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "The Origin Protocols",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's total runtime is 01:22, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The last 15 seconds (from 01:07 to 01:22) do not contain an end card with sponsors. The video ends with a title card for \"The Origin Protocols by A. R. Soren\" (01:17-01:22).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video presents a speculative narrative about the origin and evolution of life, the influence of an alien artifact (00:15-00:19), the development of human civilization and advanced technology (00:33-00:46), and the creation of artificial intelligence that propagates life across the cosmos (00:47-01:16).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video portrays a hopeful vision where intelligence, enabled by technology, expands beyond Earth and potentially seeds life elsewhere (00:47-01:16), suggesting a continuous and evolving process of creation.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is a core element of the narrative, from the mysterious alien artifact influencing early life (00:15-00:24) to humanity's development of advanced industry (00:33-00:37), global communication networks (00:38-00:41), and the creation of artificial intelligence (00:42-00:46) that ultimately carries life beyond Earth (00:52-01:16).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands are used in the video, other than the title card for \"The Origin Protocols by A. R. Soren\" at the end.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video presents a highly ambitious and compelling narrative about the origins and future of intelligence, effectively using high-quality visuals and a clear voiceover to convey its grand scope within its short runtime (00:00-01:16).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story thinks extremely big, proposing that humanity's creation of artificial intelligence could lead to the propagation of life and intelligence throughout the universe, transforming creation into an ongoing cosmic process (01:03-01:16).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story is fully aligned, portraying a genuinely optimistic and technology-enabled future where humanity's intelligence and its creations (AI) become integral to the ongoing process of spreading life and intelligence across the cosmos (00:47-01:16), embodying a grand, positive vision for the future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The storytelling is highly tech-forward, with advanced technology meaningfully integrated throughout the narrative, from the alien artifact influencing early life (00:15-00:19) to humanity's development of global networks and AI (00:38-00:46), and ultimately, AI-driven space travel to propagate life (00:52-01:16).",
+      "confidence": "high"
+    }
+  ]
+}

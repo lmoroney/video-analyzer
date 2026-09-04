@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "The Future Was Yesterday",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total duration of 1 minute and 19 seconds, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card appears from 01:07 to 01:19, which is 12 seconds, and clearly displays Google, XPRIZE, Jed McCaleb, and Salesforce as partners/sponsors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features advanced technologies such as a robot managing global energy and asteroid trajectories (00:03-00:08), a device translating animal speech (00:19-00:21), a machine programming food for health benefits (00:38-00:42), and a lawnmower that converts atmospheric carbon into building blocks (00:53-00:55), all of which are futuristic and speculative.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video consistently shows technology solving major problems like asteroid impacts, energy optimization, preventing wars, detecting earthquakes, curing arthritis, and removing carbon from the atmosphere, all presented with a positive and light-hearted tone.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Each vignette's plot is driven by the specific technology being showcased, from the robot's multitasking abilities (00:03-00:08) to the cat's translator preventing an earthquake (00:29-00:30) and the lawnmower's carbon-capture function (00:53-00:55).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video maintains a family-friendly and wholesome tone throughout, with no instances of explicit violence, language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The technologies shown have fictional names like 'Googly' (00:01), 'ZOOLINGUA 8000' (00:19), and 'Nutri-Gene 3000' (00:35), with no other recognizable real-world brands appearing in the main content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video presents several distinct, engaging vignettes that effectively demonstrate the impact of future technologies. Each segment is well-produced with clear storytelling, making the overall narrative compelling despite its episodic nature.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video tackles grand challenges such as asteroid defense, global energy management, war prevention, interspecies communication, health and longevity, and climate change, showcasing a very ambitious and broad vision for humanity's future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video perfectly aligns with the mission by consistently depicting technology as a force for good, solving significant problems and improving quality of life in an optimistic and forward-thinking manner, as highlighted by the end card's 'Building Optimistic Visions of the Future' tagline (01:07).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "Technology is not merely a backdrop but is central to every plot point and character interaction, demonstrating its transformative role in daily life and global affairs, from robots performing complex tasks to smart devices enabling new capabilities.",
+      "confidence": "high"
+    }
+  ]
+}

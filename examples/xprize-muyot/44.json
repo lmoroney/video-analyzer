@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=Y_9_g-2_21c",
+  "video_title": "Casconal: A Future Vision XPRIZE Film",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total length of 3 minutes and 8 seconds, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card appears from 2:50 to 3:08, displaying sponsors including Google, Range, XPRIZE, Salesforce, Xsova, Ark Invest, and Jed McCaleb.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video depicts futuristic cities, advanced bio-integrated technology, holographic communication, and high-speed trains, clearly placing it in the science fiction genre (e.g., 0:06, 0:20, 0:49).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video showcases sustainable, green cities built with advanced bio-technology, emphasizing 'abundance' and 'life' over machines (0:16, 0:38, 0:50-0:55). Despite a threat, the overall tone is one of defending this positive future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, from wearable devices that display data and interact with the environment (0:04, 0:28, 0:46, 1:46) to holographic interfaces for communication and design (0:20, 1:20, 2:10), and the very structure of the cities being built from graphene and mycelium (0:49-0:53).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, offensive language, or sexual content. There is a brief moment of tension when a character is grabbed (1:40), but no graphic violence is shown.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands are displayed or mentioned within the main content of the video, outside of the final sponsor end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video presents a clear narrative arc, introducing a protagonist, a utopian future, a looming threat, and a call to action to defend this vision. The emotional stakes are effectively conveyed, making it a compelling story within its short runtime.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story envisions a future where entire cities are built on advanced, sustainable bio-technology, fostering 'abundance' and spanning the globe. It presents a grand vision of humanity living in harmony with nature through technological innovation.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video explicitly champions an optimistic, technology-enabled future where innovation leads to abundance and a symbiotic relationship with nature, directly aligning with the Future Vision XPRIZE mission. The central conflict revolves around defending this ideal future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "Advanced technology is integral to every aspect of the story, from the bio-integrated architecture and personal wearables to holographic interfaces and advanced transportation. The visual language and plot points are deeply intertwined with these futuristic technologies, making it truly tech-forward storytelling.",
+      "confidence": "high"
+    }
+  ]
+}

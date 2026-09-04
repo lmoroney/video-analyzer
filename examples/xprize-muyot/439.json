@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "Journey to Kyron Trailer",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's total duration is exactly 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card, which includes logos for Google, XPRIZE, Jed McCaleb, and Salesforce, is displayed from 2:59 to 3:15, covering the last 15 seconds of the video.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features spaceships, interstellar travel, advanced AI, futuristic space habitats, and encounters with alien life forms, all characteristic of science fiction (e.g., 0:00-0:05, 0:20-0:30, 0:43-0:45, 1:57-2:00).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "Despite challenges and conflicts, the video portrays humanity becoming 'multiplanetary' (0:19) and building advanced, lush space habitats (0:20-0:30). The narrative emphasizes human resilience and the pursuit of new homes 'because we could' (1:27), aligning with an optimistic, technology-enabled future, as explicitly stated on the end card (2:59).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, including interstellar spaceships (0:31), advanced AI named AILA that guides the mission (0:43, 1:02, 1:16), and massive space habitats that serve as humanity's new home (0:20, 0:26, 1:55).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video contains scenes of violence, such as a spaceship exploding (0:49) and soldiers engaging in combat with alien creatures (2:42-2:43). There is no explicit language or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable commercial brands are visible or mentioned within the narrative content of the video, outside of the final sponsor end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "The video presents a clear and engaging narrative arc, showcasing humanity's journey to a new home, the challenges faced, and the determination to survive. The production quality is high, with impressive visuals and special effects that effectively convey the story's scope.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story envisions humanity becoming a multiplanetary species, undertaking a '700 year journey' across '34 light years' (0:55, 2:30) to colonize new worlds and interact with alien life, demonstrating a grand and ambitious vision for the future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video strongly aligns with the XPRIZE mission by depicting a future where humanity leverages advanced technology to overcome existential threats and expand beyond Earth, embodying resilience and progress despite significant obstacles. The explicit mention of 'Building Optimistic Visions of the Future' on the end card reinforces this alignment.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "Advanced technology, such as the AI AILA, interstellar spacecraft, and self-sustaining space habitats, is not merely background but is integral to the plot, character decisions, and the very survival and progression of humanity's mission (e.g., 0:43, 1:02, 1:07, 1:16, 1:55).",
+      "confidence": "high"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "Journey to the Stars",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's total length is 3 minutes and 8 seconds, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card, from 2:53 to 3:08, clearly displays Google, Range, XPRIZE, Salesforce, XSOVA, ARK INVEST, and Jed McCaleb as sponsors and partners.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video portrays a future with advanced technologies such as AI-powered medical cures (1:24), holographic interfaces (1:40), autonomous vehicles (1:57), and interstellar travel (2:25), which are characteristic of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video presents an optimistic future where technology cures cancer (1:24), enables universal rights and free energy (2:07), and fosters global unification and exploration (2:28), all driven by technological advancements.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is a core element of the narrative, evolving with the protagonist's life from a simple calculator (0:26) to advanced computers for gaming and virtual world building (0:40, 1:05), and ultimately enabling medical cures (1:24) and space exploration (2:25).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video does not contain any explicit violence, offensive language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": true,
+      "rating": null,
+      "explanation": "A SMEG refrigerator is visible at 0:07, and a Microsoft logo can be seen on a keyboard at 0:54.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video tells a compelling story of a life evolving with technology, from early childhood to a future where personal dreams and societal advancements converge. The narrative is well-paced and visually rich, effectively conveying a sense of progress and hope.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story envisions a grand future for humanity, moving beyond Earth to colonize Mars (2:25), achieving universal rights and free energy (2:07), and even making first contact with an alien species (2:45), demonstrating a truly expansive vision.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video perfectly aligns with the Future Vision XPRIZE mission by showcasing a consistently optimistic and technology-driven future, where advancements lead to cures for diseases (1:24), global unification (2:02), and interstellar exploration (2:25).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The storytelling is inherently tech-forward, with the narrative progression directly tied to technological advancements, from early computing (0:28) to virtual world creation (1:05), advanced medical treatments (1:24), and holographic communication (2:28), all seamlessly integrated into the characters' lives.",
+      "confidence": "high"
+    }
+  ]
+}

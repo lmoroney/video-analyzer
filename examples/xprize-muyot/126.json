@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "Ars Longa - Future Vision XPRIZE",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total duration of 3 minutes and 15 seconds, which is less than or equal to 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card appears from 03:00 to 03:15 and clearly displays the logos and names of Google, XPRIZE, Jed McCaleb, and Salesforce as sponsors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features futuristic cities, advanced AI companions called 'Daimons', smart glasses with data displays, flying vehicles, and robots, all indicative of a science fiction setting.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video initially presents a future where 'war is gone, hunger, labor, suffering: erased' (01:29) due to technology, and society engages in 'games' to express humanity. While a character questions if it 'feels nothing like freedom' (02:33), the overall narrative frames a technologically advanced society striving for human flourishing, even if it faces internal challenges.",
+      "confidence": "medium"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, with 'Daimons' serving as emotional companions (00:05-00:19), smart glasses providing insights (00:13-00:19, 00:28-00:30, 02:02-02:07), and the entire societal structure being built around advanced systems and 'games' (01:23-01:49).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains a brief fencing match with sparks (02:15-02:18) and a robot chasing people (02:28-02:29), but these are not explicit or graphic. There is no explicit language or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands are visible within the video content itself, only on the end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "The video effectively introduces intriguing concepts like 'Daimons' and a future society built around 'games' and emotional expression. Despite being a short trailer, it hints at a deeper conflict and a journey of self-discovery, making it quite compelling.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The story envisions a future where fundamental societal problems like war and hunger are solved, and humanity's focus shifts to emotional and creative pursuits through advanced technology and 'games'. This represents a grand and ambitious vision for human evolution.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "The video strongly aligns with the mission by showcasing a future where technology has eliminated many human struggles and enables new forms of expression and connection. While it introduces a nuanced perspective on 'freedom' within this tech-enabled world, the overall tone is optimistic about humanity's potential.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The narrative is deeply intertwined with advanced technology, from the personal 'Daimons' that reflect emotions and memories to the futuristic cities, transportation, and the 'games' themselves. Technology is not just a backdrop but a driving force and central theme of the story.",
+      "confidence": "high"
+    }
+  ]
+}

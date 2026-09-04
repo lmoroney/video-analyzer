@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=yQh-2111111",
+  "video_title": "Future Vision XPRIZE: Bitcoin and a Decentralized Future",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total duration of 3 minutes and 12 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card appears from 02:56 to 03:12, which is 16 seconds, and clearly lists Google, XPRIZE, Jed McCaleb, and Salesforce among its sponsors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features futuristic cities, virtual reality, cybernetic implants, advanced surveillance technology, and a narrative set in a dystopian/utopian future, all characteristic of science fiction (e.g., 00:15, 01:40, 02:30).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "While starting with a dystopian setting of debt and surveillance, the narrative resolves into an optimistic future where people are free, living in a lush, green city, enabled by decentralized technology (02:24-02:56).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the plot, with a centralized system controlling money and tracking people via brands (00:15-00:32), and a decentralized Bitcoin hard wallet being the key to liberation (01:03-01:11).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, strong language, or sexual content. There is a brief, non-graphic fight sequence in a digital realm (01:43-01:49).",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The Bitcoin logo is prominently displayed on the hard wallet (01:04) and on a wall in the underground base (00:59).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video presents a clear and engaging story of liberation from a dystopian financial system, with high-quality visuals and a strong narrative arc, effectively realized within its short runtime.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story addresses fundamental aspects of humanity's future, including economic freedom, surveillance, and the potential for a utopian society, demonstrating a grand vision for societal transformation (02:29-02:56).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video perfectly aligns with the mission by showcasing how decentralized technology (Bitcoin) can enable a genuinely optimistic future, freeing humanity from oppressive systems and leading to prosperity (02:24-02:56).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "Advanced technologies like virtual reality, biometric branding, cybernetic enhancements, and decentralized digital currency are not just background elements but are integral to the plot, character motivations, and the visual progression of the story (e.g., 00:03, 00:21, 01:03, 01:40).",
+      "confidence": "high"
+    }
+  ]
+}

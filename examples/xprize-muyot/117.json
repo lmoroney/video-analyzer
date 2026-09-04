@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "The Shore - A Future Vision XPRIZE Film",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's total duration is exactly 3 minutes and 15 seconds (03:15).",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "From 02:59 to 03:15, the video displays an end card with 'FUTUREVISION XPRIZE' and lists Salesforce, Google, RANGE, XPRIZE, ARK INVEST, and Jed McCaleb as sponsors/partners.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video depicts advanced AI (Jimini, R-pass, R-meet), robots, futuristic cities, and concepts like 'The World to Come' and 'Resurrection Ship', which are all elements of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video explicitly mentions 'Freedom from money. Freedom from toil. Freedom from want. Freedom to create.' (01:24-01:26), shows prisons being closed (02:21), Earth recovering (02:22), and people living in advanced, harmonious cities with robotic assistance (02:11-02:14), all indicating a highly optimistic future enabled by technology.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, with the 'R-pass' (00:44-00:57) and 'R-meet' (01:03-01:08) apps driving societal changes and relationships, and the AI 'Jimini' (02:00-02:05) being the 'mother of us all' and enabling the 'World to Come'. Robots are shown serving humanity (01:17-01:22, 02:13-02:14).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "There is no explicit violence, language, or sexual content. Brief scenes of a woman with a sword (01:42-01:45, 01:47-01:50) and an explosion (01:46) are not graphic. A romantic embrace (01:12-01:13) is not sexual.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable real-world brands are used in the video, apart from those listed on the end card. 'algoR AI' and 'R-pass' are fictional brands within the story.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video presents a compelling narrative of a woman's vision leading to a transformed future, with high production quality, impressive visuals, and emotional depth, making it well-realized.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story envisions a future where humanity overcomes fundamental challenges like poverty, labor, and conflict, achieving 'absolute freedom' and a global recovery, demonstrating a very ambitious and expansive vision for humanity.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video perfectly aligns with the mission by showcasing a genuinely optimistic future where advanced technology, particularly AI, is the catalyst for solving global problems and enabling human flourishing, freedom, and creativity.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The narrative is entirely driven by the evolution and integration of advanced AI and robotics, from personal dating apps to global governance and environmental recovery. Technology is not merely a backdrop but the central force shaping the future depicted.",
+      "confidence": "high"
+    }
+  ]
+}

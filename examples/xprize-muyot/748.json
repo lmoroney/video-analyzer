@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=unknown_video_id",
+  "video_title": "The Cap",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video is 2 minutes and 49 seconds long, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The last 15 seconds of the video (from 2:34 to 2:49) display an end card listing 'FUTUREVISION XPRIZE' and sponsors including Google, Salesforce, and Jed McCaleb.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video blends ancient tribal settings with advanced technology like holographic interfaces (1:46-1:54) and a holographic solar system (2:00-2:06), and features a narrative about a 'sign from the sky' (0:16) and building the future, which are common elements of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video portrays a hopeful future where a child, inspired by a 'sign from the sky' (0:16), uses knowledge and advanced technology (1:46-1:54) to build a better future and educate his community (2:00-2:06), aligning with an optimistic, technology-forward vision.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is a core driver of the narrative, from the initial 'sign' of the fallen biplane and pilot's cap (0:05-0:15) to the protagonist's fascination with gears (0:30-0:39) and projectors (1:20-1:23), leading to his development of advanced AI and holographic interfaces (1:46-1:54) and his return to teach with a holographic tablet (2:00-2:06).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video does not contain any explicit violence, language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The pilot's cap, which is a significant narrative element, has 'FUTURE VISION XPRIZE' embroidered on it (e.g., 0:12, 2:08, 2:16), making 'XPRIZE' a recognizable brand used within the video's story, separate from the end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video tells a clear and inspiring story of a boy's journey from a tribal village to becoming a technological leader, effectively using a voiceover and well-realized visual effects for the advanced technology (1:46-1:54, 2:00-2:06).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The narrative spans from ancient tribal life to a future of advanced AI and holographic technology, culminating in the protagonist returning to his village to share knowledge and inspire the next generation (2:00-2:06), demonstrating a grand vision for humanity's progress and education.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video's core message revolves around the transformative power of knowledge and technology to create a positive future, with the protagonist using AI and holographic tools to lead and educate his community (1:46-2:06), directly aligning with an optimistic, technology-enabled future as suggested by the 'FUTURE VISION XPRIZE' on the cap (0:12, 2:08).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The narrative is driven by the evolution and integration of technology, from the initial discovery of a machine (0:47-0:55) and a film projector (1:20-1:23) to the protagonist's use of advanced holographic AI interfaces (1:46-1:54) and a holographic tablet for teaching (2:00-2:06), showcasing technology as a central and transformative element.",
+      "confidence": "high"
+    }
+  ]
+}

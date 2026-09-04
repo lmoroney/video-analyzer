@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=Y_9_g-2_22Y",
+  "video_title": "The Hanalei Churn",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's total duration is exactly 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card from 02:59 to 03:15 displays logos for Google, XPRIZE, Jed McCaleb (as Presenting Donor), and Salesforce (as Presenting Sponsor), among others.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video describes and visualizes advanced AI, space travel, terraforming of planets, and extended human lifespans (00:26-02:14), which are all elements of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video explicitly states that \"humanity had built utopia\" (02:12) through technological advancements like AI, gene editing, and space colonization, portraying a highly optimistic and technology-forward future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, with personal AI agents (00:29), gene editing (00:59), robotics (01:20), antimatter propulsion (01:24), and terraforming (01:46) being key to humanity's progress and expansion.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video does not contain explicit violence, language, or sexual content. While there are brief depictions of conflict (01:18-01:20) and people in swimwear (01:54, 02:33, 02:39, 02:41, 02:43, 02:44, 02:53, 02:54), none of it is explicit.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": true,
+      "rating": null,
+      "explanation": "An Apple laptop is visible at 00:33.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video presents a highly ambitious and compelling narrative of humanity's future, from overcoming societal problems to colonizing the stars. The visuals are consistently high quality and effectively convey the story's scope and technological advancements.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story thinks extremely big, spanning over a thousand years of human history, detailing advancements from curing diseases and reversing aging to terraforming multiple planets across different star systems.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video is fully aligned with the mission, portraying a genuinely optimistic future where technology solves humanity's greatest challenges, eliminates suffering, and enables interstellar colonization, leading to a \"utopia\" (02:12).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The storytelling is highly tech-forward, with advanced technology like personal AI agents (00:29), gene editing (00:59), antimatter propulsion (01:24), and terraforming (01:46) being the core mechanisms that drive the plot and shape humanity's future.",
+      "confidence": "high"
+    }
+  ]
+}

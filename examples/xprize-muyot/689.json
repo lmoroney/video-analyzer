@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "Future Vision XPRIZE: Age-nt",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's total duration is exactly 3 minutes and 15 seconds (03:15).",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card appears from 02:58 to 03:15 and clearly lists Google, XPRIZE, Jed McCaleb, and Salesforce as partners/sponsors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features advanced concepts such as anti-aging research, sentient AI (MAIA/EIA), Martian colonization, futuristic weapons, and enhanced human abilities, all characteristic of science fiction (e.g., 00:00-00:14, 00:15-00:18, 00:41-00:46, 01:25-01:27).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "While there are moments of conflict and ethical questions, the video ultimately concludes with a scene of a harmonious, technologically integrated society and the statement 'together is the way forward' (02:48-02:57), suggesting an optimistic future enabled by technology.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the plot, driving the quest to defeat aging, enabling Martian colonization, and manifesting as the AI 'MAIA' which guides and interacts with the protagonist, Adamanu (e.g., 00:00-00:09, 00:25-00:36, 00:49-00:59, 01:12-01:14).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains implied violence (e.g., a gun pointed at 01:06, a jet exploding at 01:51, a building collapsing at 01:21) but no explicit gore, strong language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands were observed within the narrative content of the video, only on the final end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 7,
+      "explanation": "The video presents an ambitious and intriguing premise with high production value. However, due to its short length, the narrative feels somewhat rushed and could benefit from more development to fully realize its potential and make the emotional beats land more strongly.",
+      "confidence": "medium"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The story tackles very large-scale concepts, including overcoming aging, colonizing other planets, and the profound impact of advanced AI on human society and individual identity, demonstrating a significant scope for humanity's future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "The story strongly aligns by showcasing a technology-enabled future where humanity addresses major challenges like aging and space exploration. While it explores some ethical complexities and conflicts, the ultimate message of 'together is the way forward' (02:57) leans towards a genuinely optimistic vision.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "Advanced technology is not merely background but is integral to the plot, character development, and visual storytelling. Examples include holographic interfaces (00:18), AI as a character (MAIA/EIA), and the protagonist's tech-enabled abilities (01:25-01:27, 02:39-02:42).",
+      "confidence": "high"
+    }
+  ]
+}

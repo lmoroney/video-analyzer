@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "AI and Consciousness Inquiry",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video is 15 seconds long, which is significantly less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video is 15 seconds long and does not contain an end card with sponsors; it shows a continuous narrative scene throughout its duration.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features a glowing, mysterious specimen, advanced computer displays, and a dialogue between a human and an AI about consciousness (00:00-00:13), all characteristic elements of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video maintains a mysterious and slightly unsettling tone, focusing on a scientific inquiry with an ambiguous AI response (00:09-00:13), rather than explicitly portraying a hopeful or optimistic future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology, including the glowing specimen, advanced computer interfaces, and the AI named 'Falcon', is central to the narrative, with the AI's interaction driving the core question about consciousness (00:00-00:13).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": true,
+      "rating": null,
+      "explanation": "An HP logo is visible on the computer monitor at 00:02.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "Despite its brevity, the video effectively establishes a mysterious premise, high-quality visuals, and a compelling question about consciousness, creating strong intrigue within its short runtime (00:00-00:13).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The story delves into profound questions about artificial or alien consciousness and human-AI interaction, which are significant themes for humanity's future (00:09-00:13).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 4,
+      "explanation": "While technology-enabled, the video's tone is mysterious and ambiguous, raising questions about consciousness and AI with a hint of unease (00:09-00:13), rather than a clear optimistic vision of the future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The narrative is driven by advanced technology, including a mysterious glowing specimen and an AI named Falcon, which are central to the plot and the core question of consciousness (00:00-00:13).",
+      "confidence": "high"
+    }
+  ]
+}

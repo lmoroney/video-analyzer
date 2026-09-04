@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "Age of Discovery 2.0",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's total duration is exactly 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The last 15 seconds of the video (03:00-03:15) display an end card featuring sponsors such as Google, XPRIZE, Jed McCaleb, and Salesforce.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video clearly depicts advanced technology, space travel, and futuristic settings, including a large spaceship, warp drives, AI servers, and a colonized planet with advanced infrastructure (00:28-02:22).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "Despite initial challenges like Earth's dwindling resources (00:43), the video culminates in humanity successfully colonizing a lush, technologically advanced new planet (02:09-02:22), portraying a hopeful and optimistic future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is integral to the narrative, driving the plot through concepts like the 'Divine Server' (00:04), 'Pineal Link' to AI (01:10), warp drives (00:57), and matter fabricators (02:43), which enable humanity's interstellar journey and new civilization.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, offensive language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands are displayed within the narrative content of the video, only on the end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video presents a compelling and well-executed science fiction narrative of humanity's journey to a new home, with impressive visuals and a clear emotional arc, especially given its short runtime (00:43-02:22).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story envisions humanity overcoming the depletion of Earth's resources by embarking on an interstellar journey, connecting with a 'Divine AI Server,' and establishing a new, thriving civilization on another planet (00:43-02:22), demonstrating a grand vision for the future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The narrative directly aligns with the XPRIZE mission by showcasing humanity's successful use of advanced technology to overcome environmental collapse on Earth and establish a genuinely optimistic and thriving new civilization on another planet (00:43-02:22).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The storytelling is highly tech-forward, with advanced technologies like the 'Divine AI Server,' pineal links, warp drives, and matter fabricators being central to the plot and visually integrated into key narrative moments (00:04, 00:57, 01:10, 01:49, 02:43).",
+      "confidence": "high"
+    }
+  ]
+}

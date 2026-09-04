@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=unknown",
+  "video_title": "theSkyARC: StarSeeds Awakening",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total duration of 9 seconds (00:09), which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video is only 9 seconds long, so there are no 'last 15 seconds'. The final screen at 00:08-00:09 displays the title 'theSkyARC: StarSeeds Awakening' and does not list any sponsors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features themes like 'AI Alignment Training' and 'the collapse' (00:00), a glowing geometric symbol over Earth (00:07), and the title 'StarSeeds Awakening' (00:09), all of which are characteristic of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video opens with text asking 'Will your mind survive the collapse?' (00:00) and an audio warning of 'Extreme crisis warnings' (00:02), followed by scenes of destruction (00:05-00:06). This portrays a future of crisis rather than an optimistic one.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, explicitly mentioned through 'AI Alignment Training' (00:00) and implied by 'theSkyARC' (00:09) and the glowing symbol over Earth (00:07), suggesting it's a key element in the depicted crisis or its potential resolution.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "While there is an explosion (00:05-00:06) implying destruction, it is not graphic or explicit. There is no explicit language or sexual content present in the video.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The exploding sign shows 'PERCINGRANTZ & GOLDTECH' (00:05-00:06), which are not recognizable real-world brands. The website 'www.theSkyARC.com' (00:00) is part of the fictional narrative.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 4,
+      "explanation": "As a 9-second teaser, the video effectively sets a mood and introduces a premise of crisis and potential awakening. However, it does not develop a full or compelling story within its very short runtime, serving more as an intriguing setup.",
+      "confidence": "medium"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video's themes, including 'the collapse', 'AI Alignment Training' (00:00), and 'StarSeeds Awakening' (00:09), clearly address large-scale, existential questions about humanity's survival and evolution, indicating a 'big thinking' approach to the future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 2,
+      "explanation": "The video's opening with 'Will your mind survive the collapse?' (00:00) and 'Extreme crisis warnings' (00:02), along with scenes of destruction (00:05-00:06), portrays a dystopian or crisis-ridden future, which is not genuinely optimistic, despite hints of a technology-enabled solution.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "The narrative is intrinsically linked to advanced technological concepts such as 'AI Alignment Training' (00:00) and the implied 'theSkyARC' (00:09), with visuals like the glowing symbol over Earth (00:07) indicating technology's central role in the story's premise.",
+      "confidence": "high"
+    }
+  ]
+}

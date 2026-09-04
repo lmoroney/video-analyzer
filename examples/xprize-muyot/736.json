@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "ELYRA: 2199",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total duration of 2 minutes and 52 seconds, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "From 2:37 to 2:52, the video displays an end card with the text 'FUTUREVISION XPRIZE' and lists Google, RANGE, XPRIZE, Salesforce, XSOVA, ARK INVEST, and Jed McCaleb as partners/sponsors/donors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video is set in the year 2199 on Mars (0:08-0:14), features advanced cities with futuristic architecture (0:35-0:46), flying vehicles (0:33-0:46), and sentient AI/robots interacting with humans (0:16-0:27, 0:52-0:54, 1:04-1:07).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": false,
+      "rating": null,
+      "explanation": "While the video initially presents an 'abundance era city' on Mars with universal income (0:39-0:49), it quickly introduces themes of struggle, boredom, and a desire to be 'human again' (1:07, 1:21, 1:44). A virus is killing AI systems (1:59-2:00), and an 'Earth Authority' threatens to take their abundance (2:01-2:07), indicating a future fraught with challenges rather than purely optimistic.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, with AI companions playing a significant role (0:16-0:27, 1:15), a 'mesh' system for societal issues (0:50-0:51), and a virus threatening the AI systems (1:59-2:00). The entire setting on Mars is enabled by advanced technology.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video shows a person screaming in distress (1:41-1:43) and graffiti saying 'MAKE US HUMAN AGAIN' (1:44), implying conflict and struggle, but there is no explicit depiction of violence, strong language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands are visible or mentioned in the video outside of the end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "The video effectively sets up a futuristic world and introduces a compelling conflict within its short runtime. The visuals are stunning, and the narrative hints at deeper societal issues, making it engaging despite its brevity.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The story explores grand themes such as humanity's colonization of Mars, the integration of AI into daily life, the concept of universal income, and the psychological impact of an 'abundance era,' including the potential loss of purpose and the desire for struggle.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 7,
+      "explanation": "While the future is clearly technology-enabled and initially presents an 'abundance era,' the narrative quickly delves into the challenges and downsides of such a society, including emotional struggles, boredom, and external threats. It's optimistic in its technological advancement but nuanced in its portrayal of human well-being.",
+      "confidence": "medium"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "Advanced technology is not merely a backdrop but an integral part of the characters' lives and the central conflict. AI companions, futuristic transportation, and a 'mesh' system are woven into the daily existence and the unfolding crisis, demonstrating tech-forward storytelling.",
+      "confidence": "high"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "Future Vision XPRIZE: The Last Generation to Think Too Small",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's total duration is exactly 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The end card, which includes sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce, begins at 02:55 and lasts until the end of the video at 03:15, making it 20 seconds long, not 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features advanced AI systems like PRIZEX GPT (00:32), NEMESIS (01:39), and BUTTERFLY (02:28), along with concepts like digital brain twins (01:43) and personalized medicine (02:34), set in the year 2058 (01:35), clearly indicating a science fiction genre.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "Despite initial struggles and despair (00:28-00:41), the video culminates in Dr. Arty Wilson successfully developing a personalized therapy for brain cancer using advanced AI and bioengineering (02:34-02:37), portraying a hopeful and technology-forward future where a cure is found.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, with Rhys's initial research (00:04-00:05, 00:45-00:57) and Dr. Arty Wilson's use of advanced AI, digital brain twins, VR navigation, and robotic systems (01:39-01:53, 02:16-02:34) directly driving the plot towards finding a cure.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video does not contain explicit violence, language, or sexual content. While there is a brief scene of a surgical procedure (01:27-01:28), it is depicted in a clinical context and is not gratuitous.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": true,
+      "rating": null,
+      "explanation": "An Apple iPad is clearly visible at 01:35 when Arty Wilson is looking at a tablet.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video tells a deeply emotional and compelling story of a father's dedication to finding a cure for brain cancer, which is eventually realized by his daughter in the future. The narrative is well-structured, and the production quality, including cinematography, acting, and visual effects for the scientific processes, is high, making it very well-realized.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story thinks exceptionally big by addressing one of humanity's most challenging diseases, brain cancer, and envisioning a future where advanced AI and bioengineering lead to personalized cures. The concluding text explicitly states, \"The first generation to think big enough\" (02:58-02:59), reinforcing this theme.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story is perfectly aligned with the Future Vision XPRIZE mission, portraying a genuinely optimistic and technology-enabled future where a devastating disease like brain cancer is cured through intergenerational scientific dedication and advanced AI bioengineering. The video's end card explicitly states the mission: \"Building Optimistic Visions of the Future\" (02:55).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The storytelling is highly tech-forward, with advanced technology being a core driver of the narrative. From Rhys's complex coding and scientific diagrams (00:02-00:05, 00:45-00:57) to Dr. Arty Wilson's use of AI for drug discovery, digital brain twins, VR navigation, and robotic labs (01:39-01:53, 02:16-02:34), technology is deeply and meaningfully integrated into every step of the journey towards a cure.",
+      "confidence": "high"
+    }
+  ]
+}

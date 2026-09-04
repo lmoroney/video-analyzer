@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=YOUR_VIDEO_ID",
+  "video_title": "In Time - Future Vision XPRIZE",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video is 55 seconds long, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video transitions to an end card at 0:39, which displays 'FUTUREVISION X PRIZE', 'Google', 'RANGE', 'salesforce', 'XSOVA', 'ARK INVEST', and 'Jed McCaleb'.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features futuristic elements such as self-driving electric cars (0:10-0:19), holographic displays in a grocery store (0:20), and a humanoid police robot (0:31), which are characteristic of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video presents a future where advanced technology like self-driving cars, automated shopping, and police robots are integrated into daily life, seemingly improving safety and convenience. The smiling faces and the robot working alongside a human officer (0:31-0:38) suggest an optimistic outlook on technology's role.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is a core part of the narrative, showcasing self-driving cars (0:10-0:19), holographic grocery store interfaces (0:20), and a police robot actively patrolling with a human officer (0:31-0:38), demonstrating its meaningful integration into daily life and public safety.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "While there is an implied crime scene with police cars (0:25) and a brief, blurry shot of a person running (0:28), the video does not contain any explicit violence, offensive language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": true,
+      "rating": null,
+      "explanation": "A white Tesla Model 3 is clearly visible at a charging station from 0:10 to 0:14, with its brand logo recognizable on the front of the car.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 7,
+      "explanation": "The video effectively presents a series of compelling vignettes showcasing advanced technology in a future setting, with high production quality. While it lacks a deep narrative, it successfully realizes its vision of a tech-forward world.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video presents a future with significant societal changes driven by technology, including fully autonomous vehicles, advanced retail experiences, and integrated robot policing, demonstrating a big-picture vision for humanity's future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video strongly aligns with the XPRIZE mission by depicting a future where technology enhances daily life, from convenient transportation and shopping to improved public safety with robot police, all presented with an optimistic tone.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video's core narrative is entirely focused on showcasing advanced technology, such as self-driving cars, holographic interfaces, and police robots, demonstrating their meaningful and seamless integration into the fabric of future society.",
+      "confidence": "high"
+    }
+  ]
+}

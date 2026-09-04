@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "The Last Waste: A Future Connected by Intelligence",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video is 3 minutes and 2 seconds long, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card appears from 02:47 to 03:02 and explicitly lists Google, XPRIZE, Jed McCaleb, and Salesforce as partners, sponsors, or donors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video depicts a highly advanced, interconnected future society with technologies like global energy grids, autonomous vehicles, robotic farming, and AI-driven infrastructure that do not currently exist, fitting the definition of science fiction (e.g., 01:38-01:40, 02:02-02:05).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video consistently presents a positive and advanced future where technology enables seamless coordination and efficiency, leading to a better quality of life (e.g., 01:53-01:56, 02:10-02:16). The narrative focuses on solving global challenges through intelligence and connection.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, with the core message being that intelligence and connection, enabled by advanced technology, are the solutions to humanity's problems. Examples include the global energy network (00:47-00:49), the 'connection established' sequence (01:28-01:32), and the integrated smart cities (01:38-01:43).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, language, or sexual content. It maintains a family-friendly and optimistic tone throughout.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands are shown or mentioned within the main content of the video, only in the final end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video presents a compelling vision of a connected future, effectively using high-quality animation and clear narrative segments to convey its message. The production quality is consistently high, making the story feel well-realized.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story thinks very big, addressing global challenges like energy waste and coordination by proposing a planet-wide, interconnected intelligence system. It envisions a future where humanity learns from nature to create a seamlessly integrated and efficient society (e.g., 01:50-01:52, 02:20-02:23).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story is fully aligned with the mission, presenting a highly optimistic and technology-enabled future where intelligence and connection solve humanity's problems, leading to a harmonious and efficient world. The closing statements explicitly mention 'A Future Connected by Intelligence' (02:35-02:37).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The storytelling is exceptionally tech-forward, with advanced technology being the central theme and solution. The narrative illustrates how technology, inspired by natural systems, enables global coordination, efficient resource management, and improved quality of life, making it integral to every aspect of the future depicted (e.g., 01:33-01:35, 01:46-01:49).",
+      "confidence": "high"
+    }
+  ]
+}

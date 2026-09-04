@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=21X5l_g111Q",
+  "video_title": "Singularity - Future Vision XPRIZE",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total duration of 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card from 02:59 to 03:15 clearly displays 'FUTUREVISION XPRIZE' and lists Salesforce as the 'Presenting Sponsor', Google and XPRIZE as 'Partners', and Jed McCaleb as the 'Presenting Donor'.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features advanced space travel, robots, futuristic cities, planetary destruction, 'new physics', and a black hole, all characteristic elements of science fiction (e.g., 00:00-00:18, 00:25-00:28, 00:41-00:47, 01:28-01:33, 02:48-02:51).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "While the video begins with a catastrophic scenario of planetary destruction (00:00-00:18), the core narrative focuses on humanity's use of advanced technology and ingenuity to escape and survive, launching ark ships and a fleet to save billions (01:03-01:10, 02:07-02:09). This effort to preserve humanity against an existential threat, enabled by technology, presents a hopeful and optimistic vision of resilience.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the plot, from the L5 Super Cluster and 'new physics' being the solution to the crisis (00:41-00:58) to the use of advanced spaceships, manual controls, and a robot character as a key communicator (00:28-00:29, 01:11-01:19, 01:28-01:33). The entire mission to save humanity is dependent on these technological advancements.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video depicts planetary destruction and explosions (00:00-00:14) and mentions a 'death' sentence (02:13), but it does not show explicit violence against individuals, nor does it contain any explicit language or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable commercial brands or logos are visible within the video content itself, outside of the end card. The patches on the main character's jacket are fictional space mission logos.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video presents a highly compelling story of humanity facing extinction and a desperate, technologically advanced effort to survive. The production quality is high, with impressive visual effects for space scenes, futuristic cities, and spacecraft, effectively conveying the grand scale of the narrative.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story thinks exceptionally big, addressing the destruction of Earth and other inner planets, the evacuation of billions of people, and the use of 'new physics' and massive ark fleets to ensure humanity's survival against a cosmic threat (00:00-00:18, 01:03-01:10, 02:07-02:09). It's a narrative on the grandest scale of human existence and perseverance.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "Despite the initial apocalyptic imagery, the story is fundamentally about humanity's ability to overcome an existential crisis through technological innovation and collective action. The focus on saving billions and the 'SOON' message at the end, coupled with the 'Singularity' theme, suggests a future where humanity not only survives but potentially thrives or evolves, making it genuinely optimistic and technology-enabled.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "Advanced technology is not merely a backdrop but the driving force of the narrative. Concepts like the L5 Super Cluster, 'new physics' for a Carrington event, manual controls for advanced spacecraft, and the robot's role in decision-making are all integral to the plot and humanity's survival (00:41-00:58, 01:11-01:19, 02:37-02:47).",
+      "confidence": "high"
+    }
+  ]
+}

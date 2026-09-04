@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "The Constellation Builders Teaser",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video is 47 seconds long, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The last 15 seconds (0:32-0:47) show a scene with characters and then a black screen with text, not an end card with sponsors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features futuristic technology such as a research platform with advanced vehicles, an AI hybrid quantum drone, and a humanoid robot, clearly indicating a science fiction setting.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": false,
+      "rating": null,
+      "explanation": "While the video showcases advanced technology and a seemingly developed future, elements like the secretive conversation between characters (0:32-0:39) and the ominous closing text \"The Builders are coming\" (0:45-0:47) introduce a sense of mystery and potential threat, preventing it from being purely hopeful or optimistic.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, with characters like the AI hybrid quantum drone \"Squirt\" (0:15-0:29) and the humanoid robot \"HAVEN-08 / M7\" (0:30-0:40) playing active roles in the story's unfolding mystery.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video does not contain any explicit violence, language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands are used or displayed in the video, apart from the title \"The Constellation Builders\" which is part of the video's own branding.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "The video, despite its short length, effectively establishes a futuristic world and introduces intriguing characters and a central mystery, suggesting a compelling story. The production quality is high, with detailed visuals and good sound design.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The title \"The Constellation Builders\" along with the depiction of advanced research platforms, AI, and humanoid robots, strongly implies a future focused on large-scale, ambitious projects, potentially involving space or planetary construction, indicating big thinking about humanity's future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 5,
+      "explanation": "While the video clearly portrays a technology-enabled future with advanced AI and infrastructure, the secretive dialogue (0:32-0:39) and the ominous closing statement \"The Builders are coming\" (0:45-0:47) introduce a sense of mystery and potential threat, which detracts from a genuinely optimistic vision.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The narrative is deeply intertwined with advanced technology, featuring an AI hybrid quantum drone as a character (0:15-0:29) and a humanoid robot involved in a critical, secretive conversation (0:30-0:40), demonstrating meaningful integration of tech-forward elements into the story.",
+      "confidence": "high"
+    }
+  ]
+}

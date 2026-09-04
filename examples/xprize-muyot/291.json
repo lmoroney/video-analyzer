@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "Project Horizon Trailer",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total duration of 2 minutes and 6 seconds, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card appears from 01:51 to 02:06, which is exactly 15 seconds. It clearly displays Google, XPRIZE, Jed McCaleb, and Salesforce as partners and sponsors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features advanced technology such as holographic displays of viruses and genomic data (00:21, 01:05), lab-grown organs (01:12), futuristic energy sources or weapons (00:55-00:57), and a high-tech underground facility (00:19-00:22, 00:41-00:43), all indicative of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video portrays a tense, action-oriented narrative involving a 'weapon' (00:32), conflict, explosions (00:43, 00:59, 01:33-01:35), and concerns about governments controlling powerful technology (01:26). This suggests a future fraught with danger and conflict, rather than an explicitly hopeful or optimistic one.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, with the plot revolving around a powerful, advanced technology that was 'never supposed to exist' (00:06) and is described as a 'weapon' (00:32). The characters use advanced devices (00:49, 01:02, 01:17-01:19) and operate within a high-tech facility, making technology a key driver of the story.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "While there are scenes of combat, explosions, and characters in peril (e.g., soldiers with weapons at 00:03, 01:38; explosions at 00:43, 01:33-01:35), there is no explicit gore, strong language, or sexual content shown in the video.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable commercial brands or logos were observed within the narrative portion of the video, outside of the final end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "As a trailer, the video effectively establishes a high-stakes sci-fi thriller with strong production values, including impressive visual effects and a clear sense of conflict and mystery. The pacing and character interactions suggest a well-developed narrative.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The story explores the profound implications of 'the most powerful technology on Earth' (00:38), including advanced biotech and energy, and the ethical and geopolitical challenges of its control. This scope demonstrates a 'big thinking' approach to humanity's future with advanced technology.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 4,
+      "explanation": "While technology-enabled, the story's focus on conflict, danger, and the potential misuse of powerful technology by governments (01:26) leans more towards a cautionary tale or thriller than a 'genuinely optimistic' vision of the future, which is a core tenet of the XPRIZE mission.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The narrative is entirely driven by advanced technology, from the discovery of a hidden high-tech facility (00:30-00:31) and its contents (holographic data at 00:21, 01:05; lab-grown heart at 01:12) to the use of drones (00:59, 01:20) and portable computing devices (00:49, 01:17-01:19). These technologies are integral to the plot and character motivations.",
+      "confidence": "high"
+    }
+  ]
+}

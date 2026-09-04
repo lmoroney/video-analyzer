@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "CHITRA: Building Optimistic Visions of the Future",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video is 2 minutes and 26 seconds long, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The last 15 seconds of the video (from 02:11 to 02:26) display an end card that includes the mentioned sponsors: Google, XPRIZE, Jed McCaleb, and Salesforce.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features advanced brain-computer interface technology that enables users to visualize thoughts, create digital environments, and overcome physical limitations, such as a boy in a wheelchair walking (01:50-02:00), which are currently beyond present-day capabilities and firmly in the realm of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video consistently portrays technology as a tool for empowerment and improvement, showing individuals overcoming physical limitations (01:50), enhancing creativity (00:12, 01:11), and expanding understanding (01:15, 01:35, 01:44), culminating in a hopeful vision of a technology-enabled future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "The advanced brain-computer interface technology is central to every scene, directly enabling characters to visualize their thoughts, create, learn, and overcome challenges, making it an integral part of the narrative rather than mere background.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, offensive language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "Apart from the sponsors listed on the end card, no other recognizable brands are visible or mentioned within the video's main content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video tells a compelling and emotionally resonant story, particularly through the arc of the boy in the wheelchair, and the various vignettes are visually stunning and well-executed, demonstrating high production quality.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story presents a grand vision of humanity's future, showcasing how advanced technology can profoundly transform human capabilities, overcome physical limitations, unlock creativity, and expand our understanding of the world and beyond.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video is perfectly aligned with the Future Vision XPRIZE mission, explicitly stating \"Building Optimistic Visions of the Future\" and consistently demonstrating how technology can enable a genuinely optimistic future by empowering individuals and enhancing human potential.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The storytelling is highly tech-forward, with advanced brain-computer interface and augmented reality technologies being the primary drivers of the narrative, visually demonstrating how they enable profound and meaningful transformations in the characters' lives and perceptions.",
+      "confidence": "high"
+    }
+  ]
+}

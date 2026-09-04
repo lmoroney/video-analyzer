@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "The Waluigi Effect (Future Vision XPRIZE Trailer)",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's total runtime is 2 minutes and 37 seconds, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card, visible from 2:22 to 2:37, clearly displays \"FUTUREVISION XPRIZE\", \"Google\", \"Salesforce\", and \"Jed McCaleb\" among other sponsors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video depicts advanced technologies like AGI, mind uploading, space colonization, and asteroid defense, which are characteristic elements of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The narrative showcases technology (AGI, advanced medicine, space travel, mind uploading) as a means to overcome global challenges and achieve a higher state of existence, portraying a generally optimistic and technology-forward future (0:17-0:29, 0:46-0:53, 1:04-1:21, 1:48-1:58).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology, particularly AGI (Philemon), mind uploading, and advanced space travel, is a core driver of the narrative, presenting solutions to humanity's problems and enabling its evolution (0:17-0:29, 1:04-1:21, 1:25-1:33).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video does not contain explicit violence, language, or sexual content. There is a scene of a protest with some explosions, but it is not graphic (1:44-1:47).",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "Aside from the brands displayed on the end card, no other recognizable brands are used within the video's narrative content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "The video presents a broad and ambitious narrative arc, from AGI creation to humanity's transcendence, with high-quality visuals and a clear voiceover that effectively conveys the story within the trailer format (0:00-2:21).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story tackles grand themes such as the creation of AGI to solve humanity's greatest challenges, overcoming death through mind uploading, and exploring the universe, demonstrating a very expansive vision for humanity's future (0:25-0:29, 1:04-1:21, 1:55-1:58).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video strongly aligns with the XPRIZE mission by showcasing technology as the primary driver for solving humanity's most pressing issues (climate, poverty, death, pandemics, asteroid threats) and enabling a future of advanced intelligence, space exploration, and even transcendence, presenting a highly optimistic and technology-enabled vision (0:25-0:29, 0:46-0:53, 1:04-1:21, 1:59-2:00).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The narrative is deeply intertwined with advanced technology, visually demonstrating holographic interfaces, robotic automation, advanced medical procedures, space travel, and energy manipulation as key elements driving the plot and shaping humanity's future (0:18-0:29, 0:32-0:38, 0:57-0:59, 1:09-1:21, 1:25-1:33).",
+      "confidence": "high"
+    }
+  ]
+}

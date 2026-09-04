@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "Coherence",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's total runtime is 3 minutes and 8 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The final 15 seconds of the video (from 02:52 to 03:08) display an end card for the \"FUTUREVISION XPRIZE\" competition, which explicitly lists Google, XPRIZE, Jed McCaleb, and Salesforce among its partners and sponsors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video clearly depicts science fiction elements, including advanced brain-interface technology (00:43, 00:47), futuristic cities (00:55, 01:07, 01:11), and themes of consciousness and memory manipulation, contrasting a bleak present with a technologically advanced future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "While the video depicts the protagonist's struggle and grief in a bleak, black-and-white present, it frequently contrasts this with vivid, colorful scenes of a technologically advanced and ecologically harmonious future (e.g., 00:51-01:15, 02:38-02:41). The narrative suggests that this optimistic future is a choice worth building, despite the challenges.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, particularly the brain-interface device (00:43, 00:47) that allows the protagonist to access or create the vibrant, coherent future visions. The antagonist corporation, ONEIROCOM, also uses advanced surveillance (01:43, 01:49) and potentially mind-altering substances (01:53) to control or exploit this technology.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, language, or sexual content. The emotional distress and pursuit scenes are implied rather than graphically depicted.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "Aside from the production company logo (\"AN IMAGINAL MEDIA FILM\" at 00:08) and the sponsors on the end card, the only brand shown within the narrative is the fictional \"ONEIROCOM\" (e.g., 01:52, 01:53, 01:56, 01:59).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video presents a highly compelling story, driven by themes of grief, hope, and the pursuit of a better future. The stark visual contrast between the protagonist's bleak reality (black and white) and the vibrant, technologically advanced visions (color) is very effective. The production quality, including special effects and emotional performances, is excellent for a short film, making the narrative feel well-realized.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The story thinks very big about humanity's future, exploring profound themes such as the nature of reality, the potential to overcome grief through technology, and the creation of advanced, coherent societies (00:51-01:15). It delves into philosophical questions about choice and the construction of future realities, contrasting utopian possibilities with dystopian threats.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "The video aligns strongly with the XPRIZE mission by vividly portraying a genuinely optimistic, technology-enabled future (00:51-01:15). While the narrative includes elements of struggle, grief, and corporate threats, the core message emphasizes the choice and worth of building such a future, making it an optimistic vision despite the challenges faced by the protagonist.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The storytelling is highly tech-forward, with advanced technology being the central driver of the narrative. The brain-interface device (00:43, 00:47) is not merely a prop but the means by which the protagonist explores and potentially creates a new reality. The antagonist's advanced surveillance and control technologies (01:43, 01:49, 01:52) are also integral to the conflict, demonstrating a deep integration of technology into every aspect of the story.",
+      "confidence": "high"
+    }
+  ]
+}

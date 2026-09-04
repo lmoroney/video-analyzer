@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "The Systems Compass",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video is exactly 3 minutes and 15 seconds long.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card appears from 2:58 to 3:15 and clearly lists Salesforce, Google, RANGE, XPRIZE, XSOVA, ARK INVEST, and Jed McCaleb as sponsors and partners.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features advanced concepts like Artificial General Intelligence (AGI) becoming available to everyone (0:17), robotic surgery (0:42), and a mysterious 'Systems Compass' artifact, all indicative of a science fiction genre.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "While it initially presents a cautionary tale about over-reliance on technology leading to complacency ('We stopped learning from failure. That's when civilizations die.' at 1:06), the video ultimately pivots to an optimistic message about human choice and collective action ('thousands of voices choosing to belong' at 2:52) enabled by technology, aligning with a hopeful future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, from the introduction of AGI (0:17) and robotic surgery (0:42) to the drone-controlled bird swarms (1:04) and the 'Systems Compass' artifact (0:00, 0:59, 2:17, 2:44) which drives the plot and philosophical questions.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "There are scenes of physical struggle and fighting (e.g., 1:15-1:22, 1:36-1:49), but they are not graphic, showing no blood or explicit injuries. There is no explicit language or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands or logos are visible within the main narrative content of the video, only on the end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video presents a highly compelling and thought-provoking story within its short runtime. The visuals are stunning, the pacing is effective, and the narrative arc, though condensed, is clear and impactful, raising significant philosophical questions about humanity and technology.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story thinks very big, exploring the profound societal impacts of Artificial General Intelligence, the nature of collective systems, and the fundamental importance of human choice and collaboration in shaping the destiny of civilization. It questions what it means to be human in an advanced technological age.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The story is strongly aligned. While it acknowledges the potential pitfalls of technology (complacency, loss of agency), it ultimately delivers a powerful message about humanity's capacity for choice and collective action to build a better future, with technology serving as an enabler rather than a master. The final message emphasizes 'choosing to belong' over forced obedience.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The storytelling is inherently tech-forward. AGI is the foundational premise, and advanced technologies like robotic surgery, drone-controlled swarms, and the 'Systems Compass' are not mere props but integral elements that drive the plot, character motivations, and the central philosophical questions of the narrative.",
+      "confidence": "high"
+    }
+  ]
+}

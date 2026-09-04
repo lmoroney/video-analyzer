@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "The Cloud Racer",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total duration of 2 minutes and 21 seconds, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card appears from 02:04 to 02:21, which includes the last 15 seconds of the video. It clearly displays Google, XPRIZE, Jed McCaleb, and Salesforce as partners/sponsors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video depicts a futuristic, post-apocalyptic world that has been rebuilt with advanced technology, including flying vehicles and robotic construction, which are elements of science fiction (00:00-00:07, 00:48-00:50).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video explicitly states 'WHEN THE WORLD FELL' (00:00) but then shows humanity rebuilding with technology, stating 'WE CAME TOGETHER', 'TO BUILD A BETTER WORLD', 'WE RESTORED POWER', 'REOPENED CITIES', and 'AND THEN WE BUILT SOMETHING FOR THE WORLD TO BELIEVE IN' (00:05-00:23), culminating in a new, inspiring sport.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, from the advanced construction and solar power used to rebuild cities (00:01-00:07, 00:15-00:22) to the futuristic flying vehicles and the sport of Formula X (00:22-00:23, 00:36-00:38, 01:11-01:23, 01:43-02:00).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, offensive language, or sexual content. It maintains an inspiring and family-friendly tone throughout.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": true,
+      "rating": null,
+      "explanation": "Yes, the 'Under Armour' logo is visible on a character's training shirt at 00:45.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video presents a compelling story of human resilience and aspiration, with a clear narrative arc of rebuilding and a young man's journey to participate in a new sport. The production quality is high, with impressive visuals and a strong emotional core, especially given its short length.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The story begins with a global catastrophe and then showcases humanity's ability to not only recover but to build a 'better world' and create an entirely new, advanced sport that inspires hope, demonstrating a grand vision for the future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video perfectly aligns with the mission by depicting a future where humanity overcomes past challenges through collaboration and technological innovation, leading to a vibrant, hopeful society and an inspiring new sport, explicitly stating 'Building Optimistic Visions of the Future' (02:04).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "Advanced technology is integral to the narrative, from the robotic construction and sustainable energy solutions used to rebuild cities (00:01-00:07, 00:15-00:22) to the sophisticated flying race vehicles and their operation, which are central to the plot and character's aspirations (00:22-00:23, 00:36-00:38, 01:11-01:23, 01:43-02:00).",
+      "confidence": "high"
+    }
+  ]
+}

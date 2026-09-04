@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "The Long Way",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's total duration is exactly 3 minutes and 15 seconds (03:15).",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card, which includes logos for Google, XPRIZE, Jed McCaleb, and Salesforce, is displayed from 02:58 to 03:15, covering the last 17 seconds of the video, thus including the last 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features a technologically advanced pendant that restores speech after a stroke and enables interspecies communication (00:21-00:47, 02:42-02:53), which are science fiction elements.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The narrative portrays a hopeful future where technology (the pendant) not only restores a person's ability to speak after a stroke but also facilitates interspecies communication, fostering understanding and connection (00:47, 02:06, 02:33, 02:51).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "The pendant is a central plot device, enabling Amara to regain her voice after a stroke (00:39-00:47) and later allowing communication with animals (02:42-02:53), directly impacting the narrative and character interactions.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video does not contain any explicit violence, language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands, other than those on the end card, are used in the video.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video tells a compelling story of sisterly love, resilience, and the power of communication, with a clear narrative arc and emotional depth (00:19-00:21, 02:33-02:39). The animation is well-executed and consistent throughout.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The story presents a big vision by showcasing technology that not only overcomes human disability (speech loss due to stroke) but also enables interspecies communication, suggesting a future of deeper understanding and connection between humans and the animal kingdom (02:42-02:53).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video perfectly aligns with the Future Vision XPRIZE mission by presenting a genuinely optimistic future where technology empowers individuals (restoring speech) and expands human capabilities (communicating with animals), leading to positive societal and environmental impacts (00:47, 02:06, 02:51).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The narrative is driven by the advanced technology of the pendant, which is central to Amara regaining her voice and the sisters' journey, and later facilitates communication with animals, demonstrating a meaningful and forward-thinking integration of technology into the story (00:21-00:47, 02:42-02:53).",
+      "confidence": "high"
+    }
+  ]
+}

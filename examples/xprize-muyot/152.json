@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=Y8740Q-1110",
+  "video_title": "Bring Back Bruce",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's total duration is exactly 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The end card begins at 2:58 and lasts until 3:15, which is 17 seconds, not 15. However, it does contain the listed sponsors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features advanced AI robots, a post-apocalyptic Earth, and the scientific endeavor to restore humanity through genetic means, all characteristic elements of science fiction (0:31, 0:47, 1:46, 2:45).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "Despite an initial bleak outlook of human extinction, the story culminates in the successful restoration of a human and the promise of humanity and robots 'rising together' in a futuristic, thriving world (2:45-2:58).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, with sentient robots as main characters and advanced scientific methods being the core plot device for humanity's restoration (0:03-0:14, 1:46-1:58, 2:29-2:40).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, strong language, or sexual content. It maintains a family-friendly tone throughout.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": true,
+      "rating": null,
+      "explanation": "A Coca-Cola can is visible on the desk next to the robot Zorp at 0:06.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video tells an emotionally resonant story of loyalty and hope, with high-quality animation and a clear narrative arc that effectively conveys its message within the short runtime.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story tackles grand themes such as human extinction, the purpose of AI, and the potential for humanity's rebirth and a collaborative future with technology, demonstrating a very ambitious vision.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video directly aligns with the XPRIZE mission by presenting a future where technology (AI and genetic engineering) is instrumental in overcoming a catastrophic event and leading to a hopeful, collaborative existence between humans and robots.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The entire plot is driven by advanced technology, from the sentient robots themselves to the complex scientific processes used to restore humanity, making technology an inseparable and central element of the storytelling.",
+      "confidence": "high"
+    }
+  ]
+}

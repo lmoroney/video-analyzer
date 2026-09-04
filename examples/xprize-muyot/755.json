@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "Which Is Scarier?",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video is 20 seconds long (00:00-00:20), which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The end card appears only in the last 2 seconds of the video (00:18-00:20) and lists #PROJECTMARS, @ELSINASILVER, and #FUTUREVISIONXPRIZE, but does not explicitly mention Google, Jed McCaleb, or Salesforce as sponsors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features a futuristic setting with advanced spider-like robots and a character with a glowing red eye, implying cybernetic enhancements or AI, which are common elements of science fiction (00:09-00:17). The hashtags #PROJECTMARS and #FUTUREVISIONXPRIZE also support this.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contrasts a traditional villain with a technologically advanced figure who states he will keep everyone safe 'whether they like it or not,' with his eye turning red, which conveys a sinister and authoritarian, rather than hopeful or optimistic, vision (00:09-00:17).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "The character on the right is presented in a futuristic setting with advanced spider-like robots, and his eye turns red (00:16), suggesting he is either a cyborg or controlled by technology, making technology central to his character and the implied threat.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, strong language, or sexual content. The villain's threat to 'destroy everything' is presented in a cartoonish, non-explicit manner (00:05-00:07).",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands are visible or mentioned in the video outside of the end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 5,
+      "explanation": "The video effectively sets up a compelling 'which is scarier' dilemma between two distinct villain archetypes using strong visuals and voice acting within its short runtime (00:00-00:17). While it's more of a conceptual teaser, it is well-realized for its intended purpose.",
+      "confidence": "medium"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 7,
+      "explanation": "The video implicitly raises a significant philosophical question about the nature of threats to humanity's future – overt destruction versus subtle, enforced safety and control – within a science fiction context, suggesting a larger scope of thought (00:00-00:17). The #PROJECTMARS and #FUTUREVISIONXPRIZE hashtags also point to big ideas.",
+      "confidence": "medium"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 1,
+      "explanation": "The video explicitly portrays a dystopian vision where a technologically advanced figure enforces safety 'whether they like it or not' (00:09-00:17), which is the opposite of an optimistic, technology-enabled future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "The narrative's core conflict and the character on the right are intrinsically linked to advanced technology, including spider-like robots and a cybernetic red eye (00:09-00:17), demonstrating a strong and meaningful integration of tech-forward elements.",
+      "confidence": "high"
+    }
+  ]
+}

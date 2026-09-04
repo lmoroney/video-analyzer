@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "Copernicus: Building Optimistic Visions of the Future",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total duration of exactly 3 minutes and 15 seconds (03:15).",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card, which includes logos for Salesforce, Google, Range, XPRIZE, XSOVA, ARK Invest, and Jed McCaleb, appears from 02:56 to 03:15. The last 15 seconds of the video are part of this end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features advanced technologies such as a time-reconnaissance machine ('The Sphere'), holographic interfaces, futuristic cities, and advanced space travel, which are all hallmarks of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video depicts a future where disease is diminished, scientific discovery accelerates, humanity explores space, and the environment flourishes (01:08-01:20). Despite a conflict about control, the overall visual and narrative tone is optimistic and driven by technological progress.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, with the entire plot revolving around 'The Sphere' and its ability to reveal possible futures (00:25-00:38). Holographic displays are used for data analysis and education (00:55-01:05, 01:21-01:23, 02:20-02:25), and the conflict between characters is about the ethical use of this advanced predictive technology (01:30-01:50).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, strong language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video prominently features 'SPARK Industries' (e.g., 00:20, 00:26, 00:33, 00:55, 02:20), which is a fictional brand within the story. No real-world recognizable brands are shown outside of the end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video presents a compelling narrative about exploring possible futures and the ethical dilemmas that arise. The production quality is high, with impressive visual effects and a clear, engaging story arc, especially considering it's a short film.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story explores profound questions about humanity's place in time, the nature of destiny versus free will, and the potential for a vastly improved society across health, space exploration, and environmental flourishing (01:08-01:20). It truly 'thinks big' about the future of civilization.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video's core message, reinforced by the ending, is about the power of imagination and possibilities in shaping a better future, which directly aligns with the Future Vision XPRIZE's mission of 'Building Optimistic Visions of the Future' (02:57). The depicted future is overwhelmingly positive and driven by advanced technology.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The entire narrative is built around advanced technology, from the time-reconnaissance 'Sphere' to the ubiquitous holographic interfaces and the technologically advanced future societies. Technology is not just a backdrop but an active driver of the plot, character motivations, and the central philosophical conflict.",
+      "confidence": "high"
+    }
+  ]
+}

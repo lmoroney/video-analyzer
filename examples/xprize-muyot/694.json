@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "The Infinity Encephalon",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's total duration is exactly 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card, featuring sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce, is displayed from 02:59 to 03:15, which includes the last 15 seconds of the video.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features futuristic cities, flying vehicles, advanced AI, cybernetic implants, and concepts like 'time-space fabric' and 'fractal nexus,' all characteristic of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video explicitly states 'Welcome to the bright future, my friend' (00:04) and 'All good is now possible' (01:28), with visuals of advanced, prosperous, and technologically integrated societies, indicating a hopeful and optimistic vision.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, with concepts like the 'Infinity Encephalon' reorienting timelines (00:35), 'XASI' infiltrating time-space (00:47), and 'Null Space technology' (01:42) driving the plot. Characters also interact with advanced interfaces and have cybernetic implants (00:13, 00:20, 00:57, 01:37, 02:42).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video does not contain any explicit violence, offensive language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video explicitly mentions 'Corporations X and OpenAI' (00:08) and 'Emerald Musk's XASI' (00:47). The 'X CORPORATION' logo is also visible on a helmet at 01:37.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video presents a compelling, high-concept narrative about humanity's future and the nature of reality, supported by consistently stunning visuals and a clear voiceover, indicating strong realization within production constraints.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The narrative explores profound concepts such as decoding reality, reorienting timelines, a 'fractal nexus at the core of all realities,' and securing a 'bright present moment for all humanity,' demonstrating a very expansive vision for the future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video explicitly promotes a 'bright future' (00:04) where 'all good is now possible' (01:28) through advanced technology, aligning perfectly with the mission of portraying a genuinely optimistic, technology-enabled future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "Advanced technologies like the 'Infinity Encephalon' (00:35), 'XASI' (00:47), and 'Null Space technology' (01:42) are not merely background elements but are central to the narrative's conflict and the characters' actions, demonstrating tech-forward storytelling.",
+      "confidence": "high"
+    }
+  ]
+}

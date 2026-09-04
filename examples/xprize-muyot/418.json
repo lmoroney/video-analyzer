@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "The Montague Odyssey",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total duration of 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card, visible from 3:00 to 3:15, clearly displays Google, Range, XPRIZE, Salesforce, Xsolla, ARK Invest, and Jed McCaleb as partners and sponsors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features advanced robotics (00:08, 00:24, 01:07), holographic digital beings (00:41, 01:11), futuristic cities (00:49, 00:54), space travel (00:56, 02:05), and a future timeline (2055, 2150), all indicative of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video showcases a future where technology is used for environmental restoration (01:07-01:15), advanced education (01:50-01:57), and space exploration (00:56-01:01), presenting a generally positive and advanced human civilization.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, from the robotic arm (00:08) and the digital being Lumina (00:41) who guides the children, to the worker-droids (02:14) that built Lumos City and the spaceships used to defend Earth (02:47).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "While there are scenes of conflict, such as the Luddite militia burning a forest (02:31-02:33) and a space battle (02:47-02:56), none of the violence is explicit or graphic. There is no strong language or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": true,
+      "rating": null,
+      "explanation": "A child is seen playing with a Star Trek Enterprise toy (00:06) and a Star Trek poster is visible in a workshop (00:26). The mother also wears a NASA lanyard (00:11).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video presents a multi-generational story of a family's journey through a technologically advanced future, facing challenges and upholding values. The narrative is engaging, and the visuals are consistently high quality, making it well-realized.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story envisions a future with advanced cities, widespread environmental restoration, sentient digital beings, and humanity expanding into space, demonstrating a grand vision for the future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video explicitly promotes an optimistic, technology-enabled future, showing how humanity uses advanced tech to overcome environmental degradation, build harmonious societies, and defend against threats, directly aligning with the XPRIZE mission.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "Technology is not merely a backdrop but an integral part of the characters' lives, the environment, and the plot. Examples include the digital being Lumina, the robotic reforestation efforts, and the advanced spacecraft, all driving the narrative forward.",
+      "confidence": "high"
+    }
+  ]
+}

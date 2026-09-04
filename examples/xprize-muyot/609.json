@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=21222222222",
+  "video_title": "Shieldmaker Movie Pitch",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video is 1 minute and 44 seconds long, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The last 15 seconds of the video (from 01:29 to 01:44) show the speaker talking, not an end card with sponsors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The speaker describes a movie involving artificial intelligence researchers, a personalized medical algorithm that could save millions of lives, and an imaginary device (an earring powered by body heat) (00:07-01:19, 06:32-06:46), all of which are elements of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The story's central premise is about using a personalized medical algorithm to save millions of lives, including the president's daughter (00:29-01:07). The speaker also emphasizes the idea that 'Hope becomes history' (05:19-06:07) and the potential for novel research and discoveries in medicine (09:22-10:22), indicating a hopeful and technology-forward vision.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "The entire narrative revolves around an artificial intelligence algorithm and a personalized medical solution, which are not merely background elements but are central to the plot's conflict and potential resolution (00:07-01:19).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video is an interview where the speaker discusses his movie concept; it does not contain any explicit violence, language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The speaker is wearing a light blue polo shirt with a 'Callaway' logo (00:00) and a red 'Apple Watch' on his left wrist (e.g., 00:19, 00:30).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The speaker articulates a complex and high-stakes narrative involving AI, medical ethics, and personal sacrifice, making it very compelling. The story's premise is clearly laid out, and the speaker's passionate delivery enhances its realization within the interview format.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story directly addresses the potential of AI and personalized medicine to save millions of lives and raises profound ethical questions about the balance between individual privacy and collective well-being (00:07-01:19, 09:22-10:22), demonstrating a grand vision for humanity's future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The story's core theme of using advanced technology (AI medical algorithms) to save lives is inherently optimistic and technology-enabled. While it explores ethical challenges, the ultimate aim is a positive impact on humanity, aligning well with the XPRIZE mission. The speaker also explicitly mentions enrolling in the competition (11:25-11:28).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The narrative is deeply intertwined with advanced AI and a personalized medical algorithm, which are not just plot devices but are integral to the central conflict and the proposed solution. The concept of an 'earring' device powered by body heat (06:32-06:46) further illustrates a tech-forward approach, integrating technology directly into the characters' lives.",
+      "confidence": "high"
+    }
+  ]
+}

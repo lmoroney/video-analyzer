@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "The Silence Between Whales (Future Vision XPRIZE Trailer)",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's total length is 3 minutes and 6 seconds, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card appears from 02:50 to 03:06 and clearly displays Google, XPRIZE, Jed McCaleb, and Salesforce as sponsors and partners.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features futuristic elements such as advanced coastal dwellings (00:13), crab-like robots (00:24), a massive orbital space station (00:56-01:03), interstellar travel (01:26-01:31), and a humanoid robot (01:09), all indicative of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video showcases advanced, sustainable-looking coastal communities (00:13-00:19), harmonious human-animal interaction (00:00-00:12), and interstellar travel (00:56-01:03, 01:26-01:31), suggesting a future with expanded possibilities and a protagonist driven by positive motives, despite the narrative conflict.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, including holographic fish tracking (00:22), crab robots (00:24), the large transport ship (00:43, 01:05), the space station (00:56), a humanoid robot (01:09), and futuristic jet skis (01:35), all of which drive the plot and character actions.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, offensive language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands are visible within the video content itself, only on the end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The trailer effectively builds a compelling narrative around a girl's quest to save her orca friend, featuring high-quality visuals, intriguing world-building, and good pacing, making it well-realized as a short preview.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story's scope is vast, depicting humanity living in advanced coastal communities, utilizing a massive orbital space station, and engaging in interstellar travel to alien planets, demonstrating a grand vision for the future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video presents a future where advanced technology enables deep connections (girl and orca), new forms of living (coastal homes, space station), and interstellar exploration, aligning with an optimistic, technology-enabled future, even with an adventure-driven plot.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "Advanced technology, such as animal tracking systems (00:22), interstellar transport (01:26), and robotic companions (01:09), is central to the narrative, driving the plot and enabling the characters' journey, rather than merely serving as background.",
+      "confidence": "high"
+    }
+  ]
+}

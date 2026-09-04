@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "Future Vision XPRIZE: Building Optimistic Visions of the Future",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's total duration is exactly 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card appears from 03:00 to 03:15 and clearly displays Salesforce as the Presenting Sponsor, Google and XPRIZE as Partners, and Jed McCaleb as the Presenting Donor.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features futuristic cities (00:00), flying vehicles (00:03), advanced AI/quantum models (00:15), giant robots (00:21), farming towers (00:44), biotech interfaces (00:53), space rockets for waste disposal (02:10), VR/cyberpunk elements (02:21), and advanced mech suits (01:41), all indicative of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "Despite initial environmental challenges and a 'millennial nostalgist' hacker group, the video culminates in 'Earth Games' where advanced technology is used to clean up pollution and fight fires, with the explicit goal of 'healing this planet' (02:59). The protagonist, Lucia, finds her purpose in this tech-driven solution, reinforcing an optimistic outlook.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the plot, from the 'Hyper Quantum Biosphere Model' (00:15) and Lucia's biotech abilities (00:53) to the 'Earth Games' (01:38) involving mechs and drones actively cleaning the planet. The conflict also revolves around technology being compromised by hackers (02:21), making it an integral part of the story.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": true,
+      "rating": null,
+      "explanation": "There is no explicit language or sexual content. While there are action sequences involving robots and humans, such as fighting drones (00:39) and a fall (01:24), these are not graphically violent.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": true,
+      "rating": null,
+      "explanation": "Yes, during the 'Earth Games' team lineup (01:56), logos for NVIDIA, SpaceX, Tesla, and Google are visible. Additionally, 'The Rolling Stones' logo is on the brother's t-shirt (00:48, 01:29).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video delivers a compelling narrative within its short runtime, featuring a clear protagonist, conflict, and resolution. The high-quality visuals and consistent aesthetic effectively convey the futuristic settings and action, making the story of Lucia's journey engaging and well-executed.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The story envisions a future where humanity tackles massive environmental challenges with large-scale technological solutions, including global cleanup competitions, advanced biotech, and space-based waste disposal. It explores themes of human connection to nature and collective action on a planetary scale, demonstrating a grand vision for the future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video strongly aligns with the XPRIZE mission by showcasing technology as the primary means to solve global problems like pollution and climate change, leading to a restored and thriving environment. It emphasizes human ingenuity and collaboration through 'Earth Games' to achieve a positive, technology-enabled future, despite initial challenges.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "Advanced technology is deeply woven into the narrative, driving both conflict and resolution. From the quantum biosphere model and Lucia's biotech abilities to the massive mechs and drones cleaning the planet and the VR-driven hacker cult, technology is an active and integral part of the plot, not merely a background element.",
+      "confidence": "high"
+    }
+  ]
+}

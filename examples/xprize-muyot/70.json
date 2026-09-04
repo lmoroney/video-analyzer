@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=y_2_2111111",
+  "video_title": "Letters From Mars: Future Vision XPRIZE",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's total duration is exactly 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The last 15 seconds of the video (from 02:59 to 03:15) display an end card featuring the Future Vision XPRIZE and listing Google, XPRIZE, Jed McCaleb, and Salesforce among its partners and sponsors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video depicts a future with advanced technology such as Mars colonization, interstellar communication networks, AI companions, and flying vehicles (00:04-00:06, 00:25-00:45, 00:50-00:53), which are characteristic of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "Despite a temporary crisis caused by the technology, the video ultimately portrays a future where advanced technology (Presence Net) successfully unites families across planets, leading to a happy reunion and a restored environment (02:44-02:55).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "The \"Presence Net\" technology is central to the narrative, driving the plot from its development and initial promise (00:25-00:45) to its critical malfunction and subsequent stabilization by the AI Lyra (01:30-02:32), ultimately enabling the emotional reunion of the father and daughter (02:49-02:55).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video does not contain any explicit violence, language, or sexual content. While there are scenes of people struggling due to environmental issues (01:44-01:49), it is not depicted in an explicit or graphic manner.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands are visible or mentioned within the video content itself, apart from those displayed on the end card (02:59-03:15).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video presents a compelling emotional narrative of a family separated by interstellar distance, facing a technological crisis, and ultimately reuniting. The high-quality visuals and clear storytelling effectively convey the emotional stakes and resolution within its short runtime (e.g., the daughter's longing at 00:08-00:14, the crisis at 01:30-01:49, and the reunion at 02:49-02:55).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story envisions a future where humanity has successfully colonized Mars and developed a revolutionary \"Presence Net\" technology that can virtually eliminate the distance between planets, allowing for seamless interaction and reunion, which is a grand and ambitious vision for humanity's future (00:04-00:06, 00:25-00:45, 02:44-02:55).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video strongly aligns with the XPRIZE mission by showcasing a future where advanced technology, despite a temporary setback, ultimately enables profound human connection and resolves planetary crises, leading to a genuinely optimistic and technology-enabled future (02:44-02:55). The AI's self-sacrifice (02:20-02:32) further emphasizes technology's benevolent potential.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The narrative is entirely built around the \"Presence Net\" technology and the AI Lyra, which are integral to the characters' challenges and ultimate resolution. The technology is visually and narratively central, from enabling virtual presence (01:08-01:21) to causing and then resolving a planetary crisis (01:30-02:32), demonstrating tech-forward storytelling.",
+      "confidence": "high"
+    }
+  ]
+}

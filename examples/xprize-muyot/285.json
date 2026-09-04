@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "The Fractal Horizon",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's total duration is 2 minutes and 59 seconds, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The last 15 seconds of the video (from 02:44 to 02:59) display an end card featuring sponsors including Google, XPRIZE, Jed McCaleb, and Salesforce.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video depicts advanced technologies such as AI (00:19-00:27, 00:59-01:11), moon bases (00:39-00:41, 02:17-02:26), and futuristic green cities (00:34-00:38, 00:46-00:52), clearly placing it within the science fiction genre.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video initially presents fears about AI (00:19-00:22) but quickly shifts to portray technology as a tool for good, showing a healthy patient scan (00:23-00:27), environmental healing (00:28-00:30), human-robot connection (00:31-00:33), and sustainable futuristic cities (00:34-00:38, 00:46-00:52), culminating in a vision of humanity reaching for new horizons (02:22-02:26, 02:38-02:43).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, with AI being a core element that initially causes fear but then enables positive advancements like full-body health scans (00:23-00:27) and environmental restoration (00:28-00:30). The concept of a \"complete map of ourselves\" stored in an archive (01:11-01:15) and the moon base (00:39-00:41, 02:17-02:26) are also integral to the story's setting and themes.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, offensive language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "Apart from the sponsors listed on the end card (02:44-02:59), no other recognizable brands are visible in the video.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "The video presents a compelling, albeit abstract, narrative about overcoming fear of technology to build a better future. The high-quality visuals and consistent aesthetic (e.g., futuristic green cities, moon bases) effectively realize this vision within the short runtime.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The story tackles grand themes such as humanity's relationship with advanced AI, the potential for space colonization (moon base at 00:39, 02:17), and the transformation of Earth into a sustainable, green future (00:34, 00:46), demonstrating a very expansive vision for humanity.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video directly aligns with the Future Vision XPRIZE mission by showcasing an optimistic, technology-enabled future where initial fears of AI are overcome, leading to advancements in health, environmental sustainability, and space exploration (00:23-00:38, 02:17-02:26). The concluding message \"Rise again. Reach beyond\" reinforces this optimistic outlook.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The storytelling is highly tech-forward, using advanced technology not merely as a backdrop but as a central driver of the narrative. Examples include holographic data displays (01:04-01:11), AI-powered health scans (00:23-00:27), environmental drones (00:28-00:30), and human-robot interaction (00:31-00:33), all meaningfully integrated to show a transformative future.",
+      "confidence": "high"
+    }
+  ]
+}

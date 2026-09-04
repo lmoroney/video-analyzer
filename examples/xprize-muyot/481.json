@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "Retrograde - Future Vision XPRIZE",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total duration of 2 minutes and 27 seconds, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's end card, from 02:12 to 02:27, clearly displays the 'FUTUREVISION XPRIZE' logo and lists Google, RANGE, XPRIZE, Salesforce, XSOVA, ARK INVEST, and Jed McCaleb as partners/sponsors/donors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features elements of advanced technology, such as a time-traveling device (implied by the boy's journey from 2027 to a future city) and a highly futuristic city with flying vehicles and wireless power, which are characteristic of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The future city (01:24-01:34) is depicted as clean, advanced, and having solved major problems like pollution and energy scarcity through technology (01:42-01:43, 01:52-01:54), presenting a hopeful and optimistic vision.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, from the boy's 'new invention' that seems to trigger his journey (00:02-00:03) to the advanced infrastructure and solutions of the future city (01:27-01:34, 01:52-01:54) that contrast with his stagnant past.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, language, or sexual content. Any destructive events, like the tornado (01:46), are depicted in a stylized, non-graphic manner.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands are visible within the video's narrative content, only generic shop signs like 'THE PHONE SHOP' (00:29) and 'BOOKNOOK' (00:21).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video tells a compelling story of discovery and the desire for progress, effectively contrasting a stagnant past with a vibrant future. The animation quality is high, and the narrative is clear and engaging despite its short length.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story presents a grand vision of a future where major global challenges like energy, pollution, and urban development have been solved through advanced technology, contrasting it sharply with a 'stuck' present.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video perfectly aligns with the XPRIZE mission by showcasing an optimistic, technology-driven future that offers solutions to humanity's problems, inspiring the protagonist to bring that vision back to his struggling town.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The narrative is built around the discovery and impact of advanced technology, from the initial 'invention' to the fully realized futuristic city with flying cars, automated transport, and wireless clean energy, all of which are integral to the plot's conflict and resolution.",
+      "confidence": "high"
+    }
+  ]
+}

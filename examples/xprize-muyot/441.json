@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "SYMPHONY - Future Vision XPRIZE",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total duration of 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card appears from 03:00 to 03:15 and clearly displays 'FUTUREVISION XPRIZE', 'Google', 'RANGE', 'XPRIZE', 'Salesforce', 'XSOVA', 'ARK INVEST', and 'Jed McCaleb'.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features numerous science fiction elements, including futuristic cities (00:09, 00:40), advanced holographic interfaces (00:38, 00:52, 01:24), robots (00:53, 01:24), VR technology (00:50), space travel (00:43-00:49, 02:44), and concepts of time manipulation (00:27-00:37).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The voiceover emphasizes 'make a future' (00:04), 'brighter than your desires' (00:11), and 'create your own world' (02:12). Despite moments of conflict, the overall visual narrative showcases advanced, clean, and organized futuristic societies, suggesting a positive and technology-driven evolution for humanity.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, driving the plot and character interactions. Examples include the 'specific game' being played (00:22), holographic chess (01:00), VR experiences (00:50), futuristic transportation (00:38, 01:43), and advanced scientific labs (01:51, 02:28).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "There is a brief explosion (01:36) and war scenes shown on a screen (01:16, 01:21), but they are not graphic. There is one instance of mild language ('Oh, shit' at 01:41). No sexual content is present.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands, logos, or product placements are visible in the video outside of the end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video presents a complex, multi-layered narrative across different timelines and characters, effectively using high-quality CGI and visual storytelling to convey a grand vision. The transitions and character arcs, though brief, are engaging.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story explores profound themes such as the nature of time, reality, individual purpose, and the evolution of society through technology, encompassing global governance, advanced living, and space exploration, demonstrating a very ambitious vision for humanity's future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video strongly aligns with the mission by showcasing a future where technology empowers individuals to 'play, learn, earn, and make a future' (00:04), 'create your own world' (02:12), and overcome challenges through innovation, leading to a generally optimistic outlook.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The narrative is entirely built around advanced technology, from the virtual reality 'game' that influences reality to futuristic infrastructure, AI, and personal devices. These technologies are not mere props but are integral to the characters' lives and the unfolding plot.",
+      "confidence": "high"
+    }
+  ]
+}

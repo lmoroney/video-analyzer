@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "The Breath We Share",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total length of 2 minutes and 51 seconds, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The last 15 seconds (from 02:40 to 02:51) show a title card 'THE BREATH WE SHARE' and a production studio logo 'Henrie Studio', but no mention of Google, XPRIZE, Jed McCaleb, or Salesforce.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features advanced humanoid robots (00:14, 01:11), futuristic cityscapes (00:00), and genetically modified plants (01:27), all indicative of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "While the video contrasts a utopian city with a dystopian, polluted world (00:45), the protagonist is actively using advanced technology (robots, genetic engineering) to restore the environment and help people, ending on a hopeful note of collective action (02:06, 02:25).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, with robots performing various tasks (00:14, 00:17), being repaired to aid in a mission (01:11), and assisting in genetic modification (01:35).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video does not contain any explicit violence, language, or sexual content. There is a brief scene of robots fighting (01:55-01:59), but it is not graphic.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands are visible or mentioned in the video, apart from the production studio logo at the very end.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video effectively tells a compelling story of contrast and hope, with high-quality visuals and a clear narrative arc, especially considering its short duration. The transition from a utopian to a dystopian setting and the protagonist's mission are well-executed.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The story presents two vastly different visions of humanity's future and focuses on a grand effort to reverse environmental decay and improve living conditions on a global scale, demonstrating big thinking about societal and ecological transformation.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "Despite starting with a dystopian problem, the core of the story is about leveraging advanced technology (robots, genetic engineering) to overcome challenges and build a better, more sustainable future, aligning with the optimistic and technology-enabled aspects of the XPRIZE mission.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "Advanced technology, particularly the intelligent robots and genetic engineering, is not merely background but is integral to the protagonist's mission to restore the environment and help humanity, driving the plot and demonstrating a tech-forward approach to storytelling.",
+      "confidence": "high"
+    }
+  ]
+}

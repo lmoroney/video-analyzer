@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "Latency: The Future Is Listening",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total duration of 3 minutes and 15 seconds, which is exactly equal to the specified length.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "From 03:00 to 03:15, the video displays an end card with the 'FUTUREVISION X PRIZE' logo and lists partners Google and RANGE, presenting sponsor Salesforce, sponsors XSOVA and ARK INVEST, and presenting donor Jed McCaleb.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features advanced technologies such as brain-computer interfaces ('Latency' glasses), AI, humanoid robots, and space colonization, clearly placing it within the science fiction genre (e.g., 00:09, 01:05, 02:12, 02:18).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The narrative shows technology ('Latency') solving personal tragedies (saving the protagonist's daughter at 01:56-02:07) and global challenges like environmental cleanup and construction (02:13-02:17), presenting a highly optimistic future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology, specifically the 'Latency' neural tech, is central to the entire narrative, driving the protagonist's journey, solving his daughter's illness, and transforming society and the environment (e.g., 00:10, 01:05, 01:56).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains a brief fight scene where a character battles a robot (01:33-01:39), but it is not explicit or graphic. There is no explicit language or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": true,
+      "rating": null,
+      "explanation": "An HP logo is visible on a computer monitor at approximately 01:02 when the protagonist is in an office setting.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video effectively conveys an emotional journey from personal loss to global hope, with strong visual effects and a clear narrative arc, making it compelling despite its short duration.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story envisions technology not only solving individual health crises but also transforming entire cities, cleaning up the environment, and enabling space colonization, demonstrating a very grand vision for humanity's future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video strongly aligns with the XPRIZE mission by showcasing technology ('Latency') as a powerful force for positive change, leading to a healthier, more productive, and environmentally conscious future for humanity.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The narrative is built around the advanced 'Latency' neural technology, which is not merely a prop but an active agent in the plot, enabling new forms of interaction, problem-solving, and human experience, making it highly tech-forward.",
+      "confidence": "high"
+    }
+  ]
+}

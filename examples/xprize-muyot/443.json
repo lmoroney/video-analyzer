@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "ABRACADABRA BRIGADE",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's total duration is 2 minutes and 52 seconds, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card appears from 02:36 to 02:52, lasting 16 seconds, and clearly displays Google, XPRIZE, Jed McCaleb, and Salesforce as partners, sponsors, or donors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video blends elements of ancient wisdom and magic with advanced technology, such as artificial intelligence interacting with ancient languages via smartphones (01:15-01:29) and a global 'secret network' (01:09-01:14), which aligns with science fiction or speculative fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video depicts a future where technology and ancient wisdom are combined to solve global environmental problems, such as cleaning polluted rivers (01:37-01:42), restoring forests (01:47-01:50), and clearing smog (01:55-01:58), presenting a very optimistic outlook.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is a core driver of the narrative; children use 'hacked phones' to build a 'secret network' (01:09-01:14), and a smartphone is explicitly shown enabling 'Sanskrit met artificial intelligence' to open a 'portal' (01:15-01:29), which is central to the magical transformations.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video does not contain any explicit violence, offensive language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands are shown or mentioned in the video's main content, only on the end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video presents a visually stunning and emotionally engaging story, effectively blending ancient wisdom with futuristic concepts. The production quality, including CGI and cinematography, is very high, making the abstract narrative compelling.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story tackles grand themes of global environmental healing and human unity through a blend of ancient knowledge and advanced technology, demonstrating a very ambitious and expansive vision for humanity's future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video perfectly aligns with the XPRIZE mission by showcasing a highly optimistic future where technology, specifically AI and digital networks, is instrumental in enabling a new generation to solve critical global challenges and restore the planet.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The narrative is deeply rooted in tech-forward concepts, such as the fusion of Sanskrit with artificial intelligence via a smartphone (01:15-01:29) to create a 'new language' and a 'secret network' (01:09-01:14), which directly drives the magical transformations and positive changes depicted.",
+      "confidence": "high"
+    }
+  ]
+}

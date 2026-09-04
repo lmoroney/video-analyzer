@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=y_221111111",
+  "video_title": "The Eternal Waterfall",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video's total runtime is exactly 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card appears from 03:00 to 03:15 and clearly lists Salesforce as a Presenting Sponsor, Google, RANGE, and XPRIZE as Partners, and Jed McCaleb as a Presenting Donor.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features futuristic technology such as holographic displays (00:58, 01:04), advanced military gear and drones (01:30-01:38), and a setting in the year 2146 (00:19), clearly placing it within the science fiction genre.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "Despite initial military intervention, the narrative shifts from 'invasion' to 'being remembered' (02:24-02:27), suggesting a positive and transformative connection between humanity, ancient wisdom, and a powerful natural phenomenon, enabled by technology.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the plot, used for detecting and analyzing the 'anomaly' (01:04-01:06), for military operations (01:30-01:38), and for understanding and interacting with the mysterious energy from the waterfall (00:58-01:03, 02:17-02:25).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "While there are scenes of armed soldiers and drones, and a brief moment where soldiers are repelled by an energy surge (02:49-02:50), there is no explicit violence, strong language, or sexual content depicted.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands or product placements are visible within the narrative content of the video, only on the final end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video presents a compelling narrative that skillfully blends ancient wisdom with futuristic themes. The visuals are stunning, and the story's progression from mystery and conflict to wonder and connection is well-executed, demonstrating high production quality for a short film.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story explores grand themes such as humanity's deep connection to nature, the rediscovery of ancient knowledge through technology, and the potential for a profound, transformative evolution of consciousness, encapsulated by the idea of 'being remembered' (02:26-02:27).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The narrative culminates in a highly optimistic vision where advanced technology facilitates a deeper understanding and connection with an ancient, powerful entity, leading to a positive transformation for humanity, which aligns perfectly with the competition's mission.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "Advanced technology is seamlessly woven into the narrative, from holographic interfaces used for discovery (00:58, 01:04) to futuristic military equipment (01:30-01:38) and the visual representation of data and consciousness as glowing, networked patterns (00:39, 02:17-02:23).",
+      "confidence": "high"
+    }
+  ]
+}

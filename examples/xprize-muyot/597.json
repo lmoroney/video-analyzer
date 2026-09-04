@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "Future Vision XPRIZE - Building Optimistic Visions of the Future",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video is 2 minutes and 24 seconds long, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The last 15 seconds of the video (from 2:09 to 2:24) display an end card featuring \"FUTUREVISION XPRIZE\" and listing sponsors including Salesforce, Google, XPRIZE, and Jed McCaleb.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features numerous science fiction elements such as a house floating above clouds (0:02), a person encased in a transparent bubble (0:15), a Möbius strip-like road (0:18), a house with a giant moon (0:31), floating people (1:21), and a room with Earth visible outside (1:41).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video presents a future with advanced architecture, transportation, and technology, such as floating structures (0:02, 0:56), futuristic vehicles (1:23, 1:30), and immersive digital interfaces (0:40-0:43). While some scenes are mysterious, the overall aesthetic and the final scene of people looking towards a bright horizon (1:59) suggest an optimistic vision.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is integral to the narrative, showcasing advanced concepts like a house floating above clouds (0:02), a digital interface generating a house (0:29-0:32), holographic room projections (0:40-0:43), and a futuristic vehicle (1:30). These technologies are key elements of the surreal and evolving world depicted.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, offensive language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The brand \"Irn-Bru\" is visible on a box in a supermarket aisle at timestamp 0:24.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video presents a visually stunning and cohesive series of dreamlike sequences, effectively conveying a sense of wonder and exploration. The high production quality and seamless transitions make the abstract narrative compelling and well-realized.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video consistently showcases grand, imaginative concepts for humanity's future, including floating architectural structures (0:02, 0:56), advanced digital creation (0:29-0:32), and scenes implying space exploration or altered realities (1:41). These elements demonstrate a very ambitious vision.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video strongly aligns with the mission by depicting a future where technology enables imaginative and transformative experiences, such as floating homes (0:02), digital creation (0:29), and immersive environments (0:40). The overall tone is one of wonder and possibility, culminating in a hopeful outlook (1:59).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The storytelling is highly tech-forward, with advanced technology being a central element in creating the video's surreal and imaginative scenes. Examples include the digital generation of a house (0:29), holographic room projections (0:40), and the futuristic vehicle designs (1:30), all of which are integral to the visual narrative.",
+      "confidence": "high"
+    }
+  ]
+}

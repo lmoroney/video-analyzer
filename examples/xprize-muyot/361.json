@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=k-B_y-2168",
+  "video_title": "AUTONOESIS: Building Optimistic Visions of the Future",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total duration of 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "From 03:00 to 03:15, the video displays an end card with the 'FUTUREVISION XPRIZE' logo and lists Salesforce, Google, Range, XPRIZE, XSOVA, ARK INVEST, and Jed McCaleb as sponsors/donors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features futuristic cities, advanced space travel, robots, terraformed planets, and alien structures, all characteristic elements of science fiction (e.g., 00:07-00:18, 00:51-00:53, 02:41-02:47).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "While the video initially presents a dystopian future, it shifts to an optimistic, technology-forward vision of humanity's future, culminating in scenes of a thriving, green, and advanced society (02:39-02:55) with the message 'THE FUTURE IS OUR CHOICE'.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, depicting both the potential failures of advanced systems (00:25-00:36, 01:20-01:22) and the creation of utopian societies (00:07-00:18, 02:41-02:47), space exploration, and human-robot interaction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video shows scenes of destruction and people in distress (e.g., 00:27-00:35, 00:53-00:55), but there is no explicit violence, offensive language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable commercial brands are displayed within the main content of the video, only fictional entities like 'AURORA' and 'Umbra-9'.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video effectively uses high-quality CGI and visual storytelling to present a compelling narrative of contrasting futures and a pivotal choice, making the worlds feel well-realized despite the short runtime.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story explores vast concepts such as interstellar travel, terraforming Mars, advanced AI, and the potential for both societal collapse and utopian existence, demonstrating a grand vision for humanity's future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video directly addresses the theme of choosing humanity's future, contrasting a bleak, technology-failed world with a vibrant, technologically advanced, and optimistic one, perfectly aligning with the XPRIZE mission (02:51-02:55).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "Advanced technology is not merely a backdrop but an active driver of the plot, from the initial system failures and space missions to the discovery of alien artifacts and the creation of a utopian society, making it central to the storytelling.",
+      "confidence": "high"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "The Last Billionaire",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total duration of 1 minute and 38 seconds, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card appears from 01:17 to 01:38, which is 21 seconds, and explicitly lists Salesforce as 'Presenting Sponsor', Google and XPRIZE as 'Partners', and Jed McCaleb as 'Presenting Donor'.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video depicts a futuristic society with advanced technologies like zero-point energy grids (00:09), automated cities (00:10-00:13), robots (00:21), and organ regeneration (00:39-00:55), clearly placing it in the science fiction genre.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video initially presents a vision of a 'Golden Age of civilization' (00:13) where people live 'better, longer, happier lives, free from pain and struggle' (00:23-00:30) due to advanced technology. While the narrative introduces a questioning tone later, the portrayed future itself is presented as highly optimistic and technology-forward.",
+      "confidence": "medium"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, with concepts like zero-point energy grids (00:09), advanced medical campuses for organ regeneration (00:39-00:55), and credit redistribution facilities (00:43-00:46) driving the plot and world-building.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, strong language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands are visible or mentioned within the main content of the video, outside of the end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 8,
+      "explanation": "Despite its short length, the video effectively establishes a futuristic world, introduces a central conflict, and uses high-quality visuals and sound design to create a thought-provoking narrative.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The story explores grand themes such as the future of human biology, energy, resource distribution, societal well-being, and the concept of ownership in a technologically advanced civilization, demonstrating big-picture thinking.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 7,
+      "explanation": "While it portrays a technology-enabled future that is initially presented as optimistic ('Golden Age'), the narrative introduces a critical perspective with lines like 'What if the problem you're trying to solve turns out not to be the problem at all?' (00:47-00:49) and 'We just want you to stop owning it' (01:02-01:03), suggesting a nuanced rather than purely optimistic vision.",
+      "confidence": "medium"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "Advanced technologies, such as zero-point energy, automated systems, and organ regeneration, are not merely background elements but are integral to the societal structure and the philosophical questions posed by the narrative.",
+      "confidence": "high"
+    }
+  ]
+}

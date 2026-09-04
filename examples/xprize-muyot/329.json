@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "The Sandbox of the World",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total duration of 2 minutes and 59 seconds, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "From 02:45 to 02:59, an end card is displayed, listing 'FUTUREVISION XPRIZE', 'Google', 'RANGE', 'XPRIZE', 'XSOVA', 'ARK INVEST', 'Jed McCaleb', and 'Salesforce' as partners, sponsors, or donors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video presents a futuristic vision of technology, including a universal communication standard using 'light instead of copper' (01:32-01:39), autonomous vehicles, and AI-powered agricultural machinery (01:58-02:27), which are elements of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video explicitly aims to 'Build Optimistic Visions of the Future' (02:45) and showcases how advanced technology can solve complex problems like cross-border communication and improve daily life and industry.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "The narrative is centered around the concept of a 'bottleneck' and its solution through a universal communication standard using 'light instead of copper' (01:32-01:39), which is then shown to enable various futuristic technologies like smart cities and autonomous farming (01:58-02:27).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video does not contain any explicit violence, offensive language, or sexual content.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands are visible or mentioned within the main content of the video, outside of the end card.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video tells a compelling story, using a historical analogy of the 'Free State Bottleneck' to introduce a modern problem and its futuristic solution. The production quality is high, with clear visuals and a coherent narrative.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The story envisions a future where a universal communication standard (the 'sandbox of the world' at 01:19) connects entire continents and industries, demonstrating a grand scale of impact on humanity's future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video's core message of overcoming communication barriers through innovative technology to create a more connected and efficient world perfectly aligns with the Future Vision XPRIZE's mission of building optimistic, technology-enabled futures, as explicitly stated on the end card (02:45).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The storytelling is tech-forward, using visual metaphors like the bottle drawing (00:42-00:49) to represent the 'bottleneck' and then showing advanced technology, such as light-based communication (01:32-01:39) and autonomous systems (01:58-02:27), as integral solutions to the narrative's central problem.",
+      "confidence": "high"
+    }
+  ]
+}

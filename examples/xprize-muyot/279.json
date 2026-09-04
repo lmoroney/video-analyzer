@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "The Horizon of All - Future Vision XPRIZE",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total duration of 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The end card starts at 02:59 and lasts until 03:15, which is 16 seconds, not 15. While the listed sponsors are present, the duration is slightly longer than 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video depicts highly advanced technologies and societal structures that do not currently exist, such as futuristic cities, AI healthcare, and space colonization (00:34-02:24), clearly placing it in the science fiction genre.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video explicitly transitions from a past of 'limits' and 'scarcity' (00:07-00:28) to a future where humanity asks 'what's possible' (00:26), showcasing a green, technologically advanced, and harmonious society (00:34-02:24).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the narrative, enabling solutions for energy (00:45-00:49), urban living (00:49-00:54), water management (00:54-01:00), healthcare (01:00-01:08), education (01:09-01:17), and space exploration/colonization (01:56-02:24).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, language, or sexual content. There is a brief visual of a war-torn city and soldiers (02:24-02:26) as part of a montage depicting past challenges, but it is not explicit.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The brand 'OASIS' is visible on futuristic buildings on water (01:30-01:34), and 'NEOM' is visible on the interior of a futuristic vehicle (01:34, 01:37).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video presents a clear and compelling narrative arc from a challenging past to a utopian future, effectively using high-quality visuals and narration to convey its message within the short runtime.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story envisions humanity overcoming global challenges, achieving sustainable living, universal knowledge, advanced healthcare, and ultimately colonizing other planets, demonstrating an extremely ambitious and expansive vision for the future.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video's entire premise, from its title 'The Horizon of All' to its depiction of a thriving, interconnected, and technologically advanced society, perfectly aligns with the Future Vision XPRIZE's mission of building optimistic, technology-enabled futures.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "Advanced technology is not merely a backdrop but an active driver of the narrative, showcasing how innovations in energy, AI, healthcare, and space travel directly enable humanity's progress and create the optimistic future depicted.",
+      "confidence": "high"
+    }
+  ]
+}

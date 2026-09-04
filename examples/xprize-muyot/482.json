@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "Robo-Dad: Future Vision XPRIZE Short Film",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total length of 2 minutes and 18 seconds, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "From 02:03 to 02:18, the video displays an end card with 'FUTUREVISION XPRIZE' and lists Google, XPRIZE, Jed McCaleb, and Salesforce among its partners and sponsors.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features advanced technologies such as glowing, high-tech ice skates (00:03, 00:47), an AI robot coach (00:59) that can fly (01:38) and dive underwater (01:40), and advanced medical diagnostics (00:41), all of which are elements of science fiction.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The story depicts technology, specifically an AI robot and advanced skates, being used to help a young girl overcome personal challenges and support her father, who is dealing with multiple sclerosis. This shows an optimistic view of technology's role in improving lives and fostering resilience (00:44-01:01, 01:40-01:43).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "Technology is central to the plot, with the protagonist inventing glowing skates (00:47) and building an AI robot coach (00:59) to help her improve at hockey and support her family after her father's diagnosis (00:41). The robot actively coaches and even rescues her (01:40).",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, language, or sexual content. There are instances of hockey play and falls (e.g., 00:33, 01:11, 01:34), but they are depicted in a cartoonish, non-graphic manner.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable commercial brands are visible or mentioned within the main narrative portion of the video, outside of the end card credits.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video tells an emotionally resonant story of a daughter's love and determination to help her father, using technology as a means to overcome adversity. The animation is consistent and expressive, and the narrative arc is clear and engaging for a short film.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 7,
+      "explanation": "While the core narrative is a personal one, it subtly suggests a future where advanced AI and robotics are seamlessly integrated into daily life, providing support, coaching, and even protection, thereby enhancing individual capabilities and family well-being. It's a 'big' vision for personal empowerment through technology.",
+      "confidence": "medium"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The story strongly aligns with the mission by showcasing how technology (AI, advanced gear) can be developed and utilized to address personal challenges, foster growth, and maintain family bonds in an optimistic and empowering way, even in the face of illness.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The narrative is driven by the creation and application of advanced technology, from the glowing skates to the AI robot coach. These technologies are not mere props but active characters and tools that enable the protagonist's journey and directly impact the plot, demonstrating a tech-forward approach to storytelling.",
+      "confidence": "high"
+    }
+  ]
+}

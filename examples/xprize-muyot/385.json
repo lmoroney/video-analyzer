@@ -1,0 +1,83 @@
+{
+  "video_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_title": "Provenance",
+  "questions": [
+    {
+      "question": "Is the video less than or equal to 3 minutes and 15 seconds in length?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video has a total duration of 3 minutes and 10 seconds, which is less than 3 minutes and 15 seconds.",
+      "confidence": "high"
+    },
+    {
+      "question": "Are the last 15 seconds comprised of an end card containing sponsors like Google, XPRIZE, Jed McCaleb, and Salesforce?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The end card appears from 02:52 to 03:10 and clearly displays the names of Google, XPRIZE, Jed McCaleb, and Salesforce as sponsors or partners.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is the content of this video science fiction?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The video features futuristic elements such as advanced cities (00:16, 00:22, 01:39), a space station (00:20), a ring-shaped space habitat (00:42), and floating technological orbs (00:04, 00:37, 01:03, 01:10, 02:10, 02:42) that interact with characters, indicating a science fiction genre.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this portray a hopeful, optimistic, technology-forward vision of humanity's future?",
+      "answer": true,
+      "rating": null,
+      "explanation": "The narrative focuses on 'shepherding humanity forward' (00:13) by accessing 'encoded experience of our ancestors' (00:16-00:19) through a 'Provenance program.' The visuals of clean, advanced cities and sustainable space habitats (00:42-00:45) suggest an optimistic future guided by technology and ancient wisdom.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is technology meaningfully integrated into the narrative? (Not just background,)",
+      "answer": true,
+      "rating": null,
+      "explanation": "The glowing collars worn by characters (00:11, 00:46, 00:59) and the floating orbs (00:04, 00:37, 01:03, 01:10, 02:10, 02:42) are central to the 'Provenance program' and 'Anametics,' which involves accessing and calibrating ancestral memories. This technology is integral to the characters' abilities and the story's core theme.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is there explicit violence, language, or sexual content in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "The video contains no explicit violence, offensive language, or sexual content. Scenes depicting historical periods (e.g., mammoths at 02:10, Roman soldiers at 02:35) are brief and non-graphic.",
+      "confidence": "high"
+    },
+    {
+      "question": "Other than the end card, are there any recognizable brands used in the video?",
+      "answer": false,
+      "rating": null,
+      "explanation": "No recognizable brands or logos are visible in the video content itself, only on the end card (02:52-03:10).",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this video portray a compelling story, that is well-realized within production constraints?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The video presents a highly compelling and mysterious story about ancestral memory and guiding humanity, with excellent production quality, stunning visuals, and effective pacing. The narrative is intriguing and well-executed.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story think big about humanity's future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The story's scope is vast, encompassing humanity's past, present, and future, including advanced civilizations, space habitats, and the profound concept of inherited knowledge guiding societal evolution. It clearly 'thinks big' about humanity's trajectory.",
+      "confidence": "high"
+    },
+    {
+      "question": "Is this story fully aligned with the mission of the Future Vision XPRIZE competition in that it portrays a genuinely optimistic, technology-enabled future?",
+      "answer": null,
+      "rating": 10,
+      "explanation": "The video directly aligns with the Future Vision XPRIZE mission by showcasing an optimistic future where humanity leverages technology ('Anametics,' floating orbs, glowing collars) and ancestral wisdom to progress, as evidenced by the dialogue about 'shepherding humanity forward' and the advanced, harmonious societies depicted.",
+      "confidence": "high"
+    },
+    {
+      "question": "Does this story have tech-forward storytelling, showing advanced technology meaningfully integrated into the narrative?",
+      "answer": null,
+      "rating": 9,
+      "explanation": "The technology, such as the glowing collars and floating orbs, is not merely decorative but is central to the characters' abilities and the plot's progression, enabling the access and calibration of ancestral memories. This demonstrates a meaningful integration of advanced technology into the storytelling.",
+      "confidence": "high"
+    }
+  ]
+}
